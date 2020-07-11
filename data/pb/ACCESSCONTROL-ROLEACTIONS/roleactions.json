@@ -5907,6 +5907,12 @@
   "tenantId": "pb"
   },
   {
+  "rolecode": "EMPLOYEE",
+  "actionid": 623,
+  "actioncode": "",
+  "tenantId": "pb"
+  },
+  {
   "rolecode": "SUPERUSER",
   "actionid": 428,
   "actioncode": "",
