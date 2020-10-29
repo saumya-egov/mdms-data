@@ -1,0 +1,109 @@
+{
+  "tenantId": "pb",
+  "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
+  "actions-test": [
+    {
+      "id": 1535,
+      "name": "Create Property v2",
+      "url": "/pt-services-v2/property/_create",
+      "displayName": "Create property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1536,
+      "name": "Update Property v2",
+      "url": "/pt-services-v2/property/_update",
+      "displayName": "Update property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1537,
+      "name": "Search Property v2",
+      "url": "/pt-services-v2/property/_search",
+      "displayName": "Search property",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1549,
+      "name": "DraftCreate",
+      "url": "/pt-services-v2/drafts/_create",
+      "displayName": "Draft Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1550,
+      "name": "DraftSearch",
+      "url": "/pt-services-v2/drafts/_search",
+      "displayName": "Draft Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1569,
+      "name": "DraftUpdate",
+      "url": "/pt-services-v2/drafts/_update",
+      "displayName": "Draft Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "pt-services-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1699,
+      "name": "Property Plain Search",
+      "url": "/pt-services-v2/property/_plainsearch",
+      "displayName": "Create Remittance",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "Property Tax",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1826,
+      "name": "Demand Based system generate demands",
+      "url": "/pt-services-v2/demandBased/_generate",
+      "displayName": "pt-services demand based system",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "PT-SERVICES-V2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1982,
+      "name": "Locality searcher endpoint for PT service",
+      "url": "/egov-searcher/locality/pt-services/_get",
+      "displayName": "PT service locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    }
+  ]
+}
