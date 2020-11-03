@@ -186,73 +186,6 @@
       "path": ""
     },
     {
-      "id": 1706,
-      "name": "TL Report",
-      "url": "/report/rainmaker-tl/_get",
-      "displayName": "TL Report",
-      "orderNumber": 0,
-      "enabled": true,
-      "serviceCode": "TLREPORTS",
-      "code": "null",
-      "path": "TL Report"
-    },
-    {
-      "id": 1707,
-      "name": "TLReportMetadata",
-      "url": "/report/rainmaker-tl/metadata/_get",
-      "displayName": "Rainmaker TL report metadata",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "TLREPORTS",
-      "code": "null",
-      "path": "TL Report Metadata "
-    },
-    {
-      "id": 1715,
-      "name": "TradeLicenseRegistryReport",
-      "url": "url",
-      "displayName": "Trade License Registry Report",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-tl",
-      "enabled": true,
-      "serviceCode": "TL",
-      "code": "null",
-      "path": "TradeLicense.Trade License Reports.TradeLicenseRegistryReport",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseRegistryReport",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 1717,
-      "name": "TradeLicenseApplicationStatusReport",
-      "url": "url",
-      "displayName": "Trade License Application Status Report",
-      "orderNumber": 3,
-      "parentModule": "rainmaker-tl",
-      "enabled": true,
-      "serviceCode": "TL",
-      "code": "null",
-      "path": "TradeLicense.Trade License Reports.TradeLicenseApplicationStatusReport",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseApplicationStatusReport",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
-      "id": 1720,
-      "name": "StateLevelTradeLicenseRegistryReport",
-      "url": "url",
-      "displayName": "State Level Trade License Registry Report",
-      "orderNumber": 4,
-      "parentModule": "rainmaker-tl",
-      "enabled": true,
-      "serviceCode": "TL",
-      "code": "null",
-      "path": "TradeLicense.Trade License Reports.StateLevelTradeLicenseRegistryReport",
-      "navigationURL": "report/rainmaker-tl/StateLevelTradeLicenseRegistryReport",
-      "leftIcon": "action:assignment",
-      "rightIcon": ""
-    },
-    {
       "id": 1874,
       "name": "tradelicense Calculation",
       "url": "/tl-calculator/v1/_calculate",
@@ -313,42 +246,6 @@
       "path": ""
     },
     {
-      "id": 1904,
-      "name": "StateLevelTradeLicenseRegistryReport",
-      "url": "/report/rainmaker-tl/StateLevelTradeLicenseRegistryReport/metadata/_get",
-      "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1905,
-      "name": "TradeLicenseApplicationStatusReport",
-      "url": "/report/rainmaker-tl/TradeLicenseApplicationStatusReport/metadata/_get",
-      "displayName": "rainmaker-tl-TradeLicenseApplicationStatusReport",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": "Asset Management.Asset Reports.AssetImmovableRegister"
-    },
-    {
-      "id": 1907,
-      "name": "TradeLicenseRegistryReport",
-      "url": "/report/rainmaker-tl/TradeLicenseRegistryReport/metadata/_get",
-      "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 1915,
       "name": "Locality searcher endpoint for TL",
       "url": "/egov-searcher/locality/tl-services/_get",
@@ -358,21 +255,6 @@
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 1929,
-      "name": "TradeLicenseApplication",
-      "url": "quickAction",
-      "displayName": "Apply TL",
-      "orderNumber": 13,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "TradeLicense",
-      "code": "null",
-      "navigationURL": "tradelicence/search?action=showRequiredDocuments",
-      "path": "TradeLicense.Apply",
-      "leftIcon": "places:business-center",
-      "isRequiredDocument": true
     },
     {
       "id": 1993,
