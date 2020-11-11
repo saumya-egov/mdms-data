@@ -6,7 +6,7 @@
       "name": "Odisha",
       "code": "od",
       "bannerUrl": null,
-      "logoUrl": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/od.citya/logo.png",
+      "logoUrl": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logo.jpg",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",
