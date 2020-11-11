@@ -1,0 +1,184 @@
+{
+  "tenantId": "od",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "tenants": [
+        {
+          "code": "od.citya"
+        },
+        {
+          "code": "od.cityb"
+        },
+        {
+          "code": "od.cityc"
+        },
+        {
+          "code": "od.cityd"
+        },
+        {
+          "code": "od.citye"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "tenants": [
+        {
+          "code": "od.citya"
+        }
+      ]
+    }
+  ]
+}
