@@ -5,7 +5,7 @@
     {
       "name": "Odisha",
       "code": "od",
-      "bannerUrl": null,
+      "bannerUrl": "https://digitaldesksujog051120.blob.core.windows.net/assets/Banner.jpg",
       "logoUrl": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logo.jpg",
       "hasLocalisation": true,
       "defaultUrl": {
