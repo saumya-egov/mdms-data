@@ -7,13 +7,13 @@
       "code": "PGR",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -29,13 +29,13 @@
       "code": "PT",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -50,13 +50,13 @@
       "code": "Finance",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -71,13 +71,13 @@
       "code": "TL",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -92,13 +92,13 @@
       "code": "FIRENOC",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -113,13 +113,13 @@
       "code": "UC",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -134,13 +134,13 @@
       "code": "BPAREG",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -155,13 +155,13 @@
       "code": "BPAAPPLY",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         },
         {
-          "code": "od.cityb"
+          "code": "od.banki"
         },
         {
-          "code": "od.cityc"
+          "code": "od.jatni"
         },
         {
           "code": "od.cityd"
@@ -176,7 +176,7 @@
       "code": "PGR.WHATSAPP",
       "tenants": [
         {
-          "code": "od.citya"
+          "code": "od.cuttack"
         }
       ]
     }

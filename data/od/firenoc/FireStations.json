@@ -3,18 +3,18 @@
   "moduleName": "firenoc",
   "FireStations": [
     {
-      "code": "FS_CITYA_01",
-      "baseTenantId": "od.citya",
+      "code": "FS_CUTTACK_01",
+      "baseTenantId": "od.cuttack",
       "active": true
     },
     {
-      "code": "FS_CITYB_01",
-      "baseTenantId": "od.cityb",
+      "code": "FS_BANKI_01",
+      "baseTenantId": "od.banki",
       "active": true
     },
     {
-      "code": "FS_CITYC_01",
-      "baseTenantId": "od.cityc",
+      "code": "FS_JATNI_01",
+      "baseTenantId": "od.jatni",
       "active": true
     },
     {

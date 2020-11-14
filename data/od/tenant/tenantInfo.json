@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "od.citya",
-      "districtCode": "CITYA",
+      "code": "od.cuttack",
+      "districtCode": "CUTTACK",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["OD", "HN", "EN"]
     },
     {
-      "code": "od.cityb",
-      "districtCode": "CITYB",
+      "code": "od.banki",
+      "districtCode": "BANKI",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "od.cityc",
-      "districtCode": "CITYC",
+      "code": "od.jatni",
+      "districtCode": "JATNI",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",

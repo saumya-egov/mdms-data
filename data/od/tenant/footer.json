@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer": [
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "code": "od.cityb",
+      "code": "od.banki",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "code": "od.cityb",
+      "code": "od.banki",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -551,7 +551,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -599,7 +599,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "code": "od.citya",
+      "code": "od.cuttack",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
