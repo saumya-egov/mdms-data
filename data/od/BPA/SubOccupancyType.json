@@ -12,7 +12,7 @@
             "maxFar": "4",
             "orderNumber": "1",
             "description": "Plotted Detached/Individual Residential building",
-            "colorCode": "25"
+            "colorCode": "11"
         },
         {
             "name": "Semi-detached",
@@ -24,7 +24,7 @@
             "maxFar": "5",
             "orderNumber": "2",
             "description": "Semi-detached",
-            "colorCode": "26"
+            "colorCode": "12"
         },
         {
             "name": "Row housing",
@@ -36,7 +36,7 @@
             "maxFar": "6",
             "orderNumber": "3",
             "description": " Row housing",
-            "colorCode": "27"
+            "colorCode": "13"
         },
         {
             "name": "Apartment Building",
@@ -48,7 +48,7 @@
             "maxFar": "7",
             "orderNumber": "4",
             "description": "Apartment Building",
-            "colorCode": "28"
+            "colorCode": "14"
         },
         {
             "name": "Housing Project",
@@ -60,7 +60,7 @@
             "maxFar": "8",
             "orderNumber": "5",
             "description": " Housing Project",
-            "colorCode": "29"
+            "colorCode": "15"
         },
         {
             "name": "Work-cum-residential",
@@ -72,7 +72,7 @@
             "maxFar": "9",
             "orderNumber": "6",
             "description": "work-cum-residential",
-            "colorCode": "30"
+            "colorCode": "16"
         },
         {
             "name": "Studio Apartments",
@@ -84,7 +84,7 @@
             "maxFar": "10",
             "orderNumber": "7",
             "description": "Studio Apartments",
-            "colorCode": "31"
+            "colorCode": "17"
         },
         {
             "name": "Dharmasala",
@@ -96,7 +96,7 @@
             "maxFar": "11",
             "orderNumber": "8",
             "description": "Dharmasala",
-            "colorCode": "32"
+            "colorCode": "18"
         },
         {
             "name": "Dormitory",
@@ -108,7 +108,7 @@
             "maxFar": "12",
             "orderNumber": "9",
             "description": "Dormitory",
-            "colorCode": "33"
+            "colorCode": "19"
         },
         {
             "name": "EWS",
@@ -120,7 +120,7 @@
             "maxFar": "13",
             "orderNumber": "10",
             "description": "EWS",
-            "colorCode": "34"
+            "colorCode": "20"
         },
         {
             "name": "Low Income Housing",
@@ -132,7 +132,7 @@
             "maxFar": "14",
             "orderNumber": "11",
             "description": "Low Income Housing",
-            "colorCode": "35"
+            "colorCode": "21"
         },
         {
             "name": "Medium Income Housing",
@@ -144,7 +144,7 @@
             "maxFar": "15",
             "orderNumber": "12",
             "description": "Medium Income Housing",
-            "colorCode": "36"
+            "colorCode": "22"
         },
         {
             "name": "Hostel",
@@ -156,7 +156,7 @@
             "maxFar": "16",
             "orderNumber": "13",
             "description": "Hostel",
-            "colorCode": "37"
+            "colorCode": "23"
         },
         {
             "name": "Shelter House",
@@ -168,7 +168,7 @@
             "maxFar": "17",
             "orderNumber": "14",
             "description": "Shelter House",
-            "colorCode": "38"
+            "colorCode": "24"
         },
         {
             "name": "Staff Qaurter",
@@ -180,7 +180,7 @@
             "maxFar": "18",
             "orderNumber": "15",
             "description": "Staff Qaurter",
-            "colorCode": "39"
+            "colorCode": "25"
         },
         {
             "name": "Hotel",
@@ -192,7 +192,7 @@
             "maxFar": "19",
             "orderNumber": "1",
             "description": "Hotel",
-            "colorCode": "40"
+            "colorCode": "30"
         },
         {
             "name": "5 Star Hotel",
@@ -204,7 +204,7 @@
             "maxFar": "20",
             "orderNumber": "2",
             "description": "5 Star Hotel",
-            "colorCode": "41"
+            "colorCode": "31"
         },
         {
             "name": "Motels",
@@ -216,7 +216,7 @@
             "maxFar": "21",
             "orderNumber": "3",
             "description": "Motels",
-            "colorCode": "42"
+            "colorCode": "32"
         },
         {
             "name": "Services for households",
@@ -228,7 +228,7 @@
             "maxFar": "22",
             "orderNumber": "4",
             "description": "Services for households",
-            "colorCode": "43"
+            "colorCode": "33"
         },
         {
             "name": "Shop Cum Residential",
@@ -240,7 +240,7 @@
             "maxFar": "23",
             "orderNumber": "5",
             "description": "Shop Cum Residential",
-            "colorCode": "44"
+            "colorCode": "34"
         },
         {
             "name": "Bank",
@@ -252,7 +252,7 @@
             "maxFar": "24",
             "orderNumber": "6",
             "description": "Bank",
-            "colorCode": "45"
+            "colorCode": "35"
         },
         {
             "name": "Resorts",
@@ -264,7 +264,7 @@
             "maxFar": "25",
             "orderNumber": "7",
             "description": "Resorts",
-            "colorCode": "46"
+            "colorCode": "36"
         },
         {
             "name": "Lagoons and Lagoon Resort",
@@ -276,7 +276,7 @@
             "maxFar": "26",
             "orderNumber": "8",
             "description": "Lagoons and Lagoon Resort",
-            "colorCode": "47"
+            "colorCode": "37"
         },
         {
             "name": "Amusement Building/Park and water sports",
@@ -288,7 +288,7 @@
             "maxFar": "27",
             "orderNumber": "9",
             "description": "Amusement Building/Park and water sports",
-            "colorCode": "48"
+            "colorCode": "38"
         },
         {
             "name": "Financial services and Stock exchanges",
@@ -300,7 +300,7 @@
             "maxFar": "28",
             "orderNumber": "10",
             "description": "Financial services and Stock exchanges",
-            "colorCode": "49"
+            "colorCode": "39"
         },
         {
             "name": "Cold Storage and Ice Factory",
@@ -312,7 +312,7 @@
             "maxFar": "29",
             "orderNumber": "11",
             "description": "Cold Storage and Ice Factory",
-            "colorCode": "50"
+            "colorCode": "40"
         },
         {
             "name": "Commercial and Business Offices/Complex",
@@ -324,7 +324,7 @@
             "maxFar": "30",
             "orderNumber": "12",
             "description": "Commercial and Business Offices/Complex",
-            "colorCode": "51"
+            "colorCode": "41"
         },
         {
             "name": "Convenience and Neighborhood Shopping",
@@ -336,7 +336,7 @@
             "maxFar": "31",
             "orderNumber": "13",
             "description": "Convenience and Neighborhood Shopping",
-            "colorCode": "52"
+            "colorCode": "42"
         },
         {
             "name": "Professional offices",
@@ -348,7 +348,7 @@
             "maxFar": "32",
             "orderNumber": "14",
             "description": "Professional offices",
-            "colorCode": "53"
+            "colorCode": "43"
         },
         {
             "name": "Departmental store",
@@ -360,7 +360,7 @@
             "maxFar": "33",
             "orderNumber": "15",
             "description": "Departmental store",
-            "colorCode": "54"
+            "colorCode": "44"
         },
         {
             "name": "Gas Godown",
@@ -372,7 +372,7 @@
             "maxFar": "34",
             "orderNumber": "16",
             "description": "Gas Godown",
-            "colorCode": "55"
+            "colorCode": "45"
         },
         {
             "name": "Godowns",
@@ -384,7 +384,7 @@
             "maxFar": "35",
             "orderNumber": "17",
             "description": "Godowns",
-            "colorCode": "56"
+            "colorCode": "46"
         },
         {
             "name": "Good Storage",
@@ -396,7 +396,7 @@
             "maxFar": "36",
             "orderNumber": "18",
             "description": "Good Storage",
-            "colorCode": "57"
+            "colorCode": "47"
         },
         {
             "name": "Guest Houses",
@@ -408,7 +408,7 @@
             "maxFar": "37",
             "orderNumber": "19",
             "description": "Guest Houses",
-            "colorCode": "58"
+            "colorCode": "48"
         },
         {
             "name": "Holiday Resort",
@@ -420,7 +420,7 @@
             "maxFar": "38",
             "orderNumber": "20",
             "description": "Holiday Resort",
-            "colorCode": "59"
+            "colorCode": "49"
         },
         {
             "name": "Boarding and lodging houses",
@@ -432,7 +432,7 @@
             "maxFar": "39",
             "orderNumber": "21",
             "description": "Boarding and lodging houses",
-            "colorCode": "60"
+            "colorCode": "50"
         },
         {
             "name": "Petrol Pump (Only Filling Station)",
@@ -444,7 +444,7 @@
             "maxFar": "40",
             "orderNumber": "22",
             "description": "Petrol Pump (Only Filling Station)",
-            "colorCode": "61"
+            "colorCode": "51"
         },
         {
             "name": "Petrol Pump (Filling Station and Service station)",
@@ -456,7 +456,7 @@
             "maxFar": "41",
             "orderNumber": "23",
             "description": "Petrol Pump (Filling Station and Service station)",
-            "colorCode": "62"
+            "colorCode": "52"
         },
         {
             "name": "CNG Mother Station",
@@ -468,7 +468,7 @@
             "maxFar": "42",
             "orderNumber": "24",
             "description": "CNG Mother Station",
-            "colorCode": "63"
+            "colorCode": "53"
         },
         {
             "name": "Restaurant",
@@ -480,7 +480,7 @@
             "maxFar": "43",
             "orderNumber": "25",
             "description": "Restaurant",
-            "colorCode": "64"
+            "colorCode": "54"
         },
         {
             "name": "Local(retail) shopping",
@@ -492,7 +492,7 @@
             "maxFar": "44",
             "orderNumber": "26",
             "description": "Local(retail) shopping",
-            "colorCode": "65"
+            "colorCode": "55"
         },
         {
             "name": "Shopping Center",
@@ -504,7 +504,7 @@
             "maxFar": "45",
             "orderNumber": "27",
             "description": "Shopping Center",
-            "colorCode": "66"
+            "colorCode": "56"
         },
         {
             "name": "Shopping Mall",
@@ -516,7 +516,15 @@
             "maxFar": "46",
             "orderNumber": "28",
             "description": "Shopping Mall",
-            "colorCode": "67"
+            "colorCode": "57"
+        },
+        {
+            "name": "Showroom",
+            "code": "B-S",
+            "active": true,
+            "occupancyType": "B",
+            "description": "Showroom",
+            "colorCode": "58"
         },
         {
             "name": "Wholesale Storage (Perishable)",
@@ -528,7 +536,7 @@
             "maxFar": "47",
             "orderNumber": "29",
             "description": "Wholesale Storage (Perishable)",
-            "colorCode": "68"
+            "colorCode": "59"
         },
         {
             "name": "Wholesale Storage (Non Perishable)",
@@ -540,7 +548,7 @@
             "maxFar": "48",
             "orderNumber": "30",
             "description": "Wholesale Storage (Non Perishable)",
-            "colorCode": "69"
+            "colorCode": "60"
         },
         {
             "name": "Storage/ Hangers/ Terminal Depot",
@@ -552,7 +560,7 @@
             "maxFar": "49",
             "orderNumber": "31",
             "description": "Storage/ Hangers/ Terminal Depot",
-            "colorCode": "70"
+            "colorCode": "61"
         },
         {
             "name": "Supermarkets",
@@ -564,7 +572,7 @@
             "maxFar": "50",
             "orderNumber": "32",
             "description": "Supermarkets",
-            "colorCode": "71"
+            "colorCode": "62"
         },
         {
             "name": "Ware House",
@@ -576,7 +584,7 @@
             "maxFar": "51",
             "orderNumber": "33",
             "description": "Ware House",
-            "colorCode": "72"
+            "colorCode": "63"
         },
         {
             "name": "Wholesale Market",
@@ -588,7 +596,7 @@
             "maxFar": "52",
             "orderNumber": "34",
             "description": "Wholesale Market",
-            "colorCode": "73"
+            "colorCode": "64"
         },
         {
             "name": "Media Centres",
@@ -600,7 +608,7 @@
             "maxFar": "53",
             "orderNumber": "35",
             "description": "Media Centres",
-            "colorCode": "74"
+            "colorCode": "65"
         },
         {
             "name": "food courts",
@@ -612,7 +620,7 @@
             "maxFar": "54",
             "orderNumber": "36",
             "description": "food courts",
-            "colorCode": "75"
+            "colorCode": "66"
         },
         {
             "name": "Weigh bridges",
@@ -624,7 +632,7 @@
             "maxFar": "55",
             "orderNumber": "37",
             "description": "Weigh bridges",
-            "colorCode": "76"
+            "colorCode": "67"
         },
         {
             "name": " Mercentile",
@@ -636,7 +644,7 @@
             "maxFar": "56",
             "orderNumber": "38",
             "description": " Mercentile",
-            "colorCode": "77"
+            "colorCode": "68"
         },
         {
             "name": "Auditorium",
@@ -648,7 +656,7 @@
             "maxFar": "57",
             "orderNumber": "1",
             "description": "Auditorium",
-            "colorCode": "78"
+            "colorCode": "120"
         },
         {
             "name": "Banquet Hall",
@@ -660,7 +668,7 @@
             "maxFar": "58",
             "orderNumber": "2",
             "description": "Banquet Hall",
-            "colorCode": "79"
+            "colorCode": "121"
         },
         {
             "name": "Cinema",
@@ -672,7 +680,7 @@
             "maxFar": "59",
             "orderNumber": "3",
             "description": "Cinema",
-            "colorCode": "80"
+            "colorCode": "122"
         },
         {
             "name": " Club",
@@ -684,7 +692,7 @@
             "maxFar": "60",
             "orderNumber": "4",
             "description": " Club",
-            "colorCode": "81"
+            "colorCode": "123"
         },
         {
             "name": "music pavilions",
@@ -696,7 +704,7 @@
             "maxFar": "61",
             "orderNumber": "5",
             "description": "music pavilions",
-            "colorCode": "82"
+            "colorCode": "124"
         },
         {
             "name": "Community Hall",
@@ -708,7 +716,7 @@
             "maxFar": "62",
             "orderNumber": "6",
             "description": "Community Hall",
-            "colorCode": "83"
+            "colorCode": "125"
         },
         {
             "name": " Orphanage",
@@ -720,7 +728,7 @@
             "maxFar": "63",
             "orderNumber": "7",
             "description": " Orphanage",
-            "colorCode": "84"
+            "colorCode": "126"
         },
         {
             "name": "Old Age Home",
@@ -732,7 +740,7 @@
             "maxFar": "64",
             "orderNumber": "8",
             "description": "Old Age Home",
-            "colorCode": "85"
+            "colorCode": "127"
         },
         {
             "name": "Science Centre/Museum",
@@ -744,7 +752,7 @@
             "maxFar": "65",
             "orderNumber": "9",
             "description": "Science Centre/Museum",
-            "colorCode": "86"
+            "colorCode": "128"
         },
         {
             "name": "Confernce Hall",
@@ -756,7 +764,7 @@
             "maxFar": "66",
             "orderNumber": "10",
             "description": "Confernce Hall",
-            "colorCode": "87"
+            "colorCode": "129"
         },
         {
             "name": "Convention Hall",
@@ -768,7 +776,7 @@
             "maxFar": "67",
             "orderNumber": "11",
             "description": "Convention Hall",
-            "colorCode": "88"
+            "colorCode": "130"
         },
         {
             "name": "sculpture complex",
@@ -780,7 +788,7 @@
             "maxFar": "68",
             "orderNumber": "12",
             "description": "sculpture complex",
-            "colorCode": "89"
+            "colorCode": "131"
         },
         {
             "name": "Cultural Complex",
@@ -792,7 +800,7 @@
             "maxFar": "69",
             "orderNumber": "13",
             "description": "Cultural Complex",
-            "colorCode": "90"
+            "colorCode": "132"
         },
         {
             "name": "Exhibition Center",
@@ -804,7 +812,7 @@
             "maxFar": "70",
             "orderNumber": "14",
             "description": "Exhibition Center",
-            "colorCode": "91"
+            "colorCode": "133"
         },
         {
             "name": "Gymnasia",
@@ -816,7 +824,7 @@
             "maxFar": "71",
             "orderNumber": "15",
             "description": "Gymnasia",
-            "colorCode": "92"
+            "colorCode": "134"
         },
         {
             "name": "Marriage Hall/Kalyan Mandap",
@@ -828,7 +836,7 @@
             "maxFar": "72",
             "orderNumber": "16",
             "description": "Marriage Hall/Kalyan Mandap",
-            "colorCode": "93"
+            "colorCode": "135"
         },
         {
             "name": "Multiplex",
@@ -840,7 +848,7 @@
             "maxFar": "73",
             "orderNumber": "17",
             "description": "Multiplex",
-            "colorCode": "94"
+            "colorCode": "136"
         },
         {
             "name": "Musuem",
@@ -852,7 +860,7 @@
             "maxFar": "74",
             "orderNumber": "18",
             "description": "Musuem",
-            "colorCode": "95"
+            "colorCode": "137"
         },
         {
             "name": "Place of workship",
@@ -864,7 +872,7 @@
             "maxFar": "75",
             "orderNumber": "19",
             "description": "Place of workship",
-            "colorCode": "96"
+            "colorCode": "138"
         },
         {
             "name": "Public Libraries",
@@ -876,7 +884,7 @@
             "maxFar": "76",
             "orderNumber": "20",
             "description": "Public Libraries",
-            "colorCode": "97"
+            "colorCode": "139"
         },
         {
             "name": "Recreation Bldg",
@@ -888,7 +896,7 @@
             "maxFar": "77",
             "orderNumber": "21",
             "description": "Recreation Bldg",
-            "colorCode": "98"
+            "colorCode": "140"
         },
         {
             "name": " Sports Complex",
@@ -900,7 +908,7 @@
             "maxFar": "78",
             "orderNumber": "22",
             "description": " Sports Complex",
-            "colorCode": "99"
+            "colorCode": "141"
         },
         {
             "name": "Stadium",
@@ -912,7 +920,7 @@
             "maxFar": "79",
             "orderNumber": "23",
             "description": "Stadium",
-            "colorCode": "100"
+            "colorCode": "142"
         },
         {
             "name": "Theatre",
@@ -924,7 +932,7 @@
             "maxFar": "80",
             "orderNumber": "24",
             "description": "Theatre",
-            "colorCode": "101"
+            "colorCode": "143"
         },
         {
             "name": "Administrative Buildings",
@@ -936,7 +944,7 @@
             "maxFar": "81",
             "orderNumber": "25",
             "description": "Administrative Buildings",
-            "colorCode": "102"
+            "colorCode": "144"
         },
         {
             "name": "Government offices",
@@ -948,7 +956,7 @@
             "maxFar": "82",
             "orderNumber": "26",
             "description": "Government offices",
-            "colorCode": "103"
+            "colorCode": "145"
         },
         {
             "name": "Local and semi Government offices",
@@ -960,7 +968,7 @@
             "maxFar": "83",
             "orderNumber": "27",
             "description": "Local and semi Government offices",
-            "colorCode": "104"
+            "colorCode": "146"
         },
         {
             "name": "Police/Army/Barrack",
@@ -972,7 +980,7 @@
             "maxFar": "84",
             "orderNumber": "28",
             "description": "Police/Army/Barrack",
-            "colorCode": "105"
+            "colorCode": "147"
         },
         {
             "name": "Religious Building",
@@ -984,7 +992,7 @@
             "maxFar": "85",
             "orderNumber": "29",
             "description": "Religious Building",
-            "colorCode": "106"
+            "colorCode": "148"
         },
         {
             "name": "Social and welfare centres",
@@ -996,7 +1004,7 @@
             "maxFar": "86",
             "orderNumber": "30",
             "description": "Social and welfare centres",
-            "colorCode": "107"
+            "colorCode": "149"
         },
         {
             "name": "Clinic",
@@ -1008,7 +1016,7 @@
             "maxFar": "87",
             "orderNumber": "31",
             "description": "Clinic",
-            "colorCode": "108"
+            "colorCode": "150"
         },
         {
             "name": "Dispensary",
@@ -1020,7 +1028,7 @@
             "maxFar": "88",
             "orderNumber": "32",
             "description": "Dispensary",
-            "colorCode": "109"
+            "colorCode": "151"
         },
         {
             "name": "Yoga Center",
@@ -1032,7 +1040,7 @@
             "maxFar": "89",
             "orderNumber": "33",
             "description": "Yoga Center",
-            "colorCode": "110"
+            "colorCode": "152"
         },
         {
             "name": "Diagnostic Centre",
@@ -1044,7 +1052,7 @@
             "maxFar": "90",
             "orderNumber": "34",
             "description": "Diagnostic Centre",
-            "colorCode": "111"
+            "colorCode": "153"
         },
         {
             "name": "Govt-Semi Govt. Hospital",
@@ -1056,7 +1064,7 @@
             "maxFar": "91",
             "orderNumber": "35",
             "description": "Govt-Semi Govt. Hospital",
-            "colorCode": "112"
+            "colorCode": "154"
         },
         {
             "name": "Registered Trust",
@@ -1068,7 +1076,7 @@
             "maxFar": "92",
             "orderNumber": "36",
             "description": "Registered Trust",
-            "colorCode": "113"
+            "colorCode": "155"
         },
         {
             "name": " Health centre",
@@ -1080,7 +1088,7 @@
             "maxFar": "93",
             "orderNumber": "37",
             "description": " Health centre",
-            "colorCode": "114"
+            "colorCode": "156"
         },
         {
             "name": "Hospital",
@@ -1092,7 +1100,7 @@
             "maxFar": "94",
             "orderNumber": "38",
             "description": "Hospital",
-            "colorCode": "115"
+            "colorCode": "157"
         },
         {
             "name": "Lab",
@@ -1104,7 +1112,7 @@
             "maxFar": "95",
             "orderNumber": "39",
             "description": "Lab",
-            "colorCode": "116"
+            "colorCode": "158"
         },
         {
             "name": "Maternity Home",
@@ -1116,7 +1124,7 @@
             "maxFar": "96",
             "orderNumber": "40",
             "description": "Maternity Home",
-            "colorCode": "117"
+            "colorCode": "159"
         },
         {
             "name": " Medical Building",
@@ -1128,7 +1136,7 @@
             "maxFar": "97",
             "orderNumber": "41",
             "description": " Medical Building",
-            "colorCode": "118"
+            "colorCode": "160"
         },
         {
             "name": "Nursing Home",
@@ -1140,7 +1148,7 @@
             "maxFar": "98",
             "orderNumber": "42",
             "description": "Nursing Home",
-            "colorCode": "119"
+            "colorCode": "161"
         },
         {
             "name": "Polyclinic",
@@ -1152,7 +1160,7 @@
             "maxFar": "99",
             "orderNumber": "43",
             "description": "Polyclinic",
-            "colorCode": "120"
+            "colorCode": "162"
         },
         {
             "name": "Rehabilitaion Center",
@@ -1164,7 +1172,7 @@
             "maxFar": "100",
             "orderNumber": "44",
             "description": "Rehabilitaion Center",
-            "colorCode": "121"
+            "colorCode": "163"
         },
         {
             "name": "Veterinary Hospital for pet animals and birds",
@@ -1176,7 +1184,7 @@
             "maxFar": "101",
             "orderNumber": "45",
             "description": "Veterinary Hospital for pet animals and birds",
-            "colorCode": "122"
+            "colorCode": "164"
         },
         {
             "name": "Research and Training Institute",
@@ -1188,7 +1196,7 @@
             "maxFar": "102",
             "orderNumber": "46",
             "description": "Research and Training Institute",
-            "colorCode": "123"
+            "colorCode": "165"
         },
         {
             "name": "Police Station",
@@ -1200,7 +1208,7 @@
             "maxFar": "103",
             "orderNumber": "47",
             "description": "Police Station",
-            "colorCode": "124"
+            "colorCode": "166"
         },
         {
             "name": "Fire Station",
@@ -1212,7 +1220,7 @@
             "maxFar": "104",
             "orderNumber": "48",
             "description": "Fire Station",
-            "colorCode": "125"
+            "colorCode": "167"
         },
         {
             "name": "Jail/Prison",
@@ -1224,7 +1232,7 @@
             "maxFar": "104",
             "orderNumber": "49",
             "description": "Jail/Prison",
-            "colorCode": "126"
+            "colorCode": "168"
         },
         {
             "name": "Post Office",
@@ -1236,7 +1244,7 @@
             "maxFar": "104",
             "orderNumber": "50",
             "description": "Post Office",
-            "colorCode": "127"
+            "colorCode": "169"
         },
         {
             "name": "Bill Collection Center",
@@ -1248,7 +1256,7 @@
             "maxFar": "105",
             "orderNumber": "1",
             "description": "Bill Collection Center",
-            "colorCode": "128"
+            "colorCode": "210"
         },
         {
             "name": "Broadcasting-Transmission Centre",
@@ -1260,7 +1268,7 @@
             "maxFar": "106",
             "orderNumber": "2",
             "description": "Broadcasting-Transmission Centre",
-            "colorCode": "129"
+            "colorCode": "211"
         },
         {
             "name": "Burial and cremation grounds",
@@ -1272,7 +1280,7 @@
             "maxFar": "107",
             "orderNumber": "3",
             "description": "Burial and cremation grounds",
-            "colorCode": "130"
+            "colorCode": "212"
         },
         {
             "name": "Public Distribution System Shop",
@@ -1284,7 +1292,7 @@
             "maxFar": "108",
             "orderNumber": "4",
             "description": "Public Distribution System Shop",
-            "colorCode": "131"
+            "colorCode": "213"
         },
         {
             "name": "Public Toilets in Public Area",
@@ -1296,7 +1304,7 @@
             "maxFar": "109",
             "orderNumber": "5",
             "description": "Public Toilets in Public Area",
-            "colorCode": "132"
+            "colorCode": "214"
         },
         {
             "name": "Public Utility Bldg",
@@ -1308,7 +1316,7 @@
             "maxFar": "110",
             "orderNumber": "6",
             "description": "Public Utility Bldg",
-            "colorCode": "133"
+            "colorCode": "215"
         },
         {
             "name": "Sub-Station",
@@ -1320,7 +1328,7 @@
             "maxFar": "111",
             "orderNumber": "7",
             "description": "Sub-Station",
-            "colorCode": "134"
+            "colorCode": "216"
         },
         {
             "name": "Telecommunication",
@@ -1332,7 +1340,7 @@
             "maxFar": "112",
             "orderNumber": "8",
             "description": "Telecommunication",
-            "colorCode": "135"
+            "colorCode": "217"
         },
         {
             "name": "water pumping stations",
@@ -1344,7 +1352,7 @@
             "maxFar": "113",
             "orderNumber": "9",
             "description": "water pumping stations",
-            "colorCode": "136"
+            "colorCode": "218"
         },
         {
             "name": "service and storage yards",
@@ -1356,7 +1364,7 @@
             "maxFar": "114",
             "orderNumber": "10",
             "description": "service and storage yards",
-            "colorCode": "137"
+            "colorCode": "219"
         },
         {
             "name": "electrical distribution depots",
@@ -1368,7 +1376,7 @@
             "maxFar": "115",
             "orderNumber": "11",
             "description": "electrical distribution depots",
-            "colorCode": "138"
+            "colorCode": "220"
         },
         {
             "name": "Industrial Buildings (Factories, Workshops, etc.)",
@@ -1380,7 +1388,7 @@
             "maxFar": "116",
             "orderNumber": "1",
             "description": "Industrial Buildings (Factories, Workshops, etc.)",
-            "colorCode": "139"
+            "colorCode": "200"
         },
         {
             "name": "Non Polluting Industrial",
@@ -1392,7 +1400,7 @@
             "maxFar": "117",
             "orderNumber": "2",
             "description": "Non Polluting Industrial",
-            "colorCode": "140"
+            "colorCode": "201"
         },
         {
             "name": "IT, ITES Buildings",
@@ -1404,7 +1412,7 @@
             "maxFar": "118",
             "orderNumber": "3",
             "description": "IT, ITES Buildings",
-            "colorCode": "141"
+            "colorCode": "202"
         },
         {
             "name": " SEZ Industrial",
@@ -1416,7 +1424,7 @@
             "maxFar": "119",
             "orderNumber": "4",
             "description": " SEZ Industrial",
-            "colorCode": "142"
+            "colorCode": "203"
         },
         {
             "name": "Loading/Unloading Spaces",
@@ -1428,7 +1436,7 @@
             "maxFar": "120",
             "orderNumber": "5",
             "description": "Loading/Unloading Spaces",
-            "colorCode": "143"
+            "colorCode": "204"
         },
         {
             "name": "Flatted Factory",
@@ -1440,7 +1448,7 @@
             "maxFar": "121",
             "orderNumber": "6",
             "description": "Flatted Factory",
-            "colorCode": "144"
+            "colorCode": "205"
         },
         {
             "name": "small factories and etc falls in industrial",
@@ -1452,7 +1460,7 @@
             "maxFar": "122",
             "orderNumber": "7",
             "description": "small factories and etc falls in industrial",
-            "colorCode": "145"
+            "colorCode": "206"
         },
         {
             "name": "Coaching Centre",
@@ -1464,7 +1472,7 @@
             "maxFar": "123",
             "orderNumber": "1",
             "description": "Coaching Centre",
-            "colorCode": "146"
+            "colorCode": "170"
         },
         {
             "name": "Commercial Institute",
@@ -1476,7 +1484,7 @@
             "maxFar": "124",
             "orderNumber": "2",
             "description": "Commercial Institute",
-            "colorCode": "147"
+            "colorCode": "171"
         },
         {
             "name": "College",
@@ -1488,7 +1496,7 @@
             "maxFar": "125",
             "orderNumber": "3",
             "description": "College",
-            "colorCode": "148"
+            "colorCode": "172"
         },
         {
             "name": "Computer Training Institute",
@@ -1500,7 +1508,7 @@
             "maxFar": "126",
             "orderNumber": "4",
             "description": "Computer Training Institute",
-            "colorCode": "149"
+            "colorCode": "173"
         },
         {
             "name": "Nursery School",
@@ -1512,7 +1520,7 @@
             "maxFar": "127",
             "orderNumber": "5",
             "description": "Nursery School",
-            "colorCode": "150"
+            "colorCode": "174"
         },
         {
             "name": "Primary School",
@@ -1524,7 +1532,7 @@
             "maxFar": "128",
             "orderNumber": "6",
             "description": "Primary School",
-            "colorCode": "151"
+            "colorCode": "175"
         },
         {
             "name": "Hostel (Captive)",
@@ -1536,7 +1544,7 @@
             "maxFar": "129",
             "orderNumber": "7",
             "description": "Hostel (Captive)",
-            "colorCode": "152"
+            "colorCode": "176"
         },
         {
             "name": "High School",
@@ -1548,7 +1556,7 @@
             "maxFar": "130",
             "orderNumber": "8",
             "description": "High School",
-            "colorCode": "153"
+            "colorCode": "177"
         },
         {
             "name": "Play School",
@@ -1560,7 +1568,7 @@
             "maxFar": "131",
             "orderNumber": "9",
             "description": "Play School",
-            "colorCode": "154"
+            "colorCode": "178"
         },
         {
             "name": "crÃ¨che",
@@ -1572,7 +1580,7 @@
             "maxFar": "132",
             "orderNumber": "10",
             "description": "crÃ¨che",
-            "colorCode": "155"
+            "colorCode": "179"
         },
         {
             "name": "School for Mentally Challenged.",
@@ -1584,7 +1592,7 @@
             "maxFar": "133",
             "orderNumber": "11",
             "description": "School for Mentally Challenged.",
-            "colorCode": "156"
+            "colorCode": "180"
         },
         {
             "name": "Art academy",
@@ -1596,7 +1604,7 @@
             "maxFar": "134",
             "orderNumber": "12",
             "description": "Art academy",
-            "colorCode": "157"
+            "colorCode": "181"
         },
         {
             "name": "Technical College",
@@ -1608,7 +1616,7 @@
             "maxFar": "135",
             "orderNumber": "13",
             "description": "Technical College",
-            "colorCode": "158"
+            "colorCode": "182"
         },
         {
             "name": "Sports training centers",
@@ -1620,7 +1628,7 @@
             "maxFar": "136",
             "orderNumber": "14",
             "description": "Sports training centers",
-            "colorCode": "159"
+            "colorCode": "183"
         },
         {
             "name": "Training Institute",
@@ -1632,7 +1640,7 @@
             "maxFar": "137",
             "orderNumber": "15",
             "description": "Training Institute",
-            "colorCode": "160"
+            "colorCode": "184"
         },
         {
             "name": "Veterinary Institute",
@@ -1644,7 +1652,7 @@
             "maxFar": "138",
             "orderNumber": "16",
             "description": "Veterinary Institute",
-            "colorCode": "161"
+            "colorCode": "185"
         },
         {
             "name": "Medical College",
@@ -1656,7 +1664,7 @@
             "maxFar": "139",
             "orderNumber": "17",
             "description": "Medical College",
-            "colorCode": "162"
+            "colorCode": "186"
         },
         {
             "name": "Research and Training Center",
@@ -1668,7 +1676,7 @@
             "maxFar": "140",
             "orderNumber": "18",
             "description": "Research and Training Center",
-            "colorCode": "163"
+            "colorCode": "187"
         },
         {
             "name": "Airport",
@@ -1680,7 +1688,7 @@
             "maxFar": "141",
             "orderNumber": "1",
             "description": "Airport",
-            "colorCode": "164"
+            "colorCode": "29"
         },
         {
             "name": "Auto Stand",
@@ -1692,7 +1700,7 @@
             "maxFar": "142",
             "orderNumber": "2",
             "description": "Auto Stand",
-            "colorCode": "165"
+            "colorCode": "79"
         },
         {
             "name": "Metro Station",
@@ -1704,7 +1712,7 @@
             "maxFar": "143",
             "orderNumber": "3",
             "description": "Metro Station",
-            "colorCode": "166"
+            "colorCode": "189"
         },
         {
             "name": "Bus Stand",
@@ -1716,7 +1724,7 @@
             "maxFar": "144",
             "orderNumber": "4",
             "description": "Bus Stand",
-            "colorCode": "167"
+            "colorCode": "199"
         },
         {
             "name": "Bus Terminal",
@@ -1728,7 +1736,7 @@
             "maxFar": "145",
             "orderNumber": "5",
             "description": "Bus Terminal",
-            "colorCode": "168"
+            "colorCode": "229"
         },
         {
             "name": "ISBT",
@@ -1740,7 +1748,7 @@
             "maxFar": "146",
             "orderNumber": "6",
             "description": "ISBT",
-            "colorCode": "169"
+            "colorCode": "239"
         },
         {
             "name": "Railway station",
@@ -1752,7 +1760,7 @@
             "maxFar": "147",
             "orderNumber": "7",
             "description": "Railway station",
-            "colorCode": "170"
+            "colorCode": "249"
         },
         {
             "name": "Taxi Stand",
@@ -1764,7 +1772,7 @@
             "maxFar": "148",
             "orderNumber": "8",
             "description": "Taxi Stand",
-            "colorCode": "171"
+            "colorCode": "250"
         },
         {
             "name": " Multi Level Car Parking",
@@ -1776,7 +1784,7 @@
             "maxFar": "149",
             "orderNumber": "9",
             "description": " Multi Level Car Parking",
-            "colorCode": "172"
+            "colorCode": "251"
         },
         {
             "name": "Public Parking",
@@ -1788,7 +1796,7 @@
             "maxFar": "150",
             "orderNumber": "10",
             "description": "Public Parking",
-            "colorCode": "173"
+            "colorCode": "252"
         },
         {
             "name": "Toll Plaza",
@@ -1800,7 +1808,7 @@
             "maxFar": "151",
             "orderNumber": "11",
             "description": "Toll Plaza",
-            "colorCode": "174"
+            "colorCode": "253"
         },
         {
             "name": "Truck Terminal",
@@ -1812,7 +1820,7 @@
             "maxFar": "152",
             "orderNumber": "12",
             "description": "Truck Terminal",
-            "colorCode": "175"
+            "colorCode": "254"
         },
         {
             "name": "Agriculture Farm",
@@ -1824,7 +1832,7 @@
             "maxFar": "153",
             "orderNumber": "1",
             "description": "Agriculture Farm",
-            "colorCode": "176"
+            "colorCode": "80"
         },
         {
             "name": "Agro Godown",
@@ -1836,7 +1844,7 @@
             "maxFar": "154",
             "orderNumber": "2",
             "description": "Agro Godown",
-            "colorCode": "177"
+            "colorCode": "81"
         },
         {
             "name": " Agro-Research Farm",
@@ -1848,7 +1856,7 @@
             "maxFar": "155",
             "orderNumber": "3",
             "description": " Agro-Research Farm",
-            "colorCode": "178"
+            "colorCode": "82"
         },
         {
             "name": "Farm House",
@@ -1860,7 +1868,7 @@
             "maxFar": "156",
             "orderNumber": "4",
             "description": "Farm House",
-            "colorCode": "179"
+            "colorCode": "83"
         },
         {
             "name": "Country Homes",
@@ -1872,7 +1880,7 @@
             "maxFar": "157",
             "orderNumber": "5",
             "description": "Country Homes",
-            "colorCode": "180"
+            "colorCode": "84"
         },
         {
             "name": "Nursery and green houses",
@@ -1884,7 +1892,7 @@
             "maxFar": "158",
             "orderNumber": "6",
             "description": "Nursery and green houses",
-            "colorCode": "181"
+            "colorCode": "85"
         },
         {
             "name": "Polutry, Diary and Swine/Goat/Horse",
@@ -1896,7 +1904,7 @@
             "maxFar": "159",
             "orderNumber": "7",
             "description": "Polutry, Diary and Swine/Goat/Horse",
-            "colorCode": "182"
+            "colorCode": "86"
         },
         {
             "name": "Horticulture",
@@ -1908,7 +1916,7 @@
             "maxFar": "160",
             "orderNumber": "8",
             "description": "Horticulture",
-            "colorCode": "183"
+            "colorCode": "87"
         },
         {
             "name": "Seri culture",
@@ -1920,7 +1928,7 @@
             "maxFar": "161",
             "orderNumber": "9",
             "description": "Seri culture",
-            "colorCode": "184"
+            "colorCode": "88"
         }
     ]
 }
