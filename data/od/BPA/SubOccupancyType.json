@@ -523,6 +523,10 @@
             "code": "B-S",
             "active": true,
             "occupancyType": "B",
+			"maxCoverage": "108",
+            "minFar": "46",
+            "maxFar": "47",
+            "orderNumber": "29",
             "description": "Showroom",
             "colorCode": "58"
         },
@@ -534,7 +538,7 @@
             "maxCoverage": "108",
             "minFar": "46",
             "maxFar": "47",
-            "orderNumber": "29",
+            "orderNumber": "30",
             "description": "Wholesale Storage (Perishable)",
             "colorCode": "59"
         },
@@ -546,7 +550,7 @@
             "maxCoverage": "109",
             "minFar": "47",
             "maxFar": "48",
-            "orderNumber": "30",
+            "orderNumber": "31",
             "description": "Wholesale Storage (Non Perishable)",
             "colorCode": "60"
         },
@@ -558,7 +562,7 @@
             "maxCoverage": "110",
             "minFar": "48",
             "maxFar": "49",
-            "orderNumber": "31",
+            "orderNumber": "32",
             "description": "Storage/ Hangers/ Terminal Depot",
             "colorCode": "61"
         },
@@ -570,7 +574,7 @@
             "maxCoverage": "111",
             "minFar": "49",
             "maxFar": "50",
-            "orderNumber": "32",
+            "orderNumber": "33",
             "description": "Supermarkets",
             "colorCode": "62"
         },
@@ -582,7 +586,7 @@
             "maxCoverage": "112",
             "minFar": "50",
             "maxFar": "51",
-            "orderNumber": "33",
+            "orderNumber": "34",
             "description": "Ware House",
             "colorCode": "63"
         },
@@ -594,7 +598,7 @@
             "maxCoverage": "113",
             "minFar": "51",
             "maxFar": "52",
-            "orderNumber": "34",
+            "orderNumber": "35",
             "description": "Wholesale Market",
             "colorCode": "64"
         },
@@ -606,7 +610,7 @@
             "maxCoverage": "114",
             "minFar": "52",
             "maxFar": "53",
-            "orderNumber": "35",
+            "orderNumber": "36",
             "description": "Media Centres",
             "colorCode": "65"
         },
@@ -618,7 +622,7 @@
             "maxCoverage": "115",
             "minFar": "53",
             "maxFar": "54",
-            "orderNumber": "36",
+            "orderNumber": "37",
             "description": "food courts",
             "colorCode": "66"
         },
@@ -630,7 +634,7 @@
             "maxCoverage": "116",
             "minFar": "54",
             "maxFar": "55",
-            "orderNumber": "37",
+            "orderNumber": "38",
             "description": "Weigh bridges",
             "colorCode": "67"
         },
@@ -642,7 +646,7 @@
             "maxCoverage": "117",
             "minFar": "55",
             "maxFar": "56",
-            "orderNumber": "38",
+            "orderNumber": "39",
             "description": " Mercentile",
             "colorCode": "68"
         },
