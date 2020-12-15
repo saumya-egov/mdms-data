@@ -463,6 +463,10 @@
             "idname": "egov.idgen.bpa.applicationNum"
         },
         {
+            "format": "OD-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
+            "idname": "bpa.aplnumber"
+        },        
+        {
             "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
             "idname": "egov.idgen.bpa.englicensenumber"
         },
