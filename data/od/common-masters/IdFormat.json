@@ -457,18 +457,6 @@
         {
             "format": "PG-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
-        },
-        {
-            "format": "OD-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "egov.idgen.bpa.applicationNum"
-        },
-        {
-            "format": "OD-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "bpa.aplnumber"
-        },   
-        {
-            "format": "OD-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "egov.idgen.bpa.aplnumber"
         },        
         {
             "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
