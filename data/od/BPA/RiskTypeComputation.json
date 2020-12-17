@@ -11,8 +11,8 @@
             "note": "(Heigh 15 Mt or More) or ( Plot area >=800 sq.Mt)"
         },
         {
-            "fromPlotArea": 300,
-            "toPlotArea": 500,
+            "fromPlotArea": 1,
+            "toPlotArea": 9999999999,
             "fromBuildingHeight": 10,
             "toBuildingHeight": 15,
             "riskType": "MEDIUM",
@@ -20,7 +20,7 @@
         },
         {
             "fromPlotArea": 0,
-            "toPlotArea": 300,
+            "toPlotArea": 1,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 10,
             "riskType": "LOW",
