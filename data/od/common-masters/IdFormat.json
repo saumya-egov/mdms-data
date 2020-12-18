@@ -469,7 +469,11 @@
         {
             "format": "OD-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
             "idname": "egov.idgen.bpa.aplnumber"
-        },        
+        },   
+                {
+            "format": "OD-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+            "idname": "bpa.permitnumber"
+        },
         {
             "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
             "idname": "egov.idgen.bpa.englicensenumber"
