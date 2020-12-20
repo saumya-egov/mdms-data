@@ -5993,7 +5993,7 @@
          "displayName": "Search",
          "orderNumber": 3,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FIRE-NOC",
          "code": "null",
          "navigationURL": "fire-noc/search",
