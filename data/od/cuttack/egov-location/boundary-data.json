@@ -604,6 +604,16 @@
 						"latitude": null,
 						"label": "Locality",
 						"code": "Ward59"
+					},
+					{
+						"id": "61",
+						"boundaryNum": 1,
+						"name": "WARD",
+						"localname": "WARD",
+						"longitude": null,
+						"latitude": null,
+						"label": "Locality",
+						"code": "JLC476"
 					}
 				]
 			}
@@ -1212,8 +1222,17 @@
 						"latitude": null,
 						"label": "Locality",
 						"code": "Ward59"
+					},
+					{
+						"id": "61",
+						"boundaryNum": 1,
+						"name": "WARD",
+						"localname": "WARD",
+						"longitude": null,
+						"latitude": null,
+						"label": "Locality",
+						"code": "JLC476"
 					}
-
 				]
 			}
 
