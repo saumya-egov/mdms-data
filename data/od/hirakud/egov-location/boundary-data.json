@@ -1,0 +1,210 @@
+{
+  "tenantId": "od.hirakud",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Hirakud",
+        "localname": "Hirakud",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.hirakud",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Taranagar",
+            "localname": "Taranagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Nua Hirakud",
+            "localname": "Nua Hirakud",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Lambdunguri",
+            "localname": "Lambdunguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Jamda",
+            "localname": "Jamda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Mahanadi (ka)(Part)",
+            "localname": "Mahanadi (ka)(Part)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Larpanka",
+            "localname": "Larpanka",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Saradhapali",
+            "localname": "Saradhapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Garmunda(P)",
+            "localname": "Garmunda(P)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Gunderpur",
+            "localname": "Gunderpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Gulunda",
+            "localname": "Gulunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Maneswar",
+            "localname": "Maneswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Kantaipali",
+            "localname": "Kantaipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Gulundipali",
+            "localname": "Gulundipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Balbaspur",
+            "localname": "Balbaspur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Gurupali",
+            "localname": "Gurupali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Talalb",
+            "localname": "Talalb",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Pandripali",
+            "localname": "Pandripali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil17"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Hirakud",
+        "localname": "Hirakud",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.hirakud"
+      }
+    }
+  ]
+}
