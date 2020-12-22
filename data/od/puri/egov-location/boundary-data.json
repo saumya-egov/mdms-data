@@ -1,0 +1,380 @@
+{
+  "tenantId": "od.puri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Puri",
+        "localname": "Puri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.puri",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Matitota",
+            "localname": "Matitota",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Markandeswar Sahi-1",
+            "localname": "Markandeswar Sahi-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Mangalaghat",
+            "localname": "Mangalaghat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Lokanathghat",
+            "localname": "Lokanathghat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Baliapanda",
+            "localname": "Baliapanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Goudabad sahi",
+            "localname": "Goudabad sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Harachandisahi",
+            "localname": "Harachandisahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Baselisahi",
+            "localname": "Baselisahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Badadeula sahi",
+            "localname": "Badadeula sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Manikar nikasahi",
+            "localname": "Manikar nikasahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Balisahi-1",
+            "localname": "Balisahi-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Nolia sahi",
+            "localname": "Nolia sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Balisahi-2",
+            "localname": "Balisahi-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Matimandap sahi",
+            "localname": "Matimandap sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Dolamandap sahi-1",
+            "localname": "Dolamandap sahi-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Kalika devi sahi",
+            "localname": "Kalika devi sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Dolamandapsahi-2",
+            "localname": "Dolamandapsahi-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Chudangasahi",
+            "localname": "Chudangasahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Marakandeswar sahi-2",
+            "localname": "Marakandeswar sahi-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Dandimalasahi",
+            "localname": "Dandimalasahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Balagandi sahi",
+            "localname": "Balagandi sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Daitapara sahi",
+            "localname": "Daitapara sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil22"
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kundhai benta sahi",
+            "localname": "Kundhai benta sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil23"
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "SCS Nagar",
+            "localname": "SCS Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil24"
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Gandhighat",
+            "localname": "Gandhighat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil25"
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Bankimuhan",
+            "localname": "Bankimuhan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil26"
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Chakratirtha",
+            "localname": "Chakratirtha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil27"
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Talabania",
+            "localname": "Talabania",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil28"
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Jhadeswari sahi",
+            "localname": "Jhadeswari sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil29"
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Kumbharapara",
+            "localname": "Kumbharapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil30"
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Matiapara",
+            "localname": "Matiapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil31"
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Kumutipatna",
+            "localname": "Kumutipatna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil32"
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Siddha Mahavir Patna",
+            "localname": "Siddha Mahavir Patna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil33"
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Balukhanda",
+            "localname": "Balukhanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil34"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Puri",
+        "localname": "Puri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.puri"
+      }
+    }
+  ]
+}
