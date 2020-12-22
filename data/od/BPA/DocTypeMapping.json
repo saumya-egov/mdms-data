@@ -772,6 +772,134 @@
           "allow": true,
           "order": 14
         }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": true,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": true,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": true,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": true,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": true,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": true,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": true,
+          "allow": true,
+          "order": 7
+        }
       ]
     },
     {
