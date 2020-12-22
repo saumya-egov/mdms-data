@@ -1,0 +1,130 @@
+{
+  "tenantId": "od.chatrapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chatrapur",
+        "localname": "Chatrapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.chatrapur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Lingarajpur",
+            "localname": "Lingarajpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chatrapur",
+            "localname": "Chatrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bibekanandapur",
+            "localname": "Bibekanandapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Balabhadrapur",
+            "localname": "Balabhadrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Putigopalpur",
+            "localname": "Putigopalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Chanakyapur",
+            "localname": "Chanakyapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Rikkapalli",
+            "localname": "Rikkapalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Abhimanyupur",
+            "localname": "Abhimanyupur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Sitarampur",
+            "localname": "Sitarampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil9"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chatrapur",
+        "localname": "Chatrapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.chatrapur"
+      }
+    }
+  ]
+}
