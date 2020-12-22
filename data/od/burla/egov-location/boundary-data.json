@@ -1,0 +1,90 @@
+{
+  "tenantId": "od.burla",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Burla",
+        "localname": "Burla",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.burla",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bukamundi",
+            "localname": "Bukamundi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Kirba",
+            "localname": "Kirba",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Burla",
+            "localname": "Burla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Gulgunda",
+            "localname": "Gulgunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "River Mahanadi",
+            "localname": "River Mahanadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Burla",
+        "localname": "Burla",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.burla"
+      }
+    }
+  ]
+}
