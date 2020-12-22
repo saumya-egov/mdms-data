@@ -225,7 +225,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "INPROGRESS",
       "docTypes": [
         {
@@ -593,7 +593,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "INPROGRESS",
       "docTypes": [
         {
@@ -905,7 +905,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "INITIATED",
       "docTypes": [
         {
@@ -1273,7 +1273,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "INITIATED",
       "docTypes": [
         {
@@ -1457,7 +1457,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "DOC_VERIFICATION_PENDING",
       "docTypes": [
         {
@@ -1733,7 +1733,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "DOC_VERIFICATION_PENDING",
       "docTypes": [
         {
@@ -2009,7 +2009,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "FIELDINSPECTION_PENDING",
       "docTypes": [
         {
@@ -2285,7 +2285,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "FIELDINSPECTION_PENDING",
       "docTypes": [
         {
@@ -2561,7 +2561,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "NOC_VERIFICATION_PENDING",
       "docTypes": [
         {
@@ -2837,7 +2837,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "NOC_VERIFICATION_PENDING",
       "docTypes": [
         {
@@ -3113,7 +3113,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDINGAPPROVAL",
       "docTypes": [
         {
@@ -3389,7 +3389,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDINGAPPROVAL",
       "docTypes": [
         {
@@ -3665,7 +3665,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "APPROVED",
       "docTypes": [
         {
@@ -3941,7 +3941,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "APPROVED",
       "docTypes": [
         {
@@ -4124,282 +4124,6 @@
     },
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "REJECTED",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": true,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "REJECTED",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": true,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "REJECTED",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": true,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
       "WFState": "REJECTED",
@@ -4491,9 +4215,285 @@
       ]
     },
     {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
+      "WFState": "REJECTED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "REJECTED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "MEDIUM",
+      "WFState": "REJECTED",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
       "WFState": "REJECTED",
       "docTypes": [
         {
@@ -4769,7 +4769,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "SEND_TO_CITIZEN",
       "docTypes": [
         {
@@ -5045,7 +5045,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "SEND_TO_CITIZEN",
       "docTypes": [
         {
@@ -5321,7 +5321,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "CITIZEN_APPROVAL_PENDING",
       "docTypes": [
         {
@@ -5597,7 +5597,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "CITIZEN_APPROVAL_PENDING",
       "docTypes": [
         {
@@ -5873,7 +5873,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "BACK_FROM_NOC_VERIFICATION",
       "docTypes": [
         {
@@ -6149,7 +6149,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "BACK_FROM_NOC_VERIFICATION",
       "docTypes": [
         {
@@ -6425,7 +6425,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "BACK_FROM_FI_VERIFICATION",
       "docTypes": [
         {
@@ -6701,7 +6701,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "BACK_FROM_FI_VERIFICATION",
       "docTypes": [
         {
@@ -6884,282 +6884,6 @@
     },
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "BACK_FROM_DOC_VERIFICATION",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": true,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "BACK_FROM_DOC_VERIFICATION",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": true,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "BACK_FROM_DOC_VERIFICATION",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": true,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
       "WFState": "BACK_FROM_DOC_VERIFICATION",
@@ -7251,9 +6975,285 @@
       ]
     },
     {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
+      "WFState": "BACK_FROM_DOC_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "BACK_FROM_DOC_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "MEDIUM",
+      "WFState": "BACK_FROM_DOC_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": true,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": true,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
       "WFState": "BACK_FROM_DOC_VERIFICATION",
       "docTypes": [
         {
@@ -7529,7 +7529,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDING_APPL_FEE_PAYMENT",
       "docTypes": [
         {
@@ -7805,7 +7805,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDING_APPL_FEE_PAYMENT",
       "docTypes": [
         {
@@ -8081,7 +8081,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDING_SANC_FEE_PAYMENT",
       "docTypes": [
         {
@@ -8357,7 +8357,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDING_SANC_FEE_PAYMENT",
       "docTypes": [
         {
