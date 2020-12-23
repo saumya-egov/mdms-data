@@ -1,0 +1,240 @@
+{
+  "tenantId": "od.vyasanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Vyasanagar",
+        "localname": "Vyasanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.vyasanagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Koponda",
+            "localname": "Koponda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Padmapur",
+            "localname": "Padmapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Biramanipur",
+            "localname": "Biramanipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Dolipur",
+            "localname": "Dolipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Dala",
+            "localname": "Dala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Sobra",
+            "localname": "Sobra",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Satakania",
+            "localname": "Satakania",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Kusunpur",
+            "localname": "Kusunpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Jodabar",
+            "localname": "Jodabar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Natapada",
+            "localname": "Natapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bhatia",
+            "localname": "Bhatia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Nahaka",
+            "localname": "Nahaka",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Chorada",
+            "localname": "Chorada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Umapada",
+            "localname": "Umapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Mundama",
+            "localname": "Mundama",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Rampas",
+            "localname": "Rampas",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Chandama",
+            "localname": "Chandama",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Santara",
+            "localname": "Santara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Dandikiri",
+            "localname": "Dandikiri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Khandahata",
+            "localname": "Khandahata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil20"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Vyasanagar",
+        "localname": "Vyasanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.vyasanagar"
+      }
+    }
+  ]
+}
