@@ -6079,7 +6079,7 @@
          "orderNumber": 1,
          "queryParams": "",
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "",
          "path": "Property Tax",
          "navigationURL": "property-tax",
