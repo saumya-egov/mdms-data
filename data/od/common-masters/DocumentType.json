@@ -170,63 +170,63 @@
       "maxFileSize": 6000
     },
     {
-      "code": "ADDL.ALLOTMENTLETTER",
+      "code": "ADDL.ALLOTMENTLETTER.ALLOTMENTLETTER",
       "active": true
     },
     {
-      "code": "ADDL.SKETCHMAP",
+      "code": "ADDL.SKETCHMAP.SKETCHMAP",
       "active": true
     },
     {
-      "code": "ADDL.POSSESSIONLETTER",
+      "code": "ADDL.POSSESSIONLETTER.POSSESSIONLETTER",
       "active": true
     },
     {
-      "code": "ADDL.APPROVEDLAYOUT",
+      "code": "ADDL.APPROVEDLAYOUT.APPROVEDLAYOUT",
       "active": true
     },
     {
-      "code": "ADDL.RERACERTIFICATE",
+      "code": "ADDL.RERACERTIFICATE.RERACERTIFICATE",
       "active": true
     },
     {
-      "code": "ADDL.BENCHMARKCERTIFICATE",
+      "code": "ADDL.BENCHMARKCERTIFICATE.BENCHMARKCERTIFICATE",
       "active": true
     },
     {
-      "code": "ADDL.REGULARISATIONANNEXUREI",
+      "code": "ADDL.REGULARISATIONANNEXUREI.REGULARISATIONANNEXUREI",
       "active": true
     },
     {
-      "code": "ADDL.EIDPFEERECEIPT",
+      "code": "ADDL.EIDPFEERECEIPT.EIDPFEERECEIPT",
       "active": true
     },
     {
-      "code": "ADDL.PHEDNOC",
+      "code": "ADDL.PHEDNOC.PHEDNOC",
       "active": true
     },
     {
-      "code": "ADDL.EXTERNALINFRAPLAN",
+      "code": "ADDL.EXTERNALINFRAPLAN.EXTERNALINFRAPLAN",
       "active": true
     },
     {
-      "code": "ADDL.INFRADEVAFFIDAVIT",
+      "code": "ADDL.INFRADEVAFFIDAVIT.INFRADEVAFFIDAVIT",
       "active": true
     },
     {
-      "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+      "code": "ADDL.PLANDEVIATIONAFFIDAVIT.PLANDEVIATIONAFFIDAVIT",
       "active": true
     },
     {
-      "code": "ADDL.ONEPERCENTFEERECEIPT",
+      "code": "ADDL.ONEPERCENTFEERECEIPT.ONEPERCENTFEERECEIPT",
       "active": true
     },
     {
-      "code": "ADDL.DRAINAFFIDAVIT",
+      "code": "ADDL.DRAINAFFIDAVIT.DRAINAFFIDAVIT",
       "active": true
     },
     {
-      "code": "ADDL.WASTEMANAGMENTPLAN",
+      "code": "ADDL.WASTEMANAGMENTPLAN.WASTEMANAGMENTPLAN",
       "active": true
     }
   ]
