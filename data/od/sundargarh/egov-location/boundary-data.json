@@ -1,0 +1,90 @@
+{
+  "tenantId": "od.sundargarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sundargarh",
+        "localname": "Sundargarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sundargarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Sundargarh",
+            "localname": "Sundargarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Barapatrapali",
+            "localname": "Barapatrapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Talasankara",
+            "localname": "Talasankara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chitabhanga",
+            "localname": "Chitabhanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Amalipali",
+            "localname": "Amalipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sundargarh",
+        "localname": "Sundargarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sundargarh"
+      }
+    }
+  ]
+}
