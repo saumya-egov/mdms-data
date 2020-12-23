@@ -1,0 +1,160 @@
+{
+  "tenantId": "od.khurda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khurda",
+        "localname": "Khurda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khurda",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Gurujang",
+            "localname": "Gurujang",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Jagannathpur",
+            "localname": "Jagannathpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Jajarsing",
+            "localname": "Jajarsing",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Jemadei",
+            "localname": "Jemadei",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Khurda",
+            "localname": "Khurda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Mukundaprasad",
+            "localname": "Mukundaprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Palla",
+            "localname": "Palla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Radhamohanpur",
+            "localname": "Radhamohanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Totapada",
+            "localname": "Totapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Alkar",
+            "localname": "Alkar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Andharua",
+            "localname": "Andharua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Badadhanapur",
+            "localname": "Badadhanapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil12"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khurda",
+        "localname": "Khurda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khurda"
+      }
+    }
+  ]
+}
