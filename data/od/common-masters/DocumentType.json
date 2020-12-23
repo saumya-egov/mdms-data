@@ -182,19 +182,11 @@
       "active": true
     },
     {
-      "code": "ADDL.POSSESSIONLETTER",
-      "active": true
-    },
-    {
       "code": "ADDL.APPROVEDLAYOUT",
       "active": true
     },
     {
       "code": "ADDL.RERACERTIFICATE",
-      "active": true
-    },
-    {
-      "code": "ADDL.BENCHMARKCERTIFICATE",
       "active": true
     },
     {
@@ -235,14 +227,6 @@
     },
     {
       "code": "ADDL.WASTEMANAGMENTPLAN",
-      "active": true
-    },
-    {
-      "code": "ADDL.BENCHMARKCERTIFICATE",
-      "active": true
-    },
-    {
-      "code": "ADDL.REGULARISATIONANNEXUREI",
       "active": true
     }
   ]
