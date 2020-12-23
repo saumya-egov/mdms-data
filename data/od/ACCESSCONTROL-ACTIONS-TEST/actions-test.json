@@ -6063,7 +6063,7 @@
          "displayName": "Complaints",
          "orderNumber": 1,
          "parentModule": "rainmaker-pgr",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints",
