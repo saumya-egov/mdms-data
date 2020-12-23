@@ -1,0 +1,100 @@
+{
+  "tenantId": "od.rajgangpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajgangpur",
+        "localname": "Rajgangpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.rajgangpur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Ranibandha",
+            "localname": "Ranibandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Liploi",
+            "localname": "Liploi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Rajgangpur (ka)",
+            "localname": "Rajgangpur (ka)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Rajgangpur (kha)",
+            "localname": "Rajgangpur (kha)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Rajgangpur",
+            "localname": "Rajgangpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Kumarkela",
+            "localname": "Kumarkela",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil6"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajgangpur",
+        "localname": "Rajgangpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.rajgangpur"
+      }
+    }
+  ]
+}
