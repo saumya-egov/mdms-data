@@ -1,0 +1,200 @@
+{
+  "tenantId": "od.talcher",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Talcher",
+        "localname": "Talcher",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.talcher",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Nijigarh town",
+            "localname": "Nijigarh town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "vil1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Nijigarh jami",
+            "localname": "Nijigarh jami",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Gopinathpur",
+            "localname": "Gopinathpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Mahulapal(A)",
+            "localname": "Mahulapal(A)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Mahulapal(B)",
+            "localname": "Mahulapal(B)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Birabarpalli",
+            "localname": "Birabarpalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Remuan",
+            "localname": "Remuan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Chauliakuta",
+            "localname": "Chauliakuta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Koilunda",
+            "localname": "Koilunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Acharyanali",
+            "localname": "Acharyanali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Atharpa",
+            "localname": "Atharpa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Dhempakuta",
+            "localname": "Dhempakuta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Malipada",
+            "localname": "Malipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Majurihata",
+            "localname": "Majurihata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Dadara",
+            "localname": "Dadara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Amrutadeipur",
+            "localname": "Amrutadeipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "Vil16"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Talcher",
+        "localname": "Talcher",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.talcher"
+      }
+    }
+  ]
+}
