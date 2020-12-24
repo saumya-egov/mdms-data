@@ -2,21 +2,133 @@
     "tenantId": "od",
     "moduleName": "NOC",
     "NocType": [
-       {
-         "code": "FIRE_NOC",
-         "isActive": true,
-         "offlineWF":"FIRE_NOC_OFFLINE",
-         "onlineWF":"FIRE_NOC_SRV",
-         "mode":"online",
-         "NocUserRole":"FIRE_NOC_APPROVER"
-      },
-      {
-        "code":"AIRPORT_AUTHORITY",
-        "isActive": true,
-        "offlineWF":"AIRPORT_NOC_OFFLINE",
-        "onlineWF":"AIRPORT_NOC_SRV",
-        "mode":"offline",
-        "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
-      }
+        {
+            "code": "HBDA_NOC",
+            "isActive": true,
+            "offlineWF": "HBDA_NOC_OFFLINE",
+            "onlineWF": "HBDA_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "HBDA_NOC_APPROVER"
+        },
+        {
+            "code": "DFO_NOC",
+            "isActive": true,
+            "offlineWF": "DFO_NOC_OFFLINE",
+            "onlineWF": "DFO_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "DFO_NOC_APPROVER"
+        },
+        {
+            "code":"AIRPORT_AUTHORITY",
+            "isActive": true,
+            "offlineWF":"AIRPORT_NOC_OFFLINE",
+            "onlineWF":"AIRPORT_NOC_SRV",
+            "mode":"offline",
+            "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
+        },
+        {
+            "code": "NMA_NOC",
+            "isActive": true,
+            "offlineWF": "NMA_NOC_OFFLINE",
+            "onlineWF": "NMA_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "NMA_NOC_APPROVER"
+        },
+        {
+            "code": "EC_NOC",
+            "isActive": true,
+            "offlineWF": "EC_NOC_OFFLINE",
+            "onlineWF": "EC_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "EC_NOC_APPROVER"
+        },
+        {
+            "code": "FIRE_NOC",
+            "isActive": true,
+            "offlineWF":"FIRE_NOC_OFFLINE",
+            "onlineWF":"FIRE_NOC_SRV",
+            "mode":"online",
+            "NocUserRole":"FIRE_NOC_APPROVER"
+        },
+        {
+            "code": "HUDULB_NOC",
+            "isActive": true,
+            "offlineWF": "HUDULB_NOC_OFFLINE",
+            "onlineWF": "HUDULB_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "HUDULB_NOC_APPROVER"            
+        },
+        {
+            "code": "PHEO_NOC",
+            "isActive": true,
+            "offlineWF": "PHEO_NOC_OFFLINE",
+            "onlineWF": "PHEO_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "PHEO_NOC_APPROVER"
+        },
+        {
+            "code": "CGWA_NOC",
+            "isActive": true,
+            "offlineWF": "CGWA_NOC_OFFLINE",
+            "onlineWF": "CGWA_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "CGWA_NOC_APPROVER"
+        },
+        {
+            "code": "EDC_NOC",
+            "isActive": true,
+            "offlineWF": "EDC_NOC_OFFLINE",
+            "onlineWF": "EDC_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "EDC_NOC_APPROVER"
+        },
+        {
+            "code": "HDPOLICE_NOC",
+            "isActive": true,
+            "offlineWF": "HDPOLICE_NOC_OFFLINE",
+            "onlineWF": "HDPOLICE_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "HDPOLICE_NOC_APPROVER"
+        },
+        {
+            "code": "WRD_NOC",
+            "isActive": true,
+            "offlineWF": "WRD_NOC_OFFLINE",
+            "onlineWF": "WRD_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "WRD_NOC_APPROVER"
+        },
+        {
+            "code": "PCB_NOC",
+            "isActive": true,
+            "offlineWF": "PCB_NOC_OFFLINE",
+            "onlineWF": "PCB_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "PCB_NOC_APPROVER"
+        },
+        {
+            "code": "RDMTEHSILDAR_NOC",
+            "isActive": true,
+            "offlineWF": "RDMTEHSILDAR_NOC_OFFLINE",
+            "onlineWF": "RDMTEHSILDAR_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "RDMTEHSILDAR_NOC_APPROVER"
+        },
+        {
+            "code": "NHAI_NOC",
+            "isActive": true,
+            "offlineWF": "NHAI_NOC_OFFLINE",
+            "onlineWF": "NHAI_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "NHAI_NOC_APPROVER"
+        },
+        {
+            "code": "COASTALREG_NOC",
+            "isActive": true,
+            "offlineWF": "COASTALREG_NOC_OFFLINE",
+            "onlineWF": "COASTALREG_NOC_SRV",
+            "mode": "online",
+            "NocUserRole": "COASTALREG_NOC_APPROVER"
+        }
     ]
   }
