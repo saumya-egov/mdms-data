@@ -10,7 +10,11 @@
       "femalePopultion": "74671",
       "workingPopulation": "37.2",
       "literacyRate": "79.2",
-      "languagesSpoken": ["OD", "HN", "EN"]
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
     },
     {
       "code": "od.banki",
@@ -20,9 +24,12 @@
       "femalePopultion": "53895",
       "workingPopulation": "35.01",
       "literacyRate": "69.46",
-      "languagesSpoken": ["OD", "GR", "HN"]
+      "languagesSpoken": [
+        "OD",
+        "GR",
+        "HN"
+      ]
     },
-  
     {
       "code": "od.jatni",
       "districtCode": "JATNI",
@@ -31,7 +38,11 @@
       "femalePopultion": "6810",
       "workingPopulation": "33.48",
       "literacyRate": "62.63",
-      "languagesSpoken": ["GR", "OD", "HN"]
+      "languagesSpoken": [
+        "GR",
+        "OD",
+        "HN"
+      ]
     },
     {
       "code": "od.cityd",
@@ -41,7 +52,11 @@
       "femalePopultion": "5697",
       "workingPopulation": "33.70",
       "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "OD", "EN"]
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
     },
     {
       "code": "od.citye",
@@ -51,7 +66,361 @@
       "femalePopultion": "5697",
       "workingPopulation": "33.70",
       "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "OD", "EN"]
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.angul",
+      "districtCode": "ANGUL",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.berhmpurMouza",
+      "districtCode": "BERHMPURMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhubaneswarMouza",
+      "districtCode": "BHUBANESWARMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.biramitrapur",
+      "districtCode": "BIRAMITRAPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.brhmapur",
+      "districtCode": "BRHMAPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.burla",
+      "districtCode": "BURLA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.chatrapur",
+      "districtCode": "CHATRAPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.cuttackMouza",
+      "districtCode": "CUTTACKMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.goapalpur",
+      "districtCode": "GOAPALPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.hirakud",
+      "districtCode": "HIRAKUD",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kalingaNagarMouza",
+      "districtCode": "KALINGANAGARMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.khurda",
+      "districtCode": "KHURDA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.konark",
+      "districtCode": "KONARK",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.paradip",
+      "districtCode": "PARADIP",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.paradipMouza",
+      "districtCode": "PARADIPMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.puri",
+      "districtCode": "PURI",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.puriMouza",
+      "districtCode": "PURIMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rajgangpur",
+      "districtCode": "RAJGANGPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rourkela",
+      "districtCode": "ROURKELA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rourkelaMouza",
+      "districtCode": "ROURKELAMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sambalpur",
+      "districtCode": "SAMBALPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sambalpurMouza",
+      "districtCode": "SAMBALPURMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sundargarh",
+      "districtCode": "SUNDARGARH",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.talcher",
+      "districtCode": "TALCHER",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.tamdaMouza",
+      "districtCode": "TAMDAMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
     }
   ]
 }
