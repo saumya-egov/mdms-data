@@ -20,8 +20,82 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
-
       ]
     },
     {
@@ -42,10 +116,85 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
       ]
     },
-   {
+    {
       "module": "Finance",
       "code": "Finance",
       "tenants": [
@@ -63,6 +212,81 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
       ]
     },
@@ -84,6 +308,81 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
       ]
     },
@@ -105,6 +404,81 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
       ]
     },
@@ -126,6 +500,81 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
       ]
     },
@@ -147,6 +596,81 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
       ]
     },
@@ -168,6 +692,81 @@
         },
         {
           "code": "od.citye"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.berhmpurMouza"
+        },
+        {
+          "code": "od.bhubaneswarMouza"
+        },
+        {
+          "code": "od.biramitrapur"
+        },
+        {
+          "code": "od.brhmapur"
+        },
+        {
+          "code": "od.burla"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackMouza"
+        },
+        {
+          "code": "od.goapalpur"
+        },
+        {
+          "code": "od.hirakud"
+        },
+        {
+          "code": "od.kalingaNagarMouza"
+        },
+        {
+          "code": "od.khurda"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradip"
+        },
+        {
+          "code": "od.paradipMouza"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.puriMouza"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkelaMouza"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurMouza"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.tamdaMouza"
         }
       ]
     },
