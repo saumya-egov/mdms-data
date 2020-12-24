@@ -61,6 +61,36 @@
                     "required": false
                 }
             ]
+        },
+		        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "HBDA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HBDA",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "HBDA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HBDA",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "HBDA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HBDA",
+                    "required": false
+                }
+            ]
         }
     ]
 }
