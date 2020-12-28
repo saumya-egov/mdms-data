@@ -368,14 +368,14 @@
       "description": "BPA Architect"
     },
     {
-      "code": "BPA_ENGINEER",
-      "name": "BPA Engineer",
-      "description": "BPA Engineer"
+      "code": "BPA_CIVILENGINEER",
+      "name": "BPA Civil Engineer",
+      "description": "BPA Civil Engineer"
     },
     {
-      "code": "BPA_BUILDER",
-      "name": "BPA Builder",
-      "description": "BPA Builder"
+      "code": "BPA_ELECTRICALENGINEER",
+      "name": "BPA Electrical Engineer",
+      "description": "BPA Electrical Engineer"
     },
     {
       "code": "BPA_STRUCTURALENGINEER",

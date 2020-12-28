@@ -61,8 +61,8 @@
     },
     {
       "id": "df027b77-69c1-4749-8608-601328a2deea",
-      "tradeType": "BUILDER.CLASSA",
-      "role": ["BPA_BUILDER"],
+      "tradeType": "ELECTRICALENGINEER.CLASSA",
+      "role": ["BPA_ELECTRICALENGINEER"],
       "endstate": "APPROVED",
       "applicationFee": 500,
       "docTypes": [
@@ -102,24 +102,24 @@
     },
     {
       "id": "df027b77-69c1-4749-8608-601328a2deea",
-      "tradeType": "BUILDER.CLASSB",
-      "role": ["BPA_BUILDER"],
+      "tradeType": "ELECTRICALENGINEER.CLASSB",
+      "role": ["BPA_ELECTRICALENGINEER"],
       "endstate": "APPROVED",
       "applicationFee": 500,
       "docTypes": null
     },
     {
       "id": "df027b77-69c1-4749-8608-601328a2deea",
-      "tradeType": "BUILDER.CLASSC",
-      "role": ["BPA_BUILDER"],
+      "tradeType": "ELECTRICALENGINEER.CLASSC",
+      "role": ["BPA_ELECTRICALENGINEER"],
       "endstate": "APPROVED",
       "applicationFee": 500,
       "docTypes": null
     },
     {
       "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
-      "tradeType": "ENGINEER.CLASSA",
-      "role": ["BPA_ENGINEER"],
+      "tradeType": "CIVILENGINEER.CLASSA",
+      "role": ["BPA_CIVILENGINEER"],
       "endstate": "APPROVED",
       "applicationFee": 500,
       "docTypes": [
@@ -159,16 +159,16 @@
     },
     {
       "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
-      "tradeType": "ENGINEER.CLASSB",
-      "role": ["BPA_ENGINEER"],
+      "tradeType": "CIVILENGINEER.CLASSB",
+      "role": ["BPA_CIVILENGINEER"],
       "endstate": "APPROVED",
       "applicationFee": 500,
       "docTypes": null
     },
     {
       "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
-      "tradeType": "ENGINEER.CLASSC",
-      "role": ["BPA_ENGINEER"],
+      "tradeType": "CIVILENGINEER.CLASSC",
+      "role": ["BPA_CIVILENGINEER"],
       "endstate": "APPROVED",
       "applicationFee": 500,
       "docTypes": null

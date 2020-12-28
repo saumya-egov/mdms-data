@@ -108,7 +108,7 @@
           "required": true
         }
       ],
-      "tradeType": "BUILDER"
+      "tradeType": "ELECTRICALENGINEER"
     },
     {
       "allowedDocs": [
@@ -144,7 +144,7 @@
           "required": true
         }
       ],
-      "tradeType": "ENGINEER"
+      "tradeType": "CIVILENGINEER"
     },
     {
       "allowedDocs": [

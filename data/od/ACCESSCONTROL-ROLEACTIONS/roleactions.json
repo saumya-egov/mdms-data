@@ -13731,13 +13731,13 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_ENGINEER",
+      "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1922,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_BUILDER",
+      "rolecode": "BPA_ELECTRICALENGINEER",
       "actionid": 1922,
       "actioncode": "",
       "tenantId": "od"
@@ -14085,13 +14085,13 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_ENGINEER",
+      "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1946,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_BUILDER",
+      "rolecode": "BPA_ELECTRICALENGINEER",
       "actionid": 1946,
       "actioncode": "",
       "tenantId": "od"
@@ -14109,13 +14109,13 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_ENGINEER",
+      "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1947,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_BUILDER",
+      "rolecode": "BPA_ELECTRICALENGINEER",
       "actionid": 1947,
       "actioncode": "",
       "tenantId": "od"
@@ -14805,7 +14805,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_BUILDER",
+      "rolecode": "BPA_ELECTRICALENGINEER",
       "actionid": 1972,
       "actioncode": "",
       "tenantId": "od"
@@ -14889,7 +14889,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "BPA_ENGINEER",
+      "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1972,
       "actioncode": "",
       "tenantId": "od"
