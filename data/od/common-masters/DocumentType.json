@@ -4,7 +4,7 @@
   "DocumentType": [
     {
       "code": "APPL.IDENTITYPROOF.AADHAAR",
-      "active": true
+      "active": false
     },
     {
       "code": "APPL.IDENTITYPROOF.PASSPORT",
@@ -14,6 +14,18 @@
       "code": "APPL.IDENTITYPROOF.DRIVINGLICENSE",
       "active": true
     },
+    {
+      "code": "APPL.OWNERIDPROOF.AADHAAR",
+      "active": false
+    },
+    {
+      "code": "APPL.OWNERIDPROOF.PASSPORT",
+      "active": true
+    },
+    {
+      "code": "APPL.OWNERIDPROOF.DRIVINGLICENSE",
+      "active": true
+    },	
     {
       "code": "APPL.ADDRESSPROOF.ELECTRICITYBILL",
       "active": true
@@ -43,9 +55,49 @@
       "active": true
     },
     {
+      "code": "APPL.ROR.ROR",
+      "active": true
+    },
+	{
+      "code": "APPL.SALEGIFTDEED.SALEGIFTDEED",
+      "active": true
+    },
+	{
+      "code": "APPL.REVSITEPLAN.REVSITEPLAN",
+      "active": true
+    },	
+	{
+      "code": "APPL.LANDPOSSAFFI.LANDPOSSAFFI",
+      "active": true
+    },	
+    {
+      "code": "BPD.BPL.BPL",
+      "active": true
+    },	
+    {
       "code": "BPD.SP.SP",
       "active": true
     },
+    {
+      "code": "BPD.LP.LP",
+      "active": true
+    },	
+    {
+      "code": "BPD.MATSPEC.MATSPEC",
+      "active": true
+    },
+    {
+      "code": "BPD.SITEPHOTO.SITEPHOTO",
+      "active": true
+    },	
+    {
+      "code": "BPD.SSUPCERT.SSUPCERT",
+      "active": true
+    },	
+    {
+      "code": "BPD.SSTABCERT.SSTABCERT",
+      "active": true
+    },	
     {
       "code": "BPD.RP.RP",
       "active": true

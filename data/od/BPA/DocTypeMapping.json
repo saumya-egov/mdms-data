@@ -14,80 +14,74 @@
           "allow": true,
           "order": 1
         },
+		{
+          "code": "APPL.OWNERIDPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "APPL.ROR",
           "required": false,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "APPL.SALEGIFTDEED",
           "required": false,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
+          "code": "APPL.REVSITEPLAN",
           "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "APPL.LANDPOSSAFFI",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
+          "code": "BPD.BPL",
           "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "BPD.SP",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "BPD.LP",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPD.MATSPEC",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPD.SITEPHOTO",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPD.SSUPCERT",
           "required": false,
           "allow": true,
           "order": 13
         },
         {
-          "code": "BPD.RP",
+          "code": "BPD.SSTABCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -230,179 +224,209 @@
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": false,
+          "required": true,
           "allow": true,
-          "order": 17
+          "order": 1
+        },
+		{
+          "code": "APPL.OWNERIDPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "APPL.ROR",
           "required": false,
           "allow": true,
-          "order": 18
+          "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "APPL.SALEGIFTDEED",
           "required": false,
           "allow": true,
-          "order": 19
+          "order": 3
         },
         {
-          "code": "APPL.TDP",
+          "code": "APPL.REVSITEPLAN",
           "required": false,
           "allow": true,
-          "order": 20
+          "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "APPL.LANDPOSSAFFI",
           "required": false,
           "allow": true,
-          "order": 21
+          "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "BPD.BPL",
           "required": false,
           "allow": true,
-          "order": 22
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 23
+          "order": 8
         },
         {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
-          "order": 24
+          "order": 9
         },
         {
-          "code": "BPD.FP",
+          "code": "BPD.LP",
           "required": false,
           "allow": true,
-          "order": 25
+          "order": 10
         },
         {
-          "code": "BPD.SCP",
+          "code": "BPD.MATSPEC",
           "required": false,
           "allow": true,
-          "order": 26
+          "order": 11
         },
         {
-          "code": "BPD.EP",
+          "code": "BPD.SITEPHOTO",
           "required": false,
           "allow": true,
-          "order": 27
+          "order": 12
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPD.SSUPCERT",
           "required": false,
           "allow": true,
-          "order": 28
+          "order": 13
         },
         {
-          "code": "BPD.PP",
+          "code": "BPD.SSTABCERT",
           "required": false,
           "allow": true,
-          "order": 29
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 30
+          "order": 14
         }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "INPROGRESS",
-      "docTypes": [
+      ],
+      "DocTypes1": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "ADDL.ALLOTMENTLETTER",
           "required": false,
           "allow": true,
-          "order": 33
+          "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "ADDL.SKETCHMAP",
           "required": false,
           "allow": true,
-          "order": 34
+          "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "ADDL.POSSESSIONLETTER",
           "required": false,
           "allow": true,
-          "order": 35
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
         },
         {
-          "code": "APPL.TDP",
+          "code": "ADDL.APPROVEDLAYOUT",
           "required": false,
           "allow": true,
-          "order": 36
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
         },
         {
-          "code": "APPL.LAC",
+          "code": "ADDL.REGULARISATIONANNEXUREI",
           "required": false,
           "allow": true,
-          "order": 37
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
         },
         {
-          "code": "APPL.SSC",
+          "code": "ADDL.EXTERNALINFRAPLAN",
           "required": false,
           "allow": true,
-          "order": 38
+          "order": 2
         },
         {
-          "code": "APPL.LSVS",
+          "code": "ADDL.INFRADEVAFFIDAVIT",
           "required": false,
           "allow": true,
-          "order": 39
+          "order": 1
         },
         {
-          "code": "BPD.SP",
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
           "required": false,
           "allow": true,
-          "order": 40
+          "order": 2
         },
         {
-          "code": "BPD.FP",
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
           "required": false,
           "allow": true,
-          "order": 41
+          "order": 3
         },
         {
-          "code": "BPD.SCP",
+          "code": "ADDL.DRAINAFFIDAVIT",
           "required": false,
           "allow": true,
-          "order": 42
+          "order": 4
         },
         {
-          "code": "BPD.EP",
+          "code": "ADDL.WASTEMANAGMENTPLAN",
           "required": false,
           "allow": true,
-          "order": 43
+          "order": 5
         },
         {
-          "code": "BPD.SECP",
+          "code": "ADDL.BENCHMARKCERTIFICATE",
           "required": false,
           "allow": true,
-          "order": 44
+          "order": 6
         },
         {
-          "code": "BPD.PP",
+          "code": "ADDL.REGULARISATIONANNEXUREI",
           "required": false,
           "allow": true,
-          "order": 45
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 46
+          "order": 7
         }
       ]
     },
