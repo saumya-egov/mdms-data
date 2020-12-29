@@ -55,7 +55,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
@@ -172,7 +172,7 @@
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDINGAPPROVAL",
       "conditions": [
         "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
@@ -256,7 +256,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
@@ -373,7 +373,7 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
+      "RiskType": "OTHER",
       "WFState": "PENDINGAPPROVAL",
       "conditions": [
         "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
