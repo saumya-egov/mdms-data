@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil1"
+            "code": "VIL1"
           },
           {
             "id": "3",
@@ -35,7 +35,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "Vil2"
+            "code": "VIL2"
           },
           {
             "id": "4",
@@ -45,7 +45,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "Vil3"
+            "code": "VIL3"
           },
           {
             "id": "5",
@@ -55,7 +55,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "Vil4"
+            "code": "VIL4"
           }
         ]
       }

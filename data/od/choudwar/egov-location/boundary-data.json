@@ -25,7 +25,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil1"
+            "code": "VIL1"
           },
           {
             "id": "3",
@@ -35,7 +35,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil2"
+            "code": "VIL2"
           },
           {
             "id": "4",
@@ -45,7 +45,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil3"
+            "code": "VIL3"
           },
           {
             "id": "5",
@@ -55,7 +55,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil4"
+            "code": "VIL4"
           },
           {
             "id": "6",
@@ -65,7 +65,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil5"
+            "code": "VIL5"
           },
           {
             "id": "7",
@@ -75,7 +75,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil6"
+            "code": "VIL6"
           },
           {
             "id": "8",
@@ -85,7 +85,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil7"
+            "code": "VIL7"
           },
           {
             "id": "9",
@@ -95,7 +95,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil8"
+            "code": "VIL8"
           },
           {
             "id": "10",
@@ -105,7 +105,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil9"
+            "code": "VIL9"
           },
           {
             "id": "11",
@@ -115,7 +115,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil10"
+            "code": "VIL10"
           },
           {
             "id": "12",
@@ -125,7 +125,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil11"
+            "code": "VIL11"
           },
           {
             "id": "13",
@@ -135,7 +135,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil12"
+            "code": "VIL12"
           },
           {
             "id": "14",
@@ -145,7 +145,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil13"
+            "code": "VIL13"
           },
           {
             "id": "15",
@@ -155,7 +155,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil14"
+            "code": "VIL14"
           },
           {
             "id": "16",
@@ -165,7 +165,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil15"
+            "code": "VIL15"
           },
           {
             "id": "17",
@@ -175,7 +175,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil16"
+            "code": "VIL16"
           },
           {
             "id": "18",
@@ -185,7 +185,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil17"
+            "code": "VIL17"
           },
           {
             "id": "19",
@@ -195,7 +195,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil18"
+            "code": "VIL18"
           },
           {
             "id": "20",
@@ -205,7 +205,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil19"
+            "code": "VIL19"
           },
           {
             "id": "21",
@@ -215,7 +215,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil20"
+            "code": "VIL20"
           },
           {
             "id": "22",
@@ -225,7 +225,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil21"
+            "code": "VIL21"
           },
           {
             "id": "23",
@@ -235,7 +235,7 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "vil22"
+            "code": "VIL22"
           }
         ]
       }
