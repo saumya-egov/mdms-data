@@ -97,6 +97,10 @@
     {
       "code": "BPD.SSTABCERT.SSTABCERT",
       "active": true
+    },
+    {
+      "code": "BPD.3RDPARTYSTRUCCERT.3RDPARTYSTRUCCERT",
+      "active": true
     },	
     {
       "code": "BPD.RP.RP",

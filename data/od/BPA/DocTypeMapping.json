@@ -85,7 +85,14 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
+
       ],
       "DocTypes1": [
         {
@@ -296,6 +303,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -789,6 +802,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -1000,6 +1019,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -1585,6 +1610,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -1796,6 +1827,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -2102,6 +2139,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -2871,6 +2914,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -3085,6 +3134,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -3299,6 +3354,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -3510,6 +3571,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -3819,6 +3886,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -4033,6 +4106,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -4431,6 +4510,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -4645,6 +4730,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -4951,6 +5042,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -5165,6 +5262,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -5471,6 +5574,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -5682,6 +5791,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -5991,6 +6106,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -6205,6 +6326,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -6511,6 +6638,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -6722,6 +6855,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -7031,6 +7170,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -7242,6 +7387,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -7459,6 +7610,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -7670,6 +7827,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -7979,6 +8142,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -8193,6 +8362,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -8499,6 +8674,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -8713,6 +8894,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -8846,526 +9033,6 @@
     },
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": false,
-          "order": 33
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": false,
-          "order": 34
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": false,
-          "order": 35
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": false,
-          "order": 36
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": false,
-          "order": 37
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": false,
-          "order": 38
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": false,
-          "order": 39
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": false,
-          "order": 40
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": false,
-          "order": 41
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": false,
-          "order": 42
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": false,
-          "order": 43
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": false,
-          "order": 44
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": false,
-          "order": 45
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": false,
-          "order": 46
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.REVSITEPLAN",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LANDPOSSAFFI",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "BPD.BPL",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.LP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.MATSPEC",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SITEPHOTO",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.SSUPCERT",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.SSTABCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.SKETCHMAP",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.APPROVEDLAYOUT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.EXTERNALINFRAPLAN",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "ADDL.DRAINAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "OTHER",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.REVSITEPLAN",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LANDPOSSAFFI",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "BPD.BPL",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.LP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.MATSPEC",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SITEPHOTO",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.SSUPCERT",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.SSTABCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.SKETCHMAP",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.APPROVEDLAYOUT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.EXTERNALINFRAPLAN",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "ADDL.DRAINAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
       "WFState": "CITIZEN_APPROVAL_PENDING",
@@ -9459,6 +9126,538 @@
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": false,
+          "order": 33
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": false,
+          "order": 34
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": false,
+          "order": 35
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": false,
+          "order": 36
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": false,
+          "order": 37
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": false,
+          "order": 38
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": false,
+          "order": 39
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": false,
+          "order": 40
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": false,
+          "order": 41
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": false,
+          "order": 42
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": false,
+          "order": 43
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": false,
+          "order": 44
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": false,
+          "order": 45
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": false,
+          "order": 46
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
       "WFState": "BACK_FROM_NOC_VERIFICATION",
       "docTypes": [
@@ -9907,6 +10106,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -10121,6 +10326,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -10427,6 +10638,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -10638,6 +10855,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -10947,6 +11170,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -11158,6 +11387,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -11743,6 +11978,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -11957,6 +12198,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -12263,6 +12510,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -12474,6 +12727,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -12783,6 +13042,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -12997,6 +13262,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -13303,6 +13574,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -13514,6 +13791,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
@@ -13823,6 +14106,12 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
         }
       ],
       "DocTypes1": [
@@ -14034,6 +14323,12 @@
         },
         {
           "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
           "required": false,
           "allow": true,
           "order": 14
