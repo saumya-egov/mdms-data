@@ -16,14 +16,6 @@
         {
           "label": "ENGLISH",
           "value": "en_IN"
-        },
-        {
-          "label": "HINDI",
-          "value": "hi_IN"
-        },
-		{
-          "label": "ODIA",
-          "value": "od_IN"
         }
       ],
       "localizationModules": [
