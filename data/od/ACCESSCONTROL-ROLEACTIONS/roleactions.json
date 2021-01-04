@@ -14079,6 +14079,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1946,
       "actioncode": "",
