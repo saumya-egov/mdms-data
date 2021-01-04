@@ -394,24 +394,24 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "od.goapalpur",
-      "name": "Goapalpur",
-      "description": "Goapalpur",
+      "code": "od.gopalpur",
+      "name": "Gopalpur",
+      "description": "Gopalpur",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": null,
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "goapalpur@gmail.com",
+      "emailId": "gopalpur@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Goapalpur",
+        "name": "Gopalpur",
         "localName": null,
-        "districtCode": "GOAPALPUR",
+        "districtCode": "GOPALPUR",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
@@ -422,7 +422,7 @@
         "code": "107",
         "ddrName": "DDR A"
       },
-      "address": "Goapalpur Municipal Corporation Address",
+      "address": "Gopalpur Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },

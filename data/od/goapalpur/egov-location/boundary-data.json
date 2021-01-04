@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.goapalpur",
+  "tenantId": "od.gopalpur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Goapalpur",
-        "localname": "Goapalpur",
+        "name": "Gopalpur",
+        "localname": "Gopalpur",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.goapalpur",
+        "code": "od.gopalpur",
         "children": [
           {
             "id": "2",
@@ -68,12 +68,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Goapalpur",
-        "localname": "Goapalpur",
+        "name": "Gopalpur",
+        "localname": "Gopalpur",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.goapalpur"
+        "code": "od.gopalpur"
       }
     }
   ]
