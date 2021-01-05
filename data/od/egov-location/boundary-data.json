@@ -7,16 +7,28 @@
         "code": "REVENUE",
         "name": "REVENUE"
       },
-      "boundary": {
-        "id": 1,
-        "boundaryNum": 1,
-        "name": "Cuttack",
-        "localname": "Cuttack",
-        "longitude": null,
-        "latitude": null,
-        "label": "City",
-        "code": "od.cuttack"
-      }
+      "boundary": [
+        {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Cuttack",
+          "localname": "Cuttack",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "od.cuttack"
+        },
+        {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Jatni",
+          "localname": "Jatni",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "od.jatni"
+        }
+      ]
     },
     {
       "hierarchyType": {
