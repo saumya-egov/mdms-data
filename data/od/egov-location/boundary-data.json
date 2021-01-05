@@ -1,0 +1,54 @@
+{
+  "tenantId": "od",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Odisha",
+        "localname": "Odisha",
+        "longitude": null,
+        "latitude": null,
+        "label": "State",
+        "code": "od",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Cuttack",
+            "localname": "Cuttack",
+            "longitude": null,
+            "latitude": null,
+            "label": "City",
+            "code": "od.cuttack"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Jatni",
+            "localname": "Jatni",
+            "longitude": null,
+            "latitude": null,
+            "label": "City",
+            "code": "od.jatni"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Banki",
+            "localname": "Banki",
+            "longitude": null,
+            "latitude": null,
+            "label": "City",
+            "code": "od.banki"
+          }
+        ]
+      }
+    }
+  ]
+}
