@@ -7,7 +7,7 @@
         "code": "REVENUE",
         "name": "REVENUE"
       },
-      "boundary": [
+      "children": [
         {
           "id": 1,
           "boundaryNum": 1,
