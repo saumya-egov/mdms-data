@@ -10,124 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Jatni",
-        "localname": "Jatni",
+        "name": "Cuttack",
+        "localname": "Cuttack",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.jatni",
-        "children": [
-          {
-            "id": "2",
-            "boundaryNum": 1,
-            "name": "Bachharapatana",
-            "localname": "Bachharapatana",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL1"
-          },
-          {
-            "id": "3",
-            "boundaryNum": 1,
-            "name": "Chhanaghara",
-            "localname": "Chhanaghara",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL2"
-          },
-          {
-            "id": "4",
-            "boundaryNum": 1,
-            "name": "Gopinathpur Jatani",
-            "localname": "Gopinathpur Jatani",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL3"
-          },
-          {
-            "id": "5",
-            "boundaryNum": 1,
-            "name": "Goradharmasagar",
-            "localname": "Goradharmasagar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL4"
-          },
-          {
-            "id": "6",
-            "boundaryNum": 1,
-            "name": "Jaganathpur patna",
-            "localname": "Jaganathpur patna",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL5"
-          },
-          {
-            "id": "7",
-            "boundaryNum": 1,
-            "name": "Jatanitown Khasmahal",
-            "localname": "Jatanitown Khasmahal",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL6"
-          },
-          {
-            "id": "8",
-            "boundaryNum": 1,
-            "name": "Jatani",
-            "localname": "Jatani",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL7"
-          },
-          {
-            "id": "9",
-            "boundaryNum": 1,
-            "name": "Kudiari",
-            "localname": "Kudiari",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL8"
-          },
-          {
-            "id": "10",
-            "boundaryNum": 1,
-            "name": "Kusumati",
-            "localname": "Kusumati",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL9"
-          },
-          {
-            "id": "11",
-            "boundaryNum": 1,
-            "name": "Ramchandrapur",
-            "localname": "Ramchandrapur",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL10"
-          },
-          {
-            "id": "12",
-            "boundaryNum": 1,
-            "name": "Sandhapur",
-            "localname": "Sandhapur",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL11"
-          }
-        ]
+        "code": "od.cuttack"
       }
     },
     {
