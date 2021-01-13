@@ -2056,7 +2056,7 @@
          "displayName": "Update Legacy License",
          "orderNumber": 1,
          "parentModule": "268",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TLTRANSACTIONS",
          "code": "null",
          "path": "Trade License.License Transactions.UpdateLegacyLicense"
@@ -2186,7 +2186,7 @@
          "displayName": "Create Notice Document",
          "orderNumber": 0,
          "parentModule": "303",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOTICEDOCUMENTS",
          "code": "null",
          "path": "Trade License.Notice Documents.CreateNoticeDocuments"
@@ -2198,7 +2198,7 @@
          "displayName": "Update Notice Document",
          "orderNumber": 1,
          "parentModule": "303",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOTICEDOCUMENTS",
          "code": "null",
          "path": "Trade License.Notice Documents.UpdateNoticeDocuments"
@@ -2210,7 +2210,7 @@
          "displayName": "Search Notice Document",
          "orderNumber": 2,
          "parentModule": "303",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOTICEDOCUMENTS",
          "code": "null",
          "path": "Trade License.Notice Documents.SearchNoticeDocuments"
@@ -2234,7 +2234,7 @@
          "displayName": "Search TL Configurations",
          "orderNumber": 0,
          "parentModule": "268",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TLTRANSACTIONS",
          "code": "null",
          "path": "Trade License.License Transactions.SearchTLConfigurations"
@@ -2951,7 +2951,7 @@
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
-         "code": "false",
+         "code": "true",
          "path": "Property Tax.PT Masters.ConstructionType",
          "navigationURL": "mdms/PropertyTax/ConstructionType "
       },
@@ -2962,7 +2962,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -2974,7 +2974,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -3121,7 +3121,7 @@
          "displayName": "PropertyTaxEstimates",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -3133,7 +3133,7 @@
          "displayName": "PropertyTaxCalculation",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -3145,7 +3145,7 @@
          "displayName": "PropertyTaxGetBill",
          "orderNumber": 2,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -3193,7 +3193,7 @@
          "displayName": "bill apportion",
          "orderNumber": 3,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "proeprtytax",
          "code": "null",
          "path": ""
@@ -3205,7 +3205,7 @@
          "displayName": "Billing Slab Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -4495,7 +4495,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "path": "",
@@ -4508,7 +4508,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "path": "",
@@ -4521,7 +4521,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "path": "",
@@ -4534,7 +4534,7 @@
          "parentModule": "",
          "displayName": "Create TradeLicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -4546,7 +4546,7 @@
          "parentModule": "",
          "displayName": "Update TradeLicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -4558,7 +4558,7 @@
          "parentModule": "",
          "displayName": "Search TradeLicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -4570,7 +4570,7 @@
          "parentModule": "",
          "displayName": "Get Bill",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-calculator",
          "code": "null",
          "path": ""
@@ -4582,7 +4582,7 @@
          "displayName": "Create Voucher",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": ""
@@ -4710,7 +4710,7 @@
          "displayName": "Create Remittance",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Property Tax",
          "code": "null",
          "path": ""
@@ -5715,7 +5715,7 @@
          "displayName": "Property Tax",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
@@ -5747,7 +5747,7 @@
          "displayName": "Trade Licence",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
@@ -6204,7 +6204,7 @@
          "displayName": "Property Tax",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
@@ -6220,7 +6220,7 @@
          "displayName": "Trade Licence",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
@@ -6345,7 +6345,7 @@
          "url": "/pt-services-v2/demandBased/_generate",
          "displayName": "pt-services demand based system",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT-SERVICES-V2",
          "code": "null",
          "path": ""
@@ -6922,7 +6922,7 @@
          "displayName": "TradeLicenseCalculation",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicenseCalculator",
          "code": "null",
          "path": "null"
@@ -6934,7 +6934,7 @@
          "parentModule": "",
          "displayName": "Create BPALicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -6946,7 +6946,7 @@
          "parentModule": "",
          "displayName": "Update BPALicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -6958,7 +6958,7 @@
          "parentModule": "",
          "displayName": "Search BPALicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -7027,7 +7027,7 @@
          "displayName": "Water & Sewerage",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "wns",
          "code": "",
          "path": "",
@@ -7044,7 +7044,7 @@
          "displayName": "Water & Sewerage",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "wns",
          "code": "",
          "path": "",
@@ -7475,7 +7475,7 @@
          "url": "/property-services/property/_create",
          "displayName": "Create Property Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7486,7 +7486,7 @@
          "url": "/property-services/property/_update",
          "displayName": "Update Property Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7497,7 +7497,7 @@
          "url": "/property-services/property/_search",
          "displayName": "Search Property Registry",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7508,7 +7508,7 @@
          "url": "/property-services/property/_cancel",
          "displayName": "Cancel Property Registry",
          "orderNumber": 4,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7638,7 +7638,7 @@
          "url": "/ws-services/wc/_create",
          "displayName": "Create Water COnnection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
@@ -7649,7 +7649,7 @@
          "url": "/ws-services/wc/_search",
          "displayName": "Search Water COnnection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
@@ -7660,7 +7660,7 @@
          "url": "/ws-services/wc/_update",
          "displayName": "Update Water COnnection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
@@ -7671,7 +7671,7 @@
          "url": "/ws-calculator/meterConnection/_create",
          "displayName": "Enter Meter Reading",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -7682,7 +7682,7 @@
          "url": "/ws-calculator/meterConnection/_search",
          "displayName": "Search Meter Reading",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -7693,7 +7693,7 @@
          "url": "/ws-calculator/waterCalculator/_calculate",
          "displayName": "Calculate Water Bill",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -7704,7 +7704,7 @@
          "url": "/sw-services/swc/_create",
          "displayName": "Create Sewerage Connection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-services",
          "code": "null",
          "path": ""
@@ -7715,7 +7715,7 @@
          "url": "/sw-services/swc/_update",
          "displayName": "Update Sewerage Connection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-services",
          "code": "null",
          "path": ""
@@ -7726,7 +7726,7 @@
          "url": "/sw-services/swc/_search",
          "displayName": "Search Sewerage Connection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-services",
          "code": "null",
          "path": ""
@@ -7737,7 +7737,7 @@
          "url": "/sw-calculator/sewerageCalculator/_calculate",
          "displayName": "Sewerage Calculation",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
@@ -7748,7 +7748,7 @@
          "url": "/egov-searcher/locality/BPAREG/_get",
          "displayName": "BPA locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7807,7 +7807,7 @@
          "url": "/property-services/assessment/_create",
          "displayName": "Create Assessment Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7818,7 +7818,7 @@
          "url": "/property-services/assessment/_update",
          "displayName": "Update Assessment Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7829,7 +7829,7 @@
          "url": "/property-services/assessment/_search",
          "displayName": "Search Assessment Registry",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7921,7 +7921,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -7933,7 +7933,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -7945,7 +7945,7 @@
          "displayName": "Mutation Billing Slab Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -7957,7 +7957,7 @@
          "displayName": "Mutation fees Calculation",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -8020,7 +8020,7 @@
          "url": "/ws-calculator/waterCalculator/_estimate",
          "displayName": "Fee Calculation For Water Application",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -8031,7 +8031,7 @@
          "url": "/sw-calculator/sewerageCalculator/_estimate",
          "displayName": "Fee Calculation For Sewerage Application",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
@@ -8043,7 +8043,7 @@
          "displayName": "PropertyTaxEstimatesV2",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -8183,7 +8183,7 @@
          "url": "/property-services/property/_migration",
          "displayName": "Migrate Property v1 to v2",
          "orderNumber": 5,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -8697,7 +8697,7 @@
          "url": "/ws-calculator/waterCalculator/_applyAdhocTax",
          "displayName": "Add adhoc tax",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -8708,7 +8708,7 @@
          "url": "/sw-calculator/sewerageCalculator/_applyAdhocTax",
          "displayName": "Add adhoc tax",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
