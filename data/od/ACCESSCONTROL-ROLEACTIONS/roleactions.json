@@ -13995,6 +13995,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1931,
       "actioncode": "",
@@ -14025,6 +14031,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1943,
       "actioncode": "",
@@ -14145,6 +14157,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
+    {
       "rolecode": "BPA_APPROVER",
       "actionid": 1766,
       "actioncode": "",
@@ -14156,6 +14174,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1766,
@@ -14835,6 +14859,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
+    {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1972,
       "actioncode": "",
@@ -14912,6 +14942,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1975,
@@ -15201,6 +15237,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
+    {
       "rolecode": "BPA_APPROVER",
       "actionid": 1989,
       "actioncode": "",
@@ -15242,6 +15284,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA3_APP_L1_VERIFIER",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
     {
       "rolecode": "CEMP",
       "actionid": 1990,
