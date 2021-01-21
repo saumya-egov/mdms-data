@@ -163,6 +163,30 @@
       "description": "Superintendent",
       "code": "DESIG_47",
       "active": true
-    }
+    },    
+    {
+      "code": "DESIG_48",	
+      "name": "Planning Assistant",
+      "description": "Planning Assistant",
+      "active": true
+    },    
+    {
+      "code": "DESIG_49",	
+      "name": "Planning Officer",
+      "description": "Planning Officer",
+      "active": true
+    },    
+    {
+      "code": "DESIG_50",	
+      "name": "Planning Member",
+      "description": "Planning Member",
+      "active": true
+    },    
+    {
+      "code": "DESIG_51",	
+      "name": "DP&BP Committee",
+      "description": "DP&BP Committee",
+      "active": true
+    }	
   ]
 }
