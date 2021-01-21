@@ -442,6 +442,11 @@
       "name": "BPA3 App L1 Verifier",
       "description": "BPA3 App L1 verifier"
     },
+	{
+      "code": "BPA3_APP_L2_VERIFIER",
+      "name": "BPA3 App L2 Verifier",
+      "description": "BPA3 App L2 verifier"
+    },
     {
       "code": "PT_CEMP",
       "name": "PT Counter Employee",
