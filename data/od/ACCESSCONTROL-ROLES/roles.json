@@ -413,6 +413,11 @@
       "description": "BPA Services workflow Approver"
     },
     {
+      "code": "BPA3_APPROVER",
+      "name": "BPA3 Services Approver",
+      "description": "BPA3 Services workflow Approver"
+    },
+    {
       "code": "BPA_VERIFIER",
       "name": "BPA Services verifier",
       "description": "BPA Services workflow document & field inspection verifier"
