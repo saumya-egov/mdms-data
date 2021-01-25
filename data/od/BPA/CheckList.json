@@ -156,7 +156,7 @@
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "LOW",
-      "WFState": "PENDINGAPPROVAL",
+      "WFState": "APPROVAL_PENDING",
       "conditions": [
         "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
         "The land in question must be in lawful ownership and peaceful possession of the applicant.",
@@ -173,7 +173,7 @@
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "OTHER",
-      "WFState": "PENDINGAPPROVAL",
+      "WFState": "APPROVAL_PENDING",
       "conditions": [       
 		"(a) The land/ Building shall be used exclusively for {Occupancy} purpose and the uses shall not be changed to any other use without prior approval of this Authority.",
         "(b) The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
@@ -191,7 +191,7 @@
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
-      "WFState": "PENDINGAPPROVAL",
+      "WFState": "APPROVAL_PENDING",
       "conditions": [
         "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
         "The land in question must be in lawful ownership and peaceful possession of the applicant.",
