@@ -11526,13 +11526,13 @@
       "rolecode": "HRMS_ADMIN",
       "actionid": 1773,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "od.cuttack"
     },
     {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1779,
       "actioncode": "",
-      "tenantId": "od"
+      "tenantId": "od.cuttack"
     },	
     {
       "rolecode": "SUPERUSER",
