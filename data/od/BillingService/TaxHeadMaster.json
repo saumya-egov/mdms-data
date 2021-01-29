@@ -344,6 +344,66 @@
       "order": "2",
       "isRequired": false
     },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "Retention Fees",
+      "code": "BPA_SANC_FEES.RETENTION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },	
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "Security Deposit",
+      "code": "BPA_SANC_FEES.SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "Welfare Cess",
+      "code": "BPA_SANC_FEES.WELFARE_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "Purchasable FAR Fees",
+      "code": "BPA_SANC_FEES.PUR_FAR_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },	
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "Shelter Fees",
+      "code": "BPA_SANC_FEES.SHELTER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },		
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "Sanction Fees",
+      "code": "BPA_SANC_FEES.SANC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },			
      {
       "category": "FEE",
       "service": "PT.MUTATION",
