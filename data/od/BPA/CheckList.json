@@ -156,6 +156,19 @@
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "LOW",
+      "WFState": "PLINTH_COMPLETION_INTIMATED",
+      "questions": [
+        {
+          "question": "RIVER_EXISTS_ON_SITE",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        }
+      ]
+    },	
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
       "WFState": "APPROVAL_PENDING",
       "conditions": [
         "The development shall be undertaken strictly according to plans enclosed with necessary permission endorsement.",
