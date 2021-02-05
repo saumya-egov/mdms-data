@@ -11,12 +11,12 @@
         {
           "question": "RIVER_EXISTS_ON_SITE",
           "fieldType": "YES/NO/NA",
-          "active": true
+          "active": false
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
           "fieldType": "YES/NO/NA",
-          "active": true
+          "active": false
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
@@ -26,7 +26,7 @@
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
           "fieldType": "YES/NO/NA",
-          "active": true
+          "active": false
         }
       ],
       "docTypes": [
@@ -36,19 +36,19 @@
         },
         {
           "code": "FI.SINS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SISS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIES",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIWS",
-          "required": true
+          "required": false
         }
       ]
     },
@@ -61,12 +61,12 @@
         {
           "question": "RIVER_EXISTS_ON_SITE",
           "fieldType": "YES/NO/NA",
-          "active": true
+          "active": false
         },
         {
           "question": "TREE_EXISTS_ON_SITE",
           "fieldType": "YES/NO/NA",
-          "active": true
+          "active": false
         },
         {
           "question": "PLAN_AS_PER_THE_SITE",
@@ -76,7 +76,7 @@
         {
           "question": "ROADWIDTH_AS_PER_THE_PLAN",
           "fieldType": "YES/NO/NA",
-          "active": true
+          "active": false
         }
       ],
       "docTypes": [
@@ -86,19 +86,19 @@
         },
         {
           "code": "FI.SINS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SISS",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIES",
-          "required": true
+          "required": false
         },
         {
           "code": "FI.SIWS",
-          "required": true
+          "required": false
         }
       ]
     },
