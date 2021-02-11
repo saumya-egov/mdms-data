@@ -6063,19 +6063,7 @@
       "type": "BPA",
       "validityPeriod": 5
     },
-    {
-      "code": "ELECTRICALENGINEER.CLASSA",
-      "uom": null,
-      "applicationDocument": [
-        "OWNERIDPROOF",
-        "OWNERSHIPPROOF",
-        "EXPERIENCEPROOF"
-      ],
-      "verificationDocument": [],
-      "active": false,
-      "type": "BPA",
-      "validityPeriod": 5
-    },
+   
     {
       "code": "CIVILENGINEER.CLASSA",
       "uom": null,
