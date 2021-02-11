@@ -5,8 +5,8 @@
     {
       "name": "Odisha",
       "code": "od",
-      "bannerUrl": "",
-      "logoUrl": "",
+      "bannerUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=9d796ae6-f1e7-4db1-8c9b-4dfdeed8948a&tenantId=od",
+      "logoUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=f6a95d20-f992-4307-9883-3d081efb87a8&tenantId=od",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/login",
