@@ -187,6 +187,18 @@
       "name": "DP&BP Committee",
       "description": "DP&BP Committee",
       "active": true
-    }	
+    },	
+	{
+      "code": "DESIG_205",
+      "name": "Assoc. City Planner",
+      "description": "Assoc. City Planner",
+      "active": true
+    },	
+	{
+      "code": "DESIG_206",
+      "name": "Amin",
+      "description": "Amin",
+      "active": true
+    }
   ]
 }
