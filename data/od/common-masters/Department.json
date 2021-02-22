@@ -66,6 +66,16 @@
       "name": "Works Branch",
       "code": "DEPT_35",
       "active": true
-    }
+    },
+    {
+      "name": "H&UD",
+      "code": "DEPT_50",
+      "active": true
+    },
+    {
+      "name": "CMC (Planning)",
+      "code": "DEPT_51",
+      "active": true
+    }	
   ]
 }

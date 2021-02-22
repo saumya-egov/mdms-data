@@ -413,6 +413,26 @@
       "description": "BPA Services workflow Approver"
     },
     {
+      "code": "BPA1_APPROVER",
+      "name": "BPA1 Services Approver",
+      "description": "BPA1 Services workflow Approver"
+    },	
+    {
+      "code": "BPA2_APPROVER",
+      "name": "BPA2 Services Approver",
+      "description": "BPA2 Services workflow Approver"
+    },		
+    {
+      "code": "BPA3_APPROVER",
+      "name": "BPA3 Services Approver",
+      "description": "BPA3 Services workflow Approver"
+    },
+    {
+      "code": "BPA4_APPROVER",
+      "name": "BPA4 Services Approver",
+      "description": "BPA4 Services workflow Approver"
+    },
+    {
       "code": "BPA_VERIFIER",
       "name": "BPA Services verifier",
       "description": "BPA Services workflow document & field inspection verifier"
@@ -437,6 +457,36 @@
       "name": "BPA NOC Verifier",
       "description": "BPA Service NOC verifier"
     },
+    {
+      "code": "BPA2_APP_L1_VERIFIER",
+      "name": "BPA2 App L1 Verifier",
+      "description": "BPA2 App L1 verifier"
+    },	
+    {
+      "code": "BPA3_APP_L1_VERIFIER",
+      "name": "BPA3 App L1 Verifier",
+      "description": "BPA3 App L1 verifier"
+    },
+	{
+      "code": "BPA3_APP_L2_VERIFIER",
+      "name": "BPA3 App L2 Verifier",
+      "description": "BPA3 App L2 verifier"
+    },
+	{
+      "code": "BPA4_APP_L1_VERIFIER",
+      "name": "BPA4 App L1 Verifier",
+      "description": "BPA4 App L1 verifier"
+    },	
+	{
+      "code": "BPA4_APP_L2_VERIFIER",
+      "name": "BPA4 App L2 Verifier",
+      "description": "BPA4 App L2 verifier"
+    },	
+	{
+      "code": "BPA4_APP_L3_VERIFIER",
+      "name": "BPA4 App L3 Verifier",
+      "description": "BPA4 App L3 verifier"
+    },	
     {
       "code": "PT_CEMP",
       "name": "PT Counter Employee",
