@@ -6220,7 +6220,7 @@
          "displayName": "Trade Licence",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
