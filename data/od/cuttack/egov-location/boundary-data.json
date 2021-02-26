@@ -864,6 +864,18 @@
         "latitude": null,
         "label": "City",
         "code": "od.cuttack"
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Andarpur",
+            "localname": "Andarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          }
+		]	
       }
     }
   ]
