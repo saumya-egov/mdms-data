@@ -15140,7 +15140,13 @@
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "od"
-    },		
+    },	
+    {
+      "rolecode": "CEMP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1931,
@@ -15170,7 +15176,13 @@
       "actionid": 1931,
       "actioncode": "",
       "tenantId": "od"
-    },		
+    },	
+    {
+      "rolecode": "CEMP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "od"
+    },	
     {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1950,
