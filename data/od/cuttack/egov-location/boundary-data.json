@@ -863,7 +863,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.cuttack"
+        "code": "od.cuttack",
         "children": [
           {
             "id": "2",
