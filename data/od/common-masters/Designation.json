@@ -199,6 +199,31 @@
       "name": "Amin",
       "description": "Amin",
       "active": true
+    },	
+	{
+      "code": "DESIG_207",
+      "name": "Accounts Officer",
+      "description": "Accounts Officer",
+      "active": true
+    },	
+	{
+      "code": "DESIG_208",
+      "name": "Additional Commissioner",
+      "description": "Additional Commissioner",
+      "active": true
+    },	
+	{
+      "code": "DESIG_209",
+      "name": "Administrator",
+      "description": "Administrator",
+      "active": true
+    },	
+	{
+      "code": "DESIG_210",
+      "name": "Executive Officer",
+      "description": "Executive Officer",
+      "active": true
     }
+	
   ]
 }
