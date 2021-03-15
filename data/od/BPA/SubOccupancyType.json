@@ -1933,6 +1933,30 @@
             "orderNumber": "9",
             "description": "Seri culture",
             "colorCode": "88"
+        },
+		{
+            "name": "Outhouse",
+            "code": "AF-OH",
+            "active": true,
+            "occupancyType": "AF",
+            "maxCoverage": "222",
+            "minFar": "160",
+            "maxFar": "161",
+            "orderNumber": "1",
+            "description": "Outhouse",
+            "colorCode": "100"
+        },
+		{
+            "name": "Public Washrooms",
+            "code": "AF-OH",
+            "active": true,
+            "occupancyType": "AF",
+            "maxCoverage": "222",
+            "minFar": "160",
+            "maxFar": "161",
+            "orderNumber": "1",
+            "description": "Public Washrooms",
+            "colorCode": "101"
         }
     ]
 }
