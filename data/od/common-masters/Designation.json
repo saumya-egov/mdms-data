@@ -223,6 +223,18 @@
       "name": "Executive Officer",
       "description": "Executive Officer",
       "active": true
+    },	
+	{
+      "code": "DESIG_211",
+      "name": "Bill Clerk",
+      "description": "Bill Clerk",
+      "active": true
+    },	
+	{
+      "code": "DESIG_212",
+      "name": "Auditor",
+      "description": "Auditor",
+      "active": true
     }
 	
   ]
