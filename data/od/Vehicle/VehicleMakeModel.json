@@ -1,0 +1,93 @@
+{
+    "tenantId": "od",
+    "moduleName": "Vehicle",
+    "VehicleMakeModel": [
+        {
+            "code": "MAHINDRA",
+            "name": "Mahindra",
+            "active": true
+        },
+        {
+            "code": "MAHINDRA.BOLERO_PICKUP",
+            "name": "Bolero Pickup",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "750"
+        },
+        {
+            "code": "MAHINDRA.TRACTOR",
+            "name": "Tractor",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "5000",
+            "amount": "1500"
+        },
+        {
+            "code": "TATA",
+            "name": "TATA",
+            "active": true
+        },
+        {
+            "code": "TATA.LPT709/34",
+            "name": "TATA LPT709/34",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TATA.LPT_700_E",
+            "name": "TATA LPT 700 E",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TATA.407",
+            "name": "TATA 407",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TATA.709",
+            "name": "TATA 709",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TRACTOR",
+            "name": "Tractor",
+            "active": true
+        },
+        {
+            "code": "TRACTOR.SWARAJ_735",
+            "name": "Tracktor Swaraj 735",
+            "active": true,
+            "make": "TRACTOR",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TRACTOR.SWARAJ",
+            "name": "Tracktor Swaraj",
+            "active": true,
+            "make": "TRACTOR",
+            "capacity": "5000",
+            "amount": "1500"
+        },
+        {
+            "code": "TRACTOR.DI-740_III_CM_SERIES",
+            "name": "Tracktor DI-740 III CM SERIES",
+            "active": true,
+            "make": "TRACTOR",
+            "capacity": "3000",
+            "amount": "1000"
+        }
+    ]
+}

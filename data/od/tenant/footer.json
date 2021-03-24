@@ -17045,6 +17045,36 @@
           "order": "6."
         }
       ]
+    },
+    {
+      "code": "od.dhenkanal",
+      "service": "FSM.TRIP_CHARGES",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "order": "1."
+        }
+      ]
+    },
+    {
+      "code": "od.balasore",
+      "service": "FSM.TRIP_CHARGES",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "order": "1."
+        }
+      ]
+    },
+    {
+      "code": "od.berhampur",
+      "service": "FSM.TRIP_CHARGES",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "order": "1."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,221 @@
+{
+    "tenantId": "od.dhenkanal",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Kathagada juanga sahi",
+            "active":true,
+            "code": "SL001"
+        },
+        {
+            "name": "Kathagada Parbatia Sahi",
+            "active":true,
+            "code": "SL002"
+        },
+        {
+            "name": "Kathagada Nua Sahi",
+            "active":true,
+            "code": "SL003"
+        },
+        {
+            "name": "Shyamacharanpur Sabar Sahi",
+            "active":true,
+            "code": "SL004"
+        },
+        {
+            "name": "Shyamacharanpur Harijan Sahi",
+            "active":true,
+            "code": "SL005"
+        },
+        {
+            "name": "Shyamacharanpur (Sai Ganesh Lane)",
+            "active":true,
+            "code": "SL006"
+        },
+        {
+            "name": "Refuge Colony",
+            "active":true,
+            "code": "SL007"
+        },
+        {
+            "name": "Chandia sahi",
+            "active":true,
+            "code": "SL008"
+        },
+        {
+            "name": "Chandamari Sahi",
+            "active":true,
+            "code": "SL009"
+        },
+        {
+            "name": "Kalara Gada",
+            "active":true,
+            "code": "SL010"
+        },
+        {
+            "name": "Stadium Back side, Durga Bazar",
+            "active":true,
+            "code": "SL011"
+        },
+        {
+            "name": "Mali Sahi",
+            "active":true,
+            "code": "SL012"
+        },
+        {
+            "name": "Danda Sahi",
+            "active":true,
+            "code": "SL013"
+        },
+        {
+            "name": "Murdangia Sahi",
+            "active":true,
+            "code": "SL014"
+        },
+        {
+            "name": "Mahisapat Dalei Sahi",
+            "active":true,
+            "code": "SL015"
+        },
+        {
+            "name": "Bankuala Sahi",
+            "active":true,
+            "code": "SL016"
+        },
+        {
+            "name": "Gajamara Juanga Sahi",
+            "active":true,
+            "code": "SL017"
+        },
+        {
+            "name": "Rengali Colony",
+            "active":true,
+            "code": "SL018"
+        },
+        {
+            "name": "Mahisapat Harijan Sahi-2 & Mahisapat Khaira Sahi",
+            "active":true,
+            "code": "SL019"
+        },
+        {
+            "name": "Kantanali Kandha Sahi",
+            "active":true,
+            "code": "SL020"
+        },
+        {
+            "name": "Banamali Prasad Juanga Sahi",
+            "active":true,
+            "code": "SL021"
+        },
+        {
+            "name": "Fatha Bandha Harijana Sahi",
+            "active":true,
+            "code": "SL022"
+        },
+        {
+            "name": "Kuntunia Juanga Sahi",
+            "active":true,
+            "code": "SL023"
+        },
+        {
+            "name": "Fatha Bandha Juanga Sahi",
+            "active":true,
+            "code": "SL024"
+        },
+        {
+            "name": "Balaram Vihar",
+            "active":true,
+            "code": "SL025"
+        },
+        {
+            "name": "Kuntunia Nua Sahi",
+            "active":true,
+            "code": "SL026"
+        },
+        {
+            "name": "Baunsa Patana",
+            "active":true,
+            "code": "SL027"
+        },
+        {
+            "name": "Bila Sahi",
+            "active":true,
+            "code": "SL028"
+        },
+        {
+            "name": "Sarjanga Sahi",
+            "active":true,
+            "code": "SL029"
+        },
+        {
+            "name": "Colony Sahi",
+            "active":true,
+            "code": "SL030"
+        },
+        {
+            "name": "Rameswarpur Mochi Sahi",
+            "active":true,
+            "code": "SL031"
+        },
+        {
+            "name": "Bhagabanpur Sabar Sahi",
+            "active":true,
+            "code": "SL032"
+        },
+        {
+            "name": "Bhagabanpur Juanga Sahi",
+            "active":true,
+            "code": "SL033"
+        },
+        {
+            "name": "Similia Masani Sahi",
+            "active":true,
+            "code": "SL034"
+        },
+        {
+            "name": "Similia Sabar Sahi",
+            "active":true,
+            "code": "SL035"
+        },
+        {
+            "name": "Alasua Sabar Sahi",
+            "active":true,
+            "code": "SL036"
+        },
+        {
+            "name": "Dhankunia Harijan Sahi",
+            "active":true,
+            "code": "SL037"
+        },
+        {
+            "name": "Sanjaya Colony",
+            "active":true,
+            "code": "SL038"
+        },
+        {
+            "name": "Hata Road Harijan Sahi",
+            "active":true,
+            "code": "SL039"
+        },
+        {
+            "name": "Hata Road Dama Sahi",
+            "active":true,
+            "code": "SL040"
+        },
+        {
+            "name": "Korian Puruna Sahi",
+            "active":true,
+            "code": "SL041"
+        },
+        {
+            "name": "Korian Sabar Sahi & Harijan Sahi",
+            "active":true,
+            "code": "SL042"
+        },
+        {
+            "name": "Korian Juanga Sahi",
+            "active":true,
+            "code": "SL043"
+        }
+    ]
+}
