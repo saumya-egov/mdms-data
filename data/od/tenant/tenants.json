@@ -1023,25 +1023,25 @@
       "helpLineNumber": "0680-2250280"
     },
     {
-      "code": "od.balasore",
-      "name": "Balasore Municipality",
-      "description": "Balasore Municipality",
+      "code": "od.balesore",
+      "name": "Balesore Municipality",
+      "description": "Balesore Municipality",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": null,
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "balasoremunicipality@rediffmail.com",
+      "emailId": "balesoremunicipality@rediffmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Balasore",
+        "name": "Balesore",
         "localName": null,
         "districtCode": "8",
-        "districtName": "Balasore",
+        "districtName": "Balesore",
         "regionName": null,
         "ulbGrade": "B+",
         "longitude": 0,
