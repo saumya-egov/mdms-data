@@ -409,6 +409,20 @@
       ]
     },
     {
+      "code": "od.vyasanagar",
+      "districtCode": "VYASANAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
       "code": "od.dhenkanal",
       "districtCode": "6",
       "languagesSpoken": [
@@ -436,5 +450,6 @@
         "EN"
       ]
     }
+    
   ]
 }
