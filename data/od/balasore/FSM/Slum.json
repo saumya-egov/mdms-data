@@ -1,0 +1,211 @@
+{
+    "tenantId": "od.balasore",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Mahammadpur",
+            "active":true,
+            "code": "SL001"
+        },
+        {
+            "name": "Kanhu Behera Sahi",
+            "active":true,
+            "code": "SL002"
+        },
+        {
+            "name": "Munipada",
+            "active":true,
+            "code": "SL003"
+        },
+        {
+            "name": "Malik Sahi-1",
+            "active":true,
+            "code": "SL004"
+        },
+        {
+            "name": "Malik Sahi-2",
+            "active":true,
+            "code": "SL005"
+        },
+        {
+            "name": "Uchhapada",
+            "active":true,
+            "code": "SL006"
+        },
+        {
+            "name": "Mansing Bazar",
+            "active":true,
+            "code": "SL007"
+        },
+        {
+            "name": "Khaparapada",
+            "active":true,
+            "code": "SL008"
+        },
+        {
+            "name": "Angaragadia Cold Store",
+            "active":true,
+            "code": "SL009"
+        },
+        {
+            "name": "Angaragadia Rameswar Nagar",
+            "active":true,
+            "code": "SL010"
+        },
+        {
+            "name": "Angargadia DIC Office",
+            "active":true,
+            "code": "SL011"
+        },
+        {
+            "name": "Angargadia Rameswar Nagar",
+            "active":true,
+            "code": "SL012"
+        },
+        {
+            "name": "Bateswar Sweeper Colony",
+            "active":true,
+            "code": "SL013"
+        },
+        {
+            "name": "Nua Bazar Adi",
+            "active":true,
+            "code": "SL014"
+        },
+        {
+            "name": "Arad bazar-3",
+            "active":true,
+            "code": "SL015"
+        },
+        {
+            "name": "Nua Bazar",
+            "active":true,
+            "code": "SL016"
+        },
+        {
+            "name": "Aradbazar 2",
+            "active":true,
+            "code": "SL017"
+        },
+        {
+            "name": "Arad Bazar-1",
+            "active":true,
+            "code": "SL018"
+        },
+        {
+            "name": "Bhaskarganj",
+            "active":true,
+            "code": "SL019"
+        },
+        {
+            "name": "Tail basa",
+            "active":true,
+            "code": "SL020"
+        },
+        {
+            "name": "Chudakutasahi",
+            "active":true,
+            "code": "SL021"
+        },
+        {
+            "name": "Telenga Sahi",
+            "active":true,
+            "code": "SL022"
+        },
+        {
+            "name": "Gudipada",
+            "active":true,
+            "code": "SL023"
+        },
+        {
+            "name": "Sweeper Colony Bhaskarganj",
+            "active":true,
+            "code": "SL024"
+        },
+        {
+            "name": "Godhibasa",
+            "active":true,
+            "code": "SL025"
+        },
+        {
+            "name": "Ananda Bazar",
+            "active":true,
+            "code": "SL026"
+        },
+        {
+            "name": "Railway Colony",
+            "active":true,
+            "code": "SL027"
+        },
+        {
+            "name": "Bhalia dang",
+            "active":true,
+            "code": "SL028"
+        },
+        {
+            "name": "Chhachina Sahi",
+            "active":true,
+            "code": "SL029"
+        },
+        {
+            "name": "Gosalapada",
+            "active":true,
+            "code": "SL030"
+        },
+        {
+            "name": "Balighat",
+            "active":true,
+            "code": "SL031"
+        },
+        {
+            "name": "Sweeper Colony Olondaz Sahi",
+            "active":true,
+            "code": "SL032"
+        },
+        {
+            "name": "Adibasi Sahi Town Hall",
+            "active":true,
+            "code": "SL033"
+        },
+        {
+            "name": "Congress gali baula pokhari",
+            "active":true,
+            "code": "SL034"
+        },
+        {
+            "name": "Gopalgaon Tala Sahi",
+            "active":true,
+            "code": "SL035"
+        },
+        {
+            "name": "Mirzapokhari Sweeper Colony",
+            "active":true,
+            "code": "SL036"
+        },
+        {
+            "name": "Darzi Pokhari",
+            "active":true,
+            "code": "SL037"
+        },
+        {
+            "name": "Mahila College Back side Adibasi Sahi",
+            "active":true,
+            "code": "SL038"
+        },
+        {
+            "name": "Jadav Pur",
+            "active":true,
+            "code": "SL039"
+        },
+        {
+            "name": "Lepracy Colony",
+            "active":true,
+            "code": "SL040"
+        },
+        {
+            "name": "Golapolo",
+            "active":true,
+            "code": "SL041"
+        }
+    ]
+}
