@@ -23,7 +23,8 @@
                 "code": "VIL1",
                 "id": "2",
                 "boundaryNum": "1",
-                "localname": "Kathagada, Shyamacharanpur, Ananda nagar,Borapada"
+                "localname": "Kathagada, Shyamacharanpur, Ananda nagar,Borapada",
+                "pincode": [759001]
             },
             {
                 "name": "Kunjakanta B,DKL Auto. College,income tax office,revenue colony",
@@ -31,7 +32,8 @@
                 "code": "VIL2",
                 "id": "3",
                 "boundaryNum": "1",
-                "localname": "Kunjakanta B,DKL Auto. College,income tax office,revenue colony"
+                "localname": "Kunjakanta B,DKL Auto. College,income tax office,revenue colony",
+                "pincode": [759001]
             },
             {
                 "name": "Kunjakanta A, Chandiasahi, Sahara sahi, Pana sahi",
@@ -39,7 +41,8 @@
                 "code": "VIL3",
                 "id": "4",
                 "boundaryNum": "1",
-                "localname": "Kunjakanta A, Chandiasahi, Sahara sahi, Pana sahi"
+                "localname": "Kunjakanta A, Chandiasahi, Sahara sahi, Pana sahi",
+                "pincode": [759001]
             },
             {
                 "name": "Gudianali, Bhagirathi Vihar",
@@ -47,7 +50,8 @@
                 "code": "VIL4",
                 "id": "5",
                 "boundaryNum": "1",
-                "localname": "Gudianali, Bhagirathi Vihar"
+                "localname": "Gudianali, Bhagirathi Vihar",
+                "pincode": [759001]
             },
             {
                 "name": "Amalapada, B.B. high school, D.I Office",
@@ -55,7 +59,8 @@
                 "code": "VIL5",
                 "id": "6",
                 "boundaryNum": "1",
-                "localname": "Amalapada, B.B. high school, D.I Office"
+                "localname": "Amalapada, B.B. high school, D.I Office",
+                "pincode": [759001]
             },
             {
                 "name": "Durga Bazar, Kaibalya Bazar, Balaram Temple",
@@ -63,7 +68,8 @@
                 "code": "VIL6",
                 "id": "7",
                 "boundaryNum": "1",
-                "localname": "Durga Bazar, Kaibalya Bazar, Balaram Temple"
+                "localname": "Durga Bazar, Kaibalya Bazar, Balaram Temple",
+                "pincode": [759001]
             },
             {
                 "name": "Deulasahi, Ramadas Chhaka",
@@ -71,7 +77,8 @@
                 "code": "VIL7",
                 "id": "8",
                 "boundaryNum": "1",
-                "localname": "Deulasahi, Ramadas Chhaka"
+                "localname": "Deulasahi, Ramadas Chhaka",
+                "pincode": [759001]
             },
             {
                 "name": "Mahisapat",
@@ -79,7 +86,8 @@
                 "code": "VIL8",
                 "id": "9",
                 "boundaryNum": "1",
-                "localname": "Mahisapat"
+                "localname": "Mahisapat",
+                "pincode": [759001]
             },
             {
                 "name": "Banamali Prasad, Kantanali, Putunia Saharsahi",
@@ -87,7 +95,8 @@
                 "code": "VIL9",
                 "id": "10",
                 "boundaryNum": "1",
-                "localname": "Banamali Prasad, Kantanali, Putunia Saharsahi"
+                "localname": "Banamali Prasad, Kantanali, Putunia Saharsahi",
+                "pincode": [759001]
             },
             {
                 "name": "Dakhinakali Road, Khamar sahi",
@@ -95,7 +104,8 @@
                 "code": "VIL10",
                 "id": "11",
                 "boundaryNum": "1",
-                "localname": "Dakhinakali Road, Khamar sahi"
+                "localname": "Dakhinakali Road, Khamar sahi",
+                "pincode": [759001]
             },
             {
                 "name": "Laxmi Bazar, Malhar sahi, Pattanaik sahi, Tahasil Office, Ganesh Bazar",
@@ -103,7 +113,8 @@
                 "code": "VIL11",
                 "id": "12",
                 "boundaryNum": "1",
-                "localname": "Laxmi Bazar, Malhar sahi, Pattanaik sahi, Tahasil Office, Ganesh Bazar"
+                "localname": "Laxmi Bazar, Malhar sahi, Pattanaik sahi, Tahasil Office, Ganesh Bazar",
+                "pincode": [759001]
             },
             {
                 "name": "Jawahar Chowk, Gandhi Mandir Road, Muslim Basti, Meena Bazar",
@@ -111,7 +122,8 @@
                 "code": "VIL12",
                 "id": "13",
                 "boundaryNum": "1",
-                "localname": "Jawahar Chowk, Gandhi Mandir Road, Muslim Basti, Meena Bazar"
+                "localname": "Jawahar Chowk, Gandhi Mandir Road, Muslim Basti, Meena Bazar",
+                "pincode": [759001]
             },
             {
                 "name": "Meena Bazar, Muslim Basti, Kumbhar sahi, Kanchan Bazar",
@@ -119,7 +131,8 @@
                 "code": "VIL13",
                 "id": "14",
                 "boundaryNum": "1",
-                "localname": "Meena Bazar, Muslim Basti, Kumbhar sahi, Kanchan Bazar"
+                "localname": "Meena Bazar, Muslim Basti, Kumbhar sahi, Kanchan Bazar",
+                "pincode": [759001]
             },
             {
                 "name": "Ananda Bazar, Dhobasahi, Bajichowk,Housing Board",
@@ -127,7 +140,8 @@
                 "code": "VIL14",
                 "id": "15",
                 "boundaryNum": "1",
-                "localname": "Ananda Bazar, Dhobasahi, Bajichowk,Housing Board"
+                "localname": "Ananda Bazar, Dhobasahi, Bajichowk,Housing Board",
+                "pincode": [759001]
             },
             {
                 "name": "Muktadeipur Sasan, Pattanaik sahi, Meena Bazar, Kanchan Bazar",
@@ -135,7 +149,8 @@
                 "code": "VIL15",
                 "id": "16",
                 "boundaryNum": "1",
-                "localname": "Muktadeipur Sasan, Pattanaik sahi, Meena Bazar, Kanchan Bazar"
+                "localname": "Muktadeipur Sasan, Pattanaik sahi, Meena Bazar, Kanchan Bazar",
+                "pincode": [759001]
             },
             {
                 "name": "Town Planning, Tanti sahi, Barma Petrol Pump",
@@ -143,7 +158,8 @@
                 "code": "VIL16",
                 "id": "17",
                 "boundaryNum": "1",
-                "localname": "Town Planning, Tanti sahi, Barma Petrol Pump"
+                "localname": "Town Planning, Tanti sahi, Barma Petrol Pump",
+                "pincode": [759013]
             },
             {
                 "name": "Jaigopal sahi, Ragadi sahi",
@@ -151,7 +167,8 @@
                 "code": "VIL17",
                 "id": "18",
                 "boundaryNum": "1",
-                "localname": "Jaigopal sahi, Ragadi sahi"
+                "localname": "Jaigopal sahi, Ragadi sahi",
+                "pincode": [759013]
             },
             {
                 "name": "Rameswarpur, Bhagabanpur",
@@ -159,7 +176,8 @@
                 "code": "VIL18",
                 "id": "19",
                 "boundaryNum": "1",
-                "localname": "Rameswarpur, Bhagabanpur"
+                "localname": "Rameswarpur, Bhagabanpur",
+                "pincode": [759013]
             },
             {
                 "name": "Similia",
@@ -167,7 +185,8 @@
                 "code": "VIL19",
                 "id": "20",
                 "boundaryNum": "1",
-                "localname": "Similia"
+                "localname": "Similia",
+                "pincode": [759013]
             },
             {
                 "name": "Ragadi sahi, Jaigopalsahi",
@@ -175,7 +194,8 @@
                 "code": "VIL20",
                 "id": "21",
                 "boundaryNum": "1",
-                "localname": "Ragadi sahi, Jaigopalsahi"
+                "localname": "Ragadi sahi, Jaigopalsahi",
+                "pincode": [759013]
             },
             {
                 "name": "Station Bazar,Hata Road, Dolamandap sahi",
@@ -183,7 +203,8 @@
                 "code": "VIL21",
                 "id": "22",
                 "boundaryNum": "1",
-                "localname": "Station Bazar,Hata Road, Dolamandap sahi"
+                "localname": "Station Bazar,Hata Road, Dolamandap sahi",
+                "pincode": [759013]
             },
             {
                 "name": "Station Bazar, Ratan bazar, Mandapasahi",
@@ -191,7 +212,8 @@
                 "code": "VIL22",
                 "id": "23",
                 "boundaryNum": "1",
-                "localname": "Station Bazar, Ratan bazar, Mandapasahi"
+                "localname": "Station Bazar, Ratan bazar, Mandapasahi",
+                "pincode": [759013]
             },
             {
                 "name": "Korian",
@@ -199,7 +221,8 @@
                 "code": "VIL23",
                 "id": "24",
                 "boundaryNum": "1",
-                "localname": "Korian"
+                "localname": "Korian",
+                "pincode": [759013]
             }
         ]
       }
