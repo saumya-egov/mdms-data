@@ -20,7 +20,7 @@
             {
                 "name": "Kathagada, Shyamacharanpur, Ananda nagar,Borapada",
                 "label": "Locality",
-                "code": "VIL1",
+                "code": "DVIL1",
                 "id": "2",
                 "boundaryNum": "1",
                 "localname": "Kathagada, Shyamacharanpur, Ananda nagar,Borapada"
@@ -28,7 +28,7 @@
             {
                 "name": "Kunjakanta B,DKL Auto. College,income tax office,revenue colony",
                 "label": "Locality",
-                "code": "VIL2",
+                "code": "DVIL2",
                 "id": "3",
                 "boundaryNum": "1",
                 "localname": "Kunjakanta B,DKL Auto. College,income tax office,revenue colony"
@@ -36,7 +36,7 @@
             {
                 "name": "Kunjakanta A, Chandiasahi, Sahara sahi, Pana sahi",
                 "label": "Locality",
-                "code": "VIL3",
+                "code": "DVIL3",
                 "id": "4",
                 "boundaryNum": "1",
                 "localname": "Kunjakanta A, Chandiasahi, Sahara sahi, Pana sahi"
@@ -44,7 +44,7 @@
             {
                 "name": "Gudianali, Bhagirathi Vihar",
                 "label": "Locality",
-                "code": "VIL4",
+                "code": "DVIL4",
                 "id": "5",
                 "boundaryNum": "1",
                 "localname": "Gudianali, Bhagirathi Vihar"
@@ -52,7 +52,7 @@
             {
                 "name": "Amalapada, B.B. high school, D.I Office",
                 "label": "Locality",
-                "code": "VIL5",
+                "code": "DVIL5",
                 "id": "6",
                 "boundaryNum": "1",
                 "localname": "Amalapada, B.B. high school, D.I Office"
@@ -60,7 +60,7 @@
             {
                 "name": "Durga Bazar, Kaibalya Bazar, Balaram Temple",
                 "label": "Locality",
-                "code": "VIL6",
+                "code": "DVIL6",
                 "id": "7",
                 "boundaryNum": "1",
                 "localname": "Durga Bazar, Kaibalya Bazar, Balaram Temple"
@@ -68,7 +68,7 @@
             {
                 "name": "Deulasahi, Ramadas Chhaka",
                 "label": "Locality",
-                "code": "VIL7",
+                "code": "DVIL7",
                 "id": "8",
                 "boundaryNum": "1",
                 "localname": "Deulasahi, Ramadas Chhaka"
@@ -76,7 +76,7 @@
             {
                 "name": "Mahisapat",
                 "label": "Locality",
-                "code": "VIL8",
+                "code": "DVIL8",
                 "id": "9",
                 "boundaryNum": "1",
                 "localname": "Mahisapat"
@@ -84,7 +84,7 @@
             {
                 "name": "Banamali Prasad, Kantanali, Putunia Saharsahi",
                 "label": "Locality",
-                "code": "VIL9",
+                "code": "DVIL9",
                 "id": "10",
                 "boundaryNum": "1",
                 "localname": "Banamali Prasad, Kantanali, Putunia Saharsahi"
@@ -92,7 +92,7 @@
             {
                 "name": "Dakhinakali Road, Khamar sahi",
                 "label": "Locality",
-                "code": "VIL10",
+                "code": "DVIL10",
                 "id": "11",
                 "boundaryNum": "1",
                 "localname": "Dakhinakali Road, Khamar sahi"
@@ -100,7 +100,7 @@
             {
                 "name": "Laxmi Bazar, Malhar sahi, Pattanaik sahi, Tahasil Office, Ganesh Bazar",
                 "label": "Locality",
-                "code": "VIL11",
+                "code": "DVIL11",
                 "id": "12",
                 "boundaryNum": "1",
                 "localname": "Laxmi Bazar, Malhar sahi, Pattanaik sahi, Tahasil Office, Ganesh Bazar"
@@ -108,7 +108,7 @@
             {
                 "name": "Jawahar Chowk, Gandhi Mandir Road, Muslim Basti, Meena Bazar",
                 "label": "Locality",
-                "code": "VIL12",
+                "code": "DVIL12",
                 "id": "13",
                 "boundaryNum": "1",
                 "localname": "Jawahar Chowk, Gandhi Mandir Road, Muslim Basti, Meena Bazar"
@@ -116,7 +116,7 @@
             {
                 "name": "Meena Bazar, Muslim Basti, Kumbhar sahi, Kanchan Bazar",
                 "label": "Locality",
-                "code": "VIL13",
+                "code": "DVIL13",
                 "id": "14",
                 "boundaryNum": "1",
                 "localname": "Meena Bazar, Muslim Basti, Kumbhar sahi, Kanchan Bazar"
@@ -124,7 +124,7 @@
             {
                 "name": "Ananda Bazar, Dhobasahi, Bajichowk,Housing Board",
                 "label": "Locality",
-                "code": "VIL14",
+                "code": "DVIL14",
                 "id": "15",
                 "boundaryNum": "1",
                 "localname": "Ananda Bazar, Dhobasahi, Bajichowk,Housing Board"
@@ -132,7 +132,7 @@
             {
                 "name": "Muktadeipur Sasan, Pattanaik sahi, Meena Bazar, Kanchan Bazar",
                 "label": "Locality",
-                "code": "VIL15",
+                "code": "DVIL15",
                 "id": "16",
                 "boundaryNum": "1",
                 "localname": "Muktadeipur Sasan, Pattanaik sahi, Meena Bazar, Kanchan Bazar"
@@ -140,7 +140,7 @@
             {
                 "name": "Town Planning, Tanti sahi, Barma Petrol Pump",
                 "label": "Locality",
-                "code": "VIL16",
+                "code": "DVIL16",
                 "id": "17",
                 "boundaryNum": "1",
                 "localname": "Town Planning, Tanti sahi, Barma Petrol Pump"
@@ -148,7 +148,7 @@
             {
                 "name": "Jaigopal sahi, Ragadi sahi",
                 "label": "Locality",
-                "code": "VIL17",
+                "code": "DVIL17",
                 "id": "18",
                 "boundaryNum": "1",
                 "localname": "Jaigopal sahi, Ragadi sahi"
@@ -156,7 +156,7 @@
             {
                 "name": "Rameswarpur, Bhagabanpur",
                 "label": "Locality",
-                "code": "VIL18",
+                "code": "DVIL18",
                 "id": "19",
                 "boundaryNum": "1",
                 "localname": "Rameswarpur, Bhagabanpur"
@@ -164,7 +164,7 @@
             {
                 "name": "Similia",
                 "label": "Locality",
-                "code": "VIL19",
+                "code": "DVIL19",
                 "id": "20",
                 "boundaryNum": "1",
                 "localname": "Similia"
@@ -172,7 +172,7 @@
             {
                 "name": "Ragadi sahi, Jaigopalsahi",
                 "label": "Locality",
-                "code": "VIL20",
+                "code": "DVIL20",
                 "id": "21",
                 "boundaryNum": "1",
                 "localname": "Ragadi sahi, Jaigopalsahi"
@@ -180,7 +180,7 @@
             {
                 "name": "Station Bazar,Hata Road, Dolamandap sahi",
                 "label": "Locality",
-                "code": "VIL21",
+                "code": "DVIL21",
                 "id": "22",
                 "boundaryNum": "1",
                 "localname": "Station Bazar,Hata Road, Dolamandap sahi"
@@ -188,7 +188,7 @@
             {
                 "name": "Station Bazar, Ratan bazar, Mandapasahi",
                 "label": "Locality",
-                "code": "VIL22",
+                "code": "DVIL22",
                 "id": "23",
                 "boundaryNum": "1",
                 "localname": "Station Bazar, Ratan bazar, Mandapasahi"
@@ -196,7 +196,7 @@
             {
                 "name": "Korian",
                 "label": "Locality",
-                "code": "VIL23",
+                "code": "DVIL23",
                 "id": "24",
                 "boundaryNum": "1",
                 "localname": "Korian"
