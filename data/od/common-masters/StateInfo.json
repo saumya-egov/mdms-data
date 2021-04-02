@@ -66,6 +66,10 @@
         {
           "label": "rainmaker-dss",
           "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
         }
       ]
     }
