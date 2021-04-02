@@ -9473,6 +9473,6 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Transactions.Payments.Bill Payment",
          "navigationURL": "services/EGF/payment/payment-save.action"
-      },
+      }
    ]
 }
