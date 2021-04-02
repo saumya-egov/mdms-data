@@ -9459,6 +9459,20 @@
          "serviceCode": "Enc",
          "code": "null",
          "path": "Enc.Encrypt"
-      }
+      },
+      {
+         "id": 2087,
+         "name": "Contractor/Supplier Payments",
+         "url": "/services/EGF/payment/payment-save.action",
+         "parentModule": "",
+         "displayName": "Bill Payment",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinancePayment",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Payments.Bill Payment",
+         "navigationURL": "services/EGF/payment/payment-save.action"
+      },
    ]
 }
