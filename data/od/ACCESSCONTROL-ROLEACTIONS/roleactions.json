@@ -18603,46 +18603,46 @@
     "tenantId": "od"
   },
   {
-    "rolecode": "FSM_COLLECTOR",
-    "actionid": 2066,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_CREATOR_EMP",
-    "actionid": 2066,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-   {
-    "rolecode": "FSM_REPORT_VIEWER",
-    "actionid": 2066,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_DASHBOARD_VIEWER",
-    "actionid": 2066,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_DRIVER",
-    "actionid": 2066,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
     "rolecode": "FSM_CREATOR_EMP",
     "actionid": 2064,
     "actioncode": "",
     "tenantId": "od"
   },
   {
-    "rolecode": "FSM_CREATOR_EMP",
-    "actionid": 2066,
+    "rolecode": "FSM_DSO",
+    "actionid": 706,
     "actioncode": "",
-    "tenantId": "od"
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "FSM_DRIVER",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "FSM_ADMIN",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "FSM_COLLECTOR",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "FSM_CREATOR_EMP",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "FSM_EDITOR_EMP",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "pg"
   }
   ]
 }

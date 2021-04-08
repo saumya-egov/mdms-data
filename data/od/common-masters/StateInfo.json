@@ -7,6 +7,7 @@
       "code": "od",
       "bannerUrl": "https://sujog.odisha.gov.in/filestore/v1/files/id?fileStoreId=20b83042-974a-4e6d-a0a4-d563d66e805a&tenantId=od",
       "logoUrl": "https://sujog.odisha.gov.in/filestore/v1/files/id?fileStoreId=68400a2b-2c50-455d-8926-c82eb71b591a&tenantId=od",
+      "logoUrlWhite": "https://dev.digit.org/egov-dev-assets/logo-mseva-white.png",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",
