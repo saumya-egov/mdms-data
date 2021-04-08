@@ -9459,6 +9459,17 @@
          "serviceCode": "Enc",
          "code": "null",
          "path": "Enc.Encrypt"
-      }
+      },
+      {
+         "id": 2087,
+         "name": "Locality searcher endpoint for Vehicle",
+         "url": "/egov-searcher/locality/Vehicle/_get",
+         "displayName": "Vehicle searcher",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-searcher",
+         "code": "null",
+         "path": ""
+      }	  
    ]
 }
