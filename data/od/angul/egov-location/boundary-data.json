@@ -63,7 +63,19 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.angul"
+        "code": "od.angul",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Baniabahal",
+            "localname": "Baniabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          }
+		]
       }
     }
   ]

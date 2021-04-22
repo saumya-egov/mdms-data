@@ -93,7 +93,19 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.biramitrapur"
+        "code": "od.biramitrapur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kansbahal",
+            "localname": "Kansbahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          }
+		]
       }
     }
   ]
