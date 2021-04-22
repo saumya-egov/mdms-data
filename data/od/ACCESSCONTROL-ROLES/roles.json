@@ -621,6 +621,11 @@
       "code": "FSM_COLLECTOR",
       "name": "FSM Payment Collector",
       "description": "FSM  Payment Collector"
+    },
+    {
+         "code":"SYSTEM",
+         "name":"System user",
+         "description":"System user"
     }
   ]
 }
