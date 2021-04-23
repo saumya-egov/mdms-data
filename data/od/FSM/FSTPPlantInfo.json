@@ -1,0 +1,39 @@
+{
+    "tenantId": "od",
+    "moduleName": "FSM",
+    "FSTPPlantInfo": [
+        {
+            "PlantCode": "BEHR_001",
+            "PlantName": "BeMC Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Berhampur",
+            "PlusCode": "7PJQ+Q8 Kusumi, Odisha",
+            "PlantOperationalTimings": "09.00am-06.00pm",
+            "PlantOperationalCapacityKLD": "40",
+            "ULBS": "od.gopalpur,od.brhmapur,od.chatrapur"
+        },
+        {
+            "PlantCode": "DHKL_001",
+            "PlantName": "Dhenkanal Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Dhenkanal",
+            "PlusCode": "20°36'41.2'N 85°36'24.6'E",
+            "PlantOperationalTimings": "06.00am-05.00pm",
+            "PlantOperationalCapacityKLD": "27",
+            "ULBS": "od.dhenkanal"
+        },
+        {
+            "PlantCode": "BLSR-003",
+            "PlantName": "Balasore Septage Treatment Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Balasore",
+            "PlusCode": "GVJX+8J ",
+            "PlantOperationalTimings": "10.00am-06.00pm",
+            "PlantOperationalCapacityKLD": "60",
+            "ULBS": "od.balesore"
+        }
+    ]
+}

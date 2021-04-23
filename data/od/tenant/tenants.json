@@ -6,7 +6,7 @@
       "code": "od.cuttack",
       "name": "Cuttack",
       "description": "Cuttack",
-      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/Dehradun.jpg",
       "imageId": null,
       "domainUrl": "http://cmccuttack.gov.in",
       "type": "CITY",
@@ -238,6 +238,7 @@
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": null,
+      "pincode": [756001,756002,756019,756025,756056],
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -466,7 +467,7 @@
       "code": "od.khurda",
       "name": "Khurda",
       "description": "Khurda",
-      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/Haridwar.png",
       "imageId": null,
       "domainUrl": null,
       "type": "CITY",
@@ -956,6 +957,101 @@
       "address": "Odisha Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "od.vyasanagar",
+      "name": "Vyasanagar",
+      "description": "Vyasanagar",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "vyasanagar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Vyasanagar",
+        "localName": null,
+        "districtCode": "Vyasanagar",
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 74.8722642,
+        "latitude": 31.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "107",
+        "ddrName": "DDR A"
+      },
+      "address": "Vyasanagar Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "od.balesore",
+      "name": "Balesore Municipality",
+      "description": "Balesore Municipality",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "balesoremunicipality@rediffmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Balesore",
+        "localName": null,
+        "districtCode": "8",
+        "districtName": "Balesore",
+        "regionName": null,
+        "ulbGrade": "B+",
+        "longitude": 0,
+        "latitude": 0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "801833"
+      },
+      "address": "Puruna Balasore Road, Khaira, Balasore, Odisha 756003"
+    },
+    {
+      "code": "od.dhenkanal",
+      "name": "Dhenkanal Municipality",
+      "description": "Dhenkanal Municipality",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dhenknalm.hud@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Dhenkanal",
+        "localName": null,
+        "districtCode": "6",
+        "districtName": "Dhenkanal",
+        "regionName": null,
+        "ulbGrade": "B",
+        "longitude": 0,
+        "latitude": 0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "D01849"
+      },
+      "address": "Dhenkanal Municipality",
+      "contactNumber": "9438256399",
+      "helpLineNumber": "9438256399"
     }
   ]
 }

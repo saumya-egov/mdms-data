@@ -10,14 +10,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -92,6 +92,9 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
       ]
     },
@@ -103,14 +106,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -185,7 +188,11 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
+		
       ]
     },
     {
@@ -196,14 +203,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -278,6 +285,9 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
       ]
     },
@@ -289,14 +299,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -371,6 +381,9 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
       ]
     },
@@ -382,14 +395,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -464,6 +477,9 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
       ]
     },
@@ -475,14 +491,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -557,6 +573,9 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
       ]
     },
@@ -568,14 +587,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -650,6 +669,9 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
       ]
     },
@@ -661,14 +683,14 @@
           "code": "od.cuttack"
         },
         {
-          "code": "od.banki"
-        },
-        {
           "code": "od.jatni"
         },
         {
           "code": "od.angul"
         },
+        {
+          "code": "od.choudwar"
+        },		
         {
           "code": "od.berhmpurMouza"
         },
@@ -743,6 +765,9 @@
         },
         {
           "code": "od.odisha"
+        },
+        {
+          "code": "od.vyasanagar"
         }
       ]
     },
@@ -752,6 +777,21 @@
       "tenants": [
         {
           "code": "od.cuttack"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "tenants": [
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balesore"
+        },
+        {
+          "code": "od.brhmapur"
         }
       ]
     }

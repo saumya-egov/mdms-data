@@ -76,6 +76,11 @@
       "name": "CMC (Planning)",
       "code": "DEPT_51",
       "active": true
-    }	
+    },
+    {
+      "name": "Audit Branch",
+      "code": "DEPT_52",
+      "active": true
+    }		
   ]
 }

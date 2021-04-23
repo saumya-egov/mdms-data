@@ -89,6 +89,17 @@
          "orderNumber":"8",
          "description":"Agriculture",
          "colorCode":null
+      },
+	   {
+         "name":"Additional Feature",
+         "code":"AF",
+         "active":true,
+         "maxCoverage":"72",
+         "minFar":"9",
+         "maxFar":"10",
+         "orderNumber":"9",
+         "description":"Additional Feature",
+         "colorCode":null
       }
    ]
 }
