@@ -66,12 +66,12 @@
                         "latitude": null,
                         "label": "Locality",
                         "code": "VIL5"
-                    },
+                    },                    
                     {
                         "id": "7",
                         "boundaryNum": 1,
-                        "name": "Champua",
-                        "localname": "Champua",
+                        "name": "Biradhanurjaynarayanpur Sasan",
+                        "localname": "Biradhanurjaynarayanpur Sasan",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
@@ -80,92 +80,12 @@
                     {
                         "id": "8",
                         "boundaryNum": 1,
-                        "name": "Champua",
-                        "localname": "Champua",
+                        "name": "Ramla",
+                        "localname": "Ramla",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
                         "code": "VIL7"
-                    },
-                    {
-                        "id": "9",
-                        "boundaryNum": 1,
-                        "name": "Champua",
-                        "localname": "Champua",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL8"
-                    },
-                    {
-                        "id": "10",
-                        "boundaryNum": 1,
-                        "name": "Champua",
-                        "localname": "Champua",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL9"
-                    },
-                    {
-                        "id": "11",
-                        "boundaryNum": 1,
-                        "name": "Champua",
-                        "localname": "Champua",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL10"
-                    },
-                    {
-                        "id": "12",
-                        "boundaryNum": 1,
-                        "name": "Champua",
-                        "localname": "Champua",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL11"
-                    },
-                    {
-                        "id": "13",
-                        "boundaryNum": 1,
-                        "name": "Champua",
-                        "localname": "Champua",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL12"
-                    },
-                    {
-                        "id": "14",
-                        "boundaryNum": 1,
-                        "name": "Biradhanurjaynarayanpur Sasan",
-                        "localname": "Biradhanurjaynarayanpur Sasan",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL13"
-                    },
-                    {
-                        "id": "15",
-                        "boundaryNum": 1,
-                        "name": "Ramla",
-                        "localname": "Ramla",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL14"
-                    },
-                    {
-                        "id": "16",
-                        "boundaryNum": 1,
-                        "name": "Ramla",
-                        "localname": "Ramla",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL15"
                     }
                 ]
             }
