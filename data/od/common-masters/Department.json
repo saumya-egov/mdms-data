@@ -76,6 +76,101 @@
       "name": "CMC (Planning)",
       "code": "DEPT_51",
       "active": true
+    },
+    {
+      "name": "Audit Branch",
+      "code": "DEPT_52",
+      "active": true
+    },
+    {
+      "name": "Engineering",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "Establishment",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "Disaster Management & Emergency",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "Revenue",
+      "code": "DEPT_56",
+      "active": true
+    },
+    {
+      "name": "Corporation/Council",
+      "code": "DEPT_57",
+      "active": true
+    },
+    {
+      "name": "Election/Census",
+      "code": "DEPT_58",
+      "active": true
+    },
+    {
+      "name": "Forest & Environment",
+      "code": "DEPT_59",
+      "active": true
+    },
+    {
+      "name": "PMU",
+      "code": "DEPT_60",
+      "active": true
+    },
+    {
+      "name": "Transport",
+      "code": "DEPT_61",
+      "active": true
+    },
+    {
+      "name": "Land",
+      "code": "DEPT_62",
+      "active": true
+    },
+    {
+      "name": "Municipal Planning",
+      "code": "DEPT_63",
+      "active": true
+    },
+    {
+      "name": "Social Welfare",
+      "code": "DEPT_64",
+      "active": true
+    },
+    {
+      "name": "Vending zone",
+      "code": "DEPT_65",
+      "active": true
+    },
+    {
+      "name": "Enforcement",
+      "code": "DEPT_66",
+      "active": true
+    },
+    {
+      "name": "Slum Development & Housing",
+      "code": "DEPT_67",
+      "active": true
+    },
+    {
+      "name": "Legal",
+      "code": "DEPT_68",
+      "active": true
+    },
+    {
+      "name": "ULB Asset",
+      "code": "DEPT_69",
+      "active": true
+    },
+    {
+      "name": "Stores",
+      "code": "DEPT_70",
+      "active": true
     }	
   ]
 }
