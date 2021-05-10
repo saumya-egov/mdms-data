@@ -9496,7 +9496,7 @@
         "code": "",
         "path": "",
         "navigationURL": "egov-dashboard/home",
-        "leftIcon":"places:business-center",
+        "leftIcon":"custom:publicIcon",
         "rightIcon": ""
       }	  
    ]
