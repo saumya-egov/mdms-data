@@ -9482,6 +9482,22 @@
          "serviceCode": "rainmaker pgr",
          "code": "null",
          "path": ""
+      },
+      {
+        "id": 2089,
+        "name": "rainmaker-common-dashboard",
+        "url": "card",
+        "displayName": "Dashboard",
+        "orderNumber": 3,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "",
+        "navigationURL": "egov-dashboard/home",
+        "leftIcon":"places:business-center",
+        "rightIcon": ""
       }	  
    ]
 }
