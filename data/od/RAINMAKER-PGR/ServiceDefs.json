@@ -160,7 +160,7 @@
     "menuPath": "BuildingPermission",
     "active": true,
     "slaHours": 336,
-    "serviceCode": "Permissionnotbeinggranted,despiteofbeingappliedinthesystem",
+    "serviceCode": "Permissionnotbeinggranteddespiteofbeingappliedinthesystem",
     "department": "DEPT_1"
   },
   {
@@ -916,7 +916,7 @@
     "menuPath": "NoisePollutionrelated",
     "active": true,
     "slaHours": 336,
-    "serviceCode": "LoudnoiseduetoHorns,Generators,Loudspeakers,etc",
+    "serviceCode": "LoudnoiseduetoHornsGeneratorsLoudspeakers,etc",
     "department": "DEPT_1"
   },
   {
@@ -2064,7 +2064,7 @@
     "menuPath": "StreetLights",
     "active": true,
     "slaHours": 336,
-    "serviceCode": "Poledamaged,replacementrequired",
+    "serviceCode": "Poledamagedreplacementrequired",
     "department": "DEPT_1"
   },
   {
