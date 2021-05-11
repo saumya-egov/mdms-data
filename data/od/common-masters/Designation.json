@@ -319,6 +319,12 @@
          "name":"Tax Collector",
          "description":"Tax Collector",
          "active":true
+      },
+      {
+         "code":"DESIG_227",
+         "name":"Municipal Engineer",
+         "description":"Municipal Engineerr",
+         "active":true
       }
    ]
 }
