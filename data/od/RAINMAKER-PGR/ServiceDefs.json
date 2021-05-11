@@ -916,7 +916,7 @@
     "menuPath": "NoisePollutionrelated",
     "active": true,
     "slaHours": 336,
-    "serviceCode": "LoudnoiseduetoHornsGeneratorsLoudspeakersetc",
+    "serviceCode": "LoudnoiseduetoHornsGeneratorsLoudspeakers,etc",
     "department": "DEPT_1"
   },
   {
