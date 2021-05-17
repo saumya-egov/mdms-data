@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.baripada",
+  "tenantId": "od.banpur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Baripada",
-        "localname": "Baripada",
+        "name": "Banpur",
+        "localname": "Banpur",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.baripada",
+        "code": "od.banpur",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baripada",
-            "localname": "Baripada",
+            "name": "Achyutarajpur",
+            "localname": "Achyutarajpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Dasarathipur",
+            "localname": "Dasarathipur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Sungadia",
-            "localname": "Sungadia",
+            "name": "Srinibashpur",
+            "localname": "Srinibashpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,8 +50,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Sripadganj",
-            "localname": "Sripadganj",
+            "name": "Tulasideipur",
+            "localname": "Tulasideipur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -60,8 +60,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Bijayramchandrapur",
-            "localname": "Bijayramchandrapur",
+            "name": "Rankanathpatana",
+            "localname": "Rankanathpatana",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -70,8 +70,8 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Yamunadeipur",
-            "localname": "Yamunadeipur",
+            "name": "Kapileswarpur",
+            "localname": "Kapileswarpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -80,8 +80,8 @@
           {
             "id": "8",
             "boundaryNum": 1,
-            "name": "Tulsichaura",
-            "localname": "Tulsichaura",
+            "name": "Jagannathpur",
+            "localname": "Jagannathpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -90,8 +90,8 @@
           {
             "id": "9",
             "boundaryNum": 1,
-            "name": "Kalikapur",
-            "localname": "Kalikapur",
+            "name": "Raghunathpur",
+            "localname": "Raghunathpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -100,8 +100,8 @@
           {
             "id": "10",
             "boundaryNum": 1,
-            "name": "Bhugudakota",
-            "localname": "Bhugudakota",
+            "name": "Bhesaripatna",
+            "localname": "Bhesaripatna",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -110,8 +110,8 @@
           {
             "id": "11",
             "boundaryNum": 1,
-            "name": "Raghunathapur",
-            "localname": "Raghunathapur",
+            "name": "Banpur",
+            "localname": "Banpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -120,8 +120,8 @@
           {
             "id": "12",
             "boundaryNum": 1,
-            "name": "Debendrapur",
-            "localname": "Debendrapur",
+            "name": "Bhagabatipurpatna",
+            "localname": "Bhagabatipurpatna",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -130,8 +130,8 @@
           {
             "id": "13",
             "boundaryNum": 1,
-            "name": "Hemachandrapur",
-            "localname": "Hemachandrapur",
+            "name": "Bodhapur",
+            "localname": "Bodhapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -140,8 +140,8 @@
           {
             "id": "14",
             "boundaryNum": 1,
-            "name": "Chhancha",
-            "localname": "Chhancha",
+            "name": "Badahantuada",
+            "localname": "Badahantuada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -150,8 +150,8 @@
           {
             "id": "15",
             "boundaryNum": 1,
-            "name": "Janardanpur",
-            "localname": "Janardanpur",
+            "name": "Bidharpur",
+            "localname": "Bidharpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -160,8 +160,8 @@
           {
             "id": "16",
             "boundaryNum": 1,
-            "name": "Bidhyadharpur",
-            "localname": "Bidhyadharpur",
+            "name": "Godipadar Patana",
+            "localname": "Godipadar Patana",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -170,8 +170,8 @@
           {
             "id": "17",
             "boundaryNum": 1,
-            "name": "Purnachandrapur",
-            "localname": "Purnachandrapur",
+            "name": "Bazarsahipatna",
+            "localname": "Bazarsahipatna",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -180,8 +180,8 @@
           {
             "id": "18",
             "boundaryNum": 1,
-            "name": "Maharajapur",
-            "localname": "Maharajapur",
+            "name": "Chiank Sahi",
+            "localname": "Chiank Sahi",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -190,8 +190,8 @@
           {
             "id": "19",
             "boundaryNum": 1,
-            "name": "Karatbasha",
-            "localname": "Karatbasha",
+            "name": "Patapur",
+            "localname": "Patapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -200,12 +200,42 @@
           {
             "id": "20",
             "boundaryNum": 1,
-            "name": "Bagdiha",
-            "localname": "Bagdiha",
+            "name": "Sarubaripadar",
+            "localname": "Sarubaripadar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Bodhapur",
+            "localname": "Bodhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Gopalpur",
+            "localname": "Gopalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Kotabidiyadharpur",
+            "localname": "Kotabidiyadharpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
           }
         ]
       }
@@ -218,18 +248,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Baripada",
-        "localname": "Baripada",
+        "name": "Banpur",
+        "localname": "Banpur",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.baripada",
+        "code": "od.banpur",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baripada",
-            "localname": "Baripada",
+            "name": "Achyutarajpur",
+            "localname": "Achyutarajpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -238,8 +268,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Dasarathipur",
+            "localname": "Dasarathipur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -248,8 +278,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Sungadia",
-            "localname": "Sungadia",
+            "name": "Srinibashpur",
+            "localname": "Srinibashpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -258,8 +288,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Sripadganj",
-            "localname": "Sripadganj",
+            "name": "Tulasideipur",
+            "localname": "Tulasideipur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -268,8 +298,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Bijayramchandrapur",
-            "localname": "Bijayramchandrapur",
+            "name": "Rankanathpatana",
+            "localname": "Rankanathpatana",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -278,8 +308,8 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Yamunadeipur",
-            "localname": "Yamunadeipur",
+            "name": "Kapileswarpur",
+            "localname": "Kapileswarpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -288,8 +318,8 @@
           {
             "id": "8",
             "boundaryNum": 1,
-            "name": "Tulsichaura",
-            "localname": "Tulsichaura",
+            "name": "Jagannathpur",
+            "localname": "Jagannathpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -298,8 +328,8 @@
           {
             "id": "9",
             "boundaryNum": 1,
-            "name": "Kalikapur",
-            "localname": "Kalikapur",
+            "name": "Raghunathpur",
+            "localname": "Raghunathpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -308,8 +338,8 @@
           {
             "id": "10",
             "boundaryNum": 1,
-            "name": "Bhugudakota",
-            "localname": "Bhugudakota",
+            "name": "Bhesaripatna",
+            "localname": "Bhesaripatna",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -318,8 +348,8 @@
           {
             "id": "11",
             "boundaryNum": 1,
-            "name": "Raghunathapur",
-            "localname": "Raghunathapur",
+            "name": "Banpur",
+            "localname": "Banpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -328,8 +358,8 @@
           {
             "id": "12",
             "boundaryNum": 1,
-            "name": "Debendrapur",
-            "localname": "Debendrapur",
+            "name": "Bhagabatipurpatna",
+            "localname": "Bhagabatipurpatna",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -338,8 +368,8 @@
           {
             "id": "13",
             "boundaryNum": 1,
-            "name": "Hemachandrapur",
-            "localname": "Hemachandrapur",
+            "name": "Bodhapur",
+            "localname": "Bodhapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -348,8 +378,8 @@
           {
             "id": "14",
             "boundaryNum": 1,
-            "name": "Chhancha",
-            "localname": "Chhancha",
+            "name": "Badahantuada",
+            "localname": "Badahantuada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -358,8 +388,8 @@
           {
             "id": "15",
             "boundaryNum": 1,
-            "name": "Janardanpur",
-            "localname": "Janardanpur",
+            "name": "Bidharpur",
+            "localname": "Bidharpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -368,8 +398,8 @@
           {
             "id": "16",
             "boundaryNum": 1,
-            "name": "Bidhyadharpur",
-            "localname": "Bidhyadharpur",
+            "name": "Godipadar Patana",
+            "localname": "Godipadar Patana",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -378,8 +408,8 @@
           {
             "id": "17",
             "boundaryNum": 1,
-            "name": "Purnachandrapur",
-            "localname": "Purnachandrapur",
+            "name": "Bazarsahipatna",
+            "localname": "Bazarsahipatna",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -388,8 +418,8 @@
           {
             "id": "18",
             "boundaryNum": 1,
-            "name": "Maharajapur",
-            "localname": "Maharajapur",
+            "name": "Chiank Sahi",
+            "localname": "Chiank Sahi",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -398,8 +428,8 @@
           {
             "id": "19",
             "boundaryNum": 1,
-            "name": "Karatbasha",
-            "localname": "Karatbasha",
+            "name": "Patapur",
+            "localname": "Patapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -408,12 +438,42 @@
           {
             "id": "20",
             "boundaryNum": 1,
-            "name": "Bagdiha",
-            "localname": "Bagdiha",
+            "name": "Sarubaripadar",
+            "localname": "Sarubaripadar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Bodhapur",
+            "localname": "Bodhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Gopalpur",
+            "localname": "Gopalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Kotabidiyadharpur",
+            "localname": "Kotabidiyadharpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
           }
         ]
       }

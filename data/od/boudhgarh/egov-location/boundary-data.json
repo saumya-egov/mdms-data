@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.balliguda ",
+  "tenantId": "od.boudhgarh",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balliguda ",
-        "localname": "Balliguda ",
+        "name": "Boudhgarh",
+        "localname": "Boudhgarh",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balliguda ",
+        "code": "od.boudhgarh",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Goibali",
-            "localname": "Goibali",
+            "name": "Boudhgarh",
+            "localname": "Boudhgarh",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Dumudi Sahi",
-            "localname": "Dumudi Sahi",
+            "name": "Boudhgarh Nazul",
+            "localname": "Boudhgarh Nazul",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,22 +40,12 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Bagagoan",
-            "localname": "Bagagoan",
+            "name": "Marjakud",
+            "localname": "Marjakud",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL3"
-          },
-          {
-            "id": "5",
-            "boundaryNum": 1,
-            "name": "Balliguda",
-            "localname": "Balliguda",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL4"
           }
         ]
       }
@@ -68,18 +58,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balliguda ",
-        "localname": "Balliguda ",
+        "name": "Boudhgarh",
+        "localname": "Boudhgarh",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balliguda ",
+        "code": "od.boudhgarh",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Goibali",
-            "localname": "Goibali",
+            "name": "Boudhgarh",
+            "localname": "Boudhgarh",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -88,8 +78,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Dumudi Sahi",
-            "localname": "Dumudi Sahi",
+            "name": "Boudhgarh Nazul",
+            "localname": "Boudhgarh Nazul",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -98,22 +88,12 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Bagagoan",
-            "localname": "Bagagoan",
+            "name": "Marjakud",
+            "localname": "Marjakud",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL3"
-          },
-          {
-            "id": "5",
-            "boundaryNum": 1,
-            "name": "Balliguda",
-            "localname": "Balliguda",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL4"
           }
         ]
       }

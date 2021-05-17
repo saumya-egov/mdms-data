@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.biramitrapur",
+  "tenantId": "od.balangir",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Biramitrapur",
-        "localname": "Biramitrapur",
+        "name": "Balangir",
+        "localname": "Balangir",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.biramitrapur",
+        "code": "od.balangir",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Raipura",
-            "localname": "Raipura",
+            "name": "Bijakhaman",
+            "localname": "Bijakhaman",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Banmunda",
-            "localname": "Banmunda",
+            "name": "Larkipalli",
+            "localname": "Larkipalli",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Brahmanmara",
-            "localname": "Brahmanmara",
+            "name": "Salepalli",
+            "localname": "Salepalli",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,8 +50,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Talsera",
-            "localname": "Talsera",
+            "name": "Bishnumunda",
+            "localname": "Bishnumunda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -60,13 +60,34 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Kansbahal",
-            "localname": "Kansbahal",
+            "name": "Balangir Ka",
+            "localname": "Balangir Ka",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Balangir Kha",
+            "localname": "Balangir Kha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Balangir Ga",
+            "localname": "Balangir Ga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
           }
+          
         ]
       }
     },
@@ -78,18 +99,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Biramitrapur",
-        "localname": "Biramitrapur",
+        "name": "Balangir",
+        "localname": "Balangir",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.biramitrapur",
+        "code": "od.balangir",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Raipura",
-            "localname": "Raipura",
+            "name": "Bijakhaman",
+            "localname": "Bijakhaman",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -98,8 +119,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Banmunda",
-            "localname": "Banmunda",
+            "name": "Larkipalli",
+            "localname": "Larkipalli",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -108,8 +129,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Brahmanmara",
-            "localname": "Brahmanmara",
+            "name": "Salepalli",
+            "localname": "Salepalli",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -118,8 +139,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Talsera",
-            "localname": "Talsera",
+            "name": "Bishnumunda",
+            "localname": "Bishnumunda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -128,13 +149,34 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Kansbahal",
-            "localname": "Kansbahal",
+            "name": "Balangir Ka",
+            "localname": "Balangir Ka",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Balangir Kha",
+            "localname": "Balangir Kha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Balangir Ga",
+            "localname": "Balangir Ga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
           }
+          
         ]
       }
     }

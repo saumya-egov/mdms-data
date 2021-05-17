@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.balliguda ",
+  "tenantId": "od.balugaon",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balliguda ",
-        "localname": "Balliguda ",
+        "name": "Balugaon",
+        "localname": "Balugaon",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balliguda ",
+        "code": "od.balugaon",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Goibali",
-            "localname": "Goibali",
+            "name": "Santarapur",
+            "localname": "Santarapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Dumudi Sahi",
-            "localname": "Dumudi Sahi",
+            "name": "Balugaon",
+            "localname": "Balugaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Bagagoan",
-            "localname": "Bagagoan",
+            "name": "Gundurpur",
+            "localname": "Gundurpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,12 +50,32 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Balliguda",
-            "localname": "Balliguda",
+            "name": "Kk Nugaon",
+            "localname": "Kk Nugaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Rampur",
+            "localname": "Rampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Saralapadar",
+            "localname": "Saralapadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
           }
         ]
       }
@@ -68,18 +88,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balliguda ",
-        "localname": "Balliguda ",
+        "name": "Balugaon",
+        "localname": "Balugaon",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balliguda ",
+        "code": "od.balugaon",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Goibali",
-            "localname": "Goibali",
+            "name": "Santarapur",
+            "localname": "Santarapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -88,8 +108,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Dumudi Sahi",
-            "localname": "Dumudi Sahi",
+            "name": "Balugaon",
+            "localname": "Balugaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -98,8 +118,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Bagagoan",
-            "localname": "Bagagoan",
+            "name": "Gundurpur",
+            "localname": "Gundurpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -108,12 +128,32 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Balliguda",
-            "localname": "Balliguda",
+            "name": "Kk Nugaon",
+            "localname": "Kk Nugaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Rampur",
+            "localname": "Rampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Saralapadar",
+            "localname": "Saralapadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
           }
         ]
       }

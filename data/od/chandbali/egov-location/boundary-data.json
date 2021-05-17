@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.baripada",
+  "tenantId": "od.chandbali",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Baripada",
-        "localname": "Baripada",
+        "name": "Chandbali",
+        "localname": "Chandbali",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.baripada",
+        "code": "od.chandbali",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baripada",
-            "localname": "Baripada",
+            "name": "Baligaon",
+            "localname": "Baligaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Goladia",
+            "localname": "Goladia",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Sungadia",
-            "localname": "Sungadia",
+            "name": "Binitara",
+            "localname": "Binitara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,8 +50,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Sripadganj",
-            "localname": "Sripadganj",
+            "name": "Kulhi",
+            "localname": "Kulhi",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -60,8 +60,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Bijayramchandrapur",
-            "localname": "Bijayramchandrapur",
+            "name": "Patuli",
+            "localname": "Patuli",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -70,8 +70,8 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Yamunadeipur",
-            "localname": "Yamunadeipur",
+            "name": "Pahadpur",
+            "localname": "Pahadpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -80,8 +80,8 @@
           {
             "id": "8",
             "boundaryNum": 1,
-            "name": "Tulsichaura",
-            "localname": "Tulsichaura",
+            "name": "Panchpada",
+            "localname": "Panchpada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -90,8 +90,8 @@
           {
             "id": "9",
             "boundaryNum": 1,
-            "name": "Kalikapur",
-            "localname": "Kalikapur",
+            "name": "Kuanrsara",
+            "localname": "Kuanrsara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -100,8 +100,8 @@
           {
             "id": "10",
             "boundaryNum": 1,
-            "name": "Bhugudakota",
-            "localname": "Bhugudakota",
+            "name": "Krushanpur",
+            "localname": "Krushanpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -110,8 +110,8 @@
           {
             "id": "11",
             "boundaryNum": 1,
-            "name": "Raghunathapur",
-            "localname": "Raghunathapur",
+            "name": "Kuchula Diha",
+            "localname": "Kuchula Diha",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -120,8 +120,8 @@
           {
             "id": "12",
             "boundaryNum": 1,
-            "name": "Debendrapur",
-            "localname": "Debendrapur",
+            "name": "Kusuma",
+            "localname": "Kusuma",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -130,8 +130,8 @@
           {
             "id": "13",
             "boundaryNum": 1,
-            "name": "Hemachandrapur",
-            "localname": "Hemachandrapur",
+            "name": "Majhi Gaon",
+            "localname": "Majhi Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -140,8 +140,8 @@
           {
             "id": "14",
             "boundaryNum": 1,
-            "name": "Chhancha",
-            "localname": "Chhancha",
+            "name": "Kismat",
+            "localname": "Kismat",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -150,8 +150,8 @@
           {
             "id": "15",
             "boundaryNum": 1,
-            "name": "Janardanpur",
-            "localname": "Janardanpur",
+            "name": "Deuligaon",
+            "localname": "Deuligaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -160,8 +160,8 @@
           {
             "id": "16",
             "boundaryNum": 1,
-            "name": "Bidhyadharpur",
-            "localname": "Bidhyadharpur",
+            "name": "Bisinabar",
+            "localname": "Bisinabar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -170,8 +170,8 @@
           {
             "id": "17",
             "boundaryNum": 1,
-            "name": "Purnachandrapur",
-            "localname": "Purnachandrapur",
+            "name": "Chandbali",
+            "localname": "Chandbali",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -180,8 +180,8 @@
           {
             "id": "18",
             "boundaryNum": 1,
-            "name": "Maharajapur",
-            "localname": "Maharajapur",
+            "name": "Sompur",
+            "localname": "Sompur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -190,8 +190,8 @@
           {
             "id": "19",
             "boundaryNum": 1,
-            "name": "Karatbasha",
-            "localname": "Karatbasha",
+            "name": "Bareipur",
+            "localname": "Bareipur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -200,12 +200,62 @@
           {
             "id": "20",
             "boundaryNum": 1,
-            "name": "Bagdiha",
-            "localname": "Bagdiha",
+            "name": "Simulia",
+            "localname": "Simulia",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Bada Haripur",
+            "localname": "Bada Haripur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Sana Haripur",
+            "localname": "Sana Haripur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Pokhori Sahi",
+            "localname": "Pokhori Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kandha",
+            "localname": "Kandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL23"
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Paikirapur",
+            "localname": "Paikirapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL24"
           }
         ]
       }
@@ -218,18 +268,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Baripada",
-        "localname": "Baripada",
+        "name": "Chandbali",
+        "localname": "Chandbali",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.baripada",
+        "code": "od.chandbali",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baripada",
-            "localname": "Baripada",
+            "name": "Baligaon",
+            "localname": "Baligaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -238,8 +288,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Goladia",
+            "localname": "Goladia",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -248,8 +298,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Sungadia",
-            "localname": "Sungadia",
+            "name": "Binitara",
+            "localname": "Binitara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -258,8 +308,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Sripadganj",
-            "localname": "Sripadganj",
+            "name": "Kulhi",
+            "localname": "Kulhi",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -268,8 +318,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Bijayramchandrapur",
-            "localname": "Bijayramchandrapur",
+            "name": "Patuli",
+            "localname": "Patuli",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -278,8 +328,8 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Yamunadeipur",
-            "localname": "Yamunadeipur",
+            "name": "Pahadpur",
+            "localname": "Pahadpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -288,8 +338,8 @@
           {
             "id": "8",
             "boundaryNum": 1,
-            "name": "Tulsichaura",
-            "localname": "Tulsichaura",
+            "name": "Panchpada",
+            "localname": "Panchpada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -298,8 +348,8 @@
           {
             "id": "9",
             "boundaryNum": 1,
-            "name": "Kalikapur",
-            "localname": "Kalikapur",
+            "name": "Kuanrsara",
+            "localname": "Kuanrsara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -308,8 +358,8 @@
           {
             "id": "10",
             "boundaryNum": 1,
-            "name": "Bhugudakota",
-            "localname": "Bhugudakota",
+            "name": "Krushanpur",
+            "localname": "Krushanpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -318,8 +368,8 @@
           {
             "id": "11",
             "boundaryNum": 1,
-            "name": "Raghunathapur",
-            "localname": "Raghunathapur",
+            "name": "Kuchula Diha",
+            "localname": "Kuchula Diha",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -328,8 +378,8 @@
           {
             "id": "12",
             "boundaryNum": 1,
-            "name": "Debendrapur",
-            "localname": "Debendrapur",
+            "name": "Kusuma",
+            "localname": "Kusuma",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -338,8 +388,8 @@
           {
             "id": "13",
             "boundaryNum": 1,
-            "name": "Hemachandrapur",
-            "localname": "Hemachandrapur",
+            "name": "Majhi Gaon",
+            "localname": "Majhi Gaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -348,8 +398,8 @@
           {
             "id": "14",
             "boundaryNum": 1,
-            "name": "Chhancha",
-            "localname": "Chhancha",
+            "name": "Kismat",
+            "localname": "Kismat",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -358,8 +408,8 @@
           {
             "id": "15",
             "boundaryNum": 1,
-            "name": "Janardanpur",
-            "localname": "Janardanpur",
+            "name": "Deuligaon",
+            "localname": "Deuligaon",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -368,8 +418,8 @@
           {
             "id": "16",
             "boundaryNum": 1,
-            "name": "Bidhyadharpur",
-            "localname": "Bidhyadharpur",
+            "name": "Bisinabar",
+            "localname": "Bisinabar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -378,8 +428,8 @@
           {
             "id": "17",
             "boundaryNum": 1,
-            "name": "Purnachandrapur",
-            "localname": "Purnachandrapur",
+            "name": "Chandbali",
+            "localname": "Chandbali",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -388,8 +438,8 @@
           {
             "id": "18",
             "boundaryNum": 1,
-            "name": "Maharajapur",
-            "localname": "Maharajapur",
+            "name": "Sompur",
+            "localname": "Sompur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -398,8 +448,8 @@
           {
             "id": "19",
             "boundaryNum": 1,
-            "name": "Karatbasha",
-            "localname": "Karatbasha",
+            "name": "Bareipur",
+            "localname": "Bareipur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -408,12 +458,62 @@
           {
             "id": "20",
             "boundaryNum": 1,
-            "name": "Bagdiha",
-            "localname": "Bagdiha",
+            "name": "Simulia",
+            "localname": "Simulia",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Bada Haripur",
+            "localname": "Bada Haripur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Sana Haripur",
+            "localname": "Sana Haripur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Pokhori Sahi",
+            "localname": "Pokhori Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kandha",
+            "localname": "Kandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL23"
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Paikirapur",
+            "localname": "Paikirapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL24"
           }
         ]
       }

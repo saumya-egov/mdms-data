@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.balliguda ",
+  "tenantId": "od.chikiti",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balliguda ",
-        "localname": "Balliguda ",
+        "name": "Chikiti",
+        "localname": "Chikiti",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balliguda ",
+        "code": "od.chikiti",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Goibali",
-            "localname": "Goibali",
+            "name": "Chikiti Gada",
+            "localname": "Chikiti Gada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Dumudi Sahi",
-            "localname": "Dumudi Sahi",
+            "name": "Sanibara Pentho",
+            "localname": "Sanibara Pentho",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Bagagoan",
-            "localname": "Bagagoan",
+            "name": "Lokanathapur",
+            "localname": "Lokanathapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,12 +50,22 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Balliguda",
-            "localname": "Balliguda",
+            "name": "Jenapur",
+            "localname": "Jenapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Karabalua",
+            "localname": "Karabalua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
           }
         ]
       }
@@ -68,18 +78,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balliguda ",
-        "localname": "Balliguda ",
+        "name": "Chikiti",
+        "localname": "Chikiti",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balliguda ",
+        "code": "od.chikiti",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Goibali",
-            "localname": "Goibali",
+            "name": "Chikiti Gada",
+            "localname": "Chikiti Gada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -88,8 +98,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Dumudi Sahi",
-            "localname": "Dumudi Sahi",
+            "name": "Sanibara Pentho",
+            "localname": "Sanibara Pentho",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -98,8 +108,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Bagagoan",
-            "localname": "Bagagoan",
+            "name": "Lokanathapur",
+            "localname": "Lokanathapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -108,12 +118,22 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Balliguda",
-            "localname": "Balliguda",
+            "name": "Jenapur",
+            "localname": "Jenapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Karabalua",
+            "localname": "Karabalua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
           }
         ]
       }
