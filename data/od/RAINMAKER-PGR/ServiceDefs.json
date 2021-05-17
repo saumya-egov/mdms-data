@@ -1441,14 +1441,14 @@
     "menuPath": "RestaurantFoodstallsrelated",
     "active": true,
     "slaHours": 336,
-    "serviceCode": "PollutionduetosmokeUnbearablesmell&noise",
+    "serviceCode": "PollutionduetosmokeUnbearablesmellnoise",
     "department": "DEPT_1"
   },
   {
     "menuPath": "RestaurantFoodstallsrelated",
     "active": true,
     "slaHours": 336,
-    "serviceCode": "Preparing&sellingoffoodoutsideauthorisedpremises",
+    "serviceCode": "Preparingsellingoffoodoutsideauthorisedpremises",
     "department": "DEPT_1"
   },
   {
