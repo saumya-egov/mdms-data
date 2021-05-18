@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.ranpur",
+  "tenantId": "od.koraput",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ranpur",
-        "localname": "Ranpur",
+        "name": "Koraput",
+        "localname": "Koraput",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.ranpur",
+        "code": "od.koraput",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sanagarh",
-            "localname": "Sanagarh",
+            "name": "Kumbha-Ii",
+            "localname": "Kumbha-Ii",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Purunabasanta",
-            "localname": "Purunabasanta",
+            "name": "Chindri",
+            "localname": "Chindri",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Ranpurgarh",
-            "localname": "Ranpurgarh",
+            "name": "Kumbha-I",
+            "localname": "Kumbha-I",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,8 +50,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Brajaballavpur",
-            "localname": "Brajaballavpur",
+            "name": "Landiguda",
+            "localname": "Landiguda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -60,8 +60,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Disharikhariguda",
+            "localname": "Disharikhariguda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -70,8 +70,8 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Subhadrapur",
-            "localname": "Subhadrapur",
+            "name": "Dangadeula",
+            "localname": "Dangadeula",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -80,8 +80,8 @@
           {
             "id": "8",
             "boundaryNum": 1,
-            "name": "Marthapadar",
-            "localname": "Marthapadar",
+            "name": "Tentuliguda",
+            "localname": "Tentuliguda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -90,12 +90,32 @@
           {
             "id": "9",
             "boundaryNum": 1,
-            "name": "Pampada",
-            "localname": "Pampada",
+            "name": "Koraput Nagar",
+            "localname": "Koraput Nagar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Odiaguda",
+            "localname": "Odiaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Kanheiput",
+            "localname": "Kanheiput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
           }
         ]
       }
@@ -108,18 +128,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ranpur",
-        "localname": "Ranpur",
+        "name": "Koraput",
+        "localname": "Koraput",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.ranpur",
+        "code": "od.koraput",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sanagarh",
-            "localname": "Sanagarh",
+            "name": "Kumbha-Ii",
+            "localname": "Kumbha-Ii",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -128,8 +148,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Purunabasanta",
-            "localname": "Purunabasanta",
+            "name": "Chindri",
+            "localname": "Chindri",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -138,8 +158,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Ranpurgarh",
-            "localname": "Ranpurgarh",
+            "name": "Kumbha-I",
+            "localname": "Kumbha-I",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -148,8 +168,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Brajaballavpur",
-            "localname": "Brajaballavpur",
+            "name": "Landiguda",
+            "localname": "Landiguda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -158,8 +178,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Disharikhariguda",
+            "localname": "Disharikhariguda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -168,8 +188,8 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Subhadrapur",
-            "localname": "Subhadrapur",
+            "name": "Dangadeula",
+            "localname": "Dangadeula",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -178,8 +198,8 @@
           {
             "id": "8",
             "boundaryNum": 1,
-            "name": "Marthapadar",
-            "localname": "Marthapadar",
+            "name": "Tentuliguda",
+            "localname": "Tentuliguda",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -188,12 +208,32 @@
           {
             "id": "9",
             "boundaryNum": 1,
-            "name": "Pampada",
-            "localname": "Pampada",
+            "name": "Koraput Nagar",
+            "localname": "Koraput Nagar",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Odiaguda",
+            "localname": "Odiaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Kanheiput",
+            "localname": "Kanheiput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
           }
         ]
       }

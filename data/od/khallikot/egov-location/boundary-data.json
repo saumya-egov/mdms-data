@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.joda",
+  "tenantId": "od.khallikot",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Joda",
-        "localname": "Joda",
+        "name": "Khallikot",
+        "localname": "Khallikot",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.joda",
+        "code": "od.khallikot",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baneikala",
-            "localname": "Baneikala",
+            "name": "Khallikote",
+            "localname": "Khallikote",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Joda",
-            "localname": "Joda",
+            "name": "Phulajhara",
+            "localname": "Phulajhara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,32 +40,12 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Kamarjoda",
-            "localname": "Kamarjoda",
+            "name": "Matia Posi",
+            "localname": "Matia Posi",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL3"
-          },
-          {
-            "id": "5",
-            "boundaryNum": 1,
-            "name": "Banspani",
-            "localname": "Banspani",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL4"
-          },
-          {
-            "id": "6",
-            "boundaryNum": 1,
-            "name": "Bichakundi",
-            "localname": "Bichakundi",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL5"
           }
         ]
       }
@@ -78,18 +58,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Joda",
-        "localname": "Joda",
+        "name": "Khallikot",
+        "localname": "Khallikot",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.joda",
+        "code": "od.khallikot",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baneikala",
-            "localname": "Baneikala",
+            "name": "Khallikote",
+            "localname": "Khallikote",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -98,8 +78,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Joda",
-            "localname": "Joda",
+            "name": "Phulajhara",
+            "localname": "Phulajhara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -108,32 +88,12 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Kamarjoda",
-            "localname": "Kamarjoda",
+            "name": "Matia Posi",
+            "localname": "Matia Posi",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL3"
-          },
-          {
-            "id": "5",
-            "boundaryNum": 1,
-            "name": "Banspani",
-            "localname": "Banspani",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL4"
-          },
-          {
-            "id": "6",
-            "boundaryNum": 1,
-            "name": "Bichakundi",
-            "localname": "Bichakundi",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL5"
           }
         ]
       }

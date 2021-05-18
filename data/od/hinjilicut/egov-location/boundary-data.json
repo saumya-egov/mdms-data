@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.joda",
+  "tenantId": "od.hinjilicut",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Joda",
-        "localname": "Joda",
+        "name": "Hinjilicut",
+        "localname": "Hinjilicut",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.joda",
+        "code": "od.hinjilicut",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baneikala",
-            "localname": "Baneikala",
+            "name": "Hinjili",
+            "localname": "Hinjili",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Joda",
-            "localname": "Joda",
+            "name": "Nuagada",
+            "localname": "Nuagada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Kamarjoda",
-            "localname": "Kamarjoda",
+            "name": "Hinjilicut",
+            "localname": "Hinjilicut",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,22 +50,12 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Banspani",
-            "localname": "Banspani",
+            "name": "Ankorada",
+            "localname": "Ankorada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL4"
-          },
-          {
-            "id": "6",
-            "boundaryNum": 1,
-            "name": "Bichakundi",
-            "localname": "Bichakundi",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL5"
           }
         ]
       }
@@ -78,18 +68,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Joda",
-        "localname": "Joda",
+        "name": "Hinjilicut",
+        "localname": "Hinjilicut",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.joda",
+        "code": "od.hinjilicut",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Baneikala",
-            "localname": "Baneikala",
+            "name": "Hinjili",
+            "localname": "Hinjili",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -98,8 +88,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Joda",
-            "localname": "Joda",
+            "name": "Nuagada",
+            "localname": "Nuagada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -108,8 +98,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Kamarjoda",
-            "localname": "Kamarjoda",
+            "name": "Hinjilicut",
+            "localname": "Hinjilicut",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -118,22 +108,12 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Banspani",
-            "localname": "Banspani",
+            "name": "Ankorada",
+            "localname": "Ankorada",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL4"
-          },
-          {
-            "id": "6",
-            "boundaryNum": 1,
-            "name": "Bichakundi",
-            "localname": "Bichakundi",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL5"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.ranpur",
+  "tenantId": "od.tarva",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ranpur",
-        "localname": "Ranpur",
+        "name": "Tarva",
+        "localname": "Tarva",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.ranpur",
+        "code": "od.tarva",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sanagarh",
-            "localname": "Sanagarh",
+            "name": "Tarbha Town Unit No. 1",
+            "localname": "Tarbha Town Unit No. 1",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Purunabasanta",
-            "localname": "Purunabasanta",
+            "name": "Tarbha Town Unit No. 2",
+            "localname": "Tarbha Town Unit No. 2",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Ranpurgarh",
-            "localname": "Ranpurgarh",
+            "name": "Tarbha Town Unit No. 3",
+            "localname": "Tarbha Town Unit No. 3",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,8 +50,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Brajaballavpur",
-            "localname": "Brajaballavpur",
+            "name": "Tarbha Town Unit No. 4",
+            "localname": "Tarbha Town Unit No. 4",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -60,8 +60,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Tarbha Town Unit No. 5",
+            "localname": "Tarbha Town Unit No. 5",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -70,32 +70,12 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Subhadrapur",
-            "localname": "Subhadrapur",
+            "name": "Tarbha Town Unit No. 6",
+            "localname": "Tarbha Town Unit No. 6",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL6"
-          },
-          {
-            "id": "8",
-            "boundaryNum": 1,
-            "name": "Marthapadar",
-            "localname": "Marthapadar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL7"
-          },
-          {
-            "id": "9",
-            "boundaryNum": 1,
-            "name": "Pampada",
-            "localname": "Pampada",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL8"
           }
         ]
       }
@@ -108,18 +88,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ranpur",
-        "localname": "Ranpur",
+        "name": "Tarva",
+        "localname": "Tarva",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.ranpur",
+        "code": "od.tarva",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sanagarh",
-            "localname": "Sanagarh",
+            "name": "Tarbha Town Unit No. 1",
+            "localname": "Tarbha Town Unit No. 1",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -128,8 +108,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Purunabasanta",
-            "localname": "Purunabasanta",
+            "name": "Tarbha Town Unit No. 2",
+            "localname": "Tarbha Town Unit No. 2",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -138,8 +118,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Ranpurgarh",
-            "localname": "Ranpurgarh",
+            "name": "Tarbha Town Unit No. 3",
+            "localname": "Tarbha Town Unit No. 3",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -148,8 +128,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Brajaballavpur",
-            "localname": "Brajaballavpur",
+            "name": "Tarbha Town Unit No. 4",
+            "localname": "Tarbha Town Unit No. 4",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -158,8 +138,8 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Tarbha Town Unit No. 5",
+            "localname": "Tarbha Town Unit No. 5",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -168,32 +148,12 @@
           {
             "id": "7",
             "boundaryNum": 1,
-            "name": "Subhadrapur",
-            "localname": "Subhadrapur",
+            "name": "Tarbha Town Unit No. 6",
+            "localname": "Tarbha Town Unit No. 6",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL6"
-          },
-          {
-            "id": "8",
-            "boundaryNum": 1,
-            "name": "Marthapadar",
-            "localname": "Marthapadar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL7"
-          },
-          {
-            "id": "9",
-            "boundaryNum": 1,
-            "name": "Pampada",
-            "localname": "Pampada",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL8"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.ranpur",
+  "tenantId": "od.nimapara",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,18 +10,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ranpur",
-        "localname": "Ranpur",
+        "name": "Nimapara",
+        "localname": "Nimapara",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.ranpur",
+        "code": "od.nimapara",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sanagarh",
-            "localname": "Sanagarh",
+            "name": "Patapur",
+            "localname": "Patapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -30,8 +30,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Purunabasanta",
-            "localname": "Purunabasanta",
+            "name": "Nimapara",
+            "localname": "Nimapara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -40,8 +40,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Ranpurgarh",
-            "localname": "Ranpurgarh",
+            "name": "Andhia",
+            "localname": "Andhia",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -50,8 +50,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Brajaballavpur",
-            "localname": "Brajaballavpur",
+            "name": "Nuharkiri",
+            "localname": "Nuharkiri",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -60,42 +60,12 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Bhubanpur",
+            "localname": "Bhubanpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL5"
-          },
-          {
-            "id": "7",
-            "boundaryNum": 1,
-            "name": "Subhadrapur",
-            "localname": "Subhadrapur",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL6"
-          },
-          {
-            "id": "8",
-            "boundaryNum": 1,
-            "name": "Marthapadar",
-            "localname": "Marthapadar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL7"
-          },
-          {
-            "id": "9",
-            "boundaryNum": 1,
-            "name": "Pampada",
-            "localname": "Pampada",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL8"
           }
         ]
       }
@@ -108,18 +78,18 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Ranpur",
-        "localname": "Ranpur",
+        "name": "Nimapara",
+        "localname": "Nimapara",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.ranpur",
+        "code": "od.nimapara",
         "children": [
           {
             "id": "2",
             "boundaryNum": 1,
-            "name": "Sanagarh",
-            "localname": "Sanagarh",
+            "name": "Patapur",
+            "localname": "Patapur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -128,8 +98,8 @@
           {
             "id": "3",
             "boundaryNum": 1,
-            "name": "Purunabasanta",
-            "localname": "Purunabasanta",
+            "name": "Nimapara",
+            "localname": "Nimapara",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -138,8 +108,8 @@
           {
             "id": "4",
             "boundaryNum": 1,
-            "name": "Ranpurgarh",
-            "localname": "Ranpurgarh",
+            "name": "Andhia",
+            "localname": "Andhia",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -148,8 +118,8 @@
           {
             "id": "5",
             "boundaryNum": 1,
-            "name": "Brajaballavpur",
-            "localname": "Brajaballavpur",
+            "name": "Nuharkiri",
+            "localname": "Nuharkiri",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
@@ -158,42 +128,12 @@
           {
             "id": "6",
             "boundaryNum": 1,
-            "name": "Balarampur",
-            "localname": "Balarampur",
+            "name": "Bhubanpur",
+            "localname": "Bhubanpur",
             "longitude": null,
             "latitude": null,
             "label": "Locality",
             "code": "VIL5"
-          },
-          {
-            "id": "7",
-            "boundaryNum": 1,
-            "name": "Subhadrapur",
-            "localname": "Subhadrapur",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL6"
-          },
-          {
-            "id": "8",
-            "boundaryNum": 1,
-            "name": "Marthapadar",
-            "localname": "Marthapadar",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL7"
-          },
-          {
-            "id": "9",
-            "boundaryNum": 1,
-            "name": "Pampada",
-            "localname": "Pampada",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL8"
           }
         ]
       }
