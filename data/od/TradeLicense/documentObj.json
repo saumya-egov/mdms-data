@@ -36,7 +36,7 @@
           "required": true
         }
       ],
-      "tradeType": "MANUFACTURE"
+      "tradeType": "EATINGESTABLISHMENTS"
     },
     {
       "allowedDocs": [
@@ -72,7 +72,7 @@
           "required": true
         }
       ],
-      "tradeType": "ARCHITECT"
+      "tradeType": "MEDICALESTABLISHMENTS"
     },
     {
       "allowedDocs": [
@@ -108,7 +108,7 @@
           "required": true
         }
       ],
-      "tradeType": "ELECTRICALENGINEER"
+      "tradeType": "NONEATINGNONMEDICALESTABLISHMENTS"
     },
     {
       "allowedDocs": [
@@ -144,7 +144,7 @@
           "required": true
         }
       ],
-      "tradeType": "CIVILENGINEER"
+      "tradeType": "FLAMABLES"
     },
     {
       "allowedDocs": [
@@ -180,7 +180,43 @@
           "required": true
         }
       ],
-      "tradeType": "STRUCTURALENGINEER"
+      "tradeType": "LIVESTOCKANDRELATEDPRODUCTS"
+    },
+	{
+      "allowedDocs": [
+        {
+          "documentType": "OWNERIDPROOF",
+          "applicationType": [
+            "NEW",
+            "RENEWAL"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "OWNERSHIPPROOF",
+          "applicationType": [
+            "NEW",
+            "RENEWAL"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "OWNERPHOTO",
+          "applicationType": [
+            "NEW",
+            "RENEWAL"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "OLDLICENCENO",
+          "applicationType": [
+            "RENEWAL"
+          ],
+          "required": true
+        }
+      ],
+      "tradeType": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES"
     }
   ]
 }
