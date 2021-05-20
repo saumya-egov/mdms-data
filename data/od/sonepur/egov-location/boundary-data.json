@@ -1,0 +1,122 @@
+{
+  "tenantId": "od.sonepur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sonepur",
+        "localname": "Sonepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sonepur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-1",
+            "localname": "Sonepur Town Unit-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-2",
+            "localname": "Sonepur Town Unit-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-3",
+            "localname": "Sonepur Town Unit-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-4",
+            "localname": "Sonepur Town Unit-4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sonepur",
+        "localname": "Sonepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sonepur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-1",
+            "localname": "Sonepur Town Unit-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-2",
+            "localname": "Sonepur Town Unit-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-3",
+            "localname": "Sonepur Town Unit-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-4",
+            "localname": "Sonepur Town Unit-4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          }
+        ]
+      }
+    }
+  ]
+}

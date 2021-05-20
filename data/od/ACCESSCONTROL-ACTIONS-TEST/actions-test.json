@@ -9470,6 +9470,34 @@
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2088,
+         "name": "RainmakerPgrEscalationSearch",
+         "url": "/rainmaker-pgr/v1/requests/escalate/_batch",
+         "displayName": "Rainmaker Pgr Escalation Search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "rainmaker pgr",
+         "code": "null",
+         "path": ""
+      },
+      {
+        "id": 2089,
+        "name": "rainmaker-common-dashboard",
+        "url": "card",
+        "displayName": "Dashboard",
+        "orderNumber": 3,
+        "queryParams": "",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "",
+        "path": "",
+        "navigationURL": "egov-dashboard/home",
+        "leftIcon":"custom:publicIcon",
+        "rightIcon": ""
       }	  
    ]
 }

@@ -1,0 +1,82 @@
+{
+  "tenantId": "od.kotpad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotpad",
+        "localname": "Kotpad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kotpad",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kotpad Mouza",
+            "localname": "Kotpad Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Damayanti Nagar Mouza",
+            "localname": "Damayanti Nagar Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotpad",
+        "localname": "Kotpad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kotpad",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kotpad Mouza",
+            "localname": "Kotpad Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Damayanti Nagar Mouza",
+            "localname": "Damayanti Nagar Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
+      }
+    }
+  ]
+}
