@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.brhmapur",
+  "tenantId": "od.berhampur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.brhmapur",
+        "code": "od.berhampur",
         "children": [
           {
             "id": "2",
@@ -789,7 +789,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.brhmapur"
+        "code": "od.berhampur"
       }
     }
   ]

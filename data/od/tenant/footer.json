@@ -4783,7 +4783,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -4839,7 +4839,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -4891,7 +4891,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -4939,7 +4939,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -4983,7 +4983,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -5031,7 +5031,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -5079,7 +5079,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -5127,7 +5127,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -5175,7 +5175,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -5223,7 +5223,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -5271,7 +5271,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -5319,7 +5319,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -17067,7 +17067,7 @@
       ]
     },
     {
-      "code": "od.brhmapur",
+      "code": "od.berhampur",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
