@@ -5,7 +5,7 @@
     {
   "code": "EATINGESTABLISHMENTS.TST1",
   "name": "Bakery Manufacturing",
-  "uom": "SQFT",
+  "uom": "SQFT,NOOFROOMS,NOOFBEDS",
   "tempUom": "NUMBEROFDAYS",
   "applicationDocument": [
     {
@@ -36,7 +36,7 @@
 {
   "code": "EATINGESTABLISHMENTS.TST2",
   "name": "Bakery Shop (Wholesale)",
-  "uom": "YEAR",
+  "uom": "YEAR,NOOFROOMS",
   "tempUom": "NUMBEROFDAYS",
   "applicationDocument": [
     {
@@ -67,7 +67,7 @@
 {
   "code": "EATINGESTABLISHMENTS.TST3",
   "name": "Bakery Shop (Retail)",
-  "uom": "SQFT",
+  "uom": null,
   "tempUom": null,
   "applicationDocument": [
     {
