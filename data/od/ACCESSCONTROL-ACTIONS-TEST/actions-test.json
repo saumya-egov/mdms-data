@@ -3565,7 +3565,7 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Chartofaccounts.Tree View",
+         "path": "Finance.Masters.Chart Of Accounts.Tree View",
          "navigationURL": "services/EGF/eGov_COA.jsp"
       },
       {
@@ -4265,7 +4265,7 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.View Detailed Code",
+         "path": "Finance.Masters.Chart Of Accounts.Detailed Codes.View Detailed Code",
          "navigationURL": "services/EGF/masters/chartOfAccounts-viewDetailedCode.action"
       },
       {
@@ -4279,7 +4279,7 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Modify Detailed Code",
+         "path": "Finance.Masters.Chart Of Accounts.Detailed Codes.Modify Detailed Code",
          "navigationURL": "services/EGF/masters/chartOfAccounts-editDetailedCode.action"
       },
       {
