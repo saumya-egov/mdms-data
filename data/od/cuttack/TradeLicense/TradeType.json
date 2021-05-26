@@ -1,0 +1,38 @@
+{
+  "tenantId": "od",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+  "code": "EATINGESTABLISHMENTS.TST1",
+  "name": "Bakery Manufacturing",
+  "uom": "SQFT,NOOFROOMS,NOOFBEDS",
+  "tempUom": "NUMBEROFDAYS",
+  "applicationDocument": [
+    {
+      "applicationType": "NEW",
+      "documentList": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO"
+      ]
+    },
+    {
+      "applicationType": "RENEW",
+      "documentList": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "OWNERPHOTO",
+        "OLDLICENCENO"
+      ]
+    }
+  ],
+  "verificationDocument": [
+    
+  ],
+  "active": true,
+  "type": "TL",
+  "validityPeriod": null
+}
+
+  ]
+}
