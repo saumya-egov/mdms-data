@@ -171,6 +171,46 @@
       "name": "Stores",
       "code": "DEPT_70",
       "active": true
+    },
+    {
+      "name": "Health",
+      "code": "DEPT_71",
+      "active": true
+    },
+    {
+      "name": "Sanitation",
+      "code": "DEPT_72",
+      "active": true
+    },
+    {
+      "name": "Trade License",
+      "code": "DEPT_73",
+      "active": true
+    },
+    {
+      "name": "Electrical",
+      "code": "DEPT_74",
+      "active": true
+    },
+    {
+      "name": "Housing",
+      "code": "DEPT_75",
+      "active": true
+    },
+    {
+      "name": "Marriage",
+      "code": "DEPT_76",
+      "active": true
+    },
+    {
+      "name": "Grievance",
+      "code": "DEPT_77",
+      "active": true
+    },
+    {
+      "name": "Holding Tax",
+      "code": "DEPT_78",
+      "active": true
     }	
   ]
 }
