@@ -382,7 +382,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST7",
       "name": "Medical \u0026 General Store",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -411,7 +411,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
       "name": "Bankers - (All Pvt. \u0026 Co-operative)",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -817,7 +817,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST48",
       "name": "Cable Television (Satellite Channels Operations)/Cable network",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -904,7 +904,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST55",
       "name": "Private Schools,(running in Private or residential buildings)",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -962,7 +962,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST66",
       "name": "Sale of motor vehicle 3, 4, 6, 8, 10 and above Wheelers",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1107,7 +1107,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST107",
       "name": "Tent Houses",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1281,7 +1281,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST124",
       "name": "Motor Dealers 2 wheelers",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1774,7 +1774,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST228",
       "name": "Cinema Halls",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
