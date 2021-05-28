@@ -5,7 +5,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST2",
       "name": "Bakery Shop (Wholesale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -34,7 +34,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST3",
       "name": "Bakery Shop (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -63,7 +63,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST4",
       "name": "Ice Cream -  Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -92,7 +92,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST5",
       "name": "Cooldrinks / Ice Cream - Sales",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -121,7 +121,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST7",
       "name": "Banquet Halls",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -150,7 +150,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST8",
       "name": "Function Halls / Conference Halls (AC)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -179,7 +179,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST9",
       "name": "Function Halls / Conference Halls (Non-AC)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -208,7 +208,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST11",
       "name": "Bars",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -382,7 +382,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST18",
       "name": "Mess",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -411,7 +411,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST19",
       "name": "Fast Food centres",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -440,7 +440,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST20",
       "name": "Sweet Stall",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -469,7 +469,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST21",
       "name": "Sugarcane Juice",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -498,7 +498,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST22",
       "name": "Fruit Juice/Lassi Center",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -527,7 +527,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST24",
       "name": "Restaurants - AC",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -556,7 +556,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST25",
       "name": "Restaurants - Non-AC",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -585,7 +585,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST1",
       "name": "Chemists \u0026 Druggists",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -643,7 +643,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST3",
       "name": "Clinics",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -672,7 +672,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST4",
       "name": "Pathological Labs",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -701,7 +701,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST5",
       "name": "Diagnosis centers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -730,7 +730,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST6",
       "name": "Corporate Hospitals",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -759,7 +759,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST8",
       "name": "Surgical Goods",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -788,7 +788,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST10",
       "name": "Unani Medicines (Ayurvedic Wet or Dry)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -817,7 +817,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
       "name": "Bankers - (All Pvt. \u0026 Co-operative)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -846,7 +846,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST2",
       "name": "Video Films",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -933,7 +933,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST6",
       "name": "Gym / Spa / Massage Centers / slimming/obesity Centers / Health Resorts (Ayurvedic Center)/Hair Transplantation",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -962,7 +962,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST7",
       "name": "Casting of metal (by Power)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1020,7 +1020,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST10",
       "name": "Cloth (wholesale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1078,7 +1078,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST12",
       "name": "Commission Agents and Adthidar Airline Travel Agency",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1107,7 +1107,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST13",
       "name": "Cotton Seeds",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1136,7 +1136,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST15",
       "name": "Electric Welding",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1165,7 +1165,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST16",
       "name": "Gas Welding",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1223,7 +1223,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST18",
       "name": "Granites \u0026  Marble Stones",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1252,7 +1252,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST19",
       "name": "Bricks or Tiles Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1310,7 +1310,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST21",
       "name": "Sanitary Fittings / Goods",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1339,7 +1339,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST24",
       "name": "Preparing of Gold \u0026 Silver Ornaments",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1368,7 +1368,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST25",
       "name": "Gold \u0026 Silver Smiths",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1397,7 +1397,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST26",
       "name": "Sale of Cement and Steel (Wholesale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1426,7 +1426,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST27",
       "name": "Sale of Cement and Steel (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1455,7 +1455,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST28",
       "name": "Iron sheet",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1484,7 +1484,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST29",
       "name": "Zinc",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1513,7 +1513,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST30",
       "name": "Asbestos",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1542,7 +1542,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST34",
       "name": "Timber",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1571,7 +1571,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST35",
       "name": "Wood",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1600,7 +1600,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST37",
       "name": "Paints shops all kinds (Wholesale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1629,7 +1629,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST38",
       "name": "Paints shops all kinds (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1658,7 +1658,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST41",
       "name": "Advertisement Agency",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1716,7 +1716,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
       "name": "All Electrical Goods Servicing \u0026 Repairs",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1745,7 +1745,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST45",
       "name": "Architects and Builders",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1774,7 +1774,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST46",
       "name": "Auto Consultations",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1803,7 +1803,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST47",
       "name": "Bail press",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1832,7 +1832,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST48",
       "name": "Cable Television (Satellite Channels Operations)/Cable network",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1861,7 +1861,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST49",
       "name": "Perfumery Works",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1890,7 +1890,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST50",
       "name": "Photo Colour Lab (Studio)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1948,7 +1948,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST52",
       "name": "Sale of doors",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1977,7 +1977,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST54",
       "name": "Printing press",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2006,7 +2006,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST55",
       "name": "Private Schools,(running in Private or residential buildings)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2035,7 +2035,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST57",
       "name": "Coaching centres",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2064,7 +2064,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST58",
       "name": "Training institutions",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2093,7 +2093,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST59",
       "name": "Radio, Wireless and Television Sets Shop Dealers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2122,7 +2122,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST61",
       "name": "Sale of Building Material Except cement and steel (Sand, Bricks, Chip etc.)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2151,7 +2151,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST62",
       "name": "Sale of furniture, steel \u0026 wood (Wholesale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2180,7 +2180,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST63",
       "name": "Sale of furniture, steel \u0026 wood (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2209,7 +2209,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST64",
       "name": "Sale of Greeting",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2238,7 +2238,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST65",
       "name": "Sale of Industrial Equipments \u0026 Safety Equipments",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2267,7 +2267,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST66",
       "name": "Sale of motor vehicle 3, 4, 6, 8, 10 and above Wheelers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2296,7 +2296,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST67",
       "name": "Sale of Tiles  (All Varieties- Wholesale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2325,7 +2325,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST68",
       "name": "Sale of Toys",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2354,7 +2354,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST69",
       "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture \u0026 other items per day",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2383,7 +2383,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST70",
       "name": "Sewing machine dealers shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2412,7 +2412,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST71",
       "name": "Share Brokers / Stock Exchange / Share Consultancy",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2441,7 +2441,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST73",
       "name": "Sports Goods",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2470,7 +2470,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST76",
       "name": "Transport Companies/Transport packers \u0026 movers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2528,7 +2528,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST81",
       "name": "Fertilizer Shop (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2557,7 +2557,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST83",
       "name": "Pesticide Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2586,7 +2586,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST84",
       "name": "Sale of confectionary Articles",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2615,7 +2615,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST85",
       "name": "Edible / Vegetable Oils",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2644,7 +2644,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST86",
       "name": "Jaggary / Sugar Sales",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2673,7 +2673,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST90",
       "name": "Chilli or Chilli Powder sales",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2702,7 +2702,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST92",
       "name": "Condiments (Masala) Sale",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2731,7 +2731,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST93",
       "name": "Catering Service centers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2760,7 +2760,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST95",
       "name": "Computer Service center",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2789,7 +2789,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST96",
       "name": "Computer stationary",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2818,7 +2818,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST98",
       "name": "Cosmetics",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2847,7 +2847,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST99",
       "name": "Electric Fitting \u0026 Accessories",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2876,7 +2876,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST101",
       "name": "Film \u0026 television training institute",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2905,7 +2905,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST103",
       "name": "Films Studio",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2963,7 +2963,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST107",
       "name": "Tent Houses",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -2992,7 +2992,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST108",
       "name": "furniture works",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3050,7 +3050,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST111",
       "name": "Gold Smith Shops",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3079,7 +3079,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST112",
       "name": "Sale of Aluminium, Brass, Steel and Copper utensils",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3108,7 +3108,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST113",
       "name": "Fish Aquariums",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3137,7 +3137,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST114",
       "name": "Milk and Milk Products",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3166,7 +3166,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST115",
       "name": "Milk, Curd, Butter etc.,",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3195,7 +3195,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST117",
       "name": "Lamination / Screen Printing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3224,7 +3224,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST118",
       "name": "Lathe Machine or Buff Machine Irrespective of No. of Machines",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3253,7 +3253,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST119",
       "name": "Malls / Mega malls including all the trades in the premises in the Malls",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3311,7 +3311,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
       "name": "Motor \u0026 Motor Cycle Repairing \u0026 Servicing (Mechanic Workshops)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3340,7 +3340,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST124",
       "name": "Motor Dealers 2 wheelers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3369,7 +3369,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST125",
       "name": "Motor Servicing, for 4,6,8,10 \u0026 above wheelers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3427,7 +3427,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST128",
       "name": "Oil Cloth manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3485,7 +3485,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST130",
       "name": "Owner of Association of Taxi Cars, Buses, Lorries or Contract cars, which are used for carrying passengers or Goods on payment of hire",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3514,7 +3514,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST131",
       "name": "Packaging Unit",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3543,7 +3543,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST133",
       "name": "Flower Merchant (Open Area)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3572,7 +3572,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST134",
       "name": "Carpenter (Open Area)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3601,7 +3601,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST135",
       "name": "Carpenter Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3688,7 +3688,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST139",
       "name": "Fruits (Seasonal)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3717,7 +3717,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST141",
       "name": "Artificial Plants",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3746,7 +3746,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST142",
       "name": "Fancy and Bangles Store (Wholesale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3775,7 +3775,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST143",
       "name": "Fancy and Bangles Store (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3804,7 +3804,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST144",
       "name": "Battery Charging",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3833,7 +3833,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST145",
       "name": "Black Smith",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3862,7 +3862,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST148",
       "name": "Book Binder",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3891,7 +3891,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST150",
       "name": "Camera Repairing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3920,7 +3920,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST151",
       "name": "Cane Maker Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3949,7 +3949,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST152",
       "name": "Caps and Mats Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3978,7 +3978,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST154",
       "name": "Cotton Refuse and Waste",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4007,7 +4007,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST155",
       "name": "Courier Service",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4065,7 +4065,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST162",
       "name": "Fire Wood",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4094,7 +4094,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST163",
       "name": "Fire Wood Whole Sale Dealers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4123,7 +4123,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST165",
       "name": "Frames and Glass Wear",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4181,7 +4181,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST167",
       "name": "Hand Press",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4210,7 +4210,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST169",
       "name": "Sticker and Number plates shops",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4239,7 +4239,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST170",
       "name": "Seat cover Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4268,7 +4268,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST171",
       "name": "Seat cover/sofa covers sales",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4297,7 +4297,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST172",
       "name": "Car Decors",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4326,7 +4326,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST176",
       "name": "Hemp (Jute)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4442,7 +4442,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST184",
       "name": "Kirana Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4500,7 +4500,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST187",
       "name": "Magazine and Paper",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4529,7 +4529,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST188",
       "name": "Maniari Articles",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4558,7 +4558,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST189",
       "name": "Musical Instruments",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4587,7 +4587,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST191",
       "name": "Pan  Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4616,7 +4616,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
       "name": "Photo Studio/Shop \u0026 Articles",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4645,7 +4645,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST194",
       "name": "Plastic Goods",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4674,7 +4674,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST196",
       "name": "Radio, Wireless, T.V. Sets Repairing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4703,7 +4703,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST197",
       "name": "Rice stores (Whole sale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4732,7 +4732,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST198",
       "name": "Rice stores (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4761,7 +4761,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST199",
       "name": "Sale of Books",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4819,7 +4819,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST202",
       "name": "Sale of Old Tyres \u0026 Tubes",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4848,7 +4848,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST204",
       "name": "Sale of Tailoring Material",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4906,7 +4906,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST211",
       "name": "Stainless Steel Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5022,7 +5022,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST217",
       "name": "Tents on Hire",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5051,7 +5051,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST218",
       "name": "Tin  Smith",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5080,7 +5080,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST220",
       "name": "Street Vendor",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5138,7 +5138,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST226",
       "name": "Watch Repairing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5167,7 +5167,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
       "name": "Groceries Stores",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5196,7 +5196,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST228",
       "name": "Cinema Halls",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5225,7 +5225,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST230",
       "name": "Tamarind/Turmeric and Other Ayurvedic storage (Retail)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5254,7 +5254,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST231",
       "name": "Pickles Making and Selling",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5283,7 +5283,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST233",
       "name": "Chemical Fertilizers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5341,7 +5341,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST237",
       "name": "Water Servicing Centres",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5370,7 +5370,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST238",
       "name": "Water RO Plants",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5399,7 +5399,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST239",
       "name": "Waste Paper Storage",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5428,7 +5428,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST240",
       "name": "Water Motor Repairs",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5457,7 +5457,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST241",
       "name": "Xerox Copying / shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5486,7 +5486,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST242",
       "name": "Welding shops",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5515,7 +5515,7 @@
     {
       "code": "FLAMABLES.TST3",
       "name": "Tar Mfg",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5544,7 +5544,7 @@
     {
       "code": "FLAMABLES.TST7",
       "name": "Fire Works (Crackers)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5573,7 +5573,7 @@
     {
       "code": "FLAMABLES.TST15",
       "name": "Making of Char Coal",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5602,7 +5602,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST4",
       "name": "Fish Dry",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5631,7 +5631,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST5",
       "name": "Horn Business",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5660,7 +5660,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST7",
       "name": "Cattle sheds/Pet animals",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5689,7 +5689,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST9",
       "name": "Meat \u0026 Meat Products",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5718,7 +5718,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST10",
       "name": "Meat shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5747,7 +5747,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST11",
       "name": "Meat (Offal) Shop",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5776,7 +5776,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST12",
       "name": "Offals",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5805,7 +5805,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST14",
       "name": "Shepard - Sheep keeper",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5834,7 +5834,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST17",
       "name": "Poultry farms",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5863,7 +5863,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST19",
       "name": "Sale of Dressed Chicken",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5892,7 +5892,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST20",
       "name": "Sale of Eggs (Whole Sale)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5921,7 +5921,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST1",
       "name": "Ice fruit factory",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5950,7 +5950,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST4",
       "name": "Jaggary or Sugar Factory",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -5979,7 +5979,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST5",
       "name": "Rice Mills",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6008,7 +6008,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST6",
       "name": "Oil mills",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6037,7 +6037,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST7",
       "name": "Chilli powder Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6066,7 +6066,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST8",
       "name": "Flour Mills",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6095,7 +6095,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST9",
       "name": "soap Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6124,7 +6124,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST11",
       "name": "Candle manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6153,7 +6153,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST12",
       "name": "Agarabathi Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6182,7 +6182,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST13",
       "name": "Making of Rubber Stamps",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6211,7 +6211,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST15",
       "name": "Food Processing Units (Dry Fruits and Others)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6240,7 +6240,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST16",
       "name": "Manufacturing of Iron, steel Cabinets",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6269,7 +6269,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST19",
       "name": "Ice Cube Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6298,7 +6298,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST20",
       "name": "Soda Manufacturing",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -6327,7 +6327,7 @@
     {
       "code": "SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST22",
       "name": "Pharmaceuticals Industries",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {

@@ -1977,7 +1977,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST33",
       "name": "Place of Entertainment",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -3804,7 +3804,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST97",
       "name": "Dancing School",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4094,7 +4094,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST107",
       "name": "Tent Houses",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -4587,7 +4587,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST124",
       "name": "Motor Dealers 2 wheelers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -7545,7 +7545,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST228",
       "name": "Cinema Halls",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {

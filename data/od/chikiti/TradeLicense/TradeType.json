@@ -469,7 +469,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST7",
       "name": "Medical \u0026 General Store",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -498,7 +498,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST10",
       "name": "Unani Medicines (Ayurvedic Wet or Dry)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -527,7 +527,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
       "name": "Bankers - (All Pvt. \u0026 Co-operative)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -614,7 +614,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST6",
       "name": "Gym / Spa / Massage Centers / slimming/obesity Centers / Health Resorts (Ayurvedic Center)/Hair Transplantation",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -904,7 +904,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST48",
       "name": "Cable Television (Satellite Channels Operations)/Cable network",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -991,7 +991,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST55",
       "name": "Private Schools,(running in Private or residential buildings)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1020,7 +1020,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST56",
       "name": "Private Tuitions",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1049,7 +1049,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST57",
       "name": "Coaching centres",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1078,7 +1078,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST61",
       "name": "Sale of Building Material Except cement and steel (Sand, Bricks, Chip etc.)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1136,7 +1136,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST66",
       "name": "Sale of motor vehicle 3, 4, 6, 8, 10 and above Wheelers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1339,7 +1339,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST107",
       "name": "Tent Houses",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1484,7 +1484,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST124",
       "name": "Motor Dealers 2 wheelers",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1919,7 +1919,7 @@
     {
       "code": "FLAMABLES.TST7",
       "name": "Fire Works (Crackers)",
-      "uom": null,
+      "uom": "YEAR",
       "tempUom": null,
       "applicationDocument": [
         {

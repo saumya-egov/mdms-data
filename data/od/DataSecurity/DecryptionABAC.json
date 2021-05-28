@@ -656,77 +656,6 @@
               }
             ]
           },
-		  {
-            "roleCode" : "CITIZEN",
-            "attributeAccessList" : [
-              {
-                "attribute" : {
-                  "jsonPath" : "*/name"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/mobileNumber"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/emailId"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/username"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/altContactNumber"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/pan"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/aadhaarNumber"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/guardian"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/permanentAddress/address"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/correspondenceAddress/address"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/addresses/*/address"
-                },
-                "accessType" : "PLAIN"
-              }
-            ]
-          },
           {
             "roleCode" : "SUPERUSER",
             "attributeAccessList" : [
@@ -950,122 +879,39 @@
             "attributeAccessList" : [
               {
                 "attribute" : {
-                  "jsonPath" : "*/name"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/mobileNumber"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
                   "jsonPath" : "*/emailId"
                 },
-                "accessType" : "PLAIN"
+                "accessType" : "NONE"
               },
               {
                 "attribute" : {
                   "jsonPath" : "*/username"
                 },
-                "accessType" : "PLAIN"
+                "accessType" : "NONE"
               },
               {
                 "attribute" : {
                   "jsonPath" : "*/altContactNumber"
                 },
-                "accessType" : "PLAIN"
+                "accessType" : "NONE"
               },
               {
                 "attribute" : {
                   "jsonPath" : "*/pan"
                 },
-                "accessType" : "PLAIN"
+                "accessType" : "NONE"
               },
               {
                 "attribute" : {
                   "jsonPath" : "*/aadhaarNumber"
                 },
-                "accessType" : "PLAIN"
+                "accessType" : "NONE"
               },
               {
                 "attribute" : {
                   "jsonPath" : "*/guardian"
                 },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/permanentAddress/address"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/correspondenceAddress/address"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/addresses/*/address"
-                },
-                "accessType" : "PLAIN"
-              }
-            ]
-          },
-		  {
-            "roleCode" : "CITIZEN",
-            "attributeAccessList" : [
-              {
-                "attribute" : {
-                  "jsonPath" : "*/name"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/mobileNumber"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/emailId"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/username"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/altContactNumber"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/pan"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/aadhaarNumber"
-                },
-                "accessType" : "PLAIN"
-              },
-              {
-                "attribute" : {
-                  "jsonPath" : "*/guardian"
-                },
-                "accessType" : "PLAIN"
+                "accessType" : "NONE"
               },
               {
                 "attribute" : {
