@@ -237,7 +237,7 @@
     {
       "code": "EATINGESTABLISHMENTS.TST26",
       "name": "Restaurant with Lodging",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -353,7 +353,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST5",
       "name": "Diagnosis centers",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -382,7 +382,7 @@
     {
       "code": "MEDICALESTABLISHMENTS.TST7",
       "name": "Medical \u0026 General Store",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -411,7 +411,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
       "name": "Bankers - (All Pvt. \u0026 Co-operative)",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -469,7 +469,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST5",
       "name": "Beauty Parlour",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -643,7 +643,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
       "name": "All Electrical Goods Servicing \u0026 Repairs",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -672,7 +672,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST48",
       "name": "Cable Television (Satellite Channels Operations)/Cable network",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -759,7 +759,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST55",
       "name": "Private Schools,(running in Private or residential buildings)",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -788,7 +788,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST56",
       "name": "Private Tuitions",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -817,7 +817,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST57",
       "name": "Coaching centres",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -846,7 +846,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST59",
       "name": "Radio, Wireless and Television Sets Shop Dealers",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -875,7 +875,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST61",
       "name": "Sale of Building Material Except cement and steel (Sand, Bricks, Chip etc.)",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1020,7 +1020,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST107",
       "name": "Tent Houses",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1194,7 +1194,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST124",
       "name": "Motor Dealers 2 wheelers",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1368,7 +1368,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST157",
       "name": "Cycle Shop",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1542,7 +1542,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST194",
       "name": "Plastic Goods",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1716,7 +1716,7 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST228",
       "name": "Cinema Halls",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1832,7 +1832,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST7",
       "name": "Cattle sheds/Pet animals",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1890,7 +1890,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST9",
       "name": "Meat \u0026 Meat Products",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
@@ -1919,7 +1919,7 @@
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST10",
       "name": "Meat shop",
-      "uom": "YEAR",
+      "uom": null,
       "tempUom": null,
       "applicationDocument": [
         {
