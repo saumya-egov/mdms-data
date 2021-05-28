@@ -712,7 +712,7 @@
   "TradeLicense": {
     "TradeType": {
       "masterName": "TradeType",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.code"
       ]
