@@ -27,7 +27,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "CTC",
         "ddrName": "DDR A"
       },
       "address": "Cuttack Municipal Corporation",
@@ -59,7 +59,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "108",
+        "code": "JTN",
         "ddrName": "DDR B"
       },
       "address": "Jatni Municipal Corporation Address",
@@ -92,7 +92,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "ANG",
         "ddrName": "DDR A"
       },
       "address": "Angul Municipal Corporation Address",
@@ -125,7 +125,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "CDR",
         "ddrName": "DDR A"
       },
       "address": "Choudwar Municipal Corporation Address",
@@ -158,7 +158,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "BED",
         "ddrName": "DDR A"
       },
       "address": "BerhmpurMouza Municipal Corporation Address",
@@ -191,7 +191,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "BDA",
         "ddrName": "DDR A"
       },
       "address": "BhubaneswarMouza Municipal Corporation Address",
@@ -224,7 +224,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "BRM",
         "ddrName": "DDR A"
       },
       "address": "Biramitrapur Municipal Corporation Address",
@@ -260,7 +260,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "BRM",
         "ddrName": "DDR A"
       },
       "address": "Brhmapur Municipal Corporation Address",
@@ -326,7 +326,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "CHH",
         "ddrName": "DDR A"
       },
       "address": "Chatrapur Municipal Corporation Address",
@@ -359,7 +359,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "CDA",
         "ddrName": "DDR A"
       },
       "address": "CuttackMouza Municipal Corporation Address",
@@ -392,7 +392,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "GPP",
         "ddrName": "DDR A"
       },
       "address": "Gopalpur Municipal Corporation Address",
@@ -458,7 +458,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "KDA",
         "ddrName": "DDR A"
       },
       "address": "KalingaNagarMouza Municipal Corporation Address",
@@ -491,7 +491,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "KHU",
         "ddrName": "DDR A"
       },
       "address": "Khurda Municipal Corporation Address",
@@ -524,7 +524,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "KON",
         "ddrName": "DDR A"
       },
       "address": "Konark Municipal Corporation Address",
@@ -557,7 +557,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "PDP",
         "ddrName": "DDR A"
       },
       "address": "Paradip Municipal Corporation Address",
@@ -590,7 +590,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "PDA",
         "ddrName": "DDR A"
       },
       "address": "ParadipMouza Municipal Corporation Address",
@@ -623,7 +623,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "PRI",
         "ddrName": "DDR A"
       },
       "address": "Puri Municipal Corporation Address",
@@ -656,7 +656,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "PKD",
         "ddrName": "DDR A"
       },
       "address": "PuriMouza Municipal Corporation Address",
@@ -689,7 +689,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "RJG",
         "ddrName": "DDR A"
       },
       "address": "Rajgangpur Municipal Corporation Address",
@@ -722,7 +722,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "RRK",
         "ddrName": "DDR A"
       },
       "address": "Rourkela Municipal Corporation Address",
@@ -755,7 +755,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "RDA",
         "ddrName": "DDR A"
       },
       "address": "RourkelaMouza Municipal Corporation Address",
@@ -788,7 +788,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "SMB",
         "ddrName": "DDR A"
       },
       "address": "Sambalpur Municipal Corporation Address",
@@ -821,7 +821,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "SDA",
         "ddrName": "DDR A"
       },
       "address": "SambalpurMouza Municipal Corporation Address",
@@ -854,7 +854,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "SNG",
         "ddrName": "DDR A"
       },
       "address": "Sundargarh Municipal Corporation Address",
@@ -887,7 +887,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "TLC",
         "ddrName": "DDR A"
       },
       "address": "Talcher Municipal Corporation Address",
@@ -920,7 +920,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "TAM",
         "ddrName": "DDR A"
       },
       "address": "TamdaMouza Municipal Corporation Address",
@@ -986,7 +986,7 @@
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "VSN",
         "ddrName": "DDR A"
       },
       "address": "Vyasanagar Municipal Corporation Address",
@@ -1024,7 +1024,7 @@
         "latitude": 0,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "801833"
+        "code": "BLS"
       },
       "address": "Puruna Balasore Road, Khaira, Balasore, Odisha 756003"
     },
@@ -1058,7 +1058,7 @@
         "latitude": 0,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "D01849"
+        "code": "DKN"
       },
       "address": "Dhenkanal Municipality",
       "contactNumber": "9438256399",
@@ -1089,7 +1089,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "AND",
         "ddrName": "DDR A"
       },
       "address": "Anandapur Municipal Corporation",
@@ -1120,7 +1120,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "ASK",
         "ddrName": "DDR A"
       },
       "address": "Aska Municipal Corporation",
@@ -1151,7 +1151,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "ATH",
         "ddrName": "DDR A"
       },
       "address": "Athagarh Municipal Corporation",
@@ -1182,7 +1182,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "ATM",
         "ddrName": "DDR A"
       },
       "address": "Athamallik Municipal Corporation",
@@ -1213,7 +1213,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "ATB",
         "ddrName": "DDR A"
       },
       "address": "Attabira Municipal Corporation",
@@ -1244,41 +1244,10 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BLR",
         "ddrName": "DDR A"
       },
       "address": "Balangir Municipal Corporation",
-      "contactNumber": "001-2345876"
-    },
-    {
-      "code": "od.balesore",
-      "name": "Balesore",
-      "description": "Balesore",
-      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
-      "imageId": null,
-      "domainUrl": "http://cmcbalesore.gov.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "complaints.balesore@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Balesore",
-        "localName": null,
-        "districtCode": "BALESORE",
-        "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761829,
-        "latitude": 31.3260152,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1013",
-        "ddrName": "DDR A"
-      },
-      "address": "Balesore Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
@@ -1306,7 +1275,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BLM",
         "ddrName": "DDR A"
       },
       "address": "Balimela Municipal Corporation",
@@ -1337,7 +1306,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BGD",
         "ddrName": "DDR A"
       },
       "address": "Balliguda  Municipal Corporation",
@@ -1368,7 +1337,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BLG",
         "ddrName": "DDR A"
       },
       "address": "Balugaon Municipal Corporation",
@@ -1399,7 +1368,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BNK",
         "ddrName": "DDR A"
       },
       "address": "Banki Municipal Corporation",
@@ -1430,7 +1399,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BNP",
         "ddrName": "DDR A"
       },
       "address": "Banpur Municipal Corporation",
@@ -1461,7 +1430,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BRG",
         "ddrName": "DDR A"
       },
       "address": "Baragarh Municipal Corporation",
@@ -1492,7 +1461,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BBL",
         "ddrName": "DDR A"
       },
       "address": "Barbil Municipal Corporation",
@@ -1523,7 +1492,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BRP",
         "ddrName": "DDR A"
       },
       "address": "Baripada  Municipal Corporation",
@@ -1554,7 +1523,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BPL",
         "ddrName": "DDR A"
       },
       "address": "Barpalli Municipal Corporation",
@@ -1585,7 +1554,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BSP",
         "ddrName": "DDR A"
       },
       "address": "Basudevpur Municipal Corporation",
@@ -1616,7 +1585,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BLG",
         "ddrName": "DDR A"
       },
       "address": "Belaguntha Municipal Corporation",
@@ -1647,7 +1616,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BLP",
         "ddrName": "DDR A"
       },
       "address": "Belpahar Municipal Corporation",
@@ -1678,7 +1647,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BDK",
         "ddrName": "DDR A"
       },
       "address": "Bhadrak  Municipal Corporation",
@@ -1709,7 +1678,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BJN",
         "ddrName": "DDR A"
       },
       "address": "Bhanjanagar Municipal Corporation",
@@ -1740,7 +1709,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BWP",
         "ddrName": "DDR A"
       },
       "address": "Bhawanipatna Municipal Corporation",
@@ -1771,7 +1740,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BBN",
         "ddrName": "DDR A"
       },
       "address": "Bhuban Municipal Corporation",
@@ -1802,7 +1771,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BJP",
         "ddrName": "DDR A"
       },
       "address": "Bijepur Municipal Corporation",
@@ -1833,7 +1802,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BNK",
         "ddrName": "DDR A"
       },
       "address": "Binika Municipal Corporation",
@@ -1864,7 +1833,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BDG",
         "ddrName": "DDR A"
       },
       "address": "Boudhgarh Municipal Corporation",
@@ -1895,7 +1864,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BJR",
         "ddrName": "DDR A"
       },
       "address": "Brajarajnagar Municipal Corporation",
@@ -1926,7 +1895,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "BGD",
         "ddrName": "DDR A"
       },
       "address": "Buguda Municipal Corporation",
@@ -1957,7 +1926,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "CMP",
         "ddrName": "DDR A"
       },
       "address": "Champua Municipal Corporation",
@@ -1988,7 +1957,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "CNB",
         "ddrName": "DDR A"
       },
       "address": "Chandbali Municipal Corporation",
@@ -2019,7 +1988,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "CKT",
         "ddrName": "DDR A"
       },
       "address": "Chikiti Municipal Corporation",
@@ -2050,7 +2019,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "DSP",
         "ddrName": "DDR A"
       },
       "address": "Daspalla Municipal Corporation",
@@ -2081,7 +2050,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "DBG",
         "ddrName": "DDR A"
       },
       "address": "Deogarh Municipal Corporation",
@@ -2112,7 +2081,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "DMN",
         "ddrName": "DDR A"
       },
       "address": "Dhamnagar Municipal Corporation",
@@ -2143,41 +2112,10 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "DMG",
         "ddrName": "DDR A"
       },
       "address": "Dharamgarh Municipal Corporation",
-      "contactNumber": "001-2345876"
-    },
-    {
-      "code": "od.dhenkanal",
-      "name": "Dhenkanal",
-      "description": "Dhenkanal",
-      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
-      "imageId": null,
-      "domainUrl": "http://cmcdhenkanal.gov.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "complaints.dhenkanal@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Dhenkanal",
-        "localName": null,
-        "districtCode": "DHENKANAL",
-        "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761829,
-        "latitude": 31.3260152,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1013",
-        "ddrName": "DDR A"
-      },
-      "address": "Dhenkanal Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
@@ -2205,7 +2143,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "DGP",
         "ddrName": "DDR A"
       },
       "address": "Digapahandi Municipal Corporation",
@@ -2236,7 +2174,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "GUG",
         "ddrName": "DDR A"
       },
       "address": "Gudayagiri Municipal Corporation",
@@ -2267,7 +2205,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "GJM",
         "ddrName": "DDR A"
       },
       "address": "Ganjam  Municipal Corporation",
@@ -2298,7 +2236,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "GDR",
         "ddrName": "DDR A"
       },
       "address": "Gudari Municipal Corporation",
@@ -2329,7 +2267,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "GNP",
         "ddrName": "DDR A"
       },
       "address": "Gunupur Municipal Corporation",
@@ -2360,7 +2298,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "HND",
         "ddrName": "DDR A"
       },
       "address": "Hindol Municipal Corporation",
@@ -2391,7 +2329,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "HNL",
         "ddrName": "DDR A"
       },
       "address": "Hinjilicut Municipal Corporation",
@@ -2422,7 +2360,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "JGT",
         "ddrName": "DDR A"
       },
       "address": "Jagatsinghpur Municipal Corporation",
@@ -2453,7 +2391,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "JJP",
         "ddrName": "DDR A"
       },
       "address": "Jajpur Municipal Corporation",
@@ -2484,7 +2422,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "JLS",
         "ddrName": "DDR A"
       },
       "address": "Jaleswar Municipal Corporation",
@@ -2515,7 +2453,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "JPR",
         "ddrName": "DDR A"
       },
       "address": "Jaypore Municipal Corporation",
@@ -2546,7 +2484,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "JRS",
         "ddrName": "DDR A"
       },
       "address": "Jharsuguda Municipal Corporation",
@@ -2577,7 +2515,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "JOD",
         "ddrName": "DDR A"
       },
       "address": "Joda Municipal Corporation",
@@ -2608,7 +2546,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "JNG",
         "ddrName": "DDR A"
       },
       "address": "Junagarh Municipal Corporation",
@@ -2639,7 +2577,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KMN",
         "ddrName": "DDR A"
       },
       "address": "Kamakhyanagar Municipal Corporation",
@@ -2670,7 +2608,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KNB",
         "ddrName": "DDR A"
       },
       "address": "Kantabanjhi Municipal Corporation",
@@ -2701,7 +2639,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KRN",
         "ddrName": "DDR A"
       },
       "address": "Karanjia Municipal Corporation",
@@ -2732,7 +2670,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KSN",
         "ddrName": "DDR A"
       },
       "address": "Kasinagar Municipal Corporation",
@@ -2763,7 +2701,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KBS",
         "ddrName": "DDR A"
       },
       "address": "Kavisuryanagar Municipal Corporation",
@@ -2794,7 +2732,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KND",
         "ddrName": "DDR A"
       },
       "address": "Kendrapara Municipal Corporation",
@@ -2825,7 +2763,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KNJ",
         "ddrName": "DDR A"
       },
       "address": "Keonjhorgarh Municipal Corporation",
@@ -2856,7 +2794,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KSN",
         "ddrName": "DDR A"
       },
       "address": "Kesinga Municipal Corporation",
@@ -2887,7 +2825,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KHL",
         "ddrName": "DDR A"
       },
       "address": "Khallikot Municipal Corporation",
@@ -2918,7 +2856,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KHN",
         "ddrName": "DDR A"
       },
       "address": "Khandapara Municipal Corporation",
@@ -2949,7 +2887,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KHR",
         "ddrName": "DDR A"
       },
       "address": "Khariar Municipal Corporation",
@@ -2980,7 +2918,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KRR",
         "ddrName": "DDR A"
       },
       "address": "Khariarroad Municipal Corporation",
@@ -3011,7 +2949,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KDL",
         "ddrName": "DDR A"
       },
       "address": "Kodala Municipal Corporation",
@@ -3042,7 +2980,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KOR",
         "ddrName": "DDR A"
       },
       "address": "Koraput Municipal Corporation",
@@ -3073,7 +3011,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KOT",
         "ddrName": "DDR A"
       },
       "address": "Kotpad Municipal Corporation",
@@ -3104,7 +3042,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "KCN",
         "ddrName": "DDR A"
       },
       "address": "Kuchinda Municipal Corporation",
@@ -3135,7 +3073,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "MLN",
         "ddrName": "DDR A"
       },
       "address": "Malkangiri Municipal Corporation",
@@ -3166,7 +3104,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "NGR",
         "ddrName": "DDR A"
       },
       "address": "Nayagarh Municipal Corporation",
@@ -3197,7 +3135,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "NLG",
         "ddrName": "DDR A"
       },
       "address": "Nilagiri Municipal Corporation",
@@ -3228,7 +3166,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "NIM",
         "ddrName": "DDR A"
       },
       "address": "Nimapara Municipal Corporation",
@@ -3259,7 +3197,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "NBR",
         "ddrName": "DDR A"
       },
       "address": "Nowrangpur Municipal Corporation",
@@ -3290,7 +3228,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "NPD",
         "ddrName": "DDR A"
       },
       "address": "Nuapara Municipal Corporation",
@@ -3321,7 +3259,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "ODG",
         "ddrName": "DDR A"
       },
       "address": "Odagaon Municipal Corporation",
@@ -3352,7 +3290,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PDM",
         "ddrName": "DDR A"
       },
       "address": "Padampur Municipal Corporation",
@@ -3383,7 +3321,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PRL",
         "ddrName": "DDR A"
       },
       "address": "Paralakhemundi Municipal Corporation",
@@ -3414,7 +3352,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PTN",
         "ddrName": "DDR A"
       },
       "address": "Patnagarh Municipal Corporation",
@@ -3445,7 +3383,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PTM",
         "ddrName": "DDR A"
       },
       "address": "Pattamundai Municipal Corporation",
@@ -3476,7 +3414,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PLB",
         "ddrName": "DDR A"
       },
       "address": "Phulbani Municipal Corporation",
@@ -3507,7 +3445,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PPL",
         "ddrName": "DDR A"
       },
       "address": "Pipili Municipal Corporation",
@@ -3538,7 +3476,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PLS",
         "ddrName": "DDR A"
       },
       "address": "Polsora Municipal Corporation",
@@ -3569,7 +3507,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "PRS",
         "ddrName": "DDR A"
       },
       "address": "Purusottampur Municipal Corporation",
@@ -3600,7 +3538,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "RRG",
         "ddrName": "DDR A"
       },
       "address": "Rairangpur Municipal Corporation",
@@ -3631,16 +3569,16 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "RMB",
         "ddrName": "DDR A"
       },
       "address": "Rambha Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
-      "code": "od.ranpur ",
-      "name": "Ranpur ",
-      "description": "Ranpur ",
+      "code": "od.ranpur",
+      "name": "Ranpur",
+      "description": "Ranpur",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "http://cmcranpur .gov.in",
@@ -3652,9 +3590,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Ranpur ",
+        "name": "Ranpur",
         "localName": null,
-        "districtCode": "RANPUR ",
+        "districtCode": "RANPUR",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
@@ -3662,7 +3600,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "RNP",
         "ddrName": "DDR A"
       },
       "address": "Ranpur  Municipal Corporation",
@@ -3693,7 +3631,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "RYG",
         "ddrName": "DDR A"
       },
       "address": "Raygada Municipal Corporation",
@@ -3724,7 +3662,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "RDK",
         "ddrName": "DDR A"
       },
       "address": "Redhakhol Municipal Corporation",
@@ -3755,7 +3693,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "SBR",
         "ddrName": "DDR A"
       },
       "address": "Sonepur Municipal Corporation",
@@ -3786,7 +3724,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "SOR",
         "ddrName": "DDR A"
       },
       "address": "Soro Municipal Corporation",
@@ -3817,7 +3755,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "SRD",
         "ddrName": "DDR A"
       },
       "address": "Soroda Municipal Corporation",
@@ -3848,7 +3786,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "SNB",
         "ddrName": "DDR A"
       },
       "address": "Sunabeda Municipal Corporation",
@@ -3879,7 +3817,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "TRB",
         "ddrName": "DDR A"
       },
       "address": "Tarva Municipal Corporation",
@@ -3910,7 +3848,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "TTG",
         "ddrName": "DDR A"
       },
       "address": "Titilagarh Municipal Corporation",
@@ -3941,7 +3879,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "TSR",
         "ddrName": "DDR A"
       },
       "address": "Tusura Municipal Corporation",
@@ -3972,7 +3910,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "UDL",
         "ddrName": "DDR A"
       },
       "address": "Udala Municipal Corporation",
@@ -4003,7 +3941,7 @@
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1013",
+        "code": "UMC",
         "ddrName": "DDR A"
       },
       "address": "Umerkote Municipal Corporation",
