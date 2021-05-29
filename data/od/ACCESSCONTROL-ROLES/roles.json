@@ -646,6 +646,12 @@
          "code":"ESCALATION_OFFICER4",
          "name":"Escalation Officer4",
          "description":"Role For 4th level escalation(PGR)"
+    },
+    {
+         "code":"PGR_DASHBOARD_VIEWER",
+         "name":"PGR DASHBOARD VIEWER",
+         "description":"PGR DASHBOARD VIEWER"
     }
+	  
   ]
 }
