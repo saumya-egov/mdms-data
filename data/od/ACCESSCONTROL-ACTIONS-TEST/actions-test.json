@@ -9498,6 +9498,82 @@
         "navigationURL": "egov-dashboard/home",
         "leftIcon":"custom:publicIcon",
         "rightIcon": ""
-      }	  
+      },
+      {
+         "id": 2090,
+         "name": "PGR-SourceWiseReport-Metadata",
+         "url": "/report/pgr/SourceWiseReport/metadata/_get",
+         "displayName": "Rainmaker PGR report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2091,
+         "name": "SourceWiseReport",
+         "url": "/report/pgr/SourceWiseReport/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "PGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2092,
+         "name": "SourceWiseReport",
+         "url": "url",
+         "displayName": "Description",
+         "orderNumber": 6,
+         "parentModule": "rainmaker-pgr",
+         "enabled": false,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.SourceWiseReport",
+         "navigationURL": "report/rainmaker-pgr/SourceWiseReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 2093,
+         "name": "RainmakerPGR-SourceWiseReport-Metadata",
+         "url": "/report/rainmaker-pgr/SourceWiseReport/metadata/_get",
+         "displayName": "Rainmaker PGR report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "RainmakerPGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2094,
+         "name": "SourceWiseReport",
+         "url": "/report/rainmaker-pgr/SourceWiseReport/_get",
+         "displayName": "PGR Report",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "RainmakerPGRReports",
+         "code": "null",
+         "path": "PGR Report"
+      },
+      {
+         "id": 2095,
+         "name": "SourceWiseReport",
+         "url": "url",
+         "displayName": "Description Report",
+         "orderNumber": 6,
+         "parentModule": "pgr",
+         "enabled": true,
+         "serviceCode": "PGR",
+         "code": "null",
+         "path": "Complaints.PGR Reports.SourceWiseReport",
+         "navigationURL": "report/pgr/SourceWiseReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      }      
    ]
 }
