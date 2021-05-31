@@ -405,6 +405,13 @@
     "menuPath": "Electionrelated",
     "active": true,
     "slaHours": 48,
+    "serviceCode": "IssueofVoterCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "Electionrelated",
+    "active": true,
+    "slaHours": 48,
     "serviceCode": "CorrectioninEPICCard",
     "department": "DEPT_74"
   },
@@ -1848,13 +1855,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "IssueofNFSACard",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "IssueofVoterCard",
     "department": "DEPT_64"
   },
   {
