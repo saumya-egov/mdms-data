@@ -9574,6 +9574,45 @@
          "navigationURL": "report/pgr/SourceWiseReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
+      },
+      {
+         "id": 2096,
+         "name": "ULBLevelBillingSlabsReport",
+         "url": "url",
+         "displayName": "Trade License Registry Report",
+         "orderNumber": 1,
+         "parentModule": "rainmaker-tl",
+         "enabled": true,
+         "serviceCode": "TL",
+         "code": "null",
+         "path": "TradeLicense.Trade License Reports.ULBLevelBillingSlabsReport",
+         "navigationURL": "report/rainmaker-tl/ULBLevelBillingSlabsReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	   {
+         "id": 2097,
+         "name": "ULBLevelBillingSlabsReport",
+         "url": "/report/rainmaker-tl/ULBLevelBillingSlabsReport/metadata/_get",
+         "displayName": "rainmaker-tl-ULBLevelBillingSlabsReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+	   {
+         "id": 2098,
+         "name": "ULBLevelBillingSlabsReport",
+         "url": "/report/rainmaker-tl/ULBLevelBillingSlabsReport/_get",
+         "displayName": "rainmaker-tl-ULBLevelBillingSlabsReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
       }      
    ]
 }
