@@ -439,7 +439,7 @@
     },
     {
       "code": "MEDICALESTABLISHMENTS.TST7",
-      "name": "Medical \u0026 General Store",
+      "name": "Medical & General Store",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -468,7 +468,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
-      "name": "Bankers - (All Pvt. \u0026 Co-operative)",
+      "name": "Bankers - (All Pvt. & Co-operative)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -758,7 +758,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST23",
-      "name": "Commercial Guest House \u0026 Service Apartments",
+      "name": "Commercial Guest House & Service Apartments",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -787,7 +787,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST24",
-      "name": "Preparing of Gold \u0026 Silver Ornaments",
+      "name": "Preparing of Gold & Silver Ornaments",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -816,7 +816,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST25",
-      "name": "Gold \u0026 Silver Smiths",
+      "name": "Gold & Silver Smiths",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -990,7 +990,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
-      "name": "All Electrical Goods Servicing \u0026 Repairs",
+      "name": "All Electrical Goods Servicing & Repairs",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -1309,7 +1309,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST99",
-      "name": "Electric Fitting \u0026 Accessories",
+      "name": "Electric Fitting & Accessories",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -1396,7 +1396,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
-      "name": "Gold \u0026 Silver Shops",
+      "name": "Gold & Silver Shops",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1425,7 +1425,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST110",
-      "name": "Gold \u0026 Silver showroom",
+      "name": "Gold & Silver showroom",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1657,7 +1657,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
-      "name": "Mobile Phones \u0026 Its Accessories including Sim Cards",
+      "name": "Mobile Phones & Its Accessories including Sim Cards",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -1686,7 +1686,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
-      "name": "Motor \u0026 Motor Cycle Repairing \u0026 Servicing (Mechanic Workshops)",
+      "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1744,7 +1744,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST125",
-      "name": "Motor Servicing, for 4,6,8,10 \u0026 above wheelers",
+      "name": "Motor Servicing, for 4,6,8,10 & above wheelers",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1773,7 +1773,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST126",
-      "name": "New Cycle \u0026 Accessories Fittings",
+      "name": "New Cycle & Accessories Fittings",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -2556,7 +2556,7 @@
     },
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST9",
-      "name": "Meat \u0026 Meat Products",
+      "name": "Meat & Meat Products",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
