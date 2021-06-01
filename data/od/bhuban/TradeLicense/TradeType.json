@@ -178,7 +178,7 @@
     },
     {
       "code": "EATINGESTABLISHMENTS.TST12",
-      "name": "Bar \u0026 Restaurants",
+      "name": "Bar & Restaurants",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -410,7 +410,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
-      "name": "Bankers - (All Pvt. \u0026 Co-operative)",
+      "name": "Bankers - (All Pvt. & Co-operative)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -613,7 +613,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST25",
-      "name": "Gold \u0026 Silver Smiths",
+      "name": "Gold & Silver Smiths",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -816,7 +816,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
-      "name": "All Electrical Goods Servicing \u0026 Repairs",
+      "name": "All Electrical Goods Servicing & Repairs",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1048,7 +1048,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST62",
-      "name": "Sale of furniture, steel \u0026 wood (Wholesale)",
+      "name": "Sale of furniture, steel & wood (Wholesale)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1135,7 +1135,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST69",
-      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture \u0026 other items per day",
+      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture & other items per day",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1222,7 +1222,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST99",
-      "name": "Electric Fitting \u0026 Accessories",
+      "name": "Electric Fitting & Accessories",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1309,7 +1309,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
-      "name": "Gold \u0026 Silver Shops",
+      "name": "Gold & Silver Shops",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1338,7 +1338,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST110",
-      "name": "Gold \u0026 Silver showroom",
+      "name": "Gold & Silver showroom",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1570,7 +1570,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
-      "name": "Photo Studio/Shop \u0026 Articles",
+      "name": "Photo Studio/Shop & Articles",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1744,7 +1744,7 @@
     },
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST9",
-      "name": "Meat \u0026 Meat Products",
+      "name": "Meat & Meat Products",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [

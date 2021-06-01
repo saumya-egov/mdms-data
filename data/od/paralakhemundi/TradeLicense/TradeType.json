@@ -294,7 +294,7 @@
     },
     {
       "code": "EATINGESTABLISHMENTS.TST12",
-      "name": "Bar \u0026 Restaurants",
+      "name": "Bar & Restaurants",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -729,7 +729,7 @@
     },
     {
       "code": "MEDICALESTABLISHMENTS.TST1",
-      "name": "Chemists \u0026 Druggists",
+      "name": "Chemists & Druggists",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -903,7 +903,7 @@
     },
     {
       "code": "MEDICALESTABLISHMENTS.TST7",
-      "name": "Medical \u0026 General Store",
+      "name": "Medical & General Store",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1019,7 +1019,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
-      "name": "Bankers - (All Pvt. \u0026 Co-operative)",
+      "name": "Bankers - (All Pvt. & Co-operative)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1396,7 +1396,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST18",
-      "name": "Granites \u0026  Marble Stones",
+      "name": "Granites &  Marble Stones",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -1541,7 +1541,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST23",
-      "name": "Commercial Guest House \u0026 Service Apartments",
+      "name": "Commercial Guest House & Service Apartments",
       "uom": "NUMBEROFROOMS",
       "tempUom": null,
       "applicationDocument": [
@@ -1570,7 +1570,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST24",
-      "name": "Preparing of Gold \u0026 Silver Ornaments",
+      "name": "Preparing of Gold & Silver Ornaments",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -1599,7 +1599,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST25",
-      "name": "Gold \u0026 Silver Smiths",
+      "name": "Gold & Silver Smiths",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -2121,7 +2121,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
-      "name": "All Electrical Goods Servicing \u0026 Repairs",
+      "name": "All Electrical Goods Servicing & Repairs",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -2411,7 +2411,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST62",
-      "name": "Sale of furniture, steel \u0026 wood (Wholesale)",
+      "name": "Sale of furniture, steel & wood (Wholesale)",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -2440,7 +2440,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST63",
-      "name": "Sale of furniture, steel \u0026 wood (Retail)",
+      "name": "Sale of furniture, steel & wood (Retail)",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -2585,7 +2585,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST69",
-      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture \u0026 other items per day",
+      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture & other items per day",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -2643,7 +2643,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST76",
-      "name": "Transport Companies/Transport packers \u0026 movers",
+      "name": "Transport Companies/Transport packers & movers",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -3194,7 +3194,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST99",
-      "name": "Electric Fitting \u0026 Accessories",
+      "name": "Electric Fitting & Accessories",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -3368,7 +3368,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
-      "name": "Gold \u0026 Silver Shops",
+      "name": "Gold & Silver Shops",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -3397,7 +3397,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST110",
-      "name": "Gold \u0026 Silver showroom",
+      "name": "Gold & Silver showroom",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -3629,7 +3629,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
-      "name": "Mobile Phones \u0026 Its Accessories including Sim Cards",
+      "name": "Mobile Phones & Its Accessories including Sim Cards",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -3658,7 +3658,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
-      "name": "Motor \u0026 Motor Cycle Repairing \u0026 Servicing (Mechanic Workshops)",
+      "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -3716,7 +3716,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST125",
-      "name": "Motor Servicing, for 4,6,8,10 \u0026 above wheelers",
+      "name": "Motor Servicing, for 4,6,8,10 & above wheelers",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -3745,7 +3745,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST126",
-      "name": "New Cycle \u0026 Accessories Fittings",
+      "name": "New Cycle & Accessories Fittings",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -4731,7 +4731,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST180",
-      "name": "Iron Scrap \u0026 Old Iron Articles",
+      "name": "Iron Scrap & Old Iron Articles",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -4963,7 +4963,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
-      "name": "Photo Studio/Shop \u0026 Articles",
+      "name": "Photo Studio/Shop & Articles",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -5137,7 +5137,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST202",
-      "name": "Sale of Old Tyres \u0026 Tubes",
+      "name": "Sale of Old Tyres & Tubes",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -5311,7 +5311,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST213",
-      "name": "STD \u0026 Local Calls",
+      "name": "STD & Local Calls",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -5369,7 +5369,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST215",
-      "name": "Tea Dust \u0026 Coffee",
+      "name": "Tea Dust & Coffee",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [
@@ -6065,7 +6065,7 @@
     },
     {
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST9",
-      "name": "Meat \u0026 Meat Products",
+      "name": "Meat & Meat Products",
       "uom": "SQFT",
       "tempUom": null,
       "applicationDocument": [

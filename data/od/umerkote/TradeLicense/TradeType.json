@@ -62,7 +62,7 @@
     },
     {
       "code": "EATINGESTABLISHMENTS.TST12",
-      "name": "Bar \u0026 Restaurants",
+      "name": "Bar & Restaurants",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -265,7 +265,7 @@
     },
     {
       "code": "MEDICALESTABLISHMENTS.TST7",
-      "name": "Medical \u0026 General Store",
+      "name": "Medical & General Store",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -323,7 +323,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
-      "name": "Bankers - (All Pvt. \u0026 Co-operative)",
+      "name": "Bankers - (All Pvt. & Co-operative)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -352,7 +352,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
-      "name": "All Electrical Goods Servicing \u0026 Repairs",
+      "name": "All Electrical Goods Servicing & Repairs",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -497,7 +497,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST62",
-      "name": "Sale of furniture, steel \u0026 wood (Wholesale)",
+      "name": "Sale of furniture, steel & wood (Wholesale)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -642,7 +642,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
-      "name": "Gold \u0026 Silver Shops",
+      "name": "Gold & Silver Shops",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -671,7 +671,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
-      "name": "Mobile Phones \u0026 Its Accessories including Sim Cards",
+      "name": "Mobile Phones & Its Accessories including Sim Cards",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -700,7 +700,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
-      "name": "Motor \u0026 Motor Cycle Repairing \u0026 Servicing (Mechanic Workshops)",
+      "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -758,7 +758,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST126",
-      "name": "New Cycle \u0026 Accessories Fittings",
+      "name": "New Cycle & Accessories Fittings",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -903,7 +903,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
-      "name": "Photo Studio/Shop \u0026 Articles",
+      "name": "Photo Studio/Shop & Articles",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [

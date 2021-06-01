@@ -62,7 +62,7 @@
     },
     {
       "code": "MEDICALESTABLISHMENTS.TST7",
-      "name": "Medical \u0026 General Store",
+      "name": "Medical & General Store",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -178,7 +178,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
-      "name": "Bankers - (All Pvt. \u0026 Co-operative)",
+      "name": "Bankers - (All Pvt. & Co-operative)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -642,7 +642,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST65",
-      "name": "Sale of Industrial Equipments \u0026 Safety Equipments",
+      "name": "Sale of Industrial Equipments & Safety Equipments",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -758,7 +758,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST69",
-      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture \u0026 other items per day",
+      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture & other items per day",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -932,7 +932,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST101",
-      "name": "Film \u0026 television training institute",
+      "name": "Film & television training institute",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [

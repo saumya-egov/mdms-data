@@ -149,7 +149,7 @@
     },
     {
       "code": "EATINGESTABLISHMENTS.TST12",
-      "name": "Bar \u0026 Restaurants",
+      "name": "Bar & Restaurants",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -410,7 +410,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
-      "name": "Bankers - (All Pvt. \u0026 Co-operative)",
+      "name": "Bankers - (All Pvt. & Co-operative)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -526,7 +526,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST18",
-      "name": "Granites \u0026  Marble Stones",
+      "name": "Granites &  Marble Stones",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -584,7 +584,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST23",
-      "name": "Commercial Guest House \u0026 Service Apartments",
+      "name": "Commercial Guest House & Service Apartments",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1222,7 +1222,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST62",
-      "name": "Sale of furniture, steel \u0026 wood (Wholesale)",
+      "name": "Sale of furniture, steel & wood (Wholesale)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1251,7 +1251,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST65",
-      "name": "Sale of Industrial Equipments \u0026 Safety Equipments",
+      "name": "Sale of Industrial Equipments & Safety Equipments",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1338,7 +1338,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST69",
-      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture \u0026 other items per day",
+      "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture & other items per day",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1454,7 +1454,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST76",
-      "name": "Transport Companies/Transport packers \u0026 movers",
+      "name": "Transport Companies/Transport packers & movers",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1715,7 +1715,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST101",
-      "name": "Film \u0026 television training institute",
+      "name": "Film & television training institute",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1802,7 +1802,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST110",
-      "name": "Gold \u0026 Silver showroom",
+      "name": "Gold & Silver showroom",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -1860,7 +1860,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
-      "name": "Motor \u0026 Motor Cycle Repairing \u0026 Servicing (Mechanic Workshops)",
+      "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [

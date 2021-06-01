@@ -91,7 +91,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST1",
-      "name": "Bankers - (All Pvt. \u0026 Co-operative)",
+      "name": "Bankers - (All Pvt. & Co-operative)",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
@@ -149,7 +149,7 @@
     },
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST18",
-      "name": "Granites \u0026  Marble Stones",
+      "name": "Granites &  Marble Stones",
       "uom": null,
       "tempUom": null,
       "applicationDocument": [
