@@ -6,7 +6,6 @@
       "code": "EATINGESTABLISHMENTS.TST3",
       "name": "Bakery Shop (Retail)",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -17,7 +16,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -35,7 +34,6 @@
       "code": "EATINGESTABLISHMENTS.TST5",
       "name": "Cooldrinks / Ice Cream - Sales",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -46,7 +44,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -64,7 +62,6 @@
       "code": "EATINGESTABLISHMENTS.TST6",
       "name": "Hotels",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -75,7 +72,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -93,7 +90,6 @@
       "code": "EATINGESTABLISHMENTS.TST15",
       "name": "Tiffin Centres",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -104,7 +100,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -122,7 +118,6 @@
       "code": "EATINGESTABLISHMENTS.TST17",
       "name": "Tea and Coffee Shop",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -133,7 +128,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -151,7 +146,6 @@
       "code": "EATINGESTABLISHMENTS.TST19",
       "name": "Fast Food centres",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -162,7 +156,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -180,7 +174,6 @@
       "code": "EATINGESTABLISHMENTS.TST20",
       "name": "Sweet Stall",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -191,7 +184,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -209,7 +202,6 @@
       "code": "EATINGESTABLISHMENTS.TST22",
       "name": "Fruit Juice/Lassi Center",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -220,7 +212,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -238,7 +230,6 @@
       "code": "EATINGESTABLISHMENTS.TST23",
       "name": "Manufacturing Of Fruit juices",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -249,7 +240,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -267,7 +258,6 @@
       "code": "MEDICALESTABLISHMENTS.TST4",
       "name": "Pathological Labs",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -278,7 +268,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -296,7 +286,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST9",
       "name": "Cloth( Readymade Showroom)",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -307,7 +296,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -325,7 +314,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST11",
       "name": "Cloth (Retail)",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -336,7 +324,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -354,7 +342,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST15",
       "name": "Electric Welding",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -365,7 +352,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -383,7 +370,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST16",
       "name": "Gas Welding",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -394,7 +380,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -412,7 +398,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST19",
       "name": "Bricks or Tiles Manufacturing",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -423,7 +408,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -441,7 +426,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST20",
       "name": "Hardware Merchants",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -452,7 +436,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -470,7 +454,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST21",
       "name": "Sanitary Fittings / Goods",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -481,7 +464,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -499,7 +482,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
       "name": "All Electrical Goods Servicing & Repairs",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -510,7 +492,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -528,7 +510,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST50",
       "name": "Photo Colour Lab (Studio)",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -539,7 +520,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -557,7 +538,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST63",
       "name": "Sale of furniture, steel & wood (Retail)",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -568,7 +548,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -586,7 +566,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST96",
       "name": "Computer stationary",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -597,7 +576,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -615,7 +594,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
       "name": "Gold & Silver Shops",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -626,7 +604,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -644,7 +622,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST114",
       "name": "Milk and Milk Products",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -655,7 +632,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -673,7 +650,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
       "name": "Mobile Phones & Its Accessories including Sim Cards",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -684,7 +660,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -702,7 +678,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
       "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -713,7 +688,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -731,7 +706,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST125",
       "name": "Motor Servicing, for 4,6,8,10 & above wheelers",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -742,7 +716,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -760,7 +734,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST126",
       "name": "New Cycle & Accessories Fittings",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -771,7 +744,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -789,7 +762,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST157",
       "name": "Cycle Shop",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -800,7 +772,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -818,7 +790,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
       "name": "Photo Studio/Shop & Articles",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -829,7 +800,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -847,7 +818,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST214",
       "name": "Tailor Shop",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -858,7 +828,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -876,7 +846,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
       "name": "Groceries Stores",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -887,7 +856,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -905,7 +874,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST242",
       "name": "Welding shops",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -916,7 +884,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -934,7 +902,6 @@
       "code": "FLAMABLES.TST7",
       "name": "Fire Works (Crackers)",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -945,7 +912,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -963,7 +930,6 @@
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST10",
       "name": "Meat shop",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -974,7 +940,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -992,7 +958,6 @@
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST17",
       "name": "Poultry farms",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1003,7 +968,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -1021,7 +986,6 @@
       "code": "LIVESTOCKANDRELATEDPRODUCTS.TST19",
       "name": "Sale of Dressed Chicken",
       "uom": null,
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1032,7 +996,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",

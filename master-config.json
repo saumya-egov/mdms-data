@@ -717,6 +717,13 @@
         "$.code"
       ]
     },
+	"TemporaryTradeType": {
+      "masterName": "TemporaryTradeType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "TradeRenewal": {
       "masterName": "TradeRenewal",
       "isStateLevel": true

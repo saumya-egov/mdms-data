@@ -6,7 +6,6 @@
       "code": "MEDICALESTABLISHMENTS.TST2",
       "name": "Hospital Nursing Homes",
       "uom": "SQFT",
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -17,7 +16,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -35,7 +34,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST4",
       "name": "Automobile fittings and Accessories shops",
       "uom": "SQFT",
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -46,7 +44,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -64,7 +62,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST42",
       "name": "Electronic Showrooms",
       "uom": "SQFT",
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -75,7 +72,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
@@ -93,7 +90,6 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST99",
       "name": "Electric Fitting & Accessories",
       "uom": "SQFT",
-      "tempUom": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -104,7 +100,7 @@
           ]
         },
         {
-          "applicationType": "RENEW",
+          "applicationType": "RENEWAL",
           "documentList": [
             "OWNERIDPROOF",
             "OWNERSHIPPROOF",
