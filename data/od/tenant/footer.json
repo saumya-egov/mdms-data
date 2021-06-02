@@ -4199,7 +4199,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -4255,7 +4255,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -4307,7 +4307,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -4355,7 +4355,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -4399,7 +4399,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -4447,7 +4447,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -4495,7 +4495,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -4543,7 +4543,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -4591,7 +4591,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -4639,7 +4639,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -4687,7 +4687,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -4735,7 +4735,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -8871,7 +8871,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -8927,7 +8927,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -8979,7 +8979,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -9027,7 +9027,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -9071,7 +9071,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -9119,7 +9119,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -9167,7 +9167,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -9215,7 +9215,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -9263,7 +9263,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -9311,7 +9311,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -9359,7 +9359,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -9407,7 +9407,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -10039,7 +10039,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -10095,7 +10095,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -10147,7 +10147,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -10195,7 +10195,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -10239,7 +10239,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -10287,7 +10287,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -10335,7 +10335,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -10383,7 +10383,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -10431,7 +10431,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -10479,7 +10479,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -10527,7 +10527,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -10575,7 +10575,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -10623,7 +10623,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -10679,7 +10679,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -10731,7 +10731,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -10779,7 +10779,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -10823,7 +10823,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -10871,7 +10871,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -10919,7 +10919,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -10967,7 +10967,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -11015,7 +11015,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -11063,7 +11063,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -11111,7 +11111,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -11159,7 +11159,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -17057,7 +17057,7 @@
       ]
     },
     {
-      "code": "od.balesore",
+      "code": "od.balasore",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {

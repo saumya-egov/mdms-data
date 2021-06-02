@@ -1,0 +1,1014 @@
+{
+  "tenantId": "od.athmallik",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "EATINGESTABLISHMENTS.TST3",
+      "name": "Bakery Shop (Retail)",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST5",
+      "name": "Cooldrinks / Ice Cream - Sales",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST6",
+      "name": "Hotels",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST15",
+      "name": "Tiffin Centres",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST17",
+      "name": "Tea and Coffee Shop",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST19",
+      "name": "Fast Food centres",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST20",
+      "name": "Sweet Stall",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST22",
+      "name": "Fruit Juice/Lassi Center",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST23",
+      "name": "Manufacturing Of Fruit juices",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "MEDICALESTABLISHMENTS.TST4",
+      "name": "Pathological Labs",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST9",
+      "name": "Cloth( Readymade Showroom)",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST11",
+      "name": "Cloth (Retail)",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST15",
+      "name": "Electric Welding",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST16",
+      "name": "Gas Welding",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST19",
+      "name": "Bricks or Tiles Manufacturing",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST20",
+      "name": "Hardware Merchants",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST21",
+      "name": "Sanitary Fittings / Goods",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
+      "name": "All Electrical Goods Servicing & Repairs",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST50",
+      "name": "Photo Colour Lab (Studio)",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST63",
+      "name": "Sale of furniture, steel & wood (Retail)",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST96",
+      "name": "Computer stationary",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
+      "name": "Gold & Silver Shops",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST114",
+      "name": "Milk and Milk Products",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
+      "name": "Mobile Phones & Its Accessories including Sim Cards",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
+      "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST125",
+      "name": "Motor Servicing, for 4,6,8,10 & above wheelers",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST126",
+      "name": "New Cycle & Accessories Fittings",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST157",
+      "name": "Cycle Shop",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
+      "name": "Photo Studio/Shop & Articles",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST214",
+      "name": "Tailor Shop",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
+      "name": "Groceries Stores",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST242",
+      "name": "Welding shops",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "FLAMABLES.TST7",
+      "name": "Fire Works (Crackers)",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST10",
+      "name": "Meat shop",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST17",
+      "name": "Poultry farms",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST19",
+      "name": "Sale of Dressed Chicken",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    }
+  ]
+}

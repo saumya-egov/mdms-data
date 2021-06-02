@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.paradipMouza",
+  "tenantId": "od.paradeepMouza",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.paradipMouza",
+        "code": "od.paradeepMouza",
         "children": [
           {
             "id": "2",
@@ -1213,7 +1213,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.paradipMouza"
+        "code": "od.paradeepMouza"
       }
     }
   ]

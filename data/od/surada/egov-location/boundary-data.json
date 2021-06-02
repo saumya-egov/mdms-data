@@ -1,0 +1,82 @@
+{
+  "tenantId": "od.surada",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Soroda",
+        "localname": "Soroda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.surada",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Surada",
+            "localname": "Surada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Baradi",
+            "localname": "Baradi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Soroda",
+        "localname": "Soroda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.surada",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Surada",
+            "localname": "Surada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Baradi",
+            "localname": "Baradi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
+      }
+    }
+  ]
+}

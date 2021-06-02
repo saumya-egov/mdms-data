@@ -1,0 +1,162 @@
+{
+  "tenantId": "od.tarbha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tarva",
+        "localname": "Tarva",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.tarbha",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 1",
+            "localname": "Tarbha Town Unit No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 2",
+            "localname": "Tarbha Town Unit No. 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 3",
+            "localname": "Tarbha Town Unit No. 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 4",
+            "localname": "Tarbha Town Unit No. 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 5",
+            "localname": "Tarbha Town Unit No. 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 6",
+            "localname": "Tarbha Town Unit No. 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tarva",
+        "localname": "Tarva",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.tarbha",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 1",
+            "localname": "Tarbha Town Unit No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 2",
+            "localname": "Tarbha Town Unit No. 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 3",
+            "localname": "Tarbha Town Unit No. 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 4",
+            "localname": "Tarbha Town Unit No. 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 5",
+            "localname": "Tarbha Town Unit No. 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 6",
+            "localname": "Tarbha Town Unit No. 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    }
+  ]
+}

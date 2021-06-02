@@ -87,7 +87,7 @@
       ]
     },
     {
-      "code": "od.biramitrapur",
+      "code": "od.birmitrapur",
       "districtCode": "BIRAMITRAPUR",
       "population": "12507",
       "malePopulation": "6810",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "code": "od.khurda",
+      "code": "od.khordha",
       "districtCode": "KHURDA",
       "population": "12507",
       "malePopulation": "6810",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "code": "od.paradip",
+      "code": "od.paradeep",
       "districtCode": "PARADIP",
       "population": "12507",
       "malePopulation": "6810",
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "code": "od.paradipMouza",
+      "code": "od.paradeepMouza",
       "districtCode": "PARADIPMOUZA",
       "population": "12507",
       "malePopulation": "6810",
@@ -418,7 +418,7 @@
       ]
     },
     {
-      "code": "od.balesore",
+      "code": "od.balasore",
       "districtCode": "7",
       "literacyRate": "57.41",
       "languagesSpoken": [
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "code": "od.athamallik",
+      "code": "od.athmallik",
       "districtCode": "ATHAMALLIK",
       "population": "156716",
       "malePopulation": "82045",
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "code": "od.balesore",
+      "code": "od.balasore",
       "districtCode": "BALESORE",
       "population": "156716",
       "malePopulation": "82045",
@@ -582,7 +582,7 @@
       ]
     },
     {
-      "code": "od.banpur",
+      "code": "od.banapur",
       "districtCode": "BANPUR",
       "population": "156716",
       "malePopulation": "82045",
@@ -596,7 +596,7 @@
       ]
     },
     {
-      "code": "od.baragarh",
+      "code": "od.bargarh",
       "districtCode": "BARAGARH",
       "population": "156716",
       "malePopulation": "82045",
@@ -638,7 +638,7 @@
       ]
     },
     {
-      "code": "od.barpalli",
+      "code": "od.barpali",
       "districtCode": "BARPALLI",
       "population": "156716",
       "malePopulation": "82045",
@@ -666,7 +666,7 @@
       ]
     },
     {
-      "code": "od.belaguntha",
+      "code": "od.bellaguntha",
       "districtCode": "BELAGUNTHA",
       "population": "156716",
       "malePopulation": "82045",
@@ -764,7 +764,7 @@
       ]
     },
     {
-      "code": "od.binika",
+      "code": "od.binka",
       "districtCode": "BINIKA",
       "population": "156716",
       "malePopulation": "82045",
@@ -792,7 +792,7 @@
       ]
     },
     {
-      "code": "od.brajarajnagar",
+      "code": "od.brajrajnagar",
       "districtCode": "BRAJARAJNAGAR",
       "population": "156716",
       "malePopulation": "82045",
@@ -1072,7 +1072,7 @@
       ]
     },
     {
-      "code": "od.jaypore",
+      "code": "od.jeypore",
       "districtCode": "JAYPORE",
       "population": "156716",
       "malePopulation": "82045",
@@ -1142,7 +1142,7 @@
       ]
     },
     {
-      "code": "od.kantabanjhi",
+      "code": "od.kantabanji",
       "districtCode": "KANTABANJHI",
       "population": "156716",
       "malePopulation": "82045",
@@ -1170,7 +1170,7 @@
       ]
     },
     {
-      "code": "od.kasinagar",
+      "code": "od.kashinagar",
       "districtCode": "KASINAGAR",
       "population": "156716",
       "malePopulation": "82045",
@@ -1184,7 +1184,7 @@
       ]
     },
     {
-      "code": "od.kavisuryanagar",
+      "code": "od.kabisuryanagar",
       "districtCode": "KAVISURYANAGAR",
       "population": "156716",
       "malePopulation": "82045",
@@ -1212,7 +1212,7 @@
       ]
     },
     {
-      "code": "od.keonjhorgarh",
+      "code": "od.keonjhargarh",
       "districtCode": "KEONJHORGARH",
       "population": "156716",
       "malePopulation": "82045",
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "code": "od.khallikot",
+      "code": "od.khallikote",
       "districtCode": "KHALLIKOT",
       "population": "156716",
       "malePopulation": "82045",
@@ -1254,7 +1254,7 @@
       ]
     },
     {
-      "code": "od.khandapara",
+      "code": "od.khandapada",
       "districtCode": "KHANDAPARA",
       "population": "156716",
       "malePopulation": "82045",
@@ -1380,7 +1380,7 @@
       ]
     },
     {
-      "code": "od.nilagiri",
+      "code": "od.nilgiri",
       "districtCode": "NILAGIRI",
       "population": "156716",
       "malePopulation": "82045",
@@ -1408,7 +1408,7 @@
       ]
     },
     {
-      "code": "od.nowrangpur",
+      "code": "od.nabarangpur",
       "districtCode": "NOWRANGPUR",
       "population": "156716",
       "malePopulation": "82045",
@@ -1422,7 +1422,7 @@
       ]
     },
     {
-      "code": "od.nuapara",
+      "code": "od.nuapada",
       "districtCode": "NUAPARA",
       "population": "156716",
       "malePopulation": "82045",
@@ -1520,7 +1520,7 @@
       ]
     },
     {
-      "code": "od.pipili",
+      "code": "od.pipli",
       "districtCode": "PIPILI",
       "population": "156716",
       "malePopulation": "82045",
@@ -1534,7 +1534,7 @@
       ]
     },
     {
-      "code": "od.polsora",
+      "code": "od.polasara",
       "districtCode": "POLSORA",
       "population": "156716",
       "malePopulation": "82045",
@@ -1548,7 +1548,7 @@
       ]
     },
     {
-      "code": "od.purusottampur",
+      "code": "od.purushottampur",
       "districtCode": "PURUSOTTAMPUR",
       "population": "156716",
       "malePopulation": "82045",
@@ -1604,7 +1604,7 @@
       ]
     },
     {
-      "code": "od.raygada",
+      "code": "od.rayagada",
       "districtCode": "RAYGADA",
       "population": "156716",
       "malePopulation": "82045",
@@ -1660,7 +1660,7 @@
       ]
     },
     {
-      "code": "od.soroda",
+      "code": "od.surada",
       "districtCode": "SORODA",
       "population": "156716",
       "malePopulation": "82045",
@@ -1688,7 +1688,7 @@
       ]
     },
     {
-      "code": "od.tarva",
+      "code": "od.tarbha",
       "districtCode": "TARVA",
       "population": "156716",
       "malePopulation": "82045",
