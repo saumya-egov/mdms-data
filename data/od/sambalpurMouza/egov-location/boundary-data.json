@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.sambalpurMouza",
+  "tenantId": "od.sda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.sambalpurMouza",
+        "code": "od.sda",
         "children": [
           {
             "id": "2",
@@ -663,7 +663,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.sambalpurMouza"
+        "code": "od.sda"
       }
     }
   ]

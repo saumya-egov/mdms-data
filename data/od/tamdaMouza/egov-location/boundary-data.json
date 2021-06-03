@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.tamdaMouza",
+  "tenantId": "od.tamda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.tamdaMouza",
+        "code": "od.tamda",
         "children": [
           {
             "id": "2",
@@ -5813,7 +5813,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.tamdaMouza"
+        "code": "od.tamda"
       }
     }
   ]

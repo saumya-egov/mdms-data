@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.bhubaneswarMouza",
+  "tenantId": "od.bda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.bhubaneswarMouza",
+        "code": "od.bda",
         "children": [
           {
             "id": "2",
@@ -4723,7 +4723,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.bhubaneswarMouza"
+        "code": "od.bda"
       }
     }
   ]

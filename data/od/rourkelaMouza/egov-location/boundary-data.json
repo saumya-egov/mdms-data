@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.rourkelaMouza",
+  "tenantId": "od.rda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.rourkelaMouza",
+        "code": "od.rda",
         "children": [
           {
             "id": "2",
@@ -573,7 +573,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.rourkelaMouza"
+        "code": "od.rda"
       }
     }
   ]

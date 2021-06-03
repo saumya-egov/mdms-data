@@ -3031,7 +3031,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -3087,7 +3087,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -3139,7 +3139,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -3187,7 +3187,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -3231,7 +3231,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -3279,7 +3279,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -3327,7 +3327,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -3375,7 +3375,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -3423,7 +3423,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -3471,7 +3471,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -3519,7 +3519,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -3567,7 +3567,7 @@
       ]
     },
     {
-      "code": "od.berhmpurMouza",
+      "code": "od.beda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -3615,7 +3615,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -3671,7 +3671,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -3723,7 +3723,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -3771,7 +3771,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -3815,7 +3815,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -3863,7 +3863,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -3911,7 +3911,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -3959,7 +3959,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -4007,7 +4007,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -4055,7 +4055,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -4103,7 +4103,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -4151,7 +4151,7 @@
       ]
     },
     {
-      "code": "od.bhubaneswarMouza",
+      "code": "od.bda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -6535,7 +6535,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -6591,7 +6591,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -6643,7 +6643,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -6691,7 +6691,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -6735,7 +6735,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -6783,7 +6783,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -6831,7 +6831,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -6879,7 +6879,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -6927,7 +6927,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -6975,7 +6975,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -7023,7 +7023,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -7071,7 +7071,7 @@
       ]
     },
     {
-      "code": "od.cuttackMouza",
+      "code": "od.cda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -8287,7 +8287,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -8343,7 +8343,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -8395,7 +8395,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -8443,7 +8443,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -8487,7 +8487,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -8535,7 +8535,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -8583,7 +8583,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -8631,7 +8631,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -8679,7 +8679,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -8727,7 +8727,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -8775,7 +8775,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -8823,7 +8823,7 @@
       ]
     },
     {
-      "code": "od.kalingaNagarMouza",
+      "code": "od.knda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -10623,7 +10623,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -10679,7 +10679,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -10731,7 +10731,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -10779,7 +10779,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -10823,7 +10823,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -10871,7 +10871,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -10919,7 +10919,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -10967,7 +10967,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -11015,7 +11015,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -11063,7 +11063,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -11111,7 +11111,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -11159,7 +11159,7 @@
       ]
     },
     {
-      "code": "od.paradeepMouza",
+      "code": "od.pda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -11791,7 +11791,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -11847,7 +11847,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -11899,7 +11899,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -11947,7 +11947,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -11991,7 +11991,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -12039,7 +12039,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -12087,7 +12087,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -12135,7 +12135,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -12183,7 +12183,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -12231,7 +12231,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -12279,7 +12279,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -12327,7 +12327,7 @@
       ]
     },
     {
-      "code": "od.puriMouza",
+      "code": "od.pkda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -13543,7 +13543,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -13599,7 +13599,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -13651,7 +13651,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -13699,7 +13699,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -13743,7 +13743,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -13791,7 +13791,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -13839,7 +13839,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -13887,7 +13887,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -13935,7 +13935,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -13983,7 +13983,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -14031,7 +14031,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -14079,7 +14079,7 @@
       ]
     },
     {
-      "code": "od.rourkelaMouza",
+      "code": "od.rda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -14711,7 +14711,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -14767,7 +14767,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -14819,7 +14819,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -14867,7 +14867,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -14911,7 +14911,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -14959,7 +14959,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -15007,7 +15007,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -15055,7 +15055,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -15103,7 +15103,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -15151,7 +15151,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -15199,7 +15199,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -15247,7 +15247,7 @@
       ]
     },
     {
-      "code": "od.sambalpurMouza",
+      "code": "od.sda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -16463,7 +16463,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -16519,7 +16519,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -16571,7 +16571,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -16619,7 +16619,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -16663,7 +16663,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -16711,7 +16711,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -16759,7 +16759,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -16807,7 +16807,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -16855,7 +16855,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -16903,7 +16903,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -16951,7 +16951,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -16999,7 +16999,7 @@
       ]
     },
     {
-      "code": "od.tamdaMouza",
+      "code": "od.tamda",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {

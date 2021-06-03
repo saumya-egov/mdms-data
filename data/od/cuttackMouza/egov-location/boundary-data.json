@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.cuttackMouza",
+  "tenantId": "od.cda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.cuttackMouza",
+        "code": "od.cda",
         "children": [
           {
             "id": "2",
@@ -553,7 +553,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.cuttackMouza"
+        "code": "od.cda"
       }
     }
   ]

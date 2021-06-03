@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.berhmpurMouza",
+  "tenantId": "od.beda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.berhmpurMouza",
+        "code": "od.beda",
         "children": [
           {
             "id": "2",
@@ -943,7 +943,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.berhmpurMouza"
+        "code": "od.beda"
       }
     }
   ]
