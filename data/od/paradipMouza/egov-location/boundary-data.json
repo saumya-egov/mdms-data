@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.pda",
+  "tenantId": "od.paradipdevelopmentauthority",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.pda",
+        "code": "od.paradipdevelopmentauthority",
         "children": [
           {
             "id": "2",
@@ -1213,7 +1213,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.pda"
+        "code": "od.paradipdevelopmentauthority"
       }
     }
   ]

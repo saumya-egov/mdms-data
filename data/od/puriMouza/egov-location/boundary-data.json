@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.pkda",
+  "tenantId": "od.purikonarkdevelopmentauthority",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.pkda",
+        "code": "od.purikonarkdevelopmentauthority",
         "children": [
           {
             "id": "2",
@@ -773,7 +773,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.pkda"
+        "code": "od.purikonarkdevelopmentauthority"
       }
     }
   ]

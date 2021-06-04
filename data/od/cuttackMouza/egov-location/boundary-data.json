@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.cda",
+  "tenantId": "od.cuttackdevelopmentauthority",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.cda",
+        "code": "od.cuttackdevelopmentauthority",
         "children": [
           {
             "id": "2",
@@ -553,7 +553,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.cda"
+        "code": "od.cuttackdevelopmentauthority"
       }
     }
   ]

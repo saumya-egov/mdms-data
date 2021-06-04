@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.bda",
+  "tenantId": "od.bhubaneswardevelopmentauthority",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.bda",
+        "code": "od.bhubaneswardevelopmentauthority",
         "children": [
           {
             "id": "2",
@@ -4723,7 +4723,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.bda"
+        "code": "od.bhubaneswardevelopmentauthority"
       }
     }
   ]
