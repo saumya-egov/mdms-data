@@ -9579,7 +9579,7 @@
          "id": 2096,
          "name": "ULBLevelBillingSlabsReport",
          "url": "url",
-         "displayName": "ULB Level Billing Slabs Report",
+         "displayName": "ULB Level Trade License Fee Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-tl",
          "enabled": true,
