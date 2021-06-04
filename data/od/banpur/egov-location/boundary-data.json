@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.banapur",
+  "tenantId": "od.banpur",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.banapur",
+        "code": "od.banpur",
         "children": [
           {
             "id": "2",
@@ -253,7 +253,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.banapur",
+        "code": "od.banpur",
         "children": [
           {
             "id": "2",
