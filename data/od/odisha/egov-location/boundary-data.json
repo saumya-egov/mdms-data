@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.odisha",
+  "tenantId": "od",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -43,7 +43,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.odisha"
+        "code": "od"
       }
     }
   ]
