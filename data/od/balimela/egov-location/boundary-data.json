@@ -1,50 +1,62 @@
 {
-    "tenantId": "od.balimela",
-    "moduleName": "egov-location",
-    "TenantBoundary": [
-        {
-            "hierarchyType": {
-                "code": "REVENUE",
-                "name": "REVENUE"
-            },
-            "boundary": {
-                "id": 1,
-                "boundaryNum": 1,
-                "name": "Balimela",
-                "localname": "Balimela",
-                "longitude": null,
-                "latitude": null,
-                "label": "City",
-                "code": "od.balimela",
-                "children": [
-                    {
-                        "id": "2",
-                        "boundaryNum": 1,
-                        "name": "Balimela Nagar",
-                        "localname": "Balimela Nagar",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Locality",
-                        "code": "VIL1"
-                    }
-                ]
-            }
-        },
-        {
-            "hierarchyType": {
-                "code": "ADMIN",
-                "name": "ADMIN"
-            },
-            "boundary": {
-                "id": 1,
-                "boundaryNum": 1,
-                "name": "Balimela",
-                "localname": "Balimela",
-                "longitude": null,
-                "latitude": null,
-                "label": "City",
-                "code": "od.balimela"
-            }
-        }
-    ]
+  "tenantId": "od.balimela",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balimela",
+        "localname": "Balimela",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.balimela",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Balimela Nagar",
+            "localname": "Balimela Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balimela",
+        "localname": "Balimela",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.balimela",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Balimela Nagar",
+            "localname": "Balimela Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          }
+        ]
+      }
+    }
+  ]
 }

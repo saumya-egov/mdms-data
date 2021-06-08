@@ -1,1 +1,222 @@
-{"tenantId":"od.rayagada","moduleName":"egov-location","TenantBoundary":[{"hierarchyType":{"code":"REVENUE","name":"REVENUE"},"boundary":{"id":1,"boundaryNum":1,"name":"Raygada","localname":"Raygada","longitude":null,"latitude":null,"label":"City","code":"od.rayagada","children":[{"id":"2","boundaryNum":1,"name":"Kotlaguda","localname":"Kotlaguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL1"},{"id":"3","boundaryNum":1,"name":"Sirikona","localname":"Sirikona","longitude":null,"latitude":null,"label":"Locality","code":"VIL2"},{"id":"4","boundaryNum":1,"name":"Siriguda","localname":"Siriguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL3"},{"id":"5","boundaryNum":1,"name":"Jayaramguda","localname":"Jayaramguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL4"},{"id":"6","boundaryNum":1,"name":"Chekaguda","localname":"Chekaguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL5"},{"id":"7","boundaryNum":1,"name":"Guruguda","localname":"Guruguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL6"},{"id":"8","boundaryNum":1,"name":"Ramchandrapur","localname":"Ramchandrapur","longitude":null,"latitude":null,"label":"Locality","code":"VIL7"},{"id":"9","boundaryNum":1,"name":"Raniguda","localname":"Raniguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL8"},{"id":"10","boundaryNum":1,"name":"Tumbiguda","localname":"Tumbiguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL9"}]}},{"hierarchyType":{"code":"ADMIN","name":"ADMIN"},"boundary":{"id":1,"boundaryNum":1,"name":"Raygada","localname":"Raygada","longitude":null,"latitude":null,"label":"City","code":"od.rayagada"}}]}
+{
+  "tenantId": "od.rayagada",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Raygada",
+        "localname": "Raygada",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.rayagada",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kotlaguda",
+            "localname": "Kotlaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Sirikona",
+            "localname": "Sirikona",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Siriguda",
+            "localname": "Siriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Jayaramguda",
+            "localname": "Jayaramguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Chekaguda",
+            "localname": "Chekaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Guruguda",
+            "localname": "Guruguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Ramchandrapur",
+            "localname": "Ramchandrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Raniguda",
+            "localname": "Raniguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Tumbiguda",
+            "localname": "Tumbiguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Raygada",
+        "localname": "Raygada",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.rayagada",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kotlaguda",
+            "localname": "Kotlaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Sirikona",
+            "localname": "Sirikona",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Siriguda",
+            "localname": "Siriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Jayaramguda",
+            "localname": "Jayaramguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Chekaguda",
+            "localname": "Chekaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Guruguda",
+            "localname": "Guruguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Ramchandrapur",
+            "localname": "Ramchandrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Raniguda",
+            "localname": "Raniguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Tumbiguda",
+            "localname": "Tumbiguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          }
+        ]
+      }
+    }
+  ]
+}

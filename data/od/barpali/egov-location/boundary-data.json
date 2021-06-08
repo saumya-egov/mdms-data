@@ -1,1 +1,102 @@
-{"tenantId":"od.barpali","moduleName":"egov-location","TenantBoundary":[{"hierarchyType":{"code":"REVENUE","name":"REVENUE"},"boundary":{"id":1,"boundaryNum":1,"name":"Barpalli","localname":"Barpalli","longitude":null,"latitude":null,"label":"City","code":"od.barpali","children":[{"id":"2","boundaryNum":1,"name":"Pudapali","localname":"Pudapali","longitude":null,"latitude":null,"label":"Locality","code":"VIL1"},{"id":"3","boundaryNum":1,"name":"Barpali","localname":"Barpali","longitude":null,"latitude":null,"label":"Locality","code":"VIL2"},{"id":"4","boundaryNum":1,"name":"Kendpali","localname":"Kendpali","longitude":null,"latitude":null,"label":"Locality","code":"VIL3"}]}},{"hierarchyType":{"code":"ADMIN","name":"ADMIN"},"boundary":{"id":1,"boundaryNum":1,"name":"Barpalli","localname":"Barpalli","longitude":null,"latitude":null,"label":"City","code":"od.barpali"}}]}
+{
+  "tenantId": "od.barpali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barpalli",
+        "localname": "Barpalli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.barpali",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Pudapali",
+            "localname": "Pudapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Barpali",
+            "localname": "Barpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kendpali",
+            "localname": "Kendpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barpalli",
+        "localname": "Barpalli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.barpali",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Pudapali",
+            "localname": "Pudapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Barpali",
+            "localname": "Barpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kendpali",
+            "localname": "Kendpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,302 @@
-{"tenantId":"od.khariar","moduleName":"egov-location","TenantBoundary":[{"hierarchyType":{"code":"REVENUE","name":"REVENUE"},"boundary":{"id":1,"boundaryNum":1,"name":"Khariar","localname":"Khariar","longitude":null,"latitude":null,"label":"City","code":"od.khariar","children":[{"id":"2","boundaryNum":1,"name":"Muktaput","localname":"Muktaput","longitude":null,"latitude":null,"label":"Locality","code":"VIL1"},{"id":"3","boundaryNum":1,"name":"Satnami Pada, Shantinagar Pada, Maruti Nagar","localname":"Satnami Pada, Shantinagar Pada, Maruti Nagar","longitude":null,"latitude":null,"label":"Locality","code":"VIL2"},{"id":"4","boundaryNum":1,"name":"Bangtipad, Hospital Pada, Dalpada","localname":"Bangtipad, Hospital Pada, Dalpada","longitude":null,"latitude":null,"label":"Locality","code":"VIL3"},{"id":"5","boundaryNum":1,"name":"Chheliapada","localname":"Chheliapada","longitude":null,"latitude":null,"label":"Locality","code":"VIL4"},{"id":"6","boundaryNum":1,"name":"Sahupada, Musalman Pada","localname":"Sahupada, Musalman Pada","longitude":null,"latitude":null,"label":"Locality","code":"VIL5"},{"id":"7","boundaryNum":1,"name":"Annapurna Dhabapada","localname":"Annapurna Dhabapada","longitude":null,"latitude":null,"label":"Locality","code":"VIL6"},{"id":"8","boundaryNum":1,"name":"Lalsahebpada, Ramswami marg","localname":"Lalsahebpada, Ramswami marg","longitude":null,"latitude":null,"label":"Locality","code":"VIL7"},{"id":"9","boundaryNum":1,"name":"Rajapada, Nilgibandh Pada","localname":"Rajapada, Nilgibandh Pada","longitude":null,"latitude":null,"label":"Locality","code":"VIL8"},{"id":"10","boundaryNum":1,"name":"Dhobapada, Gokulnagar","localname":"Dhobapada, Gokulnagar","longitude":null,"latitude":null,"label":"Locality","code":"VIL9"},{"id":"11","boundaryNum":1,"name":"Sabar pada, Kasari pada","localname":"Sabar pada, Kasari pada","longitude":null,"latitude":null,"label":"Locality","code":"VIL10"},{"id":"12","boundaryNum":1,"name":"Putupada, Nakapada","localname":"Putupada, Nakapada","longitude":null,"latitude":null,"label":"Locality","code":"VIL11"},{"id":"13","boundaryNum":1,"name":"Bramhinpada, Baidehi road","localname":"Bramhinpada, Baidehi road","longitude":null,"latitude":null,"label":"Locality","code":"VIL12"},{"id":"14","boundaryNum":1,"name":"Gandhinagar, Duriapada","localname":"Gandhinagar, Duriapada","longitude":null,"latitude":null,"label":"Locality","code":"VIL13"}]}},{"hierarchyType":{"code":"ADMIN","name":"ADMIN"},"boundary":{"id":1,"boundaryNum":1,"name":"Khariar","localname":"Khariar","longitude":null,"latitude":null,"label":"City","code":"od.khariar"}}]}
+{
+  "tenantId": "od.khariar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khariar",
+        "localname": "Khariar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khariar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Muktaput",
+            "localname": "Muktaput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "localname": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bangtipad, Hospital Pada, Dalpada",
+            "localname": "Bangtipad, Hospital Pada, Dalpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chheliapada",
+            "localname": "Chheliapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sahupada, Musalman Pada",
+            "localname": "Sahupada, Musalman Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Annapurna Dhabapada",
+            "localname": "Annapurna Dhabapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Lalsahebpada, Ramswami marg",
+            "localname": "Lalsahebpada, Ramswami marg",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Rajapada, Nilgibandh Pada",
+            "localname": "Rajapada, Nilgibandh Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Dhobapada, Gokulnagar",
+            "localname": "Dhobapada, Gokulnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Sabar pada, Kasari pada",
+            "localname": "Sabar pada, Kasari pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Putupada, Nakapada",
+            "localname": "Putupada, Nakapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bramhinpada, Baidehi road",
+            "localname": "Bramhinpada, Baidehi road",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Gandhinagar, Duriapada",
+            "localname": "Gandhinagar, Duriapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khariar",
+        "localname": "Khariar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khariar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Muktaput",
+            "localname": "Muktaput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "localname": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bangtipad, Hospital Pada, Dalpada",
+            "localname": "Bangtipad, Hospital Pada, Dalpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chheliapada",
+            "localname": "Chheliapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sahupada, Musalman Pada",
+            "localname": "Sahupada, Musalman Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Annapurna Dhabapada",
+            "localname": "Annapurna Dhabapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Lalsahebpada, Ramswami marg",
+            "localname": "Lalsahebpada, Ramswami marg",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Rajapada, Nilgibandh Pada",
+            "localname": "Rajapada, Nilgibandh Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Dhobapada, Gokulnagar",
+            "localname": "Dhobapada, Gokulnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Sabar pada, Kasari pada",
+            "localname": "Sabar pada, Kasari pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Putupada, Nakapada",
+            "localname": "Putupada, Nakapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bramhinpada, Baidehi road",
+            "localname": "Bramhinpada, Baidehi road",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Gandhinagar, Duriapada",
+            "localname": "Gandhinagar, Duriapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          }
+        ]
+      }
+    }
+  ]
+}

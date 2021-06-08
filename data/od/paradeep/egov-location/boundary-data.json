@@ -53,7 +53,29 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.paradeep"
+        "code": "od.paradeep",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bijaya chandrapur",
+            "localname": "Bijaya chandrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chauliapalanda",
+            "localname": "Chauliapalanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
       }
     }
   ]

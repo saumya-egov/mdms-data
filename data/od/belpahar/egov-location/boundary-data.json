@@ -1,1 +1,122 @@
-{"tenantId":"od.belpahar","moduleName":"egov-location","TenantBoundary":[{"hierarchyType":{"code":"REVENUE","name":"REVENUE"},"boundary":{"id":1,"boundaryNum":1,"name":"Belpahar","localname":"Belpahar","longitude":null,"latitude":null,"label":"City","code":"od.belpahar","children":[{"id":"2","boundaryNum":1,"name":"Belpahar","localname":"Belpahar","longitude":null,"latitude":null,"label":"Locality","code":"VIL1"},{"id":"3","boundaryNum":1,"name":"Chhualiberna","localname":"Chhualiberna","longitude":null,"latitude":null,"label":"Locality","code":"VIL2"},{"id":"4","boundaryNum":1,"name":"Dhauramunda","localname":"Dhauramunda","longitude":null,"latitude":null,"label":"Locality","code":"VIL3"},{"id":"5","boundaryNum":1,"name":"Chingriguda","localname":"Chingriguda","longitude":null,"latitude":null,"label":"Locality","code":"VIL4"}]}},{"hierarchyType":{"code":"ADMIN","name":"ADMIN"},"boundary":{"id":1,"boundaryNum":1,"name":"Belpahar","localname":"Belpahar","longitude":null,"latitude":null,"label":"City","code":"od.belpahar"}}]}
+{
+  "tenantId": "od.belpahar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Belpahar",
+        "localname": "Belpahar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.belpahar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Belpahar",
+            "localname": "Belpahar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chhualiberna",
+            "localname": "Chhualiberna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Dhauramunda",
+            "localname": "Dhauramunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chingriguda",
+            "localname": "Chingriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Belpahar",
+        "localname": "Belpahar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.belpahar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Belpahar",
+            "localname": "Belpahar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chhualiberna",
+            "localname": "Chhualiberna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Dhauramunda",
+            "localname": "Dhauramunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chingriguda",
+            "localname": "Chingriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          }
+        ]
+      }
+    }
+  ]
+}
