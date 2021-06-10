@@ -11499,7 +11499,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "EGF_INBOX",
       "actionid": 1777,
       "actioncode": "",
       "tenantId": "od"
