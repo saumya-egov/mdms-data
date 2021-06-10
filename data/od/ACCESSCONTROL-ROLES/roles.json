@@ -651,7 +651,67 @@
          "code":"PGR_DASHBOARD_VIEWER",
          "name":"PGR DASHBOARD VIEWER",
          "description":"PGR DASHBOARD VIEWER"
+    },
+    {
+         "code":"EGF_INBOX",
+         "name":"EGF INBOX",
+         "description":"Finance Inbox Access"
+    },
+    {
+         "code":"EGF_MASTER_COA_EDIT",
+         "name":"EGF MASTER COA EDIT",
+         "description":"Role for COA create and update access"
+    },
+    {
+         "code":"EGF_MASTER_COA_VIEW",
+         "name":"EGF MASTER COA VIEW",
+         "description":"Role for COA view access"
+    },
+    {
+         "code":"EGF_MASTER_FUNCTION_EDIT",
+         "name":"EGF MASTER FUNCTION EDIT",
+         "description":"Role for FUNCTION create and update access"
+    },
+    {
+         "code":"EGF_MASTER_FUNCTION_VIEW",
+         "name":"EGF MASTER FUNCTION VIEW",
+         "description":"Role for FUNCTION view access"
+    },
+    {
+         "code":"EGF_MASTER_FUND_EDIT",
+         "name":"EGF MASTER FUND EDIT",
+         "description":"Role for FUND create and update access"
+    },
+    {
+         "code":"EGF_MASTER_FUND_VIEW",
+         "name":"EGF MASTER FUND VIEW",
+         "description":"Role for FUND view access"
+    },
+    {
+         "code":"EGF_MASTER_DEDUCTION_EDIT",
+         "name":"EGF MASTER DEDUCTION EDIT",
+         "description":"Role for DEDUCTION create and update access"
+    },
+    {
+         "code":"EGF_MASTER_DEDUCTION_VIEW",
+         "name":"EGF MASTER DEDUCTION VIEW",
+         "description":"Role for DEDUCTION view access"
+    },
+    {
+         "code":"EGF_MASTER_SCHEME_EDIT",
+         "name":"EGF MASTER SCHEME EDIT",
+         "description":"Role for SCHEME create and update access"
+    },
+    {
+         "code":"EGF_MASTER_SCHEME_VIEW",
+         "name":"EGF MASTER SCHEME VIEW",
+         "description":"Role for SCHEME view access"
+    },
+    {
+         "code":"EGF_MASTER_BANK_EDIT_VIEW",
+         "name":"EGF MASTER BANK EDIT VIEW",
+         "description":"Role for Bank Master create edit and view access"
     }
-	  
+       
   ]
 }
