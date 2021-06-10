@@ -18896,6 +18896,12 @@
       "actionid": 2098,
       "actioncode": "",
       "tenantId": "od"
-    }	  
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2099,
+      "actioncode": "",
+      "tenantId": "od"
+    }  
   ]
 }
