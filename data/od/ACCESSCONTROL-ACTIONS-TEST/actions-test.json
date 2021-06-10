@@ -9613,6 +9613,20 @@
          "serviceCode": "report",
          "code": "null",
          "path": ""
-      }      
+      },
+      {
+         "id": 2099,
+         "name": "Online Issue Register",
+         "url": "/services/EGF/report/chequeIssueRegisterReport-online.action",
+         "parentModule": "",
+         "displayName": "Online Payment Issue Register",
+         "orderNumber": 5,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.MIS Reports.Online Payment Issue Register",
+         "navigationURL": "services/EGF/report/chequeIssueRegisterReport-online.action"
+      }
    ]
 }
