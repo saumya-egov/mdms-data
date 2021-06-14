@@ -222,7 +222,7 @@
     {
       "name": "Stray Animal Care Center",
       "code": "ANIMALCARE",
-      "usageCategorySubMinor": "HOMESFORSPECIALCARE",
+      "usageCategorySubMinor": "ANIMALCARE",
       "active": true,
       "fromFY": "2015-16"
     },

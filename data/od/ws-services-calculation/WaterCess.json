@@ -3,7 +3,7 @@
   "moduleName": "ws-services-calculation",
   "WaterCess": [
     {
-      "rate": 5,
+      "rate": 0,
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,

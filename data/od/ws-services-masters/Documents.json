@@ -1,126 +1,132 @@
 {
-  "tenantId": "od",
-  "moduleName": "ws-services-masters",
-  "Documents": [
-    {
-      "code": "OWNER.IDENTITYPROOF",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": true,
-      "dropdownData": [
+    "tenantId": "od",
+    "moduleName": "ws-services-masters",
+    "Documents": [
         {
-          "code": "OWNER.IDENTITYPROOF.AADHAAR",
-          "active": true
+            "code": "OWNER.PROPERTY_TAX_RECEIPT",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.PROPERTY_TAX_RECEIPT.HOLDING_TAX_RECEIPT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.PROPERTY_TAX_RECEIPT.PROPERTY_TAX_RECEIPT",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.PROPERTY_TAX_RECEIPT_DESCRIPTION"
         },
         {
-          "code": "OWNER.IDENTITYPROOF.VOTERID",
-          "active": true
+            "code": "OWNER.REGISTRATION",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.REGISTRATION.REGISTRATION",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.SALE_DEED",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.RECORD_OF_RIGHTS",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.PATTA",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.LEASE_DEED_OF_LAND",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.LEASE_DEED_OF_PLOT",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.REGISTRATION_DESCRIPTION"
         },
         {
-          "code": "OWNER.IDENTITYPROOF.DRIVING",
-          "active": true
+            "code": "OWNER.BPL",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.BPL.BPL_CARD",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.BPL_CARD_DESCRIPTION"
         },
         {
-          "code": "OWNER.IDENTITYPROOF.PAN",
-          "active": true
+            "code": "OWNER.MUNICIPAL_HOLDING_TAX",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.HOLDING_TAX_RECEIPT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.REGISTRATION",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.SALE_DEED",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.RECORD_OF_RIGHTS",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.PATTA",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.LEASE_DEED_OF_LAND",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.LEASE_DEED_OF_PLOT",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.MUNICIPAL_HOLDING_TAX_RECEIPT_DESCRIPTION"
         },
         {
-          "code": "OWNER.IDENTITYPROOF.PASSPORT",
-          "active": true
+            "code": "OWNER.OWNERSHIP",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.OWNERSHIP.ELECTRICITY_BILL",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.OWNERSHIP.BANK_ACCOUNT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.OWNERSHIP.TRADE_LICENCE",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.OWNERSHIP_PROOF_DESCRIPTION"
         }
-      ],
-      "description": "OWNER.ADDRESSPROOF.IDENTITYPROOF_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.ADDRESSPROOF",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "OWNER.ADDRESSPROOF.ELECTRICITYBILL",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.DL",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.VOTERID",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.AADHAAR",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.PAN",
-          "active": true
-        },
-        {
-          "code": "OWNER.ADDRESSPROOF.PASSPORT",
-          "active": true
-        }
-      ],
-      "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
-    },
-    {
-      "code": "ELECTRICITY_BILL",
-      "documentType": "ELECTRICITY_BILL",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "ELECTRICITY_BILL",
-          "active": true
-        }
-      ],
-      "description": "ELECTRICITY_BILL_DESCRIPTION"
-    },
-    {
-      "code": "PLUMBER_REPORT_DRAWING",
-      "documentType": "PLUMBER_REPORT_DRAWING",
-      "active": true,
-      "required": true,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "PLUMBER_REPORT_DRAWING",
-          "active": true
-        }
-      ],
-      "description": "PLUMBER_REPORT_DRAWING_DESCRIPTION"
-    },
-    {
-      "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-      "documentType": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-      "active": true,
-      "required": false,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE",
-          "active": true
-        }
-      ],
-      "description": "BUILDING_PLAN_OR_COMPLETION_CERTIFICATE_DESCRIPTION"
-    },
-    {
-      "code": "PROPERTY_TAX_RECIEPT",
-      "documentType": "PROPERTY_TAX_RECIEPT",
-      "active": true,
-      "required": false,
-      "hasDropdown": true,
-      "dropdownData": [
-        {
-          "code": "PROPERTY_TAX_RECIEPT",
-          "active": true
-        }
-      ],
-      "description": "PROPERTY_TAX_RECIEPT_DESCRIPTION"
-    }
-  ]
+    ]
 }

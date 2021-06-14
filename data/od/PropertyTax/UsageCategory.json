@@ -109,6 +109,108 @@
       }
     },
     {
+      "name": "Other Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Medical Facility",
+      "code": "NONRESIDENTIAL.COMMERCIAL.MEDICALFACILITY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Event Space",
+      "code": "NONRESIDENTIAL.COMMERCIAL.EVENTSPACE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Entertainment",
+      "code": "NONRESIDENTIAL.COMMERCIAL.ENTERTAINMENT",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Godown/Warehouse",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.WAREHOUSE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Manufacturing Facility",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.MANUFACTURINGFACILITY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Instituation",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.OTHERINSTITUTIONALSUBMINOR",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Govt. Aided Educational",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONALGOVAIDED",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Public Facility",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Re-creational",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Homes for Special care",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Public Spaces",
+      "code": "NONRESIDENTIAL.OTHERS.PUBLICSPACES",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERINDUSTRIALSUBMINOR",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Statutory",
+      "code": "NONRESIDENTIAL.COMMERCIAL.STATUTORY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Educational",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Animal Care",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.ANIMALCARE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Historical",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
       "name": "Showroom",
       "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.SHOWROOM",
       "active": true,
@@ -145,14 +247,8 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Malls",
+      "name": "Establishment in Malls",
       "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.ESTABLISHMENTSINMALLS",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
-      "name": "Industrial Other Commercial Usage",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -169,7 +265,7 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Cremation/ Burial Ground",
+      "name": "Cremation/Burial Ground",
       "code": "NONRESIDENTIAL.OTHERS.PUBLICSPACES.CREMATION/BURIAL",
       "active": true,
       "fromFY": "2015-16"
@@ -181,7 +277,7 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Pharmcy",
+      "name": "Pharmacy",
       "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL.PHARMACY",
       "active": true,
       "fromFY": "2015-16"
@@ -206,7 +302,7 @@
     },
     {
       "name": "Other Industrial Usage ",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERCOMMERCIALSUBMINOR.OTHERINDUSTRIAL",
+      "code": "NONRESIDENTIAL.INDUSTRIAL.OTHERINDUSTRIALSUBMINOR.OTHERINDUSTRIAL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -225,18 +321,6 @@
     {
       "name": "Marriage Palace",
       "code": "NONRESIDENTIAL.COMMERCIAL.EVENTSPACE.MARRIAGEPALACE",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
-      "name": "Industrial Showroom",
-      "code": "NONRESIDENTIAL.INDUSTRIAL.RETAIL.SHOWROOM",
-      "active": true,
-      "fromFY": "2015-16"
-    },
-    {
-      "name": "Other Private Educational Institute",
-      "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.OTHEREDUCATIONAL",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -271,6 +355,12 @@
       "fromFY": "2015-16"
     },
     {
+      "name": "Sports Stadium",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.RECREATIONAL.SPORTSSTADIUM",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
       "name": "Public Libraries",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.PUBLICFACILITY.LIBRARIES",
       "active": true,
@@ -289,14 +379,20 @@
       "fromFY": "2015-16"
     },
     {
+      "name": "Orphanage",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE.ORPHANAGE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
       "name": "Old Age Homes",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE.OLDAGEHOMES",
       "active": true,
       "fromFY": "2015-16"
     },
     {
-      "name": "Other Commercial Usage",
-      "code": "RESIDENTIAL.COMMERCIAL.OTHERCOMMERCIALSUBMINOR.OTHERCOMMERCIAL",
+      "name": "Home for Disabled/Destitute",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HOMESFORSPECIALCARE.DISABLEDHOME",
       "active": true,
       "fromFY": "2015-16"
     },
@@ -327,6 +423,18 @@
     {
       "name": "Polytechnic",
       "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.POLYTECHNICS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Animal Care Center",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.ANIMALCARE.ANIMALCARE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Historical Building",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL.HISTORICAL.HISTORICAL",
       "active": true,
       "fromFY": "2015-16"
     }
