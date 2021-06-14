@@ -368,6 +368,11 @@
       "description": "BPA Architect"
     },
     {
+      "code": "BPA_TECHNICALPERSON",
+      "name": "BPA TECHNICAL PERSON",
+      "description": "BPA TECHNICAL PERSON"
+    },	  
+    {
       "code": "BPA_CIVILENGINEER",
       "name": "BPA Civil Engineer",
       "description": "BPA Civil Engineer"
