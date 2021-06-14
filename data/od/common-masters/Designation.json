@@ -325,6 +325,12 @@
          "name":"Municipal Engineer",
          "description":"Municipal Engineerr",
          "active":true
+      },
+      {
+         "code":"DESIG_228",
+         "name":"Nodal Officer",
+         "description":"Nodal Officer",
+         "active":true
       }
    ]
 }
