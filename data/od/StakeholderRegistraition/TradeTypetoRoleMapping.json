@@ -311,6 +311,63 @@
               "required": false
           }
       ]
-    }
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "TECHNICALPERSON.CLASSA",
+      "role": ["BPA_TECHNICALPERSON"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_OTHERS",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+              "required": true
+          }
+      ]
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "TECHNICALPERSON.CLASSB",
+      "role": ["BPA_TECHNICALPERSON"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "TECHNICALPERSON.CLASSC",
+      "role": ["BPA_TECHNICALPERSON"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    }    
   ]
 }
