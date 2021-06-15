@@ -74,6 +74,26 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Hulurisinga",
+            "localname": "Hulurisinga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Angul town",
+            "localname": "Angul town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
           }
 		]
       }
