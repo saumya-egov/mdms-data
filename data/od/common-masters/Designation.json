@@ -331,6 +331,12 @@
          "name":"Nodal Officer",
          "description":"Nodal Officer",
          "active":true
+      },
+      {
+         "code":"DESIG_229",
+         "name":"ULB Officer",
+         "description":"ULB Officer",
+         "active":true
       }
    ]
 }
