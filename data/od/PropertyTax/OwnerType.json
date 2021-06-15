@@ -58,6 +58,17 @@
       }
     },
     {
+      "name": "Sports Person ( International/ National )",
+      "code": "SPORTSPERSON",
+      "active": true,
+      "fromFY": "2015-16",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
       "name": "None of the above",
       "code": "NONE",
       "active": true,
