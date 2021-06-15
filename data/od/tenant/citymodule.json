@@ -391,6 +391,12 @@
           "code": "od.choudwar"
         },
         {
+          "code": "od.berhampurdevelopmentauthority"
+        },
+        {
+          "code": "od.bhubaneswardevelopmentauthority"
+        },
+        {
           "code": "od.birmitrapur"
         },
         {
@@ -400,7 +406,13 @@
           "code": "od.chatrapur"
         },
         {
+          "code": "od.cuttackdevelopmentauthority"
+        },
+        {
           "code": "od.gopalpur"
+        },
+        {
+          "code": "od.kalinganagardevelopmentauthority"
         },
         {
           "code": "od.khordha"
@@ -412,7 +424,13 @@
           "code": "od.paradeep"
         },
         {
+          "code": "od.paradipdevelopmentauthority"
+        },
+        {
           "code": "od.puri"
+        },
+        {
+          "code": "od.purikonarkdevelopmentauthority"
         },
         {
           "code": "od.rajgangpur"
@@ -421,13 +439,22 @@
           "code": "od.rourkela"
         },
         {
+          "code": "od.rourkeladevelopmentauthority"
+        },
+        {
           "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurdevelopmentauthority"
         },
         {
           "code": "od.sundargarh"
         },
         {
           "code": "od.talcher"
+        },
+        {
+          "code": "od.talcherangulmeramandalidevelopmentauthority"
         },
         {
           "code": "od.vyasanagar"
