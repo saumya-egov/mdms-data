@@ -13257,12 +13257,6 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1882,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 1883,
       "actioncode": "",
@@ -18972,6 +18966,42 @@
     {
       "rolecode": "SYSTEM",
       "actionid": 3001,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_CEMP",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 1882,
       "actioncode": "",
       "tenantId": "od"
     }
