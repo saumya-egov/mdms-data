@@ -8589,12 +8589,6 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1558,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 1556,
       "actioncode": "",
