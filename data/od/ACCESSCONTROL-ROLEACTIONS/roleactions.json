@@ -13233,12 +13233,6 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
       "rolecode": "TL_APPROVER",
       "actionid": 1879,
       "actioncode": "",
