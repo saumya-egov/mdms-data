@@ -11473,13 +11473,7 @@
       "actionid": 1775,
       "actioncode": "",
       "tenantId": "od"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1775,
-      "actioncode": "",
-      "tenantId": "od"
-    },
+    }, 
     {
       "rolecode": "GRO",
       "actionid": 1775,
