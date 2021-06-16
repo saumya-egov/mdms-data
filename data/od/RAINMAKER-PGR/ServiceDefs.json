@@ -31,34 +31,6 @@
     "department": "DEPT_25"
   },
   {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "Audit",
-    "serviceCode": "RegardingCompliance",
-    "department": "DEPT_52"
-  },
-  {
-    "menuPath": "Audit",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "AuditAnyothergrievance",
-    "department": "DEPT_52"
-  },
-  {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "BirthDeathCertificates",
-    "serviceCode": "Correctioninname",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "BirthDeathCertificates",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Correctioninotherinformationotherthanname",
-    "department": "DEPT_71"
-  },
-  {
     "menuPath": "BirthDeathCertificates",
     "active": true,
     "slaHours": 48,
@@ -119,13 +91,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "CertifiedCopyofBuildingPlanApproval",
-    "department": "DEPT_63"
-  },
-  {
-    "menuPath": "BuildingPermission",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Constructiondebrisonpublicplace",
     "department": "DEPT_63"
   },
   {
@@ -283,24 +248,10 @@
     "department": "DEPT_73"
   },
   {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "DevelopmentWorks",
-    "serviceCode": "ConstructionofAnganWadiCentre",
-    "department": "DEPT_53"
-  },
-  {
     "menuPath": "DevelopmentWorks",
     "active": true,
     "slaHours": 48,
     "serviceCode": "ConstructionofCommunityCentre",
-    "department": "DEPT_53"
-  },
-  {
-    "menuPath": "DevelopmentWorks",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "ConstructionofVendingZoneadjacent",
     "department": "DEPT_53"
   },
   {
@@ -395,46 +346,11 @@
     "department": "DEPT_53"
   },
   {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "Electionrelated",
-    "serviceCode": "IssuanceofEPICCard",
-    "department": "DEPT_74"
-  },
-  {
     "menuPath": "Electionrelated",
     "active": true,
     "slaHours": 48,
     "serviceCode": "IssueofVoterCard",
     "department": "DEPT_64"
-  },
-  {
-    "menuPath": "Electionrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "CorrectioninEPICCard",
-    "department": "DEPT_74"
-  },
-  {
-    "menuPath": "Electionrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "ElectionrelatedAnyothergrievance",
-    "department": "DEPT_74"
-  },
-  {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "ElectricalWorks",
-    "serviceCode": "Noelectricityinvillage",
-    "department": "DEPT_74"
-  },
-  {
-    "menuPath": "ElectricalWorks",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Individualpersonelectricalinconvenience",
-    "department": "DEPT_74"
   },
   {
     "menuPath": "ElectricalWorks",
@@ -539,13 +455,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "RegardingPension",
-    "department": "DEPT_54"
-  },
-  {
-    "menuPath": "Establishmentrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "StaffDues",
     "department": "DEPT_54"
   },
   {
@@ -696,13 +605,6 @@
     "department": "DEPT_76"
   },
   {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "Miscellaneous",
-    "serviceCode": "Appointmentofnewteachersinschools",
-    "department": "DEPT_77"
-  },
-  {
     "menuPath": "Miscellaneous",
     "active": true,
     "slaHours": 48,
@@ -714,55 +616,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "BookingofKalyanMandapParkTownHallCommunityHallDharmsalaConferenceHall",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "RepairingofGrillandAnganWadiCentre",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "RequisitionforCesspoolasperavailabilityonspot",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "RequisitionforElectricLadderAsperavailabilityonSpot",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "RequisitionforExcavatorAsperavailabilityonSpot",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "RequisitionforRollerAsperavailabilityonSpot",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "AdvertisementorHoarding",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Appointmentofnewteachersinschools",
     "department": "DEPT_77"
   },
   {
@@ -813,62 +666,6 @@
     "slaHours": 48,
     "serviceCode": "MiscellaneousAnyothergrievance",
     "department": "DEPT_77"
-  },
-  {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "MunicipalHospitalsClinics",
-    "serviceCode": "Delayintreatment",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "MunicipalHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "ImproperTreatmentNegligence",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "MunicipalHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "UnavailabilityofDoctorsorStaff",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "MunicipalHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Unavailabilityofequipment",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "MunicipalHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Unavailabilityofmedicines",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "MunicipalHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "MunicipalHospitalsClinicsUnhygienicUncleanliness",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "MunicipalHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "QualityofInfrastructure",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "MunicipalHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "MunicipalHospitalsClinicsAnyOthergrievance",
-    "department": "DEPT_71"
   },
   {
     "active": true,
@@ -1021,29 +818,8 @@
     "menuPath": "PrivateHospitalsClinics",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "BogusDoctors",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "PrivateHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Invalidlicense",
-    "department": "DEPT_71"
-  },
-  {
-    "menuPath": "PrivateHospitalsClinics",
-    "active": true,
-    "slaHours": 48,
     "serviceCode": "PrivateHospitalsClinicsAnyothergrievance",
     "department": "DEPT_71"
-  },
-  {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "PropertyTaxHoldingTaxrelated",
-    "serviceCode": "IllegalTransferofProperty",
-    "department": "DEPT_78"
   },
   {
     "menuPath": "PropertyTaxHoldingTaxrelated",
@@ -1134,13 +910,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "PropertyTaxHoldingTaxrelatedUnabletodownloadthereceiptafterpayment",
-    "department": "DEPT_78"
-  },
-  {
-    "menuPath": "PropertyTaxHoldingTaxrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "TransferofPropertyincaseofSale",
     "department": "DEPT_78"
   },
   {
@@ -1630,29 +1399,8 @@
     "menuPath": "RoadsTrafficrelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "RoadCuttingPermission",
-    "department": "DEPT_53"
-  },
-  {
-    "menuPath": "RoadsTrafficrelated",
-    "active": true,
-    "slaHours": 48,
     "serviceCode": "RoadsTrafficrelatedAnyothergrievance",
     "department": "DEPT_53"
-  },
-  {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "Shelterrelated",
-    "serviceCode": "MOKudiaSchemerelated",
-    "department": "DEPT_75"
-  },
-  {
-    "menuPath": "Shelterrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Requisitionforrepairingofhouse",
-    "department": "DEPT_75"
   },
   {
     "menuPath": "Shelterrelated",
@@ -1666,27 +1414,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "RequisitionforreconstructionofHouse",
-    "department": "DEPT_75"
-  },
-  {
-    "menuPath": "Shelterrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "RequisitionconstructionofPuccaHouse",
-    "department": "DEPT_75"
-  },
-  {
-    "menuPath": "Shelterrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "BijuPuccaGharScheme",
-    "department": "DEPT_75"
-  },
-  {
-    "menuPath": "Shelterrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "IndiraAwasYojanaScheme",
     "department": "DEPT_75"
   },
   {
@@ -1708,13 +1435,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "AvailingbenefitsunderMBPYorIGNOP",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "AvailingbenefitsunderNationalBenefitScheme",
     "department": "DEPT_64"
   },
   {
@@ -1749,42 +1469,7 @@
     "menuPath": "SocialSecurity",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "AvailingbenefitsunderRashtriyaSwasthyaBimaYojanaRSBY",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "AvailingbenefitsunderSwarnaJayantiShahariRozgarYojanaSJSRY",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
     "serviceCode": "AvailingbenefitsunderBalikaSamurdhiYojanaBSY",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "AvailingbenefitsunderJNNURM",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "AvailingbenefitsunderIndrabasYojana",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "AvailingbenefitsunderIGNWP",
     "department": "DEPT_64"
   },
   {
@@ -1806,13 +1491,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "Middaymealprogramme",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "IHSDPScheme",
     "department": "DEPT_64"
   },
   {
@@ -1861,13 +1539,6 @@
     "menuPath": "SocialSecurity",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "OtherSchemeunderSJSRYProgramme",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
     "serviceCode": "RegardingSlowprocessofdisposalofGrievancePetitions",
     "department": "DEPT_64"
   },
@@ -1883,34 +1554,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "SanctionSCSTScavengerLoanbothIndividualandGroupsUnderOSFDC",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "SocialSecuritySupplyandacceptanceofRFtoSHGs",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "SupplyofFormandAcceptanceforBalikaSamurdhiYojanaBSY",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "SupplyofFormandAcceptanceforImpartingTrainingtoEligibleCandidate",
-    "department": "DEPT_64"
-  },
-  {
-    "menuPath": "SocialSecurity",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "SupplyofFormandAcceptanceforSelfEmploymentScheme",
     "department": "DEPT_64"
   },
   {
@@ -1974,13 +1617,6 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "Providingnewdustbin",
-    "department": "DEPT_72"
-  },
-  {
-    "menuPath": "SolidWasteManagement(Garbage)",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "Ragpickersnotattendingtoworkregularlyproperly",
     "department": "DEPT_72"
   },
   {
@@ -2358,13 +1994,6 @@
     "menuPath": "UndergroundDrainage",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "Gullytapechoked",
-    "department": "DEPT_53"
-  },
-  {
-    "menuPath": "UndergroundDrainage",
-    "active": true,
-    "slaHours": 48,
     "serviceCode": "Inspectionchamberchoked",
     "department": "DEPT_53"
   },
@@ -2374,13 +2003,6 @@
     "slaHours": 48,
     "serviceCode": "UndergroundDrainageAnyothergrievance",
     "department": "DEPT_53"
-  },
-  {
-    "active": true,
-    "slaHours": 48,
-    "menuPath": "WaterBillrelated",
-    "serviceCode": "ChangeinnumberofTenements",
-    "department": "DEPT_71"
   },
   {
     "menuPath": "WaterBillrelated",
