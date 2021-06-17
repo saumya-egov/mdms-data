@@ -3847,6 +3847,39 @@
          },
          "address":"Umerkote NAC",
          "contactNumber":"001-2345876"
+      },
+      {
+         "code":"od.demo",
+         "name":"Demo",
+         "description":"Demo",
+         "logoId":"https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+         "imageId":null,
+         "domainUrl":null,
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":"demo@gmail.com",
+         "OfficeTimings":{
+            "Mon - Fri":"9.00 AM - 6.00 PM",
+            "Sat":"9.00 AM - 12.00 PM"
+         },
+         "city":{
+            "name":"Demo",
+            "localName":null,
+            "districtCode":"DEMO",
+            "districtName":null,
+            "regionName":null,
+            "ulbGrade":"Municipal Corporation",
+            "longitude":74.8722642,
+            "latitude":31.6339793,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"CDA",
+            "ddrName":"DDR A"
+         },
+         "address":"Demo Municipal Corporation Address",
+         "contactNumber":"0978-7645345",
+         "helpLineNumber":"0654-8734567"
       }
    ]
 }
