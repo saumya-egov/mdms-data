@@ -8367,20 +8367,8 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1547,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 1547,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1548,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -8945,12 +8933,6 @@
     {
       "rolecode": "PGR-ADMIN",
       "actionid": 1580,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1584,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -13847,12 +13829,6 @@
     {
       "rolecode": "CSR",
       "actionid": 1925,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1926,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -19092,6 +19068,30 @@
     {
       "rolecode": "WS_CLERK",
       "actionid": 1882,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 1926,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 1926,
       "actioncode": "",
       "tenantId": "od"
     }
