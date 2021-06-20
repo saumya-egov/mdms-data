@@ -13341,19 +13341,13 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_APPROVER",
+      "rolecode": "BPAREG_APPROVER",
       "actionid": 1879,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_CEMP",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "TL_DOC_VERIFIER",
+      "rolecode": "CEMP",
       "actionid": 1879,
       "actioncode": "",
       "tenantId": "od"
