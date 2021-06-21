@@ -9649,6 +9649,18 @@
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
-      }      
+      },
+      {
+         "id": 3002,
+         "name": "RainmakerPgrComplaintClosureBatch",
+         "url": "/rainmaker-pgr/v1/requests/updateForClosure/_batch",
+         "displayName": "Rainmaker Pgr Complaint closure Batch",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "rainmaker pgr",
+         "code": "null",
+         "path": ""
+      }	   
    ]
 }
