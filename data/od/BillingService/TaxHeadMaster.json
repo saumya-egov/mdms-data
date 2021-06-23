@@ -303,11 +303,11 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
-    },
+    },	
     {
       "category": "FEE",
       "service": "BPA.NC_APP_FEE",
-      "name": "BPA Application fees",
+      "name": "BPA Application Fee",
       "code": "BPA_APPL_FEES",
       "isDebit": false,
       "isActualDemand": true,
@@ -317,27 +317,27 @@
     {
       "category": "FEE",
       "service": "BPA.NC_APP_FEE",
-      "name": "Building Operation Fees",
-      "code": "BPA_APPL_FEES.BLDNG_OPRN_FEE",
+      "name": "Building Operation Fee",
+      "code": "BPA_BLDNG_OPRN_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
-    },	
+    },
     {
       "category": "FEE",
       "service": "BPA.NC_APP_FEE",
-      "name": "Land Development Fees",
-      "code": "BPA_APPL_FEES.LAND_DEV_FEE",
+      "name": "Land Development Fee",
+      "code": "BPA_LAND_DEV_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
-    },	
+    },
     {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
-      "name": "BPA Sanction fees",
+      "name": "BPA Sanction Fee",
       "code": "BPA_SANC_FEES",
       "isDebit": false,
       "isActualDemand": true,
@@ -347,18 +347,18 @@
     {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
-      "name": "Retention Fees",
-      "code": "BPA_SANC_FEES.RETENTION_FEE",
+      "name": "Temporary Retention Fee",
+      "code": "BPA_SANC_TEMP_RETENTION_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
       "isRequired": false
-    },	
+    },
     {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
       "name": "Security Deposit",
-      "code": "BPA_SANC_FEES.SECURITY_DEPOSIT",
+      "code": "BPA_SANC_SECURITY_DEPOSIT",
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
@@ -367,8 +367,8 @@
     {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
-      "name": "Welfare Cess",
-      "code": "BPA_SANC_FEES.WELFARE_CESS",
+      "name": "Construction worker welfare Cess (CWWC)",
+      "code": "BPA_SANC_WORKER_WELFARE_CESS",
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
@@ -377,33 +377,123 @@
     {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
-      "name": "Purchasable FAR Fees",
-      "code": "BPA_SANC_FEES.PUR_FAR_FEE",
+      "name": "Purchasable FAR",
+      "code": "BPA_SANC_PUR_FAR",
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
       "isRequired": false
-    },	
+    },
     {
       "category": "FEE",
       "service": "BPA.NC_SAN_FEE",
-      "name": "Shelter Fees",
-      "code": "BPA_SANC_FEES.SHELTER_FEE",
+      "name": "Shelter Fee",
+      "code": "BPA_SANC_SHELTER_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "Sanction Fee",
+      "code": "BPA_SANC_SANC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "EIDP FEE",
+      "code": "BPA_SANC_EIDP_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "OC Application Fee",
+      "code": "BPA_OC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "Occupancy Certificate Fee",
+      "code": "BPA_OC_CERT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "OC Scrutiny Fee",
+      "code": "BPA_OC_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "OC Sanction Fee",
+      "code": "BPA_OC_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "OC Compounding Fee for Setback",
+      "code": "BPA_OC_SANC_COMPOUND_SETBACK_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "OC Compounding Fee for FAR",
+      "code": "BPA_OC_SANC_COMPOUND_FAR_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "OC EIDP Fee",
+      "code": "BPA_OC_SANC_EIDP_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "OC Construction worker welfare Cess (CWWC)",
+      "code": "BPA_OC_SANC_WORKER_WELFARE_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
       "isRequired": false
     },		
-    {
-      "category": "FEE",
-      "service": "BPA.NC_SAN_FEE",
-      "name": "Sanction Fees",
-      "code": "BPA_SANC_FEES.SANC_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false
-    },			
      {
       "category": "FEE",
       "service": "PT.MUTATION",
@@ -836,26 +926,6 @@
     },
     {
       "category": "FEE",
-      "service": "BPA.LOW_RISK_PERMIT_FEE",
-      "name": "BPA Low Risk Appllication Fees",
-      "code": "BPA_LOW_APPL_FEES",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "BPA.LOW_RISK_PERMIT_FEE",
-      "name": "BPA Low Risk Permit Fees",
-      "code": "BPA_LOW_SANC_FEES",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
       "service": "TL",
       "name": "TL Renewal Tax",
       "code": "TL_RENEWAL_TAX",
@@ -902,26 +972,6 @@
       "isDebit": false,
       "isActualDemand": false,
       "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "BPA.NC_OC_APP_FEE",
-      "name": "BPA Application fees",
-      "code": "BPA_OC_APPL_FEES",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "1",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "BPA.NC_OC_SAN_FEE",
-      "name": "BPA Sanction fees",
-      "code": "BPA_OC_SANC_FEES",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
       "isRequired": false
     },
     {
