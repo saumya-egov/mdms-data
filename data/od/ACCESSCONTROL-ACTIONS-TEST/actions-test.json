@@ -6536,7 +6536,7 @@
          "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
-         "navigationURL": "tradelicence/search?action=showRequiredDocuments&&licenseType=PERMANENT",
+         "navigationURL": "tradelicence/search?action=showRequiredDocuments&licenseType=PERMANENT",
          "path": "TradeLicense.Apply",
          "leftIcon": "places:business-center"
       },
