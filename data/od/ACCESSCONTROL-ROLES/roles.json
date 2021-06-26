@@ -716,7 +716,36 @@
          "code":"EGF_MASTER_BANK_EDIT_VIEW",
          "name":"EGF MASTER BANK EDIT VIEW",
          "description":"Role for Bank Master create edit and view access"
-    }
-       
+    },
+    {
+         "code":"EGF_MASTER_CONTRACTOR_EDIT_VIEW",
+         "name":"EGF MASTER CONTRACTOR EDIT VIEW",
+         "description":"Role for Contractor Master create edit and view access"
+    },
+    {
+         "code":"EGF_MASTER_SUPPLIER_EDIT_VIEW",
+         "name":"EGF MASTER SUPPLIER EDIT VIEW",
+         "description":"Role for Supplier Master create edit and view access"
+    },
+    {
+         "code":"EGF_MASTER_PO_EDIT_VIEW",
+         "name":"EGF MASTER PO EDIT VIEW",
+         "description":"Role for Purchase Order Master create edit and view access"
+    },
+    {
+         "code":"EGF_MASTER_WO_EDIT_VIEW",
+         "name":"EGF MASTER WO EDIT VIEW",
+         "description":"Role for Work Order Master create edit and view access"
+    },
+    {
+         "code":"EGF_MASTER_SUBLEDGER_EDIT",
+         "name":"EGF MASTER SUBLEDGER EDIT",
+         "description":"Role for Sub Ledger Configuration create and update access"
+    },
+    {
+         "code":"EGF_MASTER_SUBLEDGER_VIEW",
+         "name":"EGF MASTER SUBLEDGER VIEW",
+         "description":"Role for Sub Ledger Configuration view access"
+    }       
   ]
 }
