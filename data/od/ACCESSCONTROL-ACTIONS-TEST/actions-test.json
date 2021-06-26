@@ -9661,6 +9661,17 @@
          "serviceCode": "rainmaker pgr",
          "code": "null",
          "path": ""
-      }	   
+      },
+      {
+         "id": 3003,
+         "name": "Collection Search Reciept by IDs",
+         "url": "/collection-services/payments/_searchByReceiptIDs",
+         "displayName": "Search payment by IDs",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "COLLECTION",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
