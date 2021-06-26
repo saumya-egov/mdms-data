@@ -19130,6 +19130,18 @@
       "actionid": 3001,
       "actioncode": "",
       "tenantId": "od"
-    }	  
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3003,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3003,
+      "actioncode": "",
+      "tenantId": "od"
+    }
   ]
 }
