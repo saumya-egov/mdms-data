@@ -19142,6 +19142,126 @@
       "actionid": 3003,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_COA_EDIT",
+      "actionid": 1616,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_COA_VIEW",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_COA_VIEW",
+      "actionid": 1666,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_COA_VIEW",
+      "actionid": 1840,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_COA_EDIT",
+      "actionid": 1615,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_FUNCTION_EDIT",
+      "actionid": 1642,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_FUNCTION_VIEW",
+      "actionid": 1643,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_FUNCTION_EDIT",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_FUND_EDIT",
+      "actionid": 1636,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_FUND_VIEW",
+      "actionid": 1637,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_FUND_EDIT",
+      "actionid": 1638,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_DEDUCTION_EDIT",
+      "actionid": 1623,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_DEDUCTION_VIEW",
+      "actionid": 1624,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_DEDUCTION_EDIT",
+      "actionid": 1625,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_SCHEME_EDIT",
+      "actionid": 1620,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_SCHEME_EDIT",
+      "actionid": 1622,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_SCHEME_EDIT",
+      "actionid": 1627,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_SCHEME_EDIT",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_SCHEME_VIEW",
+      "actionid": 1621,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_SCHEME_VIEW",
+      "actionid": 1626,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
