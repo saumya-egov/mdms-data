@@ -6062,6 +6062,21 @@
       "active": true,
       "type": "BPA",
       "validityPeriod": 5
+    },
+    {
+      "code": "TECHNICALPERSON.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [
+        
+      ],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
     }
   ]
 }
