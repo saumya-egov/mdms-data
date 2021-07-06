@@ -9678,7 +9678,7 @@
          "name": "How it works",
          "url": "url",
          "displayName": "How it works",
-         "orderNumber": 5,
+         "orderNumber": 1,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "Training",
