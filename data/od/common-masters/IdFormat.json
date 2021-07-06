@@ -491,7 +491,7 @@
             "idname": "egov.idgen.bpa.suplicensenumber"
         },
         {
-            "format": "BR/TP/[cy:yyyy]/[SEQ_EG_BPR_LN]",
+            "format": "BPR/[cy:yyyy]/[SEQ_EG_BPR_LN]",
             "idname": "egov.idgen.bpr.licensenumber"
         },
         {
