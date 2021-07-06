@@ -19430,6 +19430,12 @@
       "actionid": 1680,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3004,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
