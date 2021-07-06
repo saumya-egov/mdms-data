@@ -9681,10 +9681,10 @@
          "orderNumber": 1,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "Training",
+         "serviceCode": "PGR",
          "code": "null",
          "navigationURL": "how-it-works",
-         "path": "",
+         "path": "/",
          "leftIcon": "action:receipt"
       }
    ]
