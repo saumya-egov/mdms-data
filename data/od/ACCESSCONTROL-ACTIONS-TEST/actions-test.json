@@ -9672,6 +9672,20 @@
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3004,
+         "name": "How it works",
+         "url": "url",
+         "displayName": "How it works",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "Training",
+         "code": "null",
+         "navigationURL": "how-it-works",
+         "path": "",
+         "leftIcon": "action:receipt"
       }
    ]
 }
