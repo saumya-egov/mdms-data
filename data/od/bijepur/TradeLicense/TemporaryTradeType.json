@@ -6,6 +6,7 @@
       "code": "FLAMABLES.TST7",
       "name": "Fire Works (Crackers)",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",

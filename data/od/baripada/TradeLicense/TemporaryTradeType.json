@@ -3,9 +3,10 @@
   "moduleName": "TradeLicense",
   "TemporaryTradeType": [
     {
-      "code": "EATINGESTABLISHMENTS.TST1",
-      "name": "Bakery Manufacturing",
+      "code": "FLAMABLES.TST7",
+      "name": "Fire Works (Crackers)",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -34,6 +35,7 @@
       "code": "EATINGESTABLISHMENTS.TST2",
       "name": "Bakery Shop (Wholesale)",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -59,37 +61,10 @@
       "validityPeriod": null
     },
     {
-      "code": "EATINGESTABLISHMENTS.TST22",
-      "name": "Fruit Juice/Lassi Center",
+      "code": "EATINGESTABLISHMENTS.TST1",
+      "name": "Bakery Manufacturing",
       "uom": "NUMBEROFDAYS",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST64",
-      "name": "Sale of Greeting",
-      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -118,6 +93,7 @@
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST100",
       "name": "Exhibitions",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -143,9 +119,39 @@
       "validityPeriod": null
     },
     {
-      "code": "FLAMABLES.TST7",
-      "name": "Fire Works (Crackers)",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST64",
+      "name": "Sale of Greeting",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST22",
+      "name": "Fruit Juice/Lassi Center",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
