@@ -9680,7 +9680,7 @@
          "displayName": "How it works",
          "orderNumber": 5,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Training",
          "code": "null",
          "navigationURL": "how-it-works",
