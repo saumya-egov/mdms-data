@@ -13743,6 +13743,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
       "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1922,
       "actioncode": "",
@@ -13995,6 +14001,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
       "rolecode": "BPA_APPROVER",
       "actionid": 1930,
       "actioncode": "",
@@ -14066,6 +14078,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "BPA_APPROVER",
       "actionid": 1931,
@@ -14187,6 +14205,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
       "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1946,
       "actioncode": "",
@@ -14210,6 +14234,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1947,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1947,
@@ -15220,6 +15250,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
       "rolecode": "BPA_VERIFIER",
       "actionid": 1975,
       "actioncode": "",
@@ -15556,11 +15592,23 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1988,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1989,
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "CITIZEN",
       "actionid": 1989,
@@ -15687,6 +15735,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "BPA_VERIFIER",
       "actionid": 1990,
@@ -15844,6 +15898,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 2001,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
       "rolecode": "CITIZEN",
       "actionid": 2001,
       "actioncode": "",
@@ -15873,6 +15933,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "CITIZEN",
       "actionid": 2003,
