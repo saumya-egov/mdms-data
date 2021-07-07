@@ -499,7 +499,7 @@
             "idname": "egov.idgen.bpa.bdlicensenumber"
         },   
         {
-            "format": "OD-BR-[cy:yyyy-MM-dd]-[SEQ_EG_BPR_APN]",
+            "format": "BPR-[cy:yyyy-MM-dd]-[SEQ_EG_BPR_APN]",
             "idname": "egov.idgen.bpr.aplnumber"
         },
         {
