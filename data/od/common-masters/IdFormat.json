@@ -491,6 +491,14 @@
             "idname": "egov.idgen.bpa.suplicensenumber"
         },
         {
+            "format": "BPR/[cy:yyyy]/[SEQ_EG_BPR_LN]",
+            "idname": "egov.idgen.bpr.licensenumber"
+        },   
+        {
+            "format": "BPR-[cy:yyyy-MM-dd]-[SEQ_EG_BPR_APN]",
+            "idname": "egov.idgen.bpr.aplnumber"
+        },
+        {
             "format": "BR/ARCT/[cy:yyyy]/[SEQ_EG_PT_LN]",
             "idname": "egov.idgen.bpa.arlicensenumber"
         },
