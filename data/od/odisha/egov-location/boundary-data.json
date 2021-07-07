@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.odisha",
+        "code": "od",
         "children": [
           {
             "id": "2",
@@ -43,7 +43,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.odisha"
+        "code": "od"
       }
     }
   ]
