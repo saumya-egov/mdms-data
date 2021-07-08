@@ -6,6 +6,7 @@
       "code": "EATINGESTABLISHMENTS.TST1",
       "name": "Bakery Manufacturing",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -34,6 +35,7 @@
       "code": "EATINGESTABLISHMENTS.TST2",
       "name": "Bakery Shop (Wholesale)",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",

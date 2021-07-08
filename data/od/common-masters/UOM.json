@@ -37,6 +37,30 @@
 	{
       "code": "NUMBEROFMONTHS",
       "active": true
+    },
+	{
+      "code": "NUMBEROFSCREENS",
+      "active": true
+    },
+	{
+      "code": "TURNOVER",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFWHEELS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFCONSUMERS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFSTUDENTS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFBABMBOO",
+      "active": true
     }
   ]
 }

@@ -6,6 +6,7 @@
       "code": "EATINGESTABLISHMENTS.TST3",
       "name": "Bakery Shop (Retail)",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -34,6 +35,7 @@
       "code": "EATINGESTABLISHMENTS.TST4",
       "name": "Ice Cream -  Manufacturing",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -62,6 +64,7 @@
       "code": "EATINGESTABLISHMENTS.TST5",
       "name": "Cooldrinks / Ice Cream - Sales",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",

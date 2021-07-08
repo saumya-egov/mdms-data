@@ -3,9 +3,10 @@
   "moduleName": "TradeLicense",
   "TemporaryTradeType": [
     {
-      "code": "EATINGESTABLISHMENTS.TST1",
-      "name": "Bakery Manufacturing",
+      "code": "FLAMABLES.TST8",
+      "name": "Methylated Spirit",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -34,6 +35,36 @@
       "code": "EATINGESTABLISHMENTS.TST2",
       "name": "Bakery Shop (Wholesale)",
       "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST1",
+      "name": "Bakery Manufacturing",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -62,34 +93,7 @@
       "code": "FLAMABLES.TST7",
       "name": "Fire Works (Crackers)",
       "uom": "NUMBEROFDAYS",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "FLAMABLES.TST8",
-      "name": "Methylated Spirit",
-      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
       "applicationDocument": [
         {
           "applicationType": "NEW",
