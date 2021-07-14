@@ -6536,7 +6536,7 @@
          "enabled": false,
          "serviceCode": "TradeLicense",
          "code": "null",
-         "navigationURL": "tradelicence/search?action=showRequiredDocuments&licenseType=PERMANENT",
+         "navigationURL": "tradelicence/search?action=showRequiredDocuments",
          "path": "TradeLicense.Apply",
          "leftIcon": "places:business-center"
       },
@@ -7592,7 +7592,7 @@
          "enabled": false,
          "serviceCode": "TradeLicense",
          "code": "null",
-         "navigationURL": "tradelicence/search?action=showRequiredDocuments&licenseType=TEMPORARY",
+         "navigationURL": "tradelicence/search?action=showRequiredDocuments",
          "path": "TradeLicense.Apply",
          "leftIcon": "places:business-center"
       },
