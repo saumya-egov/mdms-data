@@ -227,7 +227,7 @@
             "latitude":31.6339793,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"BRM",
+            "code":"BAM",
             "ddrName":"DDR A"
          },
          "address":"Brhmapur Municipal Corporation",
@@ -854,7 +854,7 @@
             "latitude":31.6339793,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"107",
+            "code":"ODISHA",
             "ddrName":"DDR A"
          },
          "address":"Odisha Municipal Corporation Address",
@@ -1207,7 +1207,7 @@
             "latitude":31.3260152,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"BGD",
+            "code":"BLD",
             "ddrName":"DDR A"
          },
          "address":"Balliguda NAC",
@@ -1269,7 +1269,7 @@
             "latitude":31.3260152,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"BNK",
+            "code":"BAN",
             "ddrName":"DDR A"
          },
          "address":"Banki NAC",
@@ -1486,7 +1486,7 @@
             "latitude":31.3260152,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"BLG",
+            "code":"BLT",
             "ddrName":"DDR A"
          },
          "address":"Belaguntha NAC",
@@ -2695,7 +2695,7 @@
             "latitude":31.3260152,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"KSN",
+            "code":"KSG",
             "ddrName":"DDR A"
          },
          "address":"Kesinga NAC",
