@@ -645,6 +645,26 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Reconnection charges",
+      "code": "WS_RECONNECTION_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Ownership change fee",
+      "code": "WS_OWNERSHIP_CHANGE_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false
+    },
+    {
       "category": "TAX",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water Application Tax and Cess",
@@ -752,6 +772,26 @@
       "isDebit": false,
       "isActualDemand": true,
       "order": "6",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SW.ONE_TIME_FEE",
+      "name": "Sewerage Reconnection charges",
+      "code": "SW_RECONNECTION_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SW.ONE_TIME_FEE",
+      "name": "Sewerage Application Ownership change fee",
+      "code": "SW_OWNERSHIP_CHANGE_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
       "isRequired": false
     },
     {
