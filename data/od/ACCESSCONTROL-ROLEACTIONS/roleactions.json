@@ -18915,12 +18915,6 @@
     "tenantId": "od"
   },
   {
-    "rolecode": "GRO",
-    "actionid": 2089,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
     "rolecode": "PGR_DASHBOARD_VIEWER",
     "actionid": 2089,
     "actioncode": "",
