@@ -5,7 +5,7 @@
     {
       "cardName": "Pgr_dashboard_1",
       "roles": [
-        "GRO"
+        "PGR_DASHBOARD_VIEWER"
       ],
       "icon": "material-icons module-page-icon",
       "route": "PGRDashboard"
