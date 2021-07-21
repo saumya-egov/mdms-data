@@ -1202,6 +1202,24 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Service Tax",
+      "code": "PT_SERVICE_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Other Dues",
+      "code": "PT_OTHER_DUES",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
     }
   ]
 }
