@@ -12099,7 +12099,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "CITIZEN1",
       "actionid": 1815,
       "actioncode": "",
       "tenantId": "od"
@@ -13359,7 +13359,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "CITIZEN1",
       "actionid": 1883,
       "actioncode": "",
       "tenantId": "od"
