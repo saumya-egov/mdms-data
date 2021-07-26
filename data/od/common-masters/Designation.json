@@ -337,6 +337,42 @@
          "name":"ULB Officer",
          "description":"ULB Officer",
          "active":true
-      }
+      },
+      {
+         "code":"DESIG_230",
+         "name":"Collector",
+         "description":"Collector",
+         "active":true
+      },
+      {
+         "code":"DESIG_231",
+         "name":"District Magistrate",
+         "description":"District Magistrate",
+         "active":true
+      },
+      {
+         "code":"DESIG_232",
+         "name":"H&UDD Official",
+         "description":"H&UDD Official",
+         "active":true
+      },
+      {
+         "code":"DESIG_233",
+         "name":"PHEO Official",
+         "description":"PHEO Official",
+         "active":true
+      },
+      {
+         "code":"DESIG_234",
+         "name":"Project Director",
+         "description":"Project Director",
+         "active":true
+      },
+      {
+         "code":"DESIG_234",
+         "name":"WATCO Official",
+         "description":"WATCO Official",
+         "active":true
+      }      
    ]
 }
