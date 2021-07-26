@@ -653,6 +653,11 @@
          "description":"Role For 4th level escalation(PGR)"
     },
     {
+         "code":"PGR_BP_ESCALATION_OFFICER1",
+         "name":"Escalation Officer1 for Building Permissions",
+         "description":"Role For 1st level escalation(PGR) for Building Permissions"
+    },	  
+    {
          "code":"PGR_DASHBOARD_VIEWER",
          "name":"PGR DASHBOARD VIEWER",
          "description":"PGR DASHBOARD VIEWER"
