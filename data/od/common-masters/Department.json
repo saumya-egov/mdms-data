@@ -211,6 +211,16 @@
       "name": "Holding Tax",
       "code": "DEPT_78",
       "active": true
-    }	
+    },
+    {
+      "name": "PHEO",
+      "code": "DEPT_79",
+      "active": true
+    },
+    {
+      "name": "WATCO",
+      "code": "DEPT_80",
+      "active": true
+    }    
   ]
 }
