@@ -188,13 +188,6 @@
     "menuPath": "BusinessTradeLicense",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "BusinessTradeLicenseRoadsideParkingorParkingIssue",
-    "department": "DEPT_73"
-  },
-  {
-    "menuPath": "BusinessTradeLicense",
-    "active": true,
-    "slaHours": 48,
     "serviceCode": "Unabletoaccesspaymentgatewaypage",
     "department": "DEPT_73"
   },
@@ -346,13 +339,6 @@
     "department": "DEPT_53"
   },
   {
-    "menuPath": "Electionrelated",
-    "active": true,
-    "slaHours": 48,
-    "serviceCode": "IssueofVoterCard",
-    "department": "DEPT_64"
-  },
-  {
     "menuPath": "ElectricalWorks",
     "active": true,
     "slaHours": 48,
@@ -426,7 +412,7 @@
     "active": true,
     "slaHours": 48,
     "menuPath": "Establishmentrelated",
-    "serviceCode": "LeaveSanction",
+    "serviceCode": "DelayinLeaveSanction",
     "department": "DEPT_54"
   },
   {
@@ -566,35 +552,35 @@
     "active": true,
     "slaHours": 48,
     "menuPath": "Marriagerelated",
-    "serviceCode": "BookingofKalyanMandaporYatriNiwasorConferenceHall",
+    "serviceCode": "IrregularityinBookingofKalyanMandaporYatriNiwasorConferenceHall",
     "department": "DEPT_76"
   },
   {
     "menuPath": "Marriagerelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "IssuanceofMarriageCertificate",
+    "serviceCode": "DelayinIssuanceofMarriageCertificate",
     "department": "DEPT_76"
   },
   {
     "menuPath": "Marriagerelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "MarriageRegistration",
+    "serviceCode": "DelayinMarriageRegistration",
     "department": "DEPT_76"
   },
   {
     "menuPath": "Marriagerelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "RectificationinMarriageRegistration",
+    "serviceCode": "DelayinRectificationinMarriageRegistration",
     "department": "DEPT_76"
   },
   {
     "menuPath": "Marriagerelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "RectificationofMarriageCertificate",
+    "serviceCode": "DelayinRectificationofMarriageCertificate",
     "department": "DEPT_76"
   },
   {
@@ -608,14 +594,14 @@
     "menuPath": "Miscellaneous",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "BookingofCessPollVehicle",
+    "serviceCode": "DelayirregularityinBookingofCessPollVehicle",
     "department": "DEPT_77"
   },
   {
     "menuPath": "Miscellaneous",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "BookingofKalyanMandapParkTownHallCommunityHallDharmsalaConferenceHall",
+    "serviceCode": "DelayirregularityinBookingofKalyanMandapParkTownHallCommunityHallDharmsalaConferenceHall",
     "department": "DEPT_77"
   },
   {
@@ -636,7 +622,7 @@
     "menuPath": "Miscellaneous",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "RequisitionforSludgePumpAsperavailabilityonSpot",
+    "serviceCode": "DelayirregularityinsupplyofSludgePumpAsperavailabilityonSpot",
     "department": "DEPT_77"
   },
   {
@@ -657,13 +643,6 @@
     "menuPath": "Miscellaneous",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "Electionrelated",
-    "department": "DEPT_77"
-  },
-  {
-    "menuPath": "Miscellaneous",
-    "active": true,
-    "slaHours": 48,
     "serviceCode": "MiscellaneousAnyothergrievance",
     "department": "DEPT_77"
   },
@@ -671,7 +650,7 @@
     "active": true,
     "slaHours": 48,
     "menuPath": "NationalUrbanLivelihoodMission",
-    "serviceCode": "NationalUrbanLivelihoodMissionAssistanceinformationofSHG",
+    "serviceCode": "AssistancetoofSHG",
     "department": "DEPT_64"
   },
   {
@@ -888,7 +867,7 @@
     "menuPath": "PropertyTaxHoldingTaxrelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "Assessmentorderfornewandimprovementtotheexistingbuilding",
+    "serviceCode": "Assessmentorderfornewimprovementtotheexistingbuilding",
     "department": "DEPT_78"
   },
   {
@@ -1112,7 +1091,7 @@
     "menuPath": "PublicToilets",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "NowaterinadequatewareinthePublicToilet",
+    "serviceCode": "NowaterinadequatewaterinthePublicToilet",
     "department": "DEPT_72"
   },
   {
@@ -1406,14 +1385,14 @@
     "menuPath": "Shelterrelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "RAY",
+    "serviceCode": "RAYPMAYrelated",
     "department": "DEPT_75"
   },
   {
     "menuPath": "Shelterrelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "RequisitionforreconstructionofHouse",
+    "serviceCode": "Grievanceonsanctionofhouse",
     "department": "DEPT_75"
   },
   {
@@ -1490,7 +1469,7 @@
     "menuPath": "SocialSecurity",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "Middaymealprogramme",
+    "serviceCode": "Aaharprogramme",
     "department": "DEPT_64"
   },
   {
@@ -1533,6 +1512,13 @@
     "active": true,
     "slaHours": 48,
     "serviceCode": "IssueofNFSACard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofVoterCard",
     "department": "DEPT_64"
   },
   {
@@ -1735,7 +1721,7 @@
     "menuPath": "StreetLights",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "RepairingofStreetTubeLightsotherthanmainroadsexcludingPrivatisedWard",
+    "serviceCode": "RepairingofStreetLightsotherthanmainroads",
     "department": "DEPT_74"
   },
   {
@@ -1903,7 +1889,7 @@
     "menuPath": "Unauthorisedconstruction",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "UnauthorisedConstructionorDemolitionofGovtLand",
+    "serviceCode": "UnauthorisedConstructiononofGovtLand",
     "department": "DEPT_66"
   },
   {
@@ -1959,7 +1945,7 @@
     "menuPath": "UndergroundDrainage",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "SoakpitfileduporNotCleaned",
+    "serviceCode": "SoakpitfilleduporNotCleaned",
     "department": "DEPT_53"
   },
   {
@@ -2071,14 +2057,14 @@
     "active": true,
     "slaHours": 48,
     "menuPath": "WaterSupplyrelated",
-    "serviceCode": "WaterSupplyDefunctofTubewell",
+    "serviceCode": "WaterSupplyDefunctTubewell",
     "department": "DEPT_71"
   },
   {
     "menuPath": "WaterSupplyrelated",
     "active": true,
     "slaHours": 48,
-    "serviceCode": "InstallationofWatersupplystreetPostinvillage",
+    "serviceCode": "InstallationofWatersupplystreetPost",
     "department": "DEPT_71"
   },
   {
