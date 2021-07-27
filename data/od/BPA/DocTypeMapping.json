@@ -91,8 +91,67 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 212
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 213
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 214
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 215
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 216
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 217
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 218
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 219
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 220
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 221
         }
-
       ],
       "DocTypes1": [
         {
@@ -312,6 +371,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 222
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 223
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 224
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 225
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 226
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 227
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 228
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 229
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 230
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 231
         }
       ],
       "DocTypes1": [
@@ -492,6 +611,18 @@
           "order": 197
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -584,6 +715,18 @@
           "order": 157
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -674,6 +817,18 @@
           "required": false,
           "allow": true,
           "order": 177
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.SP",
@@ -808,6 +963,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 232
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 233
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 234
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 235
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 236
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 237
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 238
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 239
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 240
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 241
         }
       ],
       "DocTypes1": [
@@ -1028,6 +1243,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 242
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 243
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 244
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 245
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 246
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 247
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 248
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 249
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 250
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 251
         }
       ],
       "DocTypes1": [
@@ -1248,6 +1523,66 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 252
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 253
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 254
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 255
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 256
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 257
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 258
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 259
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 260
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 261
         }
       ]
     },
@@ -1298,6 +1633,18 @@
           "required": false,
           "allow": true,
           "order": 197
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.SP",
@@ -1392,6 +1739,18 @@
           "order": 157
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -1482,6 +1841,18 @@
           "required": false,
           "allow": true,
           "order": 177
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.SP",
@@ -1616,6 +1987,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 262
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 263
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 264
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 265
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 266
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 267
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 268
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 269
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 270
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 271
         }
       ],
       "DocTypes1": [
@@ -1836,6 +2267,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 272
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 273
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 274
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 275
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 276
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 277
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 278
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 279
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 280
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 281
         }
       ],
       "DocTypes1": [
@@ -2056,6 +2547,66 @@
           "required": false,
           "allow": true,
           "order": 130
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 282
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 283
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 284
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 285
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 286
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 287
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 288
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 289
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 290
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 291
         }
       ]
     },
@@ -2100,6 +2651,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -2328,6 +2891,18 @@
           "order": 267
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -2420,6 +2995,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -2512,6 +3099,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -2602,6 +3201,18 @@
           "required": false,
           "allow": true,
           "order": 7
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.SP",
@@ -2696,6 +3307,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -2828,6 +3451,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 292
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 293
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 294
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 295
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 296
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 297
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 298
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 299
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 300
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 301
         }
       ]
     },
@@ -2920,6 +3603,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 302
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 303
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 304
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 305
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 306
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 307
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 308
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 309
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 310
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 311
         }
       ],
       "DocTypes1": [
@@ -3140,6 +3883,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 312
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 313
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 314
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 315
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 316
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 317
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 318
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 319
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 320
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 321
         }
       ],
       "DocTypes1": [
@@ -3360,6 +4163,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 6
         }
       ],
       "DocTypes1": [
@@ -3580,6 +4443,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 322
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 323
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 324
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 325
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 326
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 327
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 328
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 329
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 330
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 331
         }
       ],
       "DocTypes1": [
@@ -3800,6 +4723,66 @@
           "required": false,
           "allow": true,
           "order": 146
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 332
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 333
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 334
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 335
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 336
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 337
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 338
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 339
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 340
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 341
         }
       ]
     },
@@ -3846,6 +4829,18 @@
           "order": 5
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.BPL",
           "required": false,
           "allow": true,
@@ -4066,6 +5061,18 @@
           "order": 5
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.BPL",
           "required": false,
           "allow": true,
@@ -4292,6 +5299,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -4384,6 +5403,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -4468,6 +5499,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -4690,6 +5733,18 @@
           "order": 5
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.BPL",
           "required": false,
           "allow": true,
@@ -4956,6 +6011,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 342
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 343
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 344
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 345
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 346
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 347
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 348
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 349
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 350
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 351
         }
       ]
     },
@@ -5048,6 +6163,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 352
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 353
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 354
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 355
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 356
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 357
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 358
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 359
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 360
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 361
         }
       ],
       "DocTypes1": [
@@ -5268,6 +6443,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 362
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 363
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 364
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 365
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 366
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 367
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 368
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 369
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 370
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 371
         }
       ],
       "DocTypes1": [
@@ -5448,6 +6683,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -5532,6 +6779,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -5754,6 +7013,18 @@
           "order": 5
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.BPL",
           "required": false,
           "allow": true,
@@ -6020,6 +7291,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 372
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 373
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 374
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 375
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 376
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 377
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 378
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 379
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 380
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 381
         }
       ]
     },
@@ -6112,6 +7443,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 382
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 383
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 384
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 385
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 386
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 387
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 388
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 389
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 390
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 391
         }
       ],
       "DocTypes1": [
@@ -6332,6 +7723,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 392
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 393
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 394
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 395
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 396
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 397
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 398
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 399
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 400
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 401
         }
       ],
       "DocTypes1": [
@@ -6512,6 +7963,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -6596,6 +8059,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -6816,6 +8291,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -7084,6 +8571,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 402
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 403
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 404
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 405
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 406
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 407
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 408
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 409
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 410
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 411
         }
       ]
     },
@@ -7176,6 +8723,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 412
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 413
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 414
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 415
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 416
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 417
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 418
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 419
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 420
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 421
         }
       ],
       "DocTypes1": [
@@ -7396,6 +9003,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 422
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 423
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 424
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 425
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 426
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 427
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 428
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 429
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 430
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 431
         }
       ],
       "DocTypes1": [
@@ -7616,6 +9283,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 432
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 433
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 434
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 435
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 436
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 437
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 438
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 439
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 440
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 441
         }
       ],
       "DocTypes1": [
@@ -7836,6 +9563,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 442
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 443
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 444
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 445
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 446
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 447
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 448
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 449
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 450
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 451
         }
       ],
       "DocTypes1": [
@@ -8056,6 +9843,66 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 452
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 453
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 454
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 455
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 456
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 457
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 458
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 459
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 460
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 461
         }
       ]
     },
@@ -8100,6 +9947,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -8320,6 +10179,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -8548,6 +10419,18 @@
           "order": 39
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -8680,6 +10563,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 462
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 463
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 464
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 465
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 466
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 467
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 468
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 469
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 470
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 471
         }
       ],
       "DocTypes1": [
@@ -8900,6 +10843,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 472
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 473
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 474
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 475
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 476
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 477
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 478
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 479
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 480
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 481
         }
       ],
       "DocTypes1": [
@@ -9120,6 +11123,66 @@
           "required": false,
           "allow": false,
           "order": 46
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 482
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 483
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 484
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 485
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 486
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 487
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 488
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 489
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 490
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 491
         }
       ]
     },
@@ -9164,6 +11227,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -9384,6 +11459,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -9612,6 +11699,18 @@
           "order": 39
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": false,
@@ -9704,6 +11803,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -9796,6 +11907,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -9888,6 +12011,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -10020,6 +12155,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 492
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 493
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 494
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 495
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 496
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 497
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 498
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 499
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 500
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 501
         }
       ]
     },
@@ -10112,6 +12307,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 502
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 503
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 504
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 505
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 506
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 507
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 508
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 509
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 510
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 511
         }
       ],
       "DocTypes1": [
@@ -10332,6 +12587,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 512
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 513
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 514
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 515
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 516
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 517
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 518
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 519
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 520
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 521
         }
       ],
       "DocTypes1": [
@@ -10512,6 +12827,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -10557,6 +12884,622 @@
     },
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
+      "WFState": "BACK_FROM_FI_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "BACK_FROM_FI_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "BACK_FROM_FI_VERIFICATION",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 522
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 523
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 524
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 525
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 526
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 527
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 528
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 529
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 530
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 531
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "OTHER",
       "WFState": "BACK_FROM_FI_VERIFICATION",
@@ -10644,538 +13587,66 @@
           "required": false,
           "allow": true,
           "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
         },
         {
-          "code": "ADDL.SKETCHMAP",
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
           "required": false,
           "allow": true,
-          "order": 2
+          "order": 532
         },
         {
-          "code": "ADDL.POSSESSIONLETTER",
+          "code": "NOC.ENVCLEARANCE",
           "required": false,
           "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
+          "order": 533
         },
         {
-          "code": "ADDL.APPROVEDLAYOUT",
+          "code": "NOC.NOCULBHUD",
           "required": false,
           "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
+          "order": 534
         },
         {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "code": "NOC.NOCPUBHLTHENGGORG",
           "required": false,
           "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
+          "order": 535
         },
         {
-          "code": "ADDL.EXTERNALINFRAPLAN",
+          "code": "NOC.NOCELECTRICDISCOMP",
           "required": false,
           "allow": true,
-          "order": 2
+          "order": 536
         },
         {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "code": "NOC.NOCPOLUNHOMEDEPT",
           "required": false,
           "allow": true,
-          "order": 1
+          "order": 537
         },
         {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "code": "NOC.NOCWATERRESDEPT",
           "required": false,
           "allow": true,
-          "order": 2
+          "order": 538
         },
         {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "code": "NOC.NOCODSPCB",
           "required": false,
           "allow": true,
-          "order": 3
+          "order": 539
         },
         {
-          "code": "ADDL.DRAINAFFIDAVIT",
+          "code": "NOC.NOCTEHREVDISASMANG",
           "required": false,
           "allow": true,
-          "order": 4
+          "order": 540
         },
         {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "code": "NOC.NOCNHAI",
           "required": false,
           "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "BACK_FROM_FI_VERIFICATION",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.REVSITEPLAN",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LANDPOSSAFFI",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "BPD.BPL",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.LP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.MATSPEC",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SITEPHOTO",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.SSUPCERT",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.SSTABCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "BPD.3RDPARTYSTRUCCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.SKETCHMAP",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.APPROVEDLAYOUT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.EXTERNALINFRAPLAN",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "ADDL.DRAINAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "BACK_FROM_FI_VERIFICATION",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "OTHER",
-      "WFState": "BACK_FROM_FI_VERIFICATION",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.REVSITEPLAN",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LANDPOSSAFFI",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "BPD.BPL",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.LP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.MATSPEC",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SITEPHOTO",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.SSUPCERT",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.SSTABCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "BPD.3RDPARTYSTRUCCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
+          "order": 541
         }
       ],
       "DocTypes1": [
@@ -11396,6 +13867,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 542
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 543
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 544
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 545
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 546
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 547
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 548
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 549
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 550
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 551
         }
       ],
       "DocTypes1": [
@@ -11576,6 +14107,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -11666,6 +14209,18 @@
           "required": false,
           "allow": true,
           "order": 7
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.SP",
@@ -11760,6 +14315,18 @@
           "order": 7
         },
         {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
           "code": "BPD.SP",
           "required": false,
           "allow": true,
@@ -11892,6 +14459,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 552
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 553
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 554
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 555
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 556
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 557
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 558
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 559
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 560
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 561
         }
       ]
     },
@@ -11984,1070 +14611,66 @@
           "required": false,
           "allow": true,
           "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.SKETCHMAP",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.APPROVEDLAYOUT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.EXTERNALINFRAPLAN",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "ADDL.DRAINAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "BACK_FROM_DOC_VERIFICATION",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.REVSITEPLAN",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LANDPOSSAFFI",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "BPD.BPL",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.LP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.MATSPEC",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SITEPHOTO",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.SSUPCERT",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.SSTABCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "BPD.3RDPARTYSTRUCCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.SKETCHMAP",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.APPROVEDLAYOUT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.EXTERNALINFRAPLAN",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "ADDL.DRAINAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "PENDING_APPL_FEE_PAYMENT",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "OTHER",
-      "WFState": "PENDING_APPL_FEE_PAYMENT",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.REVSITEPLAN",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LANDPOSSAFFI",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "BPD.BPL",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.LP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.MATSPEC",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SITEPHOTO",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.SSUPCERT",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.SSTABCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "BPD.3RDPARTYSTRUCCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.SKETCHMAP",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.APPROVEDLAYOUT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.EXTERNALINFRAPLAN",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "ADDL.DRAINAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "PENDING_APPL_FEE_PAYMENT",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.REVSITEPLAN",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LANDPOSSAFFI",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "BPD.BPL",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.LP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.MATSPEC",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SITEPHOTO",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.SSUPCERT",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.SSTABCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "BPD.3RDPARTYSTRUCCERT",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ],
-      "DocTypes1": [
-        {
-          "code": "ADDL.ALLOTMENTLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.SKETCHMAP",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 3
-        }
-      ],
-      "DocTypes2": [
-        {
-          "code": "ADDL.POSSESSIONLETTER",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.APPROVEDLAYOUT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes3": [
-        {
-          "code": "ADDL.RERACERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes4": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes5": [
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 2
-        }
-      ],
-      "DocTypes6": [
-        {
-          "code": "ADDL.EIDPFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        }
-      ],
-      "DocTypes7": [
-        {
-          "code": "ADDL.PHEDNOC",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.EXTERNALINFRAPLAN",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.INFRADEVAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "ADDL.ONEPERCENTFEERECEIPT",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "ADDL.DRAINAFFIDAVIT",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "ADDL.WASTEMANAGMENTPLAN",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "ADDL.BENCHMARKCERTIFICATE",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "ADDL.REGULARISATIONANNEXUREI",
-          "required": false,
-          "allow": true,
-          "order": 7
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "PENDING_APPL_FEE_PAYMENT",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SP",
-          "required": false,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "OTHER",
-      "WFState": "PENDING_APPL_FEE_PAYMENT",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.OWNERIDPROOF",
-          "required": false,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ROR",
-          "required": false,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.SALEGIFTDEED",
-          "required": false,
-          "allow": true,
-          "order": 3
         },
         {
-          "code": "APPL.REVSITEPLAN",
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
           "required": false,
           "allow": true,
-          "order": 4
+          "order": 562
         },
         {
-          "code": "APPL.LANDPOSSAFFI",
+          "code": "NOC.ENVCLEARANCE",
           "required": false,
           "allow": true,
-          "order": 5
+          "order": 563
         },
         {
-          "code": "BPD.BPL",
+          "code": "NOC.NOCULBHUD",
           "required": false,
           "allow": true,
-          "order": 8
+          "order": 564
         },
         {
-          "code": "BPD.SP",
+          "code": "NOC.NOCPUBHLTHENGGORG",
           "required": false,
           "allow": true,
-          "order": 9
+          "order": 565
         },
         {
-          "code": "BPD.LP",
+          "code": "NOC.NOCELECTRICDISCOMP",
           "required": false,
           "allow": true,
-          "order": 10
+          "order": 566
         },
         {
-          "code": "BPD.MATSPEC",
+          "code": "NOC.NOCPOLUNHOMEDEPT",
           "required": false,
           "allow": true,
-          "order": 11
+          "order": 567
         },
         {
-          "code": "BPD.SITEPHOTO",
+          "code": "NOC.NOCWATERRESDEPT",
           "required": false,
           "allow": true,
-          "order": 12
+          "order": 568
         },
         {
-          "code": "BPD.SSUPCERT",
+          "code": "NOC.NOCODSPCB",
           "required": false,
           "allow": true,
-          "order": 13
+          "order": 569
         },
         {
-          "code": "BPD.SSTABCERT",
+          "code": "NOC.NOCTEHREVDISASMANG",
           "required": false,
           "allow": true,
-          "order": 14
+          "order": 570
         },
         {
-          "code": "BPD.3RDPARTYSTRUCCERT",
+          "code": "NOC.NOCNHAI",
           "required": false,
           "allow": true,
-          "order": 14
+          "order": 571
         }
       ],
       "DocTypes1": [
@@ -13183,7 +14806,7 @@
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "LOW",
-      "WFState": "PENDING_APPL_FEE_PAYMENT",
+      "WFState": "BACK_FROM_DOC_VERIFICATION",
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
@@ -13268,6 +14891,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 572
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 573
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 574
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 575
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 576
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 577
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 578
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 579
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 580
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 581
         }
       ],
       "DocTypes1": [
@@ -13403,7 +15086,7 @@
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "MEDIUM",
-      "WFState": "PENDING_SANC_FEE_PAYMENT",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
@@ -13446,6 +15129,18 @@
           "required": false,
           "allow": true,
           "order": 7
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.SP",
@@ -13495,7 +15190,7 @@
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "OTHER",
-      "WFState": "PENDING_SANC_FEE_PAYMENT",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
@@ -13532,6 +15227,18 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -13715,6 +15422,1054 @@
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "LOW",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 582
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 583
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 584
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 585
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 586
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 587
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 588
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 589
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 590
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 591
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 592
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 593
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 594
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 595
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 596
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 597
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 598
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 599
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 600
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 601
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "PENDING_APPL_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 602
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 603
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 604
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 605
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 606
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 607
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 608
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 609
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 610
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 611
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "PENDING_SANC_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.FP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.SCP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.EP",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SECP",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.PP",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.RP",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "OTHER",
       "WFState": "PENDING_SANC_FEE_PAYMENT",
       "docTypes": [
         {
@@ -13752,6 +16507,250 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
+        },
+        {
+          "code": "BPD.BPL",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "BPD.SP",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "BPD.LP",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPD.MATSPEC",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPD.SITEPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPD.SSUPCERT",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "BPD.SSTABCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "BPD.3RDPARTYSTRUCCERT",
+          "required": false,
+          "allow": true,
+          "order": 14
+        }
+      ],
+      "DocTypes1": [
+        {
+          "code": "ADDL.ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.SKETCHMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        }
+      ],
+      "DocTypes2": [
+        {
+          "code": "ADDL.POSSESSIONLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.APPROVEDLAYOUT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes3": [
+        {
+          "code": "ADDL.RERACERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes4": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes5": [
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ],
+      "DocTypes6": [
+        {
+          "code": "ADDL.EIDPFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        }
+      ],
+      "DocTypes7": [
+        {
+          "code": "ADDL.PHEDNOC",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.EXTERNALINFRAPLAN",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.INFRADEVAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "ADDL.PLANDEVIATIONAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "ADDL.ONEPERCENTFEERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "ADDL.DRAINAFFIDAVIT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "ADDL.WASTEMANAGMENTPLAN",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "ADDL.BENCHMARKCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "ADDL.REGULARISATIONANNEXUREI",
+          "required": false,
+          "allow": true,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "PENDING_SANC_FEE_PAYMENT",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.OWNERIDPROOF",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.ROR",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.SALEGIFTDEED",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVSITEPLAN",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.LANDPOSSAFFI",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.CONSTCOMPTCERT",
+          "required": true,
+          "allow": true,
+          "order": 200
+        },
+        {
+          "code": "APPL.OTHERDOC",
+          "required": false,
+          "allow": true,
+          "order": 201
         },
         {
           "code": "BPD.BPL",
@@ -14020,6 +17019,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 612
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 613
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 614
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 615
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 616
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 617
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 618
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 619
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 620
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 621
         }
       ]
     },
@@ -14112,6 +17171,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 622
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 623
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 624
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 625
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 626
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 627
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 628
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 629
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 630
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 631
         }
       ],
       "DocTypes1": [
@@ -14332,6 +17451,66 @@
           "required": false,
           "allow": true,
           "order": 14
+        },
+        {
+          "code": "NOC.NOCDEPUTYFORESTOFFICER",
+          "required": false,
+          "allow": true,
+          "order": 632
+        },
+        {
+          "code": "NOC.ENVCLEARANCE",
+          "required": false,
+          "allow": true,
+          "order": 633
+        },
+        {
+          "code": "NOC.NOCULBHUD",
+          "required": false,
+          "allow": true,
+          "order": 634
+        },
+        {
+          "code": "NOC.NOCPUBHLTHENGGORG",
+          "required": false,
+          "allow": true,
+          "order": 635
+        },
+        {
+          "code": "NOC.NOCELECTRICDISCOMP",
+          "required": false,
+          "allow": true,
+          "order": 636
+        },
+        {
+          "code": "NOC.NOCPOLUNHOMEDEPT",
+          "required": false,
+          "allow": true,
+          "order": 637
+        },
+        {
+          "code": "NOC.NOCWATERRESDEPT",
+          "required": false,
+          "allow": true,
+          "order": 638
+        },
+        {
+          "code": "NOC.NOCODSPCB",
+          "required": false,
+          "allow": true,
+          "order": 639
+        },
+        {
+          "code": "NOC.NOCTEHREVDISASMANG",
+          "required": false,
+          "allow": true,
+          "order": 640
+        },
+        {
+          "code": "NOC.NOCNHAI",
+          "required": false,
+          "allow": true,
+          "order": 641
         }
       ],
       "DocTypes1": [
