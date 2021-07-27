@@ -534,6 +534,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+	"Escalationlevel4Complaints": {
+      "masterName": "Escalationlevel4Complaints",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.id"
+      ]
     }
   },
   "PropertyTax": {
