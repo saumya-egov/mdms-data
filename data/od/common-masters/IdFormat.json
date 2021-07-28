@@ -447,15 +447,15 @@
             "idname": "nks.rain_harvesting_charges.receipt.id"
         },
         {
-            "format": "PG-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+            "format": "PT-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
             "idname": "pt.acknowledgementnumber"
         },
         {
-            "format": "PG-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "format": "PT-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PG-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+            "format": "PT/[cy:yyyy-MM-dd]/[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         }, 
         {
@@ -515,19 +515,19 @@
             "idname": "bpa.nc_san_fee.receipt.id"
         },
         {
-            "format": "PG-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "format": "PT-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
             "idname": "pt.mutation.receipt.id"
         },
         {
-            "format": "PG-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+            "format": "PT-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
             "idname": "pt.mutation.number"
         },
         {
-            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_CONN]",
             "idname": "waterservice.connection.id"
         },
         {
-            "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_SW_CONN]",
             "idname": "sewerageservice.connection.id"
         },
         {
@@ -539,11 +539,11 @@
             "idname": "sw.receipt.id"
         },
         {
-            "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_APL]",
             "idname": "waterservice.application.id"
         },
         {
-            "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_SW_APL]",
             "idname": "sewerageservice.application.id"
         },
         {
