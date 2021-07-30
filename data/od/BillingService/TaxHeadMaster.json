@@ -413,6 +413,16 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA OC Grant of Occupancy Certificate Fee",
+      "code": "BPA_OC_SANC_GRAND_OCCUPANCY_CERT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     },		
      {
       "category": "FEE",

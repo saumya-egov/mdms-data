@@ -455,7 +455,7 @@
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PT/[cy:yyyy-MM-dd]/[SEQ_EG_PT_PTID]",
+            "format": "PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         }, 
         {
