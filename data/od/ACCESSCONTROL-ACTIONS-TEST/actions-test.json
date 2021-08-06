@@ -9691,7 +9691,7 @@
          "id": 3005,
          "name": "LegacyTLDataReport",
          "url": "url",
-         "displayName": "Trade License Registry Report",
+         "displayName": "Trade License Legacy Data Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-tl",
          "enabled": true,
