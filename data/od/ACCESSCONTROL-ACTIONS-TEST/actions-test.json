@@ -4892,7 +4892,7 @@
          "displayName": "Trade License Registry Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-tl",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeLicenseRegistryReport",
