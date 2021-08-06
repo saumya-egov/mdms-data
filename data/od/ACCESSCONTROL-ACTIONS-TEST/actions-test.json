@@ -9686,6 +9686,45 @@
          "navigationURL": "how-it-works",
          "path": "/",
          "leftIcon": "action:receipt"
-      }
+      },
+      {
+         "id": 3005,
+         "name": "LegacyTLDataReport",
+         "url": "url",
+         "displayName": "Trade License Registry Report",
+         "orderNumber": 1,
+         "parentModule": "rainmaker-tl",
+         "enabled": true,
+         "serviceCode": "TL",
+         "code": "null",
+         "path": "TradeLicense.Trade License Reports.LegacyTLDataReport",
+         "navigationURL": "report/rainmaker-tl/LegacyTLDataReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3006,
+         "name": "LegacyTLDataReport",
+         "url": "/report/rainmaker-tl/LegacyTLDataReport/metadata/_get",
+         "displayName": "rainmaker-tl-LegacyTLDataReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3007,
+         "name": "LegacyTLDataReport",
+         "url": "/report/rainmaker-tl/LegacyTLDataReport/_get",
+         "displayName": "rainmaker-tl-LegacyTLDataReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      }	   
    ]
 }
