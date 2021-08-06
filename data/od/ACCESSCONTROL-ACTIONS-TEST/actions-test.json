@@ -9686,6 +9686,18 @@
          "navigationURL": "how-it-works",
          "path": "/",
          "leftIcon": "action:receipt"
+      },
+      {
+         "id": 3005,
+         "name": "Migrate TradeLicense",
+         "url": "/tl-services/v1/_migrate",
+         "parentModule": "",
+         "displayName": "Migrate TradeLicense",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
