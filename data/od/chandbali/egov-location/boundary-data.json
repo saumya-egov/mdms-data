@@ -256,6 +256,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL24"
+          },
+		  {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "OTHER"
           }
         ]
       }

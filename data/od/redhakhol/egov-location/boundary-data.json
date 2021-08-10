@@ -196,6 +196,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL18"
+          },
+		  {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "OTHER"
           }
         ]
       }

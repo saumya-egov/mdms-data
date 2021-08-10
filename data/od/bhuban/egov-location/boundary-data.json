@@ -266,6 +266,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL25"
+          },
+		  {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "OTHER"
           }
         ]
       }

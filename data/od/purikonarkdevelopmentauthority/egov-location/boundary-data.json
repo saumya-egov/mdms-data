@@ -756,6 +756,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL74"
+          },
+		  {
+            "id": "76",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "OTHER"
           }
         ]
       }
