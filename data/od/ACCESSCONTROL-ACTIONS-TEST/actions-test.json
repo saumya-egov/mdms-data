@@ -9686,6 +9686,28 @@
          "navigationURL": "how-it-works",
          "path": "/",
          "leftIcon": "action:receipt"
+      },
+      {
+         "id": 3005,
+         "name": "Create Property registry",
+         "url": "/property-services/property/_migrateproperty",
+         "displayName": "Migrate Property",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3006,
+         "name": "Create Assessment registry",
+         "url": "/property-services/assessment/_migrateassessment",
+         "displayName": "Create Assessment Registry",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
