@@ -66,6 +66,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL5"
+          },
+		  {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
           }
         ]
       }

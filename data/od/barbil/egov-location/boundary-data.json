@@ -126,6 +126,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL11"
+          },
+		  {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
           }
         ]
       }

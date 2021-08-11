@@ -200,7 +200,17 @@
                 "id": "24",
                 "boundaryNum": "1",
                 "localname": "Korian"
-            }
+            },
+			{
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL24"
+          }
         ]
       }
     },
