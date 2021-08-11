@@ -376,6 +376,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL36"
+          },
+		  {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "OTHER"
           }
         ]
       }

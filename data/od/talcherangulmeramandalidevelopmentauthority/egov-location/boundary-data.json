@@ -5796,6 +5796,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL578"
+          },
+		  {
+            "id": "580",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "OTHER"
           }
         ]
       }
