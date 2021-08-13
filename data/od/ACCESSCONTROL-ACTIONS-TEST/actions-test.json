@@ -9725,6 +9725,54 @@
          "serviceCode": "report",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3008,
+         "name": "VoucherCreate",
+         "url": "/services/EGF/rest/voucher/migration_data_save",
+         "displayName": "Create Voucher",
+         "orderNumber": 0,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "VOUCHER",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3009,
+         "name": "VoucherCreate",
+         "url": "/services/EGF/rest/voucher/migration_data_truncate",
+         "displayName": "Create Voucher",
+         "orderNumber": 0,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "VOUCHER",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3010,
+         "name": "VoucherCreate",
+         "url": "/services/EGF/rest/voucher/migration_data_trigger",
+         "displayName": "Create Voucher",
+         "orderNumber": 0,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "VOUCHER",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3011,
+         "name": "VoucherCreate",
+         "url": "/services/EGF/rest/voucher/migration_data_extract",
+         "displayName": "Create Voucher",
+         "orderNumber": 0,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "VOUCHER",
+         "code": "null",
+         "path": ""
       }	   
    ]
 }

@@ -19466,7 +19466,54 @@
       "actionid": 3007,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3008,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3009,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3008,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3009,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "od"
     }
-	  
   ]
 }
