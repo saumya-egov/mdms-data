@@ -51,7 +51,7 @@
       "financialYear": "2022-23"	
     },
     {
-      "fromDate": 1585683000,
+      "fromDate": 1585683000000,
       "toDate": 1617215100000,
       "periodCycle": "ANNUAL",
       "service": "PT",
