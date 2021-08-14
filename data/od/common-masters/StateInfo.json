@@ -5,9 +5,9 @@
     {
       "name": "Odisha",
       "code": "od",
-      "bannerUrl": "https://sujog.odisha.gov.in/filestore/v1/files/id?fileStoreId=20b83042-974a-4e6d-a0a4-d563d66e805a&tenantId=od",
-      "logoUrl": "https://sujog.odisha.gov.in/filestore/v1/files/id?fileStoreId=68400a2b-2c50-455d-8926-c82eb71b591a&tenantId=od",
-      "logoUrlWhite": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odWhiteLogo.png",
+      "bannerUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
+      "logoUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
+      "logoUrlWhite": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",
@@ -51,10 +51,6 @@
         {
           "label": "rainmaker-hr",
           "value": "rainmaker-hr"
-        },
-        {
-          "label": "rainmaker-test",
-          "value": "rainmaker-test"
         },
         {
           "label": "finance-erp",

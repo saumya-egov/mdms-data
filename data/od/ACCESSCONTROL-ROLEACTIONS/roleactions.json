@@ -19432,26 +19432,86 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "TL_CEMP",
       "actionid": 3005,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "TL_CEMP",
+      "actionid": 3006,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 3007,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
       "actionid": 3005,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "TL_APPROVER",
       "actionid": 3006,
       "actioncode": "",
       "tenantId": "od"
     },
     {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3007,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3008,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3009,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "EMPLOYEE",
-      "actionid": 3006,
+      "actionid": 3008,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3009,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3011,
       "actioncode": "",
       "tenantId": "od"
     }
