@@ -19526,6 +19526,12 @@
       "actionid": 3013,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
