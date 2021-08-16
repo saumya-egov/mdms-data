@@ -19516,25 +19516,13 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "SUPERUSER",
       "actionid": 3012,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 3012,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 3013,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SUPERUSER",
       "actionid": 3013,
       "actioncode": "",
       "tenantId": "od"
