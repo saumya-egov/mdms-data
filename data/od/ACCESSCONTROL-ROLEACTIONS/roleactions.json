@@ -19514,6 +19514,18 @@
       "actionid": 3011,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3012,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3013,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
