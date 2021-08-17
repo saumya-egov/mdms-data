@@ -123,12 +123,20 @@
       "financialYear": "1990-00"
     },
     {
-      "fromDate": 481145400000,
+      "fromDate": 323379000000,
       "toDate": 638908140000,
-      "periodCycle": "FIVEYEARS",
+      "periodCycle": "TENYEARS",
       "service": "PT",
-      "code": "PTFIVE1985",
-      "financialYear": "1985-90"
+      "code": "PTFIVE1980",
+      "financialYear": "1980-90"
+    },
+    {
+      "fromDate": 7759800000,
+      "toDate": 323375340000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTFIVE1970",
+      "financialYear": "1970-80"
     },
     {
       "fromDate": 1522540800000,
