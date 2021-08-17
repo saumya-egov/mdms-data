@@ -115,6 +115,30 @@
       "financialYear": "2000-10"
     },
     {
+      "fromDate": 638911800000,
+      "toDate": 954527340000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTTEN1990",
+      "financialYear": "1990-00"
+    },
+    {
+      "fromDate": 323379000000,
+      "toDate": 638908140000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTFIVE1980",
+      "financialYear": "1980-90"
+    },
+    {
+      "fromDate": 7759800000,
+      "toDate": 323375340000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTFIVE1970",
+      "financialYear": "1970-80"
+    },
+    {
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
