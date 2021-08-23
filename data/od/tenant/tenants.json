@@ -1646,6 +1646,37 @@
          },
          "address":"Bhuban NAC",
          "contactNumber":"001-2345876"
+      },,
+      {
+         "code":"od.bhubaneswar",
+         "name":"Bhubaneswar",
+         "description":"Bhubaneswar",
+         "logoId":"https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+         "imageId":null,
+         "domainUrl":"http://hhubaneswar.gov.in",
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":"complaints.bhubaneswar@gmail.com",
+         "OfficeTimings":{
+            "Mon - Fri":"9.00 AM - 6.00 PM"
+         },
+         "city":{
+            "name":"Bhubaneswar",
+            "localName":null,
+            "districtCode":"Bhubaneswar",
+            "districtName":null,
+            "regionName":null,
+            "ulbGrade":"NAC",
+            "longitude":75.5761829,
+            "latitude":31.3260152,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"BBN",
+            "ddrName":"DDR A"
+         },
+         "address":"Bhubaneswar",
+         "contactNumber":"001-2345876"
       },
       {
          "code":"od.bijepur",
