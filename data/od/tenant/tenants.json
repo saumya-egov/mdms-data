@@ -1672,10 +1672,41 @@
             "latitude":31.3260152,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"BBN",
+            "code":"BMC",
             "ddrName":"DDR A"
          },
          "address":"Bhubaneswar",
+         "contactNumber":"001-2345876"
+      },
+      {
+         "code":"od.bhubaneswardevelopmentauthority",
+         "name":"Bhubaneswar Development Authority",
+         "description":"Bhubaneswar Development Authority",
+         "logoId":"https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+         "imageId":null,
+         "domainUrl":"http://bhubaneswardevelopmentauthority.gov.in",
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":"complaints.bhubaneswardevelopmentauthority@gmail.com",
+         "OfficeTimings":{
+            "Mon - Fri":"9.00 AM - 6.00 PM"
+         },
+         "city":{
+            "name":"Bhubaneswar Development Authority",
+            "localName":null,
+            "districtCode":"Bhubaneswar Development Authority",
+            "districtName":null,
+            "regionName":null,
+            "ulbGrade":"",
+            "longitude":75.5761829,
+            "latitude":31.3260152,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"BDA",
+            "ddrName":"DDR A"
+         },
+         "address":"Bhubaneswar Development Authority",
          "contactNumber":"001-2345876"
       },
       {
