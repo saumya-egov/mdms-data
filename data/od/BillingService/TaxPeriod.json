@@ -403,12 +403,92 @@
       "financialYear": "2020-21"
     },
     {
+      "fromDate": 1270083600000,
+      "toDate": 1585699140000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC2010",
+      "financialYear": "2010-20"
+    },
+    {
+      "fromDate": 954550800000,
+      "toDate": 1270079940000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC2000",
+      "financialYear": "2000-10"
+    },
+    {
+      "fromDate": 638931600000,
+      "toDate": 954547140000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC1990",
+      "financialYear": "1990-00"
+    },
+    {
+      "fromDate": 323398800000,
+      "toDate": 638927940000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC1980",
+      "financialYear": "1980-90"
+    },
+    {
+      "fromDate": 7779600000,
+      "toDate": 323395140000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC1970",
+      "financialYear": "1970-80"
+    },
+    {
       "fromDate": 1554076800000,
       "toDate": 1617175799000,
       "periodCycle": "TWOYEARS",
       "service": "SW",
       "code": "SC2018",
       "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1270083600000,
+      "toDate": 1585699140000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC2010",
+      "financialYear": "2010-20"
+    },
+    {
+      "fromDate": 954550800000,
+      "toDate": 1270079940000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC2000",
+      "financialYear": "2000-10"
+    },
+    {
+      "fromDate": 638931600000,
+      "toDate": 954547140000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC1990",
+      "financialYear": "1990-00"
+    },
+    {
+      "fromDate": 323398800000,
+      "toDate": 638927940000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC1980",
+      "financialYear": "1980-90"
+    },
+    {
+      "fromDate": 7779600000,
+      "toDate": 323395140000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC1970",
+      "financialYear": "1970-80"
     },
     {
       "fromDate": 1522540801000,
