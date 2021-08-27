@@ -19588,38 +19588,50 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "PT_CEMP",
+      "rolecode": "CITIZEN",
       "actionid": 3020,
       "actioncode": "",
       "tenantId": "od"
     },
-	  {
-      "rolecode": "PT_CEMP",
+     {
+      "rolecode": "CITIZEN",
       "actionid": 3021,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3022,
       "actioncode": "",
       "tenantId": "od"
     },
 	  {
       "rolecode": "PT_CEMP",
-      "actionid": 3022,
+      "actionid": 3023,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  {
+      "rolecode": "PT_CEMP",
+      "actionid": 3024,
       "actioncode": "",
       "tenantId": "od"
     },
     {
       "rolecode": "PT_APPROVER",
-      "actionid": 3020,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-	  {
-      "rolecode": "PT_APPROVER",
-      "actionid": 3021,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-	  {
-      "rolecode": "PT_APPROVER",
       "actionid": 3022,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3023,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3024,
       "actioncode": "",
       "tenantId": "od"
     }

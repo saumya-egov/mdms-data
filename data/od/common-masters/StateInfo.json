@@ -7,38 +7,30 @@
       "code": "od",
       "bannerUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
       "logoUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
-      "logoUrlWhite": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
+      "logoUrlWhite": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odWhiteLogo.png",
       "hasLocalisation": true,
       "defaultUrl": {
-        "citizen": "/user/register",
+        "citizen": "/user/login",
         "employee": "/user/login"
       },
       "languages": [
         {
           "label": "ENGLISH",
           "value": "en_IN"
-        }
+        },
+        {
+          "label": "HINDI",
+          "value": "hn_IN"
+        }        
       ],
       "localizationModules": [
-        {
-          "label": "rainmaker-abg",
-          "value": "rainmaker-abg"
-        },
         {
           "label": "rainmaker-common",
           "value": "rainmaker-common"
         },
         {
-          "label": "rainmaker-noc",
-          "value": "rainmaker-noc"
-        },
-        {
           "label": "rainmaker-pt",
           "value": "rainmaker-pt"
-        },
-        {
-          "label": "rainmaker-uc",
-          "value": "rainmaker-uc"
         },
         {
           "label": "rainmaker-pgr",
@@ -59,10 +51,6 @@
         {
           "label": "rainmaker-receipt",
           "value": "rainmaker-receipt"
-        },
-        {
-          "label": "rainmaker-dss",
-          "value": "rainmaker-dss"
         },
         {
           "label": "rainmaker-fsm",

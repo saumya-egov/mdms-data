@@ -9864,6 +9864,37 @@
       },
       {
          "id": 3020,
+        "name": "rainmaker-citizen-mr",
+         "url": "card",
+         "displayName": "Marriage Registration",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "mr-citizen/home",
+         "leftIcon": "custom:mr",
+         "rightIcon": "",
+         "queryParams": ""
+      },	   
+      {
+         "id": 3021,
+         "name": "MarriageRegistration",
+         "url": "url",
+         "displayName": "Marriage Registration",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "MarriageRegistration",
+         "code": "null",
+         "navigationURL": "mr-citizen/home",
+         "path": "MarriageRegistration",
+         "leftIcon": "places:business-center",
+         "rightIcon": ""
+      },
+      {
+         "id": 3022,
          "name": "Property Report",
          "url": "/report/rainmaker-pt/UlbWisePropertyReport/metadata/_get",
          "displayName": "Property Report",
@@ -9873,8 +9904,8 @@
          "code": "null",
          "path": "Property Report"
       },
-	  {
-         "id": 3021,
+	    {
+         "id": 3023,
          "name": "Property Report",
          "url": "/report/rainmaker-pt/UlbWisePropertyReport/_get",
          "displayName": "Property Report",
@@ -9885,7 +9916,7 @@
          "path": "Property Report"
       },
       {
-         "id": 3022,
+         "id": 3024,
          "name": "ULB-wise Property Report",
          "url": "url",
          "displayName": "ULB-wise Property Report",
@@ -9903,6 +9934,6 @@
          "navigationURL": "report/rainmaker-pt/UlbWisePropertyReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      }
+      }   
    ]
 }
