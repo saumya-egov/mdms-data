@@ -19586,6 +19586,19 @@
       "actionid": 1940,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3020,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3021,
+      "actioncode": "",
+      "tenantId": "od"
     }
+	  
   ]
 }
