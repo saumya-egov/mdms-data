@@ -9861,6 +9861,37 @@
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+         "id": 3020,
+         "name": "rainmaker-citizen-mr",
+         "url": "card",
+         "displayName": "Marriage Registration",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "mr-citizen/home",
+         "leftIcon": "custom:mr",
+         "rightIcon": "",
+         "queryParams": ""
+      },	   
+      {
+         "id": 3021,
+         "name": "MarriageRegistration",
+         "url": "url",
+         "displayName": "Marriage Registration",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "MarriageRegistration",
+         "code": "null",
+         "navigationURL": "mr-citizen/home",
+         "path": "MarriageRegistration",
+         "leftIcon": "places:business-center",
+         "rightIcon": ""
+      }	   
    ]
 }
