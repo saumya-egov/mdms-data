@@ -19586,6 +19586,42 @@
       "actionid": 1940,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3020,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  {
+      "rolecode": "PT_CEMP",
+      "actionid": 3021,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  {
+      "rolecode": "PT_CEMP",
+      "actionid": 3022,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3020,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3021,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3022,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
