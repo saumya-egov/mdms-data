@@ -9934,6 +9934,90 @@
          "navigationURL": "report/rainmaker-pt/UlbWisePropertyReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      }   
+      },
+	  {
+         "id": 3025,
+         "name": "ULB-wise Water Charge Collection",
+         "url": "url",
+         "displayName": "ULB-wise Water Charge Collection Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.ULB-wise Water Charge Collection",
+         "navigationURL": "report/rainmaker-ws/UlbWiseWaterChargeCollection",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	  {
+         "id": 3026,
+         "name": "Water Charge Report",
+         "url": "/report/rainmaker-ws/UlbWiseWaterChargeCollection/metadata/_get",
+         "displayName": "Water Charge Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Water Charge Report"
+      },
+	  {
+         "id": 3027,
+         "name": "Water Charge Report",
+         "url": "/report/rainmaker-ws/UlbWiseWaterChargeCollection/_get",
+         "displayName": "Water Charge Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Water Charge Report"
+      },
+	  {
+         "id": 3028,
+         "name": "ULB-wise Sewerage Charge Collection",
+         "url": "url",
+         "displayName": "ULB-wise Sewerage Charge Collection Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.ULB-wise Sewerage Charge Collection",
+         "navigationURL": "report/rainmaker-sw/UlbWiseSewerageChargeCollection",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	  {
+         "id": 3029,
+         "name": "Sewerage Charge Report",
+         "url": "/report/rainmaker-sw/UlbWiseSewerageChargeCollection/metadata/_get",
+         "displayName": "Sewerage Charge Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Sewerage Charge Report"
+      },
+	  {
+         "id": 3030,
+         "name": "Sewerage Charge Report",
+         "url": "/report/rainmaker-sw/UlbWiseSewerageChargeCollection/_get",
+         "displayName": "Sewerage Charge Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Sewerage Charge Report"
+      }
    ]
 }
