@@ -4585,35 +4585,6 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST220",
-      "name": "Street Vendor",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST27",
       "name": "Sale of Cement and Steel (Retail)",
       "uom": null,
@@ -7458,6 +7429,35 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST52",
       "name": "Sale of doors",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST220",
+      "name": "Street Vendor",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
