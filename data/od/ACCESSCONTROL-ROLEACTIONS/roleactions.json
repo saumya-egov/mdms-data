@@ -19706,6 +19706,84 @@
       "actionid": 3030,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 2004,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	 {
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1741,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1742,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	 {
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "NMA_NOC_APPROVER",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
