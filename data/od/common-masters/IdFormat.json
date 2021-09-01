@@ -471,7 +471,7 @@
             "idname": "egov.idgen.bpa.aplnumber"
         },   
                 {
-            "format": "BP-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+            "format": "BP/[CITY.CODE]/[SEQ_EG_BP_PN]",
             "idname": "bpa.permitnumber"
         },
         {
