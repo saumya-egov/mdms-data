@@ -332,6 +332,42 @@
     {
       "code": "APPL.OTHERDOC.DOC",
       "active": true
+    },
+    {
+      "code": "NOC.NMA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Elevation",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.InCaseOfRepairs",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Signature",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Other",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Section",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.FirmFiles",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.GoogleEarthImage",
+      "active": true
+    },
+    {
+      "code": "NOC.HBDA.CERTIFICATE",
+      "active": true
     }
   ]
 }

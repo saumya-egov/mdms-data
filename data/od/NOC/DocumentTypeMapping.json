@@ -115,6 +115,18 @@
 				{
                     "documentType": "NOC.NMA.Other",
                     "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
                 }
             ]
         },
@@ -141,6 +153,18 @@
 				{
                     "documentType": "NOC.NMA.Other",
                     "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
                 }
             ]
         },
@@ -166,6 +190,18 @@
                 },
 				{
                     "documentType": "NOC.NMA.Other",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
                     "required": true
                 }
             ]
