@@ -10088,14 +10088,14 @@
          "lastModifiedDate": null,
          "lastModifiedBy": null,
          "path": "Water & Sewerage.W&S Reports.Water Connection wise Demand Details Report",
-         "navigationURL": "report/rainmaker-ws/WaterConnectionwiseDemandDetailsReport",
+         "navigationURL": "report/rainmaker-ws/WaterConnectionWiseDemandDetailsReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
 	  {
          "id": 3035,
          "name": "Water Connection wise Demand Details Report",
-         "url": "/report/rainmaker-ws/WaterConnectionwiseDemandDetailsReport/metadata/_get",
+         "url": "/report/rainmaker-ws/WaterConnectionWiseDemandDetailsReport/metadata/_get",
          "displayName": "Water Connection wise Demand Details Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10106,7 +10106,7 @@
 	  {
          "id": 3036,
          "name": "Water Connection wise Demand Details Report",
-         "url": "/report/rainmaker-ws/WaterConnectionwiseDemandDetailsReport/_get",
+         "url": "/report/rainmaker-ws/WaterConnectionWiseDemandDetailsReport/_get",
          "displayName": "Water Connection wise Demand Details Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10130,14 +10130,14 @@
          "lastModifiedDate": null,
          "lastModifiedBy": null,
          "path": "Water & Sewerage.W&S Reports.Sewerage Connection wise Demand Details Report",
-         "navigationURL": "report/rainmaker-sw/SewerageConnectionwiseDemandDetailsReport",
+         "navigationURL": "report/rainmaker-sw/SewerageConnectionWiseDemandDetailsReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
 	  {
          "id": 3038,
          "name": "Sewerage Connection wise Demand Details Report",
-         "url": "/report/rainmaker-sw/SewerageConnectionwiseDemandDetailsReport/metadata/_get",
+         "url": "/report/rainmaker-sw/SewerageConnectionWiseDemandDetailsReport/metadata/_get",
          "displayName": "Sewerage Connection wise Demand Details Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10148,7 +10148,7 @@
 	  {
          "id": 3039,
          "name": "Sewerage Connection wise Demand Details Report",
-         "url": "/report/rainmaker-sw/SewerageConnectionwiseDemandDetailsReport/_get",
+         "url": "/report/rainmaker-sw/SewerageConnectionWiseDemandDetailsReport/_get",
          "displayName": "Sewerage Connection wise Demand Details Report",
          "orderNumber": 0,
          "enabled": true,
