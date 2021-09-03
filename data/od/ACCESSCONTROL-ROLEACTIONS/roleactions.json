@@ -19784,6 +19784,42 @@
       "actionid": 4001,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3031,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3032,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3033,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 3031,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 3032,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 3033,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
