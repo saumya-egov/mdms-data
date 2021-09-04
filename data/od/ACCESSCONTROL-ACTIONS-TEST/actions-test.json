@@ -10019,17 +10019,6 @@
          "code": "null",
          "path": "Sewerage Charge Report"
       },
-      {
-         "id": 4001,
-         "name": "Third party NOC Update",
-         "url": "/noc-services/v1/noc/thirdparty/_update",
-         "displayName": "Update",
-         "orderNumber": 0,
-         "enabled": false,
-         "serviceCode": "NOC",
-         "code": "null",
-         "path": ""
-      },
 	  {
          "id": 3031,
          "name": "Property Wise Demand Details Report",
@@ -10155,6 +10144,17 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Sewerage Connection wise Demand Details Report"
+      },
+      {
+         "id": 3040,
+         "name": "Third party NOC Update",
+         "url": "/noc-services/v1/noc/thirdparty/_update",
+         "displayName": "Update",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "NOC",
+         "code": "null",
+         "path": ""
       }
    ]
 }
