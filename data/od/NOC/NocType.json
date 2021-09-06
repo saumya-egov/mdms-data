@@ -31,7 +31,8 @@
             "isActive": true,
             "offlineWF": "NMA_NOC_OFFLINE",
             "onlineWF": "NMA_NOC_SRV",
-            "mode": "online",
+            "thirdPartyWF": "NMA_NOC_SRV",
+            "mode": "thirdParty",
             "NocUserRole": "NMA_NOC_APPROVER"
         },
         {

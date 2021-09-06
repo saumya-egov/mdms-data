@@ -91,6 +91,120 @@
                     "required": false
                 }
             ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "NMA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NMA",
+                    "required": false
+                },
+				{
+                    "documentType": "NOC.NMA.Elevation",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.InCaseOfRepairs",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Signature",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Other",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "NMA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NMA",
+                    "required": false
+                },
+				{
+                    "documentType": "NOC.NMA.Elevation",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.InCaseOfRepairs",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Signature",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Other",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "NMA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NMA",
+                    "required": false
+                },
+				{
+                    "documentType": "NOC.NMA.Elevation",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.InCaseOfRepairs",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Signature",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Other",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
+                }
+            ]
         }
     ]
 }
