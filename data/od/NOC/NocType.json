@@ -7,7 +7,7 @@
             "isActive": true,
             "offlineWF": "HBDA_NOC_OFFLINE",
             "onlineWF": "HBDA_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "HBDA_NOC_APPROVER"
         },
         {
@@ -15,7 +15,7 @@
             "isActive": true,
             "offlineWF": "DFO_NOC_OFFLINE",
             "onlineWF": "DFO_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "DFO_NOC_APPROVER"
         },
         {
@@ -40,7 +40,7 @@
             "isActive": true,
             "offlineWF": "EC_NOC_OFFLINE",
             "onlineWF": "EC_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "EC_NOC_APPROVER"
         },
         {
@@ -48,7 +48,7 @@
             "isActive": true,
             "offlineWF":"FIRE_NOC_OFFLINE",
             "onlineWF":"FIRE_NOC_SRV",
-            "mode":"online",
+            "mode":"offline",
             "NocUserRole":"FIRE_NOC_APPROVER"
         },
         {
@@ -56,7 +56,7 @@
             "isActive": true,
             "offlineWF": "HUDULB_NOC_OFFLINE",
             "onlineWF": "HUDULB_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "HUDULB_NOC_APPROVER"            
         },
         {
@@ -64,7 +64,7 @@
             "isActive": true,
             "offlineWF": "PHEO_NOC_OFFLINE",
             "onlineWF": "PHEO_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "PHEO_NOC_APPROVER"
         },
         {
@@ -72,7 +72,7 @@
             "isActive": true,
             "offlineWF": "CGWA_NOC_OFFLINE",
             "onlineWF": "CGWA_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "CGWA_NOC_APPROVER"
         },
         {
@@ -80,7 +80,7 @@
             "isActive": true,
             "offlineWF": "EDC_NOC_OFFLINE",
             "onlineWF": "EDC_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "EDC_NOC_APPROVER"
         },
         {
@@ -88,7 +88,7 @@
             "isActive": true,
             "offlineWF": "HDPOLICE_NOC_OFFLINE",
             "onlineWF": "HDPOLICE_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "HDPOLICE_NOC_APPROVER"
         },
         {
@@ -96,7 +96,7 @@
             "isActive": true,
             "offlineWF": "WRD_NOC_OFFLINE",
             "onlineWF": "WRD_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "WRD_NOC_APPROVER"
         },
         {
@@ -104,7 +104,7 @@
             "isActive": true,
             "offlineWF": "PCB_NOC_OFFLINE",
             "onlineWF": "PCB_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "PCB_NOC_APPROVER"
         },
         {
@@ -112,7 +112,7 @@
             "isActive": true,
             "offlineWF": "RDMTEHSILDAR_NOC_OFFLINE",
             "onlineWF": "RDMTEHSILDAR_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "RDMTEHSILDAR_NOC_APPROVER"
         },
         {
@@ -120,7 +120,7 @@
             "isActive": true,
             "offlineWF": "NHAI_NOC_OFFLINE",
             "onlineWF": "NHAI_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "NHAI_NOC_APPROVER"
         },
         {
@@ -128,8 +128,16 @@
             "isActive": true,
             "offlineWF": "COASTALREG_NOC_OFFLINE",
             "onlineWF": "COASTALREG_NOC_SRV",
-            "mode": "online",
+            "mode": "offline",
             "NocUserRole": "COASTALREG_NOC_APPROVER"
-        }
+        },
+        {
+            "code":"SA_NOC",
+            "isActive":true,
+            "offlineWF":"SA_NOC_OFFLINE",
+            "onlineWF":"SA_NOC_SRV",
+            "mode":"offline",
+            "NocUserRole":"SA_NOC_APPROVER"
+         }
     ]
   }
