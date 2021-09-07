@@ -368,6 +368,58 @@
     {
       "code": "NOC.HBDA.CERTIFICATE",
       "active": true
+    },
+    {
+      "code": "NOC.DFO.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.SA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.EC.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.HUDULB.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.PHEO.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.CGWA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.EDC.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.HDPOLICE.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.WRD.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.PCB.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.RDMTEHSILDAR.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.NHAI.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.COASTALREG.CERTIFICATE",
+      "active": true
     }
   ]
 }
