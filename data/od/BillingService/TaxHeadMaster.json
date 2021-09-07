@@ -110,6 +110,15 @@
       "isActualDemand": true,
       "order": 2
     },
+	{
+      "category": "TAX",
+      "service": "MR",
+      "name": "Marriage Registration Tax",
+      "code": "MR_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
     {
       "category": "TAX",
       "service": "TL",

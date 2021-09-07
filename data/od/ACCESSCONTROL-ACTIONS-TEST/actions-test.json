@@ -10155,6 +10155,65 @@
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
+      },{
+         "id": 3041,
+         "name": "Create MarriageRegistration",
+         "url": "/mr-services/v1/_create",
+         "parentModule": "",
+         "displayName": "Create MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3042,
+         "name": "Update MarriageRegistration",
+         "url": "/mr-services/v1/_update",
+         "parentModule": "",
+         "displayName": "Update MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3043,
+         "name": "Search MarriageRegistration",
+         "url": "/mr-services/v1/_search",
+         "parentModule": "",
+         "displayName": "Search MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3044,
+         "name": "Get Bill",
+         "url": "/mr-services/v1/_getbill",
+         "parentModule": "",
+         "displayName": "Get Bill",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3045,
+         "name": "MarriageRegistration Calculation",
+         "url": "/mr-services/v1/_calculate",
+         "displayName": "MarriageRegistrationCalculation",
+         "orderNumber": 0,
+         "parentModule": null,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": "null"
       }
    ]
 }
