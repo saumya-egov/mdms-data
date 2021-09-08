@@ -1,6 +1,6 @@
 {
     "tenantId": "od",
-    "moduleName": "TradeLicense",
+    "moduleName": "MarriageRegistration",
     "ApplicationType": [
         {
             "code": "APPLICATIONTYPE.NEW",
