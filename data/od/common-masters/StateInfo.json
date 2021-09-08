@@ -41,6 +41,10 @@
           "value": "rainmaker-tl"
         },
         {
+          "label": "rainmaker-mr",
+          "value": "rainmaker-mr"
+        },
+        {
           "label": "rainmaker-hr",
           "value": "rainmaker-hr"
         },
