@@ -10214,6 +10214,17 @@
          "serviceCode": "mr-services",
          "code": "null",
          "path": "null"
+      },
+	  {
+         "id": 3046,
+         "name": "Locality searcher endpoint for MR",
+         "url": "/egov-searcher/locality/mr-services/_get",
+         "displayName": "MR locality searcher",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-searcher",
+         "code": "null",
+         "path": ""
       }
    ]
 }
