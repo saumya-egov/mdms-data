@@ -20000,6 +20000,24 @@
       "actionid": 3045,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "MR_CEMP",
+      "actionid": 3046,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3046,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3046,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
