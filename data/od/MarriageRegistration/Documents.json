@@ -19,10 +19,6 @@
                 {
                     "code": "OWNER.OWNERPHOTO",
                     "active": false
-                },
-                {
-                    "code": "OWNER.OLDLICENCENO",
-                    "active": false
                 }
             ],
             "description": "OWNER.OWNERIDPROOF.OWNERIDPROOF_DESCRIPTION"
