@@ -776,20 +776,20 @@
 	   "masterName": "RegistrationFee",
        "isStateLevel": true
 	  },
-	  "documentObj": {
+    "documentObj": {
       "masterName": "documentObj",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
     },
-	"Documents": {
+    "Documents": {
       "masterName": "Documents",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
-    },
+    }	
   },
   "Workflow": {
     "BusinessService": {
