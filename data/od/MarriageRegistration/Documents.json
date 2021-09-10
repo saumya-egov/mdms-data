@@ -1,0 +1,27 @@
+{
+    "tenantId": "od",
+    "moduleName": "MarriageRegistration",
+    "Documents": [
+        {
+            "code": "OWNER.OWNERIDPROOF",
+            "documentType": "OWNER",
+            "required": true,
+            "active": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.OWNERIDPROOF",
+                    "active": false
+                },
+                {
+                    "code": "OWNER.OWNERSHIPPROOF",
+                    "active": false
+                },
+                {
+                    "code": "OWNER.OWNERPHOTO",
+                    "active": false
+                }
+            ],
+            "description": "OWNER.OWNERIDPROOF.OWNERIDPROOF_DESCRIPTION"
+        }
+    ]
+}

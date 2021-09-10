@@ -1,0 +1,31 @@
+{
+  "tenantId": "od",
+  "moduleName": "MarriageRegistration",
+  "documentObj": [
+    {
+      "allowedDocs": [
+        {
+          "documentType": "OWNERIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "OWNERSHIPPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "OWNERPHOTO",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        }
+      ]
+    }
+  ]
+}

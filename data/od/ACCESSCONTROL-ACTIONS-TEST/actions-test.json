@@ -10156,8 +10156,79 @@
          "code": "null",
          "path": ""
       },
-	  {
+      {
          "id": 3041,
+         "name": "Create MarriageRegistration",
+         "url": "/mr-services/v1/_create",
+         "parentModule": "",
+         "displayName": "Create MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3042,
+         "name": "Update MarriageRegistration",
+         "url": "/mr-services/v1/_update",
+         "parentModule": "",
+         "displayName": "Update MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3043,
+         "name": "Search MarriageRegistration",
+         "url": "/mr-services/v1/_search",
+         "parentModule": "",
+         "displayName": "Search MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3044,
+         "name": "Get Bill",
+         "url": "/mr-services/v1/_getbill",
+         "parentModule": "",
+         "displayName": "Get Bill",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3045,
+         "name": "MarriageRegistration Calculation",
+         "url": "/mr-services/v1/_calculate",
+         "displayName": "MarriageRegistrationCalculation",
+         "orderNumber": 0,
+         "parentModule": null,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": "null"
+      },
+	  {
+         "id": 3046,
+         "name": "Locality searcher endpoint for MR",
+         "url": "/egov-searcher/locality/mr-services/_get",
+         "displayName": "MR locality searcher",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-searcher",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3047,
          "name": "Property Wise Collection Report",
          "url": "/report/rainmaker-pt/propertyWiseCollectionReport/metadata/_get",
          "displayName": "Property Wise Collection Report",
@@ -10168,7 +10239,7 @@
          "path": "Property Wise Collection Report"
       },
 	    {
-         "id": 3042,
+         "id": 3048,
          "name": "Property Wise Collection Report",
          "url": "/report/rainmaker-pt/propertyWiseCollectionReport/_get",
          "displayName": "Property Wise Collection Report",
@@ -10179,7 +10250,7 @@
          "path": "Property Wise Collection Report"
       },
       {
-         "id": 3043,
+         "id": 3049,
          "name": "Property Wise Collection Report",
          "url": "url",
          "displayName": "Property Wise Collection Report",
@@ -10199,7 +10270,7 @@
          "rightIcon": ""
       },
 	  {
-         "id": 3044,
+         "id": 3050,
          "name": "Connection Wise Collection Report",
          "url": "url",
          "displayName": "Connection Wise Collection Report",
@@ -10219,7 +10290,7 @@
          "rightIcon": ""
       },
 	  {
-         "id": 3045,
+         "id": 3051,
          "name": "Connection Wise Collection Report",
          "url": "/report/rainmaker-ws/connectionWiseCollectionReport/metadata/_get",
          "displayName": "Connection Wise Collection Report",
@@ -10230,7 +10301,7 @@
          "path": "Connection Wise Collection Report"
       },
 	  {
-         "id": 3046,
+         "id": 3052,
          "name": "Connection Wise Collection Report",
          "url": "/report/rainmaker-ws/connectionWiseCollectionReport/_get",
          "displayName": "Connection Wise Collection Report",
@@ -10239,6 +10310,6 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Connection Wise Collection Report"
-      }
+     }
    ]
 }
