@@ -10155,7 +10155,8 @@
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
-      },{
+      },
+      {
          "id": 3041,
          "name": "Create MarriageRegistration",
          "url": "/mr-services/v1/_create",
@@ -10225,6 +10226,90 @@
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+         "id": 3047,
+         "name": "Property Wise Collection Report",
+         "url": "/report/rainmaker-pt/propertyWiseCollectionReport/metadata/_get",
+         "displayName": "Property Wise Collection Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Property Wise Collection Report"
+      },
+	    {
+         "id": 3048,
+         "name": "Property Wise Collection Report",
+         "url": "/report/rainmaker-pt/propertyWiseCollectionReport/_get",
+         "displayName": "Property Wise Collection Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Property Wise Collection Report"
+      },
+      {
+         "id": 3049,
+         "name": "Property Wise Collection Report",
+         "url": "url",
+         "displayName": "Property Wise Collection Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Property Tax.PT Reports.Property Wise Collection Report",
+         "navigationURL": "report/rainmaker-pt/propertyWiseCollectionReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	  {
+         "id": 3050,
+         "name": "Connection Wise Collection Report",
+         "url": "url",
+         "displayName": "Connection Wise Collection Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.Connection Wise Collection Report",
+         "navigationURL": "report/rainmaker-ws/connectionWiseCollectionReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	  {
+         "id": 3051,
+         "name": "Connection Wise Collection Report",
+         "url": "/report/rainmaker-ws/connectionWiseCollectionReport/metadata/_get",
+         "displayName": "Connection Wise Collection Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Connection Wise Collection Report"
+      },
+	  {
+         "id": 3052,
+         "name": "Connection Wise Collection Report",
+         "url": "/report/rainmaker-ws/connectionWiseCollectionReport/_get",
+         "displayName": "Connection Wise Collection Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Connection Wise Collection Report"
+     }
    ]
 }
