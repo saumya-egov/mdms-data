@@ -423,75 +423,183 @@
     },
     {
       "code": "MR.BRIDEIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.BRIDEFATHERIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.BRIDEMOTHERIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.BRIDEGUARDIANIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.BRIDEWITNESSIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.BRIDEINVITATIONCARD",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.BRIDERESIDENTIALPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.BRIDEDIVYANGPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMFATHERIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMMOTHERIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMGUARDIANIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMWITNESSIDPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMINVITATIONCARD",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMRESIDENTIALPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.GROOMDIVYANGPROOF",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     },
     {
       "code": "MR.JOINTPHOTO",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 3000
     },
     {
       "code": "MR.JOINTAFFIDAVIT",
-      "active": true
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     }
   ]
 }
