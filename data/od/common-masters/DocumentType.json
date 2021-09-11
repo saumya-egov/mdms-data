@@ -420,6 +420,78 @@
     {
       "code": "NOC.COASTALREG.CERTIFICATE",
       "active": true
+    },
+    {
+      "code": "MR.BRIDEIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEFATHERIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEMOTHERIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEGUARDIANIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEWITNESSIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEINVITATIONCARD",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDERESIDENTIALPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEDIVYANGPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMFATHERIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMMOTHERIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMGUARDIANIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMWITNESSIDPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMINVITATIONCARD",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMRESIDENTIALPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.GROOMDIVYANGPROOF",
+      "active": true
+    },
+    {
+      "code": "MR.JOINTPHOTO",
+      "active": true
+    },
+    {
+      "code": "MR.JOINTAFFIDAVIT",
+      "active": true
     }
   ]
 }

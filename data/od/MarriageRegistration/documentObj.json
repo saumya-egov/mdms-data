@@ -5,126 +5,126 @@
     {
       "allowedDocs": [
         {
-          "documentType": "BRIDEIDPROOF",
+          "documentType": "MR.BRIDEIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "BRIDEFATHERIDPROOF",
+          "documentType": "MR.BRIDEFATHERIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "BRIDEMOTHERIDPROOF",
+          "documentType": "MR.BRIDEMOTHERIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "BRIDEGUARDIANIDPROOF",
+          "documentType": "MR.BRIDEGUARDIANIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "BRIDEWITNESSIDPROOF",
+          "documentType": "MR.BRIDEWITNESSIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "BRIDEINVITATIONCARD",
+          "documentType": "MR.BRIDEINVITATIONCARD",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "BRIDERESIDENTIALPROOF",
+          "documentType": "MR.BRIDERESIDENTIALPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "BRIDEDIVYANGPROOF",
+          "documentType": "MR.BRIDEDIVYANGPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMIDPROOF",
+          "documentType": "MR.GROOMIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMFATHERIDPROOF",
+          "documentType": "MR.GROOMFATHERIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMMOTHERIDPROOF",
+          "documentType": "MR.GROOMMOTHERIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMGUARDIANIDPROOF",
+          "documentType": "MR.GROOMGUARDIANIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMWITNESSIDPROOF",
+          "documentType": "MR.GROOMWITNESSIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMINVITATIONCARD",
+          "documentType": "MR.GROOMINVITATIONCARD",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMRESIDENTIALPROOF",
+          "documentType": "MR.GROOMRESIDENTIALPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "GROOMDIVYANGPROOF",
+          "documentType": "MR.GROOMDIVYANGPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "JOINTPHOTO",
+          "documentType": "MR.JOINTPHOTO",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "JOINTAFFIDAVIT",
+          "documentType": "MR.JOINTAFFIDAVIT",
           "applicationType": [
             "NEW"
           ],
