@@ -5,26 +5,131 @@
     {
       "allowedDocs": [
         {
-          "documentType": "OWNERIDPROOF",
+          "documentType": "BRIDEIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "OWNERSHIPPROOF",
+          "documentType": "BRIDEFATHERIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
         },
         {
-          "documentType": "OWNERPHOTO",
+          "documentType": "BRIDEMOTHERIDPROOF",
           "applicationType": [
             "NEW"
           ],
           "required": true
-        }
+        },
+        {
+          "documentType": "BRIDEGUARDIANIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "BRIDEWITNESSIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "BRIDEINVITATIONCARD",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "BRIDERESIDENTIALPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "BRIDEDIVYANGPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMFATHERIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMMOTHERIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMGUARDIANIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMWITNESSIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMINVITATIONCARD",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMRESIDENTIALPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "GROOMDIVYANGPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "JOINTPHOTO",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "JOINTAFFIDAVIT",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        }		
       ]
     }
   ]
