@@ -3,25 +3,402 @@
     "moduleName": "MarriageRegistration",
     "Documents": [
         {
-            "code": "OWNER.OWNERIDPROOF",
-            "documentType": "OWNER",
-            "required": true,
+            "code": "BRIDE.IDPROOF",
+            "documentType": "BRIDE",
+            "required": false,
             "active": true,
+            "hasDropdown": true,
             "dropdownData": [
                 {
-                    "code": "OWNER.OWNERIDPROOF",
-                    "active": false
+                    "code": "BRIDE.IDPROOF.VOTERID",
+                    "active": true
                 },
                 {
-                    "code": "OWNER.OWNERSHIPPROOF",
-                    "active": false
+                    "code": "BRIDE.IDPROOF.DRIVING",
+                    "active": true
                 },
                 {
-                    "code": "OWNER.OWNERPHOTO",
-                    "active": false
-                }
+                    "code": "BRIDE.IDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.IDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.IDPROOF.PASSPORT",
+                    "active": true
+                }				
             ],
-            "description": "OWNER.OWNERIDPROOF.OWNERIDPROOF_DESCRIPTION"
-        }
+            "description": "BRIDE.IDPROOF.IDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "BRIDE.FATHERIDPROOF",
+            "documentType": "BRIDE",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "BRIDE.FATHERIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.FATHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.FATHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.FATHERIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.FATHERIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "BRIDE.FATHERIDPROOF.FATHERIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "BRIDE.MOTHERIDPROOF",
+            "documentType": "BRIDE",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "BRIDE.MOTHERIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.MOTHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.MOTHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.MOTHERIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.MOTHERIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "BRIDE.MOTHERIDPROOF.MOTHERIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "BRIDE.GUARDIANIDPROOF",
+            "documentType": "BRIDE",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "BRIDE.GUARDIANIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.GUARDIANIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.GUARDIANIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.GUARDIANIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.GUARDIANIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "BRIDE.GUARDIANIDPROOF.GUARDIANIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "BRIDE.WITNESSIDPROOF",
+            "documentType": "BRIDE",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "BRIDE.WITNESSIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.WITNESSIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.WITNESSIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.WITNESSIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "BRIDE.WITNESSIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "BRIDE.WITNESSIDPROOF.WITNESSIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "BRIDE.RESIDENTIALPROOF",
+            "documentType": "BRIDE",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "BRIDE.RESIDENTIALPROOF.HOLDINGTAXRECEIPT",
+                    "active": true
+                }				
+            ],
+            "description": "BRIDE.RESIDENTIALPROOF.RESIDENTIALPROOF_DESCRIPTION"
+        },		
+        {
+            "code": "BRIDE.OTHER",
+            "documentType": "BRIDE",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "BRIDE.OTHER.INVITATIONCARD",
+                    "active": true
+                }				
+            ],
+            "description": "BRIDE.OTHER.OTHER_DESCRIPTION"
+        },
+        {
+            "code": "BRIDE.OTHER",
+            "documentType": "BRIDE",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "BRIDE.OTHER.DIVYANGPROOF",
+                    "active": true
+                }				
+            ],
+            "description": "BRIDE.OTHER.OTHER_DESCRIPTION"
+        },
+        {
+            "code": "GROOM.IDPROOF",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.IDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.IDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.IDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.IDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.IDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.IDPROOF.IDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "GROOM.FATHERIDPROOF",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.FATHERIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.FATHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.FATHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.FATHERIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.FATHERIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.FATHERIDPROOF.FATHERIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "GROOM.MOTHERIDPROOF",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.MOTHERIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.MOTHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.MOTHERIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.MOTHERIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.MOTHERIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.MOTHERIDPROOF.MOTHERIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "GROOM.GUARDIANIDPROOF",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.GUARDIANIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.GUARDIANIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.GUARDIANIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.GUARDIANIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.GUARDIANIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.GUARDIANIDPROOF.GUARDIANIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "GROOM.WITNESSIDPROOF",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.WITNESSIDPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.WITNESSIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.WITNESSIDPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.WITNESSIDPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "GROOM.WITNESSIDPROOF.PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.WITNESSIDPROOF.WITNESSIDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "GROOM.RESIDENTIALPROOF",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.RESIDENTIALPROOF.HOLDINGTAXRECEIPT",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.RESIDENTIALPROOF.RESIDENTIALPROOF_DESCRIPTION"
+        },		
+        {
+            "code": "GROOM.OTHER",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.OTHER.INVITATIONCARD",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.OTHER.OTHER_DESCRIPTION"
+        },
+        {
+            "code": "GROOM.OTHER",
+            "documentType": "GROOM",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "GROOM.OTHER.DIVYANGPROOF",
+                    "active": true
+                }				
+            ],
+            "description": "GROOM.OTHER.OTHER_DESCRIPTION"
+        },
+        {
+            "code": "OTHER.JOINTPHOTO",
+            "documentType": "OTHER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OTHER.JOINTPHOTO.JOINTPHOTO",
+                    "active": true
+                }				
+            ],
+            "description": "OTHER.JOINTPHOTO.JOINTPHOTO_DESCRIPTION"
+        }		
     ]
 }
