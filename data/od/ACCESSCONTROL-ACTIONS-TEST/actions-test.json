@@ -10313,9 +10313,9 @@
      },
       {
          "id": 3053,
-         "name": "TL Payment search",
+         "name": "MR Payment search",
          "url": "/collection-services/payments/MR/_search",
-         "displayName": "TL Payment search",
+         "displayName": "MR Payment search",
          "orderNumber": 1,
          "parentModule": "",
          "enabled": false,
