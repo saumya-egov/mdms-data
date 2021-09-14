@@ -19,9 +19,9 @@
       "city": {
         "name": "Cuttack",
         "localName": null,
-        "districtCode": "CUTTACK",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Cuttack",
+        "districtName": "Cuttack",
+        "regionName": "Cuttack",
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -31,7 +31,8 @@
         "ddrName": "DDR A"
       },
       "address": "Cuttack Municipal Corporation",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.jatni",
@@ -51,9 +52,9 @@
       "city": {
         "name": "Jatni",
         "localName": null,
-        "districtCode": "JATNI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Khordha",
+        "districtName": "Khordha",
+        "regionName": "WATCO-II",
         "ulbGrade": "Municipality",
         "longitude": 73.8722642,
         "latitude": 31.6339793,
@@ -84,9 +85,9 @@
       "city": {
         "name": "Angul",
         "localName": null,
-        "districtCode": "ANGUL",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Angul",
+        "districtName": "Angul",
+        "regionName": "Angul",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -117,9 +118,9 @@
       "city": {
         "name": "Choudwar",
         "localName": null,
-        "districtCode": "CHOUDWAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Cuttack",
+        "districtName": "Cuttack",
+        "regionName": "Cuttack",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -134,8 +135,8 @@
     },
     {
       "code": "od.berhampurdevelopmentauthority",
-      "name": "BerhmpurMouza",
-      "description": "BerhmpurMouza",
+      "name": "Berhampur Development Authority",
+      "description": "Berhampur Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -148,12 +149,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "BerhmpurMouza",
+        "name": "Berhampur Development Authority",
         "localName": null,
-        "districtCode": "BERHMPURMOUZA",
-        "districtName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
         "regionName": null,
-        "ulbGrade": "",
+        "ulbGrade": "Development Authority",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -161,14 +162,14 @@
         "code": "BED",
         "ddrName": "DDR A"
       },
-      "address": "BerhmpurMouza Municipal Corporation",
+      "address": "Berhampur Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.birmitrapur",
-      "name": "Biramitrapur",
-      "description": "Biramitrapur",
+      "name": "Birmitrapur",
+      "description": "Birmitrapur",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -181,11 +182,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Biramitrapur",
+        "name": "Birmitrapur",
         "localName": null,
-        "districtCode": "BIRAMITRAPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Sundargarh",
+        "districtName": "Sundargarh",
+        "regionName": "Rourkela",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -194,14 +195,14 @@
         "code": "BRM",
         "ddrName": "DDR A"
       },
-      "address": "Biramitrapur Municipality",
+      "address": "Birmitrapur Municipality",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.berhampur",
-      "name": "Brhmapur",
-      "description": "Brhmapur",
+      "name": "Berhampur",
+      "description": "Berhampur",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -217,11 +218,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Brhmapur",
+        "name": "Berhampur",
         "localName": null,
-        "districtCode": "BRHMAPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Berhampur",
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -230,7 +231,7 @@
         "code": "BAM",
         "ddrName": "DDR A"
       },
-      "address": "Brhmapur Municipal Corporation",
+      "address": "Berhampur Municipal Corporation",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -252,9 +253,9 @@
       "city": {
         "name": "Chatrapur",
         "localName": null,
-        "districtCode": "CHATRAPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -269,8 +270,8 @@
     },
     {
       "code": "od.cuttackdevelopmentauthority",
-      "name": "CuttackMouza",
-      "description": "CuttackMouza",
+      "name": "Cuttack Development Authority",
+      "description": "Cuttack Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -283,9 +284,9 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "CuttackMouza",
+        "name": "Cuttack Development Authority",
         "localName": null,
-        "districtCode": "CUTTACKMOUZA",
+        "districtCode": "Cuttack",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "",
@@ -296,7 +297,7 @@
         "code": "CDA",
         "ddrName": "DDR A"
       },
-      "address": "CuttackMouza Municipal Corporation Address",
+      "address": "Cuttack Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -318,9 +319,9 @@
       "city": {
         "name": "Gopalpur",
         "localName": null,
-        "districtCode": "GOPALPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Berhampur",
         "ulbGrade": "NAC",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -335,8 +336,8 @@
     },
     {
       "code": "od.kalinganagardevelopmentauthority",
-      "name": "KalingaNagarMouza",
-      "description": "KalingaNagarMouza",
+      "name": "Kalinga Nagar Development Authority",
+      "description": "Kalinga Nagar Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -349,12 +350,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "KalingaNagarMouza",
+        "name": "Kalinga Nagar Development Authority",
         "localName": null,
-        "districtCode": "KALINGANAGARMOUZA",
-        "districtName": null,
+        "districtCode": "Jajpur",
+        "districtName": "Jajpur",
         "regionName": null,
-        "ulbGrade": "",
+        "ulbGrade": "Development Authority",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -362,14 +363,14 @@
         "code": "KDA",
         "ddrName": "DDR A"
       },
-      "address": "KalingaNagarMouza Municipal Corporation Address",
+      "address": "Kalinga Nagar Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.khordha",
-      "name": "Khurda",
-      "description": "Khurda",
+      "name": "Khordha",
+      "description": "Khordha",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -382,11 +383,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Khurda",
+        "name": "Khordha",
         "localName": null,
-        "districtCode": "KHURDA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Khordha",
+        "districtName": "Khordha",
+        "regionName": "WATCO-II",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -395,7 +396,7 @@
         "code": "KHU",
         "ddrName": "DDR A"
       },
-      "address": "Khurda Municipality",
+      "address": "Khordha Municipality",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -417,9 +418,9 @@
       "city": {
         "name": "Konark",
         "localName": null,
-        "districtCode": "KONARK",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Puri",
+        "districtName": "Puri",
+        "regionName": "Puri",
         "ulbGrade": "NAC",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -434,8 +435,8 @@
     },
     {
       "code": "od.paradeep",
-      "name": "Paradip",
-      "description": "Paradip",
+      "name": "Paradeep",
+      "description": "Paradeep",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -448,11 +449,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Paradip",
+        "name": "Paradeep",
         "localName": null,
-        "districtCode": "PARADIP",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Jagatsinghpur",
+        "districtName": "Jagatsinghpur",
+        "regionName": "Cuttack",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -461,14 +462,14 @@
         "code": "PDP",
         "ddrName": "DDR A"
       },
-      "address": "Paradip Municipality",
+      "address": "Paradeep Municipality",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.paradipdevelopmentauthority",
-      "name": "ParadipMouza",
-      "description": "ParadipMouza",
+      "name": "Paradip Development Authority",
+      "description": "Paradip Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -481,12 +482,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "ParadipMouza",
+        "name": "Paradip Development Authority",
         "localName": null,
-        "districtCode": "PARADIPMOUZA",
-        "districtName": null,
+        "districtCode": "Jagatsinghpur",
+        "districtName": "Jagatsinghpur",
         "regionName": null,
-        "ulbGrade": "",
+        "ulbGrade": "Development Authority",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -494,7 +495,7 @@
         "code": "PDA",
         "ddrName": "DDR A"
       },
-      "address": "ParadipMouza Municipal Corporation Address",
+      "address": "Paradip Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -516,9 +517,9 @@
       "city": {
         "name": "Puri",
         "localName": null,
-        "districtCode": "PURI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Puri",
+        "districtName": "Puri",
+        "regionName": "Puri",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -533,8 +534,8 @@
     },
     {
       "code": "od.purikonarkdevelopmentauthority",
-      "name": "PuriMouza",
-      "description": "PuriMouza",
+      "name": "Puri Konark Development Authority",
+      "description": "Puri Konark Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -547,12 +548,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "PuriMouza",
+        "name": "Puri Konark Development Authority",
         "localName": null,
-        "districtCode": "PURIMOUZA",
-        "districtName": null,
+        "districtCode": "Puri",
+        "districtName": "Puri",
         "regionName": null,
-        "ulbGrade": "",
+        "ulbGrade": "Development Authority",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -560,7 +561,7 @@
         "code": "PKD",
         "ddrName": "DDR A"
       },
-      "address": "PuriMouza Municipal Corporation Address",
+      "address": "Puri Konark Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -582,9 +583,9 @@
       "city": {
         "name": "Rajgangpur",
         "localName": null,
-        "districtCode": "RAJGANGPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Sundargarh",
+        "districtName": "Sundargarh",
+        "regionName": "Rourkela",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -615,9 +616,9 @@
       "city": {
         "name": "Rourkela",
         "localName": null,
-        "districtCode": "ROURKELA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Sundargarh",
+        "districtName": "Sundargarh",
+        "regionName": "Rourkela",
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -632,8 +633,8 @@
     },
     {
       "code": "od.rourkeladevelopmentauthority",
-      "name": "RourkelaMouza",
-      "description": "RourkelaMouza",
+      "name": "Rourkela Development Authority",
+      "description": "Rourkela Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -646,12 +647,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "RourkelaMouza",
+        "name": "Rourkela Development Authority",
         "localName": null,
-        "districtCode": "ROURKELAMOUZA",
-        "districtName": null,
+        "districtCode": "Sundargarh",
+        "districtName": "Sundargarh",
         "regionName": null,
-        "ulbGrade": "",
+        "ulbGrade": "Development Authority",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -659,7 +660,7 @@
         "code": "RDA",
         "ddrName": "DDR A"
       },
-      "address": "RourkelaMouza Municipal Corporation Address",
+      "address": "Rourkela Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -681,9 +682,9 @@
       "city": {
         "name": "Sambalpur",
         "localName": null,
-        "districtCode": "SAMBALPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Sambalpur",
+        "districtName": "Sambalpur",
+        "regionName": "Sambalpur",
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -698,8 +699,8 @@
     },
     {
       "code": "od.sambalpurdevelopmentauthority",
-      "name": "SambalpurMouza",
-      "description": "SambalpurMouza",
+      "name": "Sambalpur Development Authority",
+      "description": "Sambalpur Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -712,12 +713,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "SambalpurMouza",
+        "name": "Sambalpur Development Authority",
         "localName": null,
-        "districtCode": "SAMBALPURMOUZA",
-        "districtName": null,
+        "districtCode": "Sambalpur",
+        "districtName": "Sambalpur",
         "regionName": null,
-        "ulbGrade": "",
+        "ulbGrade": "Development Authority",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -725,7 +726,7 @@
         "code": "SDA",
         "ddrName": "DDR A"
       },
-      "address": "SambalpurMouza Municipal Corporation Address",
+      "address": "Sambalpur Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -747,9 +748,9 @@
       "city": {
         "name": "Sundargarh",
         "localName": null,
-        "districtCode": "SUNDARGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Sundargarh",
+        "districtName": "Sundargarh",
+        "regionName": "Rourkela",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -780,9 +781,9 @@
       "city": {
         "name": "Talcher",
         "localName": null,
-        "districtCode": "TALCHER",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Angul",
+        "districtName": "Angul",
+        "regionName": "Angul",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -797,8 +798,8 @@
     },
     {
       "code": "od.talcherangulmeramandalidevelopmentauthority",
-      "name": "TamdaMouza",
-      "description": "TamdaMouza",
+      "name": "Talcher Angul Meramandali Development Authority",
+      "description": "Talcher Angul Meramandali Development Authority",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -811,12 +812,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "TamdaMouza",
+        "name": "Talcher Angul Meramandali Development Authority",
         "localName": null,
-        "districtCode": "TAMDAMOUZA",
-        "districtName": null,
+        "districtCode": "Angul",
+        "districtName": "Angul",
         "regionName": null,
-        "ulbGrade": "",
+        "ulbGrade": "Development Authority",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -824,7 +825,7 @@
         "code": "TAM",
         "ddrName": "DDR A"
       },
-      "address": "TamdaMouza Municipal Corporation Address",
+      "address": "Talcher Angul Meramandali Development Authority",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -857,7 +858,7 @@
         "code": "ODISHA",
         "ddrName": "DDR A"
       },
-      "address": "Odisha Municipal Corporation Address",
+      "address": "Odisha",
       "contactNumber": "+91-674-6615666",
       "helpLineNumber": "+91-674-6615666"
     },
@@ -879,9 +880,9 @@
       "city": {
         "name": "Vyasanagar",
         "localName": null,
-        "districtCode": "Vyasanagar",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Jajpur",
+        "districtName": "Jajpur",
+        "regionName": "Cuttack",
         "ulbGrade": "Municipality",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -896,30 +897,25 @@
     },
     {
       "code": "od.balasore",
-      "name": "Balesore Municipality",
-      "description": "Balesore Municipality",
+      "name": "Balasore",
+      "description": "Balasore",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
-      "pincode": [
-        756001,
-        756002,
-        756003
-      ],
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "balesoremunicipality@rediffmail.com",
+      "emailId": "helpdesk.sujog@odisha.gov.in",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Balesore",
+        "name": "Balasore",
         "localName": null,
-        "districtCode": "8",
-        "districtName": "Balesore",
-        "regionName": null,
+        "districtCode": "Balasore",
+        "districtName": "Balasore",
+        "regionName": "Balasore",
         "ulbGrade": "Municipality",
         "longitude": 0,
         "latitude": 0,
@@ -927,19 +923,17 @@
         "captcha": null,
         "code": "BLS"
       },
-      "address": "Balasore Municipality"
+      "address": "Balasore Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.dhenkanal",
-      "name": "Dhenkanal Municipality",
-      "description": "Dhenkanal Municipality",
+      "name": "Dhenkanal",
+      "description": "Dhenkanal",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
-      "pincode": [
-        759001,
-        759013
-      ],
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -951,9 +945,9 @@
       "city": {
         "name": "Dhenkanal",
         "localName": null,
-        "districtCode": "6",
+        "districtCode": "Dhenkanal",
         "districtName": "Dhenkanal",
-        "regionName": null,
+        "regionName": "Angul",
         "ulbGrade": "Municipality",
         "longitude": 0,
         "latitude": 0,
@@ -962,8 +956,8 @@
         "code": "DKN"
       },
       "address": "Dhenkanal Municipality",
-      "contactNumber": "9438256399",
-      "helpLineNumber": "9438256399"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.anandapur",
@@ -982,9 +976,9 @@
       "city": {
         "name": "Anandapur",
         "localName": null,
-        "districtCode": "ANANDAPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Keonjhar",
+        "districtName": "Keonjhar",
+        "regionName": "Keonjhar",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -994,7 +988,8 @@
         "ddrName": "DDR A"
       },
       "address": "Anandapur Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.aska",
@@ -1013,9 +1008,9 @@
       "city": {
         "name": "Aska",
         "localName": null,
-        "districtCode": "ASKA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1024,8 +1019,9 @@
         "code": "ASK",
         "ddrName": "DDR A"
       },
-      "address": "Aska NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Aska",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.athagarh",
@@ -1044,9 +1040,9 @@
       "city": {
         "name": "Athagarh",
         "localName": null,
-        "districtCode": "ATHAGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Cuttack",
+        "districtName": "Cuttack",
+        "regionName": "Cuttack",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1056,12 +1052,13 @@
         "ddrName": "DDR A"
       },
       "address": "Athagarh NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.athmallik",
-      "name": "Athamallik",
-      "description": "Athamallik",
+      "name": "Athmallik",
+      "description": "Athmallik",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1075,9 +1072,9 @@
       "city": {
         "name": "Athamallik",
         "localName": null,
-        "districtCode": "ATHAMALLIK",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Angul",
+        "districtName": "Angul",
+        "regionName": "Angul",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1087,7 +1084,8 @@
         "ddrName": "DDR A"
       },
       "address": "Athamallik NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.attabira",
@@ -1106,9 +1104,9 @@
       "city": {
         "name": "Attabira",
         "localName": null,
-        "districtCode": "ATTABIRA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bargarh",
+        "districtName": "Bargarh",
+        "regionName": "Sambalpur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1118,7 +1116,8 @@
         "ddrName": "DDR A"
       },
       "address": "Attabira NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.balangir",
@@ -1137,9 +1136,9 @@
       "city": {
         "name": "Balangir",
         "localName": null,
-        "districtCode": "BALANGIR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balangir",
+        "districtName": "Balangir",
+        "regionName": "Balangir",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1149,7 +1148,8 @@
         "ddrName": "DDR A"
       },
       "address": "Balangir Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.balimela",
@@ -1168,9 +1168,9 @@
       "city": {
         "name": "Balimela",
         "localName": null,
-        "districtCode": "BALIMELA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Malkangiri",
+        "districtName": "Malkangiri",
+        "regionName": "Koraput",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1180,7 +1180,8 @@
         "ddrName": "DDR A"
       },
       "address": "Balimela NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.balliguda",
@@ -1199,9 +1200,9 @@
       "city": {
         "name": "Balliguda ",
         "localName": null,
-        "districtCode": "BALLIGUDA ",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kandhamal",
+        "districtName": "Kandhamal",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1211,7 +1212,8 @@
         "ddrName": "DDR A"
       },
       "address": "Balliguda NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.balugaon",
@@ -1230,9 +1232,9 @@
       "city": {
         "name": "Balugaon",
         "localName": null,
-        "districtCode": "BALUGAON",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Khordha",
+        "districtName": "Khordha",
+        "regionName": "Bhubaneswar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1242,7 +1244,8 @@
         "ddrName": "DDR A"
       },
       "address": "Balugaon NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.banki",
@@ -1261,9 +1264,9 @@
       "city": {
         "name": "Banki",
         "localName": null,
-        "districtCode": "BANKI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Cuttack",
+        "districtName": "Cuttack",
+        "regionName": "Cuttack",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1273,7 +1276,8 @@
         "ddrName": "DDR A"
       },
       "address": "Banki NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.banpur",
@@ -1292,9 +1296,9 @@
       "city": {
         "name": "Banpur",
         "localName": null,
-        "districtCode": "BANPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Khordha",
+        "districtName": "Khordha",
+        "regionName": "Bhubaneswar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1304,12 +1308,13 @@
         "ddrName": "DDR A"
       },
       "address": "Banpur NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bargarh",
-      "name": "Baragarh",
-      "description": "Baragarh",
+      "name": "Bargarh",
+      "description": "Bargarh",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1321,11 +1326,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Baragarh",
+        "name": "Bargarh",
         "localName": null,
-        "districtCode": "BARAGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bargarh",
+        "districtName": "Bargarh",
+        "regionName": "Sambalpur",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1335,7 +1340,8 @@
         "ddrName": "DDR A"
       },
       "address": "Baragarh Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.barbil",
@@ -1354,9 +1360,9 @@
       "city": {
         "name": "Barbil",
         "localName": null,
-        "districtCode": "BARBIL",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Keonjhar",
+        "districtName": "Keonjhar",
+        "regionName": "Keonjhar",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1366,12 +1372,13 @@
         "ddrName": "DDR A"
       },
       "address": "Barbil Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.baripada",
-      "name": "Baripada ",
-      "description": "Baripada ",
+      "name": "Baripada",
+      "description": "Baripada",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1383,11 +1390,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Baripada ",
+        "name": "Baripada",
         "localName": null,
-        "districtCode": "BARIPADA ",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Mayurbhanj",
+        "districtName": "Mayurbhanj",
+        "regionName": "Baripada",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1397,12 +1404,13 @@
         "ddrName": "DDR A"
       },
       "address": "Baripada Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.barpali",
-      "name": "Barpalli",
-      "description": "Barpalli",
+      "name": "Barpali",
+      "description": "Barpali",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1414,11 +1422,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Barpalli",
+        "name": "Barpali",
         "localName": null,
-        "districtCode": "BARPALLI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bargarh",
+        "districtName": "Bargarh",
+        "regionName": "Sambalpur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1427,8 +1435,9 @@
         "code": "BPL",
         "ddrName": "DDR A"
       },
-      "address": "Barpalli NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Barpali NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.basudevpur",
@@ -1447,9 +1456,9 @@
       "city": {
         "name": "Basudevpur",
         "localName": null,
-        "districtCode": "BASUDEVPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bhadrak",
+        "districtName": "Bhadrak",
+        "regionName": "Balasore",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1459,12 +1468,13 @@
         "ddrName": "DDR A"
       },
       "address": "Basudevpur Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bellaguntha",
-      "name": "Belaguntha",
-      "description": "Belaguntha",
+      "name": "Bellaguntha",
+      "description": "Bellaguntha",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1476,11 +1486,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Belaguntha",
+        "name": "Bellaguntha",
         "localName": null,
-        "districtCode": "BELAGUNTHA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1490,7 +1500,8 @@
         "ddrName": "DDR A"
       },
       "address": "Belaguntha NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.belpahar",
@@ -1509,9 +1520,9 @@
       "city": {
         "name": "Belpahar",
         "localName": null,
-        "districtCode": "BELPAHAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Jharsuguda",
+        "districtName": "Jharsuguda",
+        "regionName": "Jharsuguda",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1521,12 +1532,13 @@
         "ddrName": "DDR A"
       },
       "address": "Belpahar Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bhadrak",
-      "name": "Bhadrak ",
-      "description": "Bhadrak ",
+      "name": "Bhadrak",
+      "description": "Bhadrak",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1538,11 +1550,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Bhadrak ",
+        "name": "Bhadrak",
         "localName": null,
-        "districtCode": "BHADRAK ",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bhadrak",
+        "districtName": "Bhadrak",
+        "regionName": "Balasore",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1552,7 +1564,8 @@
         "ddrName": "DDR A"
       },
       "address": "Bhadrak Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bhanjanagar",
@@ -1571,9 +1584,9 @@
       "city": {
         "name": "Bhanjanagar",
         "localName": null,
-        "districtCode": "BHANJANAGAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1583,7 +1596,8 @@
         "ddrName": "DDR A"
       },
       "address": "Bhanjanagar NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bhawanipatna",
@@ -1602,9 +1616,9 @@
       "city": {
         "name": "Bhawanipatna",
         "localName": null,
-        "districtCode": "BHAWANIPATNA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kalahandi",
+        "districtName": "Kalahandi",
+        "regionName": "Bhawanipatna",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1614,7 +1628,8 @@
         "ddrName": "DDR A"
       },
       "address": "Bhawanipatna Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bhuban",
@@ -1633,9 +1648,9 @@
       "city": {
         "name": "Bhuban",
         "localName": null,
-        "districtCode": "BHUBAN",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Dhenkanal",
+        "districtName": "Dhenkanal",
+        "regionName": "Angul",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1645,7 +1660,8 @@
         "ddrName": "DDR A"
       },
       "address": "Bhuban NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bhubaneswar",
@@ -1664,9 +1680,9 @@
       "city": {
         "name": "Bhubaneswar",
         "localName": null,
-        "districtCode": "Bhubaneswar",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Khordha",
+        "districtName": "Khordha",
+        "regionName": "WATCO-I,II",
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1676,7 +1692,8 @@
         "ddrName": "DDR A"
       },
       "address": "Bhubaneswar",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bhubaneswardevelopmentauthority",
@@ -1695,8 +1712,8 @@
       "city": {
         "name": "Bhubaneswar Development Authority",
         "localName": null,
-        "districtCode": "Bhubaneswar Development Authority",
-        "districtName": null,
+        "districtCode": "Khordha",
+        "districtName": "Khordha",
         "regionName": null,
         "ulbGrade": "",
         "longitude": 75.5761829,
@@ -1707,7 +1724,8 @@
         "ddrName": "DDR A"
       },
       "address": "Bhubaneswar Development Authority",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.bijepur",
@@ -1726,9 +1744,9 @@
       "city": {
         "name": "Bijepur",
         "localName": null,
-        "districtCode": "BIJEPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bargarh",
+        "districtName": "Bargarh",
+        "regionName": "Sambalpur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1738,12 +1756,13 @@
         "ddrName": "DDR A"
       },
       "address": "Bijepur NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.binka",
-      "name": "Binika",
-      "description": "Binika",
+      "name": "Binka",
+      "description": "Binka",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1755,11 +1774,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Binika",
+        "name": "Binka",
         "localName": null,
-        "districtCode": "BINIKA",
+        "districtCode": "Subarnapur",
         "districtName": null,
-        "regionName": null,
+        "regionName": "Balangir",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1768,8 +1787,9 @@
         "code": "BNK",
         "ddrName": "DDR A"
       },
-      "address": "Binika NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Binka NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.boudhgarh",
@@ -1788,9 +1808,9 @@
       "city": {
         "name": "Boudhgarh",
         "localName": null,
-        "districtCode": "BOUDHGARH",
+        "districtCode": "Boudh",
         "districtName": null,
-        "regionName": null,
+        "regionName": "Balangir",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1800,12 +1820,13 @@
         "ddrName": "DDR A"
       },
       "address": "Boudhgarh NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.brajrajnagar",
-      "name": "Brajarajnagar",
-      "description": "Brajarajnagar",
+      "name": "Brajrajnagar",
+      "description": "Brajrajnagar",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -1817,11 +1838,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Brajarajnagar",
+        "name": "Brajrajnagar",
         "localName": null,
-        "districtCode": "BRAJARAJNAGAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Jharsuguda",
+        "districtName": "Jharsuguda",
+        "regionName": "Jharsuguda",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1830,8 +1851,9 @@
         "code": "BJR",
         "ddrName": "DDR A"
       },
-      "address": "Brajarajnagar Municipality",
-      "contactNumber": "+91-674-6615666"
+      "address": "Brajrajnagar Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.buguda",
@@ -1850,9 +1872,9 @@
       "city": {
         "name": "Buguda",
         "localName": null,
-        "districtCode": "BUGUDA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1862,7 +1884,8 @@
         "ddrName": "DDR A"
       },
       "address": "Buguda NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.champua",
@@ -1881,9 +1904,9 @@
       "city": {
         "name": "Champua",
         "localName": null,
-        "districtCode": "CHAMPUA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Keonjhar",
+        "districtName": "Keonjhar",
+        "regionName": "Keonjhar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1893,7 +1916,8 @@
         "ddrName": "DDR A"
       },
       "address": "Champua NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.chandbali",
@@ -1912,9 +1936,9 @@
       "city": {
         "name": "Chandbali",
         "localName": null,
-        "districtCode": "CHANDBALI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bhadrak",
+        "districtName": "Bhadrak",
+        "regionName": "Balasore",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1924,7 +1948,8 @@
         "ddrName": "DDR A"
       },
       "address": "Chandbali NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.chikiti",
@@ -1943,9 +1968,9 @@
       "city": {
         "name": "Chikiti",
         "localName": null,
-        "districtCode": "CHIKITI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Berhampur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1955,7 +1980,8 @@
         "ddrName": "DDR A"
       },
       "address": "Chikiti NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.daspalla",
@@ -1974,9 +2000,9 @@
       "city": {
         "name": "Daspalla",
         "localName": null,
-        "districtCode": "DASPALLA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nayagarh",
+        "districtName": "Nayagarh",
+        "regionName": "Bhubaneswar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -1986,7 +2012,8 @@
         "ddrName": "DDR A"
       },
       "address": "Daspalla NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.deogarh",
@@ -2005,9 +2032,9 @@
       "city": {
         "name": "Deogarh",
         "localName": null,
-        "districtCode": "DEOGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Deogarh",
+        "districtName": "Deogarh",
+        "regionName": "Sambalpur",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2017,7 +2044,8 @@
         "ddrName": "DDR A"
       },
       "address": "Deogarh Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.dhamnagar",
@@ -2036,9 +2064,9 @@
       "city": {
         "name": "Dhamnagar",
         "localName": null,
-        "districtCode": "DHAMNAGAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bhadrak",
+        "districtName": "Bhadrak",
+        "regionName": "Balasore",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2048,7 +2076,8 @@
         "ddrName": "DDR A"
       },
       "address": "Dhamnagar NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.dharamgarh",
@@ -2067,9 +2096,9 @@
       "city": {
         "name": "Dharamgarh",
         "localName": null,
-        "districtCode": "DHARAMGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kalahandi",
+        "districtName": "Kalahandi",
+        "regionName": "Bhawanipatna",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2079,7 +2108,8 @@
         "ddrName": "DDR A"
       },
       "address": "Dharamgarh NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.digapahandi",
@@ -2098,9 +2128,9 @@
       "city": {
         "name": "Digapahandi",
         "localName": null,
-        "districtCode": "DIGAPAHANDI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Berhampur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2110,12 +2140,13 @@
         "ddrName": "DDR A"
       },
       "address": "Digapahandi NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.gudayagiri",
-      "name": "Gudayagiri",
-      "description": "Gudayagiri",
+      "name": "G. Udayagiri",
+      "description": "G. Udayagiri",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2127,11 +2158,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Gudayagiri",
+        "name": "G. Udayagiri",
         "localName": null,
-        "districtCode": "GUDAYAGIRI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kandhamal",
+        "districtName": "Kandhamal",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2140,13 +2171,14 @@
         "code": "GUG",
         "ddrName": "DDR A"
       },
-      "address": "Gudayagiri NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "G. Udayagiri NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.ganjam",
-      "name": "Ganjam ",
-      "description": "Ganjam ",
+      "name": "Ganjam",
+      "description": "Ganjam",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2158,11 +2190,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Ganjam ",
+        "name": "Ganjam",
         "localName": null,
-        "districtCode": "GANJAM ",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2172,7 +2204,8 @@
         "ddrName": "DDR A"
       },
       "address": "Ganjam NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.gudari",
@@ -2191,9 +2224,9 @@
       "city": {
         "name": "Gudari",
         "localName": null,
-        "districtCode": "GUDARI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Rayagada",
+        "districtName": "Rayagada",
+        "regionName": "Rayagada",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2203,7 +2236,8 @@
         "ddrName": "DDR A"
       },
       "address": "Gudari NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.gunupur",
@@ -2222,9 +2256,9 @@
       "city": {
         "name": "Gunupur",
         "localName": null,
-        "districtCode": "GUNUPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Rayagada",
+        "districtName": "Rayagada",
+        "regionName": "Rayagada",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2233,8 +2267,9 @@
         "code": "GNP",
         "ddrName": "DDR A"
       },
-      "address": "Gunupur NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Gunupur Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.hindol",
@@ -2253,9 +2288,9 @@
       "city": {
         "name": "Hindol",
         "localName": null,
-        "districtCode": "HINDOL",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Dhenkanal",
+        "districtName": "Dhenkanal",
+        "regionName": "Angul",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2265,7 +2300,8 @@
         "ddrName": "DDR A"
       },
       "address": "Hindol NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.hinjilicut",
@@ -2284,9 +2320,9 @@
       "city": {
         "name": "Hinjilicut",
         "localName": null,
-        "districtCode": "HINJILICUT",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2296,7 +2332,8 @@
         "ddrName": "DDR A"
       },
       "address": "Hinjilicut Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.jagatsinghpur",
@@ -2315,9 +2352,9 @@
       "city": {
         "name": "Jagatsinghpur",
         "localName": null,
-        "districtCode": "JAGATSINGHPUR",
+        "districtCode": "Jagatsinghpur",
         "districtName": null,
-        "regionName": null,
+        "regionName": "Cuttack",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2327,7 +2364,8 @@
         "ddrName": "DDR A"
       },
       "address": "Jagatsinghpur Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.jajpur",
@@ -2346,9 +2384,9 @@
       "city": {
         "name": "Jajpur",
         "localName": null,
-        "districtCode": "JAJPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Jajpur",
+        "districtName": "Jajpur",
+        "regionName": "Cuttack",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2358,7 +2396,8 @@
         "ddrName": "DDR A"
       },
       "address": "Jajpur Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.jaleswar",
@@ -2377,9 +2416,9 @@
       "city": {
         "name": "Jaleswar",
         "localName": null,
-        "districtCode": "JALESWAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balasore",
+        "districtName": "Balasore",
+        "regionName": "Balasore",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2389,12 +2428,13 @@
         "ddrName": "DDR A"
       },
       "address": "Jaleswar Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.jeypore",
-      "name": "Jaypore",
-      "description": "Jaypore",
+      "name": "Jeypore",
+      "description": "Jeypore",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2406,11 +2446,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Jaypore",
+        "name": "Jeypore",
         "localName": null,
-        "districtCode": "JAYPORE",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Koraput",
+        "districtName": "Koraput",
+        "regionName": "Koraput",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2419,8 +2459,9 @@
         "code": "JPR",
         "ddrName": "DDR A"
       },
-      "address": "Jaypore Municipality",
-      "contactNumber": "+91-674-6615666"
+      "address": "Jeypore Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.jharsuguda",
@@ -2439,9 +2480,9 @@
       "city": {
         "name": "Jharsuguda",
         "localName": null,
-        "districtCode": "JHARSUGUDA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Jharsuguda",
+        "districtName": "Jharsuguda",
+        "regionName": "Jharsuguda",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2451,7 +2492,8 @@
         "ddrName": "DDR A"
       },
       "address": "Jharsuguda Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.joda",
@@ -2470,9 +2512,9 @@
       "city": {
         "name": "Joda",
         "localName": null,
-        "districtCode": "JODA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Keonjhar",
+        "districtName": "Keonjhar",
+        "regionName": "Keonjhar",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2482,7 +2524,8 @@
         "ddrName": "DDR A"
       },
       "address": "Joda Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.junagarh",
@@ -2501,9 +2544,9 @@
       "city": {
         "name": "Junagarh",
         "localName": null,
-        "districtCode": "JUNAGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kalahandi",
+        "districtName": "Kalahandi",
+        "regionName": "Bhawanipatna",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2513,7 +2556,8 @@
         "ddrName": "DDR A"
       },
       "address": "Junagarh NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kamakhyanagar",
@@ -2532,9 +2576,9 @@
       "city": {
         "name": "Kamakhyanagar",
         "localName": null,
-        "districtCode": "KAMAKHYANAGAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Dhenkanal",
+        "districtName": "Dhenkanal",
+        "regionName": "Angul",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2544,12 +2588,13 @@
         "ddrName": "DDR A"
       },
       "address": "Kamakhyanagar NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kantabanji",
-      "name": "Kantabanjhi",
-      "description": "Kantabanjhi",
+      "name": "Kantabanji",
+      "description": "Kantabanji",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2561,11 +2606,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kantabanjhi",
+        "name": "Kantabanji",
         "localName": null,
-        "districtCode": "KANTABANJHI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balangir",
+        "districtName": "Balangir",
+        "regionName": "Balangir",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2574,8 +2619,9 @@
         "code": "KNB",
         "ddrName": "DDR A"
       },
-      "address": "Kantabanjhi NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Kantabanji NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.karanjia",
@@ -2594,9 +2640,9 @@
       "city": {
         "name": "Karanjia",
         "localName": null,
-        "districtCode": "KARANJIA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Mayurbhanj",
+        "districtName": "Mayurbhanj",
+        "regionName": "Baripada",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2606,12 +2652,13 @@
         "ddrName": "DDR A"
       },
       "address": "Karanjia NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kashinagar",
-      "name": "Kasinagar",
-      "description": "Kasinagar",
+      "name": "Kashinagar",
+      "description": "Kashinagar",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2623,11 +2670,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kasinagar",
+        "name": "Kashinagar",
         "localName": null,
-        "districtCode": "KASINAGAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Gajapati",
+        "districtName": "Gajapati",
+        "regionName": "Berhampur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2636,13 +2683,14 @@
         "code": "KSN",
         "ddrName": "DDR A"
       },
-      "address": "Kasinagar NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Kashinagar NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kabisuryanagar",
-      "name": "Kavisuryanagar",
-      "description": "Kavisuryanagar",
+      "name": "Kabisuryanagar",
+      "description": "Kabisuryanagar",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2654,11 +2702,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kavisuryanagar",
+        "name": "Kabisuryanagar",
         "localName": null,
-        "districtCode": "KAVISURYANAGAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2668,7 +2716,8 @@
         "ddrName": "DDR A"
       },
       "address": "Kavisuryanagar NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kendrapara",
@@ -2687,9 +2736,9 @@
       "city": {
         "name": "Kendrapara",
         "localName": null,
-        "districtCode": "KENDRAPARA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kendrapara",
+        "districtName": "Kendrapara",
+        "regionName": "Cuttack",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2699,12 +2748,13 @@
         "ddrName": "DDR A"
       },
       "address": "Kendrapara Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.keonjhargarh",
-      "name": "Keonjhorgarh",
-      "description": "Keonjhorgarh",
+      "name": "Keonjhargarh",
+      "description": "Keonjhargarh",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2716,11 +2766,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Keonjhorgarh",
+        "name": "Keonjhargarh",
         "localName": null,
-        "districtCode": "KEONJHORGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Keonjhar",
+        "districtName": "Keonjhar",
+        "regionName": "Keonjhar",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2730,7 +2780,8 @@
         "ddrName": "DDR A"
       },
       "address": "Keonjhorgarh Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kesinga",
@@ -2749,9 +2800,9 @@
       "city": {
         "name": "Kesinga",
         "localName": null,
-        "districtCode": "KESINGA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kalahandi",
+        "districtName": "Kalahandi",
+        "regionName": "Bhawanipatna",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2761,12 +2812,13 @@
         "ddrName": "DDR A"
       },
       "address": "Kesinga NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.khallikote",
-      "name": "Khallikot",
-      "description": "Khallikot",
+      "name": "Khallikote",
+      "description": "Khallikote",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2778,11 +2830,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Khallikot",
+        "name": "Khallikote",
         "localName": null,
-        "districtCode": "KHALLIKOT",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2791,13 +2843,14 @@
         "code": "KHL",
         "ddrName": "DDR A"
       },
-      "address": "Khallikot NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Khallikote NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.khandapada",
-      "name": "Khandapara",
-      "description": "Khandapara",
+      "name": "Khandapada",
+      "description": "Khandapada",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2809,11 +2862,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Khandapara",
+        "name": "Khandapada",
         "localName": null,
-        "districtCode": "KHANDAPARA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nayagarh",
+        "districtName": "Nayagarh",
+        "regionName": "Bhubaneswar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2822,8 +2875,9 @@
         "code": "KHN",
         "ddrName": "DDR A"
       },
-      "address": "Khandapara NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Khandapada NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.khariar",
@@ -2842,9 +2896,9 @@
       "city": {
         "name": "Khariar",
         "localName": null,
-        "districtCode": "KHARIAR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nuapada",
+        "districtName": "Nuapada",
+        "regionName": "Bhawanipatna",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2854,12 +2908,13 @@
         "ddrName": "DDR A"
       },
       "address": "Khariar NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.khariarroad",
-      "name": "Khariarroad",
-      "description": "Khariarroad",
+      "name": "Khariar Road",
+      "description": "Khariar Road",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -2871,11 +2926,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Khariarroad",
+        "name": "Khariar Road",
         "localName": null,
-        "districtCode": "KHARIARROAD",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nuapada",
+        "districtName": "Nuapada",
+        "regionName": "Bhawanipatna",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2884,8 +2939,9 @@
         "code": "KRR",
         "ddrName": "DDR A"
       },
-      "address": "Khariarroad NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Khariar Road NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kodala",
@@ -2904,9 +2960,9 @@
       "city": {
         "name": "Kodala",
         "localName": null,
-        "districtCode": "KODALA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2916,7 +2972,8 @@
         "ddrName": "DDR A"
       },
       "address": "Kodala NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.koraput",
@@ -2935,9 +2992,9 @@
       "city": {
         "name": "Koraput",
         "localName": null,
-        "districtCode": "KORAPUT",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Koraput",
+        "districtName": "Koraput",
+        "regionName": "Koraput",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2946,8 +3003,9 @@
         "code": "KOR",
         "ddrName": "DDR A"
       },
-      "address": "Koraput NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Koraput Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kotpad",
@@ -2966,9 +3024,9 @@
       "city": {
         "name": "Kotpad",
         "localName": null,
-        "districtCode": "KOTPAD",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Koraput",
+        "districtName": "Koraput",
+        "regionName": "Koraput",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -2978,7 +3036,8 @@
         "ddrName": "DDR A"
       },
       "address": "Kotpad NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.kuchinda",
@@ -2997,9 +3056,9 @@
       "city": {
         "name": "Kuchinda",
         "localName": null,
-        "districtCode": "KUCHINDA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Sambalpur",
+        "districtName": "Sambalpur",
+        "regionName": "Sambalpur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3009,7 +3068,8 @@
         "ddrName": "DDR A"
       },
       "address": "Kuchinda NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.malkangiri",
@@ -3028,9 +3088,9 @@
       "city": {
         "name": "Malkangiri",
         "localName": null,
-        "districtCode": "MALKANGIRI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Malkangiri",
+        "districtName": "Malkangiri",
+        "regionName": "Koraput",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3039,8 +3099,9 @@
         "code": "MLN",
         "ddrName": "DDR A"
       },
-      "address": "Malkangiri NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Malkangiri Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.nayagarh",
@@ -3059,9 +3120,9 @@
       "city": {
         "name": "Nayagarh",
         "localName": null,
-        "districtCode": "NAYAGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nayagarh",
+        "districtName": "Nayagarh",
+        "regionName": "Bhubaneswar",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3071,12 +3132,13 @@
         "ddrName": "DDR A"
       },
       "address": "Nayagarh Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.nilgiri",
-      "name": "Nilagiri",
-      "description": "Nilagiri",
+      "name": "Nilgiri",
+      "description": "Nilgiri",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3088,11 +3150,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Nilagiri",
+        "name": "Nilgiri",
         "localName": null,
-        "districtCode": "NILAGIRI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balasore",
+        "districtName": "Balasore",
+        "regionName": "Balasore",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3101,8 +3163,9 @@
         "code": "NLG",
         "ddrName": "DDR A"
       },
-      "address": "Nilagiri NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Nilgiri NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.nimapara",
@@ -3121,9 +3184,9 @@
       "city": {
         "name": "Nimapara",
         "localName": null,
-        "districtCode": "NIMAPARA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Puri",
+        "districtName": "Puri",
+        "regionName": "Puri",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3133,12 +3196,13 @@
         "ddrName": "DDR A"
       },
       "address": "Nimapara NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.nabarangpur",
-      "name": "Nowrangpur",
-      "description": "Nowrangpur",
+      "name": "Nabarangpur",
+      "description": "Nabarangpur",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3150,11 +3214,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Nowrangpur",
+        "name": "Nabarangpur",
         "localName": null,
-        "districtCode": "NOWRANGPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nabarangpur",
+        "districtName": "Nabarangpur",
+        "regionName": "Koraput",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3163,13 +3227,14 @@
         "code": "NBR",
         "ddrName": "DDR A"
       },
-      "address": "Nowrangpur Municipality",
-      "contactNumber": "+91-674-6615666"
+      "address": "Nabarangpur Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.nuapada",
-      "name": "Nuapara",
-      "description": "Nuapara",
+      "name": "Nuapada",
+      "description": "Nuapada",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3181,11 +3246,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Nuapara",
+        "name": "Nuapada",
         "localName": null,
-        "districtCode": "NUAPARA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nuapada",
+        "districtName": "Nuapada",
+        "regionName": "Bhawanipatna",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3194,8 +3259,9 @@
         "code": "NPD",
         "ddrName": "DDR A"
       },
-      "address": "Nuapara NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Nuapada NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.odagaon",
@@ -3214,9 +3280,9 @@
       "city": {
         "name": "Odagaon",
         "localName": null,
-        "districtCode": "ODAGAON",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nayagarh",
+        "districtName": "Nayagarh",
+        "regionName": "Bhubaneswar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3226,7 +3292,8 @@
         "ddrName": "DDR A"
       },
       "address": "Odagaon NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.padampur",
@@ -3245,9 +3312,9 @@
       "city": {
         "name": "Padampur",
         "localName": null,
-        "districtCode": "PADAMPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Bargarh",
+        "districtName": "Bargarh",
+        "regionName": "Sambalpur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3257,7 +3324,8 @@
         "ddrName": "DDR A"
       },
       "address": "Padampur NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.paralakhemundi",
@@ -3276,9 +3344,9 @@
       "city": {
         "name": "Paralakhemundi",
         "localName": null,
-        "districtCode": "PARALAKHEMUNDI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Gajapati",
+        "districtName": "Gajapati",
+        "regionName": "Berhampur",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3288,7 +3356,8 @@
         "ddrName": "DDR A"
       },
       "address": "Paralakhemundi Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.patnagarh",
@@ -3307,9 +3376,9 @@
       "city": {
         "name": "Patnagarh",
         "localName": null,
-        "districtCode": "PATNAGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balangir",
+        "districtName": "Balangir",
+        "regionName": "Balangir",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3319,7 +3388,8 @@
         "ddrName": "DDR A"
       },
       "address": "Patnagarh NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.pattamundai",
@@ -3338,9 +3408,9 @@
       "city": {
         "name": "Pattamundai",
         "localName": null,
-        "districtCode": "PATTAMUNDAI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kendrapara",
+        "districtName": "Kendrapara",
+        "regionName": "Cuttack",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3349,8 +3419,9 @@
         "code": "PTM",
         "ddrName": "DDR A"
       },
-      "address": "Pattamundai NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Pattamundai Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.phulbani",
@@ -3369,9 +3440,9 @@
       "city": {
         "name": "Phulbani",
         "localName": null,
-        "districtCode": "PHULBANI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Kandhamal",
+        "districtName": "Kandhamal",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3381,12 +3452,13 @@
         "ddrName": "DDR A"
       },
       "address": "Phulbani Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.pipli",
-      "name": "Pipili",
-      "description": "Pipili",
+      "name": "Pipli",
+      "description": "Pipli",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3398,11 +3470,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Pipili",
+        "name": "Pipli",
         "localName": null,
-        "districtCode": "PIPILI",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Puri",
+        "districtName": "Puri",
+        "regionName": "Puri",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3411,13 +3483,14 @@
         "code": "PPL",
         "ddrName": "DDR A"
       },
-      "address": "Pipili NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Pipli NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.polasara",
-      "name": "Polsora",
-      "description": "Polsora",
+      "name": "Polasara",
+      "description": "Polasara",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3429,11 +3502,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Polsora",
+        "name": "Polasara",
         "localName": null,
-        "districtCode": "POLSORA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3442,13 +3515,14 @@
         "code": "PLS",
         "ddrName": "DDR A"
       },
-      "address": "Polsora NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Polasara NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.purushottampur",
-      "name": "Purusottampur",
-      "description": "Purusottampur",
+      "name": "Purushottampur",
+      "description": "Purushottampur",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3460,11 +3534,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Purusottampur",
+        "name": "Purushottampur",
         "localName": null,
-        "districtCode": "PURUSOTTAMPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3473,8 +3547,9 @@
         "code": "PRS",
         "ddrName": "DDR A"
       },
-      "address": "Purusottampur NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Purushottampur NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.rairangpur",
@@ -3493,9 +3568,9 @@
       "city": {
         "name": "Rairangpur",
         "localName": null,
-        "districtCode": "RAIRANGPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Mayurbhanj",
+        "districtName": "Mayurbhanj",
+        "regionName": "Baripada",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3504,8 +3579,9 @@
         "code": "RRG",
         "ddrName": "DDR A"
       },
-      "address": "Rairangpur NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Rairangpur Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.rambha",
@@ -3524,9 +3600,9 @@
       "city": {
         "name": "Rambha",
         "localName": null,
-        "districtCode": "RAMBHA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3536,7 +3612,8 @@
         "ddrName": "DDR A"
       },
       "address": "Rambha NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.ranpur",
@@ -3555,9 +3632,9 @@
       "city": {
         "name": "Ranpur",
         "localName": null,
-        "districtCode": "RANPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nayagarh",
+        "districtName": "Nayagarh",
+        "regionName": "Bhubaneswar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3567,12 +3644,13 @@
         "ddrName": "DDR A"
       },
       "address": "Ranpur NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.rayagada",
-      "name": "Raygada",
-      "description": "Raygada",
+      "name": "Rayagada",
+      "description": "Rayagada",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3584,11 +3662,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Raygada",
+        "name": "Rayagada",
         "localName": null,
-        "districtCode": "RAYGADA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Rayagada",
+        "districtName": "Rayagada",
+        "regionName": "Rayagada",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3597,8 +3675,9 @@
         "code": "RYG",
         "ddrName": "DDR A"
       },
-      "address": "Raygada Municipality",
-      "contactNumber": "+91-674-6615666"
+      "address": "Rayagada Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.redhakhol",
@@ -3617,9 +3696,9 @@
       "city": {
         "name": "Redhakhol",
         "localName": null,
-        "districtCode": "REDHAKHOL",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Sambalpur",
+        "districtName": "Sambalpur",
+        "regionName": "Sambalpur",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3629,7 +3708,8 @@
         "ddrName": "DDR A"
       },
       "address": "Redhakhol NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.sonepur",
@@ -3648,9 +3728,9 @@
       "city": {
         "name": "Sonepur",
         "localName": null,
-        "districtCode": "SONEPUR",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Subarnapur",
+        "districtName": "Subarnapur",
+        "regionName": "Balangir",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3660,7 +3740,8 @@
         "ddrName": "DDR A"
       },
       "address": "Sonepur Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.soro",
@@ -3679,9 +3760,9 @@
       "city": {
         "name": "Soro",
         "localName": null,
-        "districtCode": "SORO",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balasore",
+        "districtName": "Balasore",
+        "regionName": "Balasore",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3691,12 +3772,13 @@
         "ddrName": "DDR A"
       },
       "address": "Soro Municipality",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.surada",
-      "name": "Soroda",
-      "description": "Soroda",
+      "name": "Surada",
+      "description": "Surada",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3708,11 +3790,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Soroda",
+        "name": "Surada",
         "localName": null,
-        "districtCode": "SORODA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Ganjam",
+        "districtName": "Ganjam",
+        "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3721,8 +3803,9 @@
         "code": "SRD",
         "ddrName": "DDR A"
       },
-      "address": "Soroda NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Surada NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.sunabeda",
@@ -3741,9 +3824,9 @@
       "city": {
         "name": "Sunabeda",
         "localName": null,
-        "districtCode": "SUNABEDA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Koraput",
+        "districtName": "Koraput",
+        "regionName": "Koraput",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3752,13 +3835,14 @@
         "code": "SNB",
         "ddrName": "DDR A"
       },
-      "address": "Sunabeda NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Sunabeda Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.tarbha",
-      "name": "Tarva",
-      "description": "Tarva",
+      "name": "Tarbha",
+      "description": "Tarbha",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
@@ -3770,11 +3854,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Tarva",
+        "name": "Tarbha",
         "localName": null,
-        "districtCode": "TARVA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Subarnapur",
+        "districtName": "Subarnapur",
+        "regionName": "Balangir",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3783,8 +3867,9 @@
         "code": "TRB",
         "ddrName": "DDR A"
       },
-      "address": "Tarva NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Tarbha NAC",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.titilagarh",
@@ -3803,9 +3888,9 @@
       "city": {
         "name": "Titilagarh",
         "localName": null,
-        "districtCode": "TITILAGARH",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balangir",
+        "districtName": "Balangir",
+        "regionName": "Balangir",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3814,8 +3899,9 @@
         "code": "TTG",
         "ddrName": "DDR A"
       },
-      "address": "Titilagarh NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Titilagarh Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.tusura",
@@ -3834,9 +3920,9 @@
       "city": {
         "name": "Tusura",
         "localName": null,
-        "districtCode": "TUSURA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Balangir",
+        "districtName": "Balangir",
+        "regionName": "Balangir",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3846,7 +3932,8 @@
         "ddrName": "DDR A"
       },
       "address": "Tusura NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.udala",
@@ -3865,9 +3952,9 @@
       "city": {
         "name": "Udala",
         "localName": null,
-        "districtCode": "UDALA",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Mayurbhanj",
+        "districtName": "Mayurbhanj",
+        "regionName": "Baripada",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3877,7 +3964,8 @@
         "ddrName": "DDR A"
       },
       "address": "Udala NAC",
-      "contactNumber": "+91-674-6615666"
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     },
     {
       "code": "od.umerkote",
@@ -3896,9 +3984,9 @@
       "city": {
         "name": "Umerkote",
         "localName": null,
-        "districtCode": "UMERKOTE",
-        "districtName": null,
-        "regionName": null,
+        "districtCode": "Nabarangpur",
+        "districtName": "Nabarangpur",
+        "regionName": "Koraput",
         "ulbGrade": "Municipality",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -3907,8 +3995,9 @@
         "code": "UMC",
         "ddrName": "DDR A"
       },
-      "address": "Umerkote NAC",
-      "contactNumber": "+91-674-6615666"
+      "address": "Umerkote Municipality",
+      "contactNumber": "+91-674-6615666",
+      "helpLineNumber": "+91-674-6615666"
     }
   ]
 }
