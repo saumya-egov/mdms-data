@@ -10314,7 +10314,7 @@
       {
          "id": 3053,
          "name": "TL Payment search",
-         "url": "/collection-services/payments/TL/_search",
+         "url": "/collection-services/payments/MR/_search",
          "displayName": "TL Payment search",
          "orderNumber": 1,
          "parentModule": "",
