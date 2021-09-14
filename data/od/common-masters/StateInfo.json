@@ -17,10 +17,6 @@
         {
           "label": "ENGLISH",
           "value": "en_IN"
-        },
-        {
-          "label": "HINDI",
-          "value": "hn_IN"
         }        
       ],
       "localizationModules": [
