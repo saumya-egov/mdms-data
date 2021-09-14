@@ -10300,7 +10300,7 @@
          "code": "null",
          "path": "Connection Wise Collection Report"
       },
-	  {
+      {
          "id": 3052,
          "name": "Connection Wise Collection Report",
          "url": "/report/rainmaker-ws/connectionWiseCollectionReport/_get",
@@ -10310,6 +10310,18 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Connection Wise Collection Report"
-     }
+     },
+      {
+         "id": 3053,
+         "name": "TL Payment search",
+         "url": "/collection-services/payments/TL/_search",
+         "displayName": "TL Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
