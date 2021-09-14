@@ -20144,6 +20144,36 @@
       "actionid": 3052,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 3053,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_DOC_VERIFIER",
+      "actionid": 3053,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_FIELD_INSPECTOR",
+      "actionid": 3053,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3053,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3053,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
