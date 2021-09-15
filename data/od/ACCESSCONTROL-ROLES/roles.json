@@ -751,6 +751,11 @@
          "code":"EGF_MASTER_SUBLEDGER_VIEW",
          "name":"EGF MASTER SUBLEDGER VIEW",
          "description":"Role for Sub Ledger Configuration view access"
-    }       
+    },
+    {
+      "code": "NMA_NOC_APPROVER",
+      "name": "NMA Noc Department Approver",
+      "description": "NMA Noc application approver"
+    }     
   ]
 }

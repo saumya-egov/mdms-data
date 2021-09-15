@@ -332,6 +332,274 @@
     {
       "code": "APPL.OTHERDOC.DOC",
       "active": true
+    },
+    {
+      "code": "NOC.NMA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Elevation",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.InCaseOfRepairs",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Signature",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Other",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Section",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.FirmFiles",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.GoogleEarthImage",
+      "active": true
+    },
+    {
+      "code": "NOC.HBDA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.DFO.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.SA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.EC.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.HUDULB.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.PHEO.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.CGWA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.EDC.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.HDPOLICE.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.WRD.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.PCB.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.RDMTEHSILDAR.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.NHAI.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.COASTALREG.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEFATHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEMOTHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEGUARDIANIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEWITNESSIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEINVITATIONCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDERESIDENTIALPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEDIVYANGPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMFATHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMMOTHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMGUARDIANIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMWITNESSIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMINVITATIONCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMRESIDENTIALPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMDIVYANGPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.JOINTPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 3000
+    },
+    {
+      "code": "MR.JOINTAFFIDAVIT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
     }
   ]
 }

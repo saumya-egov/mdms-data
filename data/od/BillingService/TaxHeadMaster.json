@@ -110,6 +110,24 @@
       "isActualDemand": true,
       "order": 2
     },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Treasury Charge",
+      "code": "MR_TREASURY_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Establishment Cost",
+      "code": "MR_ESTABLISHMENT_COST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 1
+    },
     {
       "category": "TAX",
       "service": "TL",

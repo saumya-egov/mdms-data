@@ -5,40 +5,28 @@
     {
       "name": "Odisha",
       "code": "od",
-      "bannerUrl": "https://sujog.odisha.gov.in/filestore/v1/files/id?fileStoreId=20b83042-974a-4e6d-a0a4-d563d66e805a&tenantId=od",
-      "logoUrl": "https://sujog.odisha.gov.in/filestore/v1/files/id?fileStoreId=68400a2b-2c50-455d-8926-c82eb71b591a&tenantId=od",
+      "bannerUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
+      "logoUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
       "logoUrlWhite": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odWhiteLogo.png",
       "hasLocalisation": true,
       "defaultUrl": {
-        "citizen": "/user/register",
+        "citizen": "/user/login",
         "employee": "/user/login"
       },
       "languages": [
         {
           "label": "ENGLISH",
           "value": "en_IN"
-        }
+        }        
       ],
       "localizationModules": [
-        {
-          "label": "rainmaker-abg",
-          "value": "rainmaker-abg"
-        },
         {
           "label": "rainmaker-common",
           "value": "rainmaker-common"
         },
         {
-          "label": "rainmaker-noc",
-          "value": "rainmaker-noc"
-        },
-        {
           "label": "rainmaker-pt",
           "value": "rainmaker-pt"
-        },
-        {
-          "label": "rainmaker-uc",
-          "value": "rainmaker-uc"
         },
         {
           "label": "rainmaker-pgr",
@@ -49,12 +37,12 @@
           "value": "rainmaker-tl"
         },
         {
-          "label": "rainmaker-hr",
-          "value": "rainmaker-hr"
+          "label": "rainmaker-mr",
+          "value": "rainmaker-mr"
         },
         {
-          "label": "rainmaker-test",
-          "value": "rainmaker-test"
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
         },
         {
           "label": "finance-erp",
@@ -63,10 +51,6 @@
         {
           "label": "rainmaker-receipt",
           "value": "rainmaker-receipt"
-        },
-        {
-          "label": "rainmaker-dss",
-          "value": "rainmaker-dss"
         },
         {
           "label": "rainmaker-fsm",

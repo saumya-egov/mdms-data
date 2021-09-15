@@ -42,6 +42,19 @@
       ]
     },
     {
+      "code": "MR",
+      "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
+      "receiptKey": "marriageregistration-receipt",
+      "billKey": "marriageregistration-bill",
+      "buttons": [
+        {
+          "label": "COMMON_BUTTON_HOME",
+          "citizenUrl": "/marriageregistration-citizen/home",
+          "employeeUrl": "/marriageregistration/search"
+        }
+      ]
+    },
+    {
       "code": "BPA.NC_APP_FEE",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "consolidatedreceipt",

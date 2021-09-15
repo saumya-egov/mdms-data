@@ -447,15 +447,15 @@
             "idname": "nks.rain_harvesting_charges.receipt.id"
         },
         {
-            "format": "PT-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+            "format": "PT-AC-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
             "idname": "pt.acknowledgementnumber"
         },
         {
-            "format": "PT-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "format": "PT-AS-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+            "format": "PT-[CITY.CODE]-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         }, 
         {
@@ -471,7 +471,7 @@
             "idname": "egov.idgen.bpa.aplnumber"
         },   
                 {
-            "format": "BP-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_BP_PN]",
+            "format": "BP/[CITY.CODE]/[SEQ_EG_BP_PN]",
             "idname": "bpa.permitnumber"
         },
         {
@@ -515,19 +515,19 @@
             "idname": "bpa.nc_san_fee.receipt.id"
         },
         {
-            "format": "PT-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "format": "PT-MU-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
             "idname": "pt.mutation.receipt.id"
         },
         {
-            "format": "PT-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+            "format": "PT-MT-[CITY.CODE]-[SEQ_EG_PT_MUTATION]",
             "idname": "pt.mutation.number"
         },
         {
-            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_WS_CONN]",
+            "format": "WS/[CITY.CODE]/[SEQ_EG_WS_CONN]",
             "idname": "waterservice.connection.id"
         },
         {
-            "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_SW_CONN]",
+            "format": "SW/[CITY.CODE]/[SEQ_EG_SW_CONN]",
             "idname": "sewerageservice.connection.id"
         },
         {
@@ -581,6 +581,18 @@
         {
             "idname": "fsm.aplnumber",
             "format": "[CITY.CODE]-FSM-[cy:yyyy-MM-dd]-[SEQ_EGOV_FSM]"
+        },
+        {
+            "format": "MR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "mr.receipt.id"
+        },
+        {
+            "idname": "mr.aplnumber",
+            "format": "MR-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
+        },
+        {
+            "idname": "mr.mrnnumber",
+            "format": "MR/[CITY.CODE]/[SEQ_EG_MR_MRN]"
         }
     ]
 }
