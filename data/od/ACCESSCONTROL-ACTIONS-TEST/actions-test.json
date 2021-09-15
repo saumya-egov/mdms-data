@@ -10339,14 +10339,14 @@
          "lastModifiedDate": null,
          "lastModifiedBy": null,
          "path": "Building Plan Approval.BPA Reports.BPA Status Report",
-         "navigationURL": "report/rainmaker-bp/BpaStatusReport",
+         "navigationURL": "report/rainmaker-bpa/BpaStatusReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
 	  {
          "id": 3055,
          "name": "BPA Status Report",
-         "url": "/report/rainmaker-bp/BpaStatusReport/metadata/_get",
+         "url": "/report/rainmaker-bpa/BpaStatusReport/metadata/_get",
          "displayName": "BPA Status Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10357,7 +10357,7 @@
       {
          "id": 3056,
          "name": "BPA Status Report",
-         "url": "/report/rainmaker-bp/BpaStatusReport/_get",
+         "url": "/report/rainmaker-bpa/BpaStatusReport/_get",
          "displayName": "BPA Status Report",
          "orderNumber": 0,
          "enabled": true,
