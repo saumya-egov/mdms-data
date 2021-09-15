@@ -19588,13 +19588,13 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "CITIZEN1",
       "actionid": 3020,
       "actioncode": "",
       "tenantId": "od"
     },
      {
-      "rolecode": "CITIZEN",
+      "rolecode": "CITIZEN1",
       "actionid": 3021,
       "actioncode": "",
       "tenantId": "od"
