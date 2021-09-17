@@ -4,7 +4,7 @@
     "NocType": [
         {
             "code": "HBDA_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "HBDA_NOC_OFFLINE",
             "onlineWF": "HBDA_NOC_SRV",
             "mode": "offline",
@@ -12,7 +12,7 @@
         },
         {
             "code": "DFO_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "DFO_NOC_OFFLINE",
             "onlineWF": "DFO_NOC_SRV",
             "mode": "offline",
@@ -20,7 +20,7 @@
         },
         {
             "code":"AIRPORT_AUTHORITY",
-            "isActive": true,
+            "isActive": false,
             "offlineWF":"AIRPORT_NOC_OFFLINE",
             "onlineWF":"AIRPORT_NOC_SRV",
             "mode":"offline",
@@ -31,13 +31,13 @@
             "isActive": true,
             "offlineWF": "NMA_NOC_OFFLINE",
             "onlineWF": "NMA_NOC_SRV",
-            "thirdPartyWF": "NMA_NOC_SRV",
+            "thirdPartyWF": "NMA_NOC_THIRD_PARTY",
             "mode": "thirdParty",
             "NocUserRole": "NMA_NOC_APPROVER"
         },
         {
             "code": "EC_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "EC_NOC_OFFLINE",
             "onlineWF": "EC_NOC_SRV",
             "mode": "offline",
@@ -45,7 +45,7 @@
         },
         {
             "code": "FIRE_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF":"FIRE_NOC_OFFLINE",
             "onlineWF":"FIRE_NOC_SRV",
             "mode":"offline",
@@ -53,7 +53,7 @@
         },
         {
             "code": "HUDULB_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "HUDULB_NOC_OFFLINE",
             "onlineWF": "HUDULB_NOC_SRV",
             "mode": "offline",
@@ -61,7 +61,7 @@
         },
         {
             "code": "PHEO_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "PHEO_NOC_OFFLINE",
             "onlineWF": "PHEO_NOC_SRV",
             "mode": "offline",
@@ -69,7 +69,7 @@
         },
         {
             "code": "CGWA_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "CGWA_NOC_OFFLINE",
             "onlineWF": "CGWA_NOC_SRV",
             "mode": "offline",
@@ -77,7 +77,7 @@
         },
         {
             "code": "EDC_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "EDC_NOC_OFFLINE",
             "onlineWF": "EDC_NOC_SRV",
             "mode": "offline",
@@ -85,7 +85,7 @@
         },
         {
             "code": "HDPOLICE_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "HDPOLICE_NOC_OFFLINE",
             "onlineWF": "HDPOLICE_NOC_SRV",
             "mode": "offline",
@@ -93,7 +93,7 @@
         },
         {
             "code": "WRD_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "WRD_NOC_OFFLINE",
             "onlineWF": "WRD_NOC_SRV",
             "mode": "offline",
@@ -101,7 +101,7 @@
         },
         {
             "code": "PCB_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "PCB_NOC_OFFLINE",
             "onlineWF": "PCB_NOC_SRV",
             "mode": "offline",
@@ -109,7 +109,7 @@
         },
         {
             "code": "RDMTEHSILDAR_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "RDMTEHSILDAR_NOC_OFFLINE",
             "onlineWF": "RDMTEHSILDAR_NOC_SRV",
             "mode": "offline",
@@ -117,7 +117,7 @@
         },
         {
             "code": "NHAI_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "NHAI_NOC_OFFLINE",
             "onlineWF": "NHAI_NOC_SRV",
             "mode": "offline",
@@ -125,7 +125,7 @@
         },
         {
             "code": "COASTALREG_NOC",
-            "isActive": true,
+            "isActive": false,
             "offlineWF": "COASTALREG_NOC_OFFLINE",
             "onlineWF": "COASTALREG_NOC_SRV",
             "mode": "offline",
@@ -133,7 +133,7 @@
         },
         {
             "code":"SA_NOC",
-            "isActive":true,
+            "isActive":false,
             "offlineWF":"SA_NOC_OFFLINE",
             "onlineWF":"SA_NOC_SRV",
             "mode":"offline",
