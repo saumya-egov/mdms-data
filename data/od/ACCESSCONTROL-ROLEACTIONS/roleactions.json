@@ -18903,6 +18903,24 @@
     "tenantId": "od"
   },
   {
+    "rolecode": "SW_CEMP",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "od"
+  },
+  {
+    "rolecode": "WS_CEMP",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "od"
+  },
+  {
+    "rolecode": "PT_CEMP",
+    "actionid": 706,
+    "actioncode": "",
+    "tenantId": "od"
+  },
+  {
     "rolecode": "EMPLOYEE",
     "actionid": 2087,
     "actioncode": "",
@@ -20352,6 +20370,30 @@
 	{
       "rolecode": "BPA4_APPROVER",
       "actionid": 3056,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "SW_CEMP",
+      "actionid": 3057,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 3057,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3058,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3058,
       "actioncode": "",
       "tenantId": "od"
     }

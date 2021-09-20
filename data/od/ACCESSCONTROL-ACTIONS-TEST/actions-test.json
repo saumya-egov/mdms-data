@@ -10364,6 +10364,30 @@
          "serviceCode": "BPAREPORTS",
          "code": "null",
          "path": "BPA Status Report"
-     }
+     },
+	 {
+         "id": 3057,
+         "name": "SW application Payment search",
+         "url": "/collection-services/payments/SW.ONE_TIME_FEE/_search",
+         "displayName": "SW application Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3058,
+         "name": "WS Payment search",
+         "url": "/collection-services/payments/WS.ONE_TIME_FEE/_search",
+         "displayName": "WS Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
