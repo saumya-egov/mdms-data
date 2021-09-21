@@ -9890,7 +9890,7 @@
          "code": "null",
          "navigationURL": "mr-citizen/home",
          "path": "MarriageRegistration",
-         "leftIcon": "places:business-center",
+         "leftIcon": "custom:mr",
          "rightIcon": ""
       },
       {
