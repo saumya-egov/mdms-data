@@ -9874,7 +9874,7 @@
          "code": "",
          "path": "",
          "navigationURL": "mr-citizen/home",
-         "leftIcon": "custom:mr",
+         "leftIcon": "social:group-add",
          "rightIcon": "",
          "queryParams": ""
       },	   
@@ -9890,7 +9890,7 @@
          "code": "null",
          "navigationURL": "mr-citizen/home",
          "path": "MarriageRegistration",
-         "leftIcon": "custom:mr",
+         "leftIcon": "social:group-add",
          "rightIcon": ""
       },
       {
