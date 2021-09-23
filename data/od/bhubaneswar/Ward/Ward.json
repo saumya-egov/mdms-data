@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.cuttack",
+  "tenantId": "od.bhubaneswar",
   "moduleName": "Ward",
   "Ward": [
     {
@@ -236,6 +236,38 @@
     },
     {
       "code": "59",
+      "active": true
+    },
+    {
+      "code": "60",
+      "active": true
+    },
+    {
+      "code": "61",
+      "active": true
+    },
+    {
+      "code": "62",
+      "active": true
+    },
+    {
+      "code": "63",
+      "active": true
+    },
+    {
+      "code": "64",
+      "active": true
+    },
+    {
+      "code": "65",
+      "active": true
+    },
+    {
+      "code": "66",
+      "active": true
+    },
+    {
+      "code": "67",
       "active": true
     }
   ]
