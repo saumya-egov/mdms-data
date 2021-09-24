@@ -10472,6 +10472,105 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Sewerage Connection Wise Demands Report"
+      },
+      {
+         "id": 3065,
+         "name": "DSC Test",
+         "url": "/dsc-services/dsc/_getCheck",
+         "displayName": "DSC Test",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3066,
+         "name": "DSC Token Input",
+         "url": "/dsc-services/dsc/_getTokenInput",
+         "displayName": "DSC Token Input",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3067,
+         "name": "DSC Token",
+         "url": "/dsc-services/dsc/_getTokens",
+         "displayName": "DSC Token",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+       {
+         "id": 3068,
+         "name": "DSC Certificate Input",
+         "url": "/dsc-services/dsc/_getInputCertificate",
+         "displayName": "DSC Certificate Input",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+       {
+         "id": 3069,
+         "name": "DSC Certificate",
+         "url": "/dsc-services/dsc/_getCertificate",
+         "displayName": "DSC Certificate",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3070,
+         "name": "DSC Sign Input",
+         "url": "/dsc-services/dsc/_dataSignInput",
+         "displayName": "DSC Sign Input",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3071,
+         "name": "DSC Data Sign",
+         "url": "/dsc-services/dsc/_dataSign",
+         "displayName": "DSC Data Sign",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+        {
+         "id": 3072,
+         "name": "DSC Sign Input",
+         "url": "/dsc-services/dsc/_pdfSignInput",
+         "displayName": "DSC Sign Input",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3073,
+         "name": "DSC PDF Sign",
+         "url": "/dsc-services/dsc/_pdfSign",
+         "displayName": "DSC PDF Sign",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC",
+         "code": "null",
+         "path": ""
       }
    ]
 }
