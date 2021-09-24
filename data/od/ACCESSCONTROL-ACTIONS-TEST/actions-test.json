@@ -10571,6 +10571,17 @@
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3074,
+         "name": "DSC emAS Service",
+         "url": "/emas3/services/authenticateWS",
+         "displayName": "DSC emAS Service",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSC emAS Service",
+         "code": "null",
+         "path": ""
       }
    ]
 }
