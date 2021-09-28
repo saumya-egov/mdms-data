@@ -10479,7 +10479,7 @@
          "url": "/dsc-services/dsc/_getCheck",
          "displayName": "DSC Test",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10490,7 +10490,7 @@
          "url": "/dsc-services/dsc/_getTokenInput",
          "displayName": "DSC Token Input",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10501,7 +10501,7 @@
          "url": "/dsc-services/dsc/_getTokens",
          "displayName": "DSC Token",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10512,7 +10512,7 @@
          "url": "/dsc-services/dsc/_getInputCertificate",
          "displayName": "DSC Certificate Input",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10523,7 +10523,7 @@
          "url": "/dsc-services/dsc/_getCertificate",
          "displayName": "DSC Certificate",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10534,7 +10534,7 @@
          "url": "/dsc-services/dsc/_dataSignInput",
          "displayName": "DSC Sign Input",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10545,7 +10545,7 @@
          "url": "/dsc-services/dsc/_dataSign",
          "displayName": "DSC Data Sign",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10556,7 +10556,7 @@
          "url": "/dsc-services/dsc/_pdfSignInput",
          "displayName": "DSC Sign Input",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10567,7 +10567,7 @@
          "url": "/dsc-services/dsc/_pdfSign",
          "displayName": "DSC PDF Sign",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC",
          "code": "null",
          "path": ""
@@ -10578,7 +10578,7 @@
          "url": "/emas3/services/authenticateWS",
          "displayName": "DSC emAS Service",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSC emAS Service",
          "code": "null",
          "path": ""
