@@ -10595,7 +10595,7 @@
          "code": "",
          "path": "",
          "navigationURL": "marriageregistration/search",
-         "leftIcon": "places:business-center",
+         "leftIcon": "social:group-add",
          "rightIcon": "",
          "queryParams": ""
       },
@@ -10611,7 +10611,7 @@
          "code": "null",
          "navigationURL": "marriageregistration/search?action=showRequiredDocuments",
          "path": "MarriageRegistration.Apply",
-         "leftIcon": "places:business-center"
+         "leftIcon": "social:group-add"
       }	   
    ]
 }
