@@ -10582,6 +10582,36 @@
          "serviceCode": "DSC emAS Service",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+         "id": 3075,
+         "name": "rainmaker-common-marriageregistration",
+         "url": "quickAction",
+         "displayName": "Search MR",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "marriageregistration/search",
+         "leftIcon": "places:business-center",
+         "rightIcon": "",
+         "queryParams": ""
+      },
+      {
+         "id": 3076,
+         "name": "MarriageRegistrationApplication",
+         "url": "quickAction",
+         "displayName": "Apply MR",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "MarriageRegistration",
+         "code": "null",
+         "navigationURL": "marriageregistration/search?action=showRequiredDocuments",
+         "path": "MarriageRegistration.Apply",
+         "leftIcon": "places:business-center"
+      }	   
    ]
 }
