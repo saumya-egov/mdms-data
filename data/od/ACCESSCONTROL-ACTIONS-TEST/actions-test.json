@@ -10612,6 +10612,36 @@
          "navigationURL": "marriageregistration/search?action=showRequiredDocuments",
          "path": "MarriageRegistration.Apply",
          "leftIcon": "social:group-add"
+      },
+      {
+         "id": 3077,
+         "name": "MarriageRegistrationSearch",
+         "url": "url",
+         "displayName": "Search",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "MarriageRegistration",
+         "code": "null",
+         "navigationURL": "marriageregistration/search",
+         "path": "MarriageRegistration.Search",
+         "leftIcon": "social:group-add"
+      },
+     {
+         "id": 3078,
+         "name": "rainmaker-common-marriageregistration",
+         "url": "card",
+         "displayName": "Marriage Registration",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "marriageregistration/search",
+         "leftIcon": "social:group-add",
+         "rightIcon": "",
+         "queryParams": ""
       }	   
    ]
 }
