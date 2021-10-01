@@ -20554,7 +20554,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "SYSTEM",
       "actionid": 3079,
       "actioncode": "",
       "tenantId": "od"
