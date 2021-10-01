@@ -10642,6 +10642,17 @@
          "leftIcon": "social:group-add",
          "rightIcon": "",
          "queryParams": ""
+      },
+      {
+         "id": 3079,
+         "name": "Third party NOC Submit",
+         "url": "/noc-services/v1/noc/_thirdparty",
+         "displayName": "Submit",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "NOC",
+         "code": "null",
+         "path": ""
       }	   
    ]
 }
