@@ -10610,7 +10610,7 @@
          "serviceCode": "Marriage Registration",
          "code": "null",
          "navigationURL": "mr/search?action=showRequiredDocuments",
-         "path": "MarriageRegistration.Apply",
+         "path": "Marriage Registration.Apply",
          "leftIcon": "social:group-add"
       },
       {
@@ -10624,7 +10624,7 @@
          "serviceCode": "Marriage Registration",
          "code": "null",
          "navigationURL": "mr/search",
-         "path": "MarriageRegistration.Search",
+         "path": "Marriage Registration.Search",
          "leftIcon": "social:group-add"
       },
      {
