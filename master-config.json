@@ -783,6 +783,13 @@
         "$.code"
       ]
     },
+	"ApplicationType": {
+      "masterName": "ApplicationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "Documents": {
       "masterName": "Documents",
       "isStateLevel": true,
