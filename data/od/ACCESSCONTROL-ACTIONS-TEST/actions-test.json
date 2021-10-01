@@ -10594,7 +10594,7 @@
          "serviceCode": "",
          "code": "",
          "path": "",
-         "navigationURL": "marriageregistration/search",
+         "navigationURL": "mr/search",
          "leftIcon": "social:group-add",
          "rightIcon": "",
          "queryParams": ""
@@ -10609,7 +10609,7 @@
          "enabled": false,
          "serviceCode": "MarriageRegistration",
          "code": "null",
-         "navigationURL": "marriageregistration/search?action=showRequiredDocuments",
+         "navigationURL": "mr/search?action=showRequiredDocuments",
          "path": "MarriageRegistration.Apply",
          "leftIcon": "social:group-add"
       },
@@ -10623,7 +10623,7 @@
          "enabled": true,
          "serviceCode": "MarriageRegistration",
          "code": "null",
-         "navigationURL": "marriageregistration/search",
+         "navigationURL": "mr/search",
          "path": "MarriageRegistration.Search",
          "leftIcon": "social:group-add"
       },
@@ -10638,7 +10638,7 @@
          "serviceCode": "",
          "code": "",
          "path": "",
-         "navigationURL": "marriageregistration/search",
+         "navigationURL": "mr/search",
          "leftIcon": "social:group-add",
          "rightIcon": "",
          "queryParams": ""
