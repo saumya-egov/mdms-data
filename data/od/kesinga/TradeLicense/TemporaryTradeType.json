@@ -3,64 +3,6 @@
   "moduleName": "TradeLicense",
   "TemporaryTradeType": [
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST253",
-      "name": "Band Party",
-      "uom": "NUMBEROFDAYS",
-      "uomDescription": "Number of Days",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST258",
-      "name": "Bolbam",
-      "uom": "NUMBEROFDAYS",
-      "uomDescription": "Number of Days",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST272",
       "name": "Chitralaya",
       "uom": "NUMBEROFDAYS",
@@ -119,6 +61,35 @@
       "validityPeriod": null
     },
     {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST331",
+      "name": "Jatra/Circus/Drama/Theatre Company",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST301",
       "name": "Fly Ash Bricks",
       "uom": "NUMBEROFDAYS",
@@ -148,8 +119,37 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST331",
-      "name": "Jatra/Circus/Drama/Theatre Company",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST253",
+      "name": "Band Party",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST258",
+      "name": "Bolbam",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [

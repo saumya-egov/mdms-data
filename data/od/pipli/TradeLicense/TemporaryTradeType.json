@@ -3,66 +3,8 @@
   "moduleName": "TradeLicense",
   "TemporaryTradeType": [
     {
-      "code": "EATINGESTABLISHMENTS.TST19",
-      "name": "Fast Food centres",
-      "uom": "NUMBEROFDAYS",
-      "uomDescription": "Number of Days",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST22",
-      "name": "Fruit Juice/Lassi Center",
-      "uom": "NUMBEROFDAYS",
-      "uomDescription": "Number of Days",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST139",
-      "name": "Fruits (Seasonal)",
+      "code": "EATINGESTABLISHMENTS.TST30",
+      "name": "Dhaba",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
@@ -119,8 +61,37 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST243",
-      "name": "Agriculture items",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST280",
+      "name": "Computer Education",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST139",
+      "name": "Fruits (Seasonal)",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
@@ -177,8 +148,66 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST245",
-      "name": "Applique Shop",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST243",
+      "name": "Agriculture items",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST22",
+      "name": "Fruit Juice/Lassi Center",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST19",
+      "name": "Fast Food centres",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
@@ -235,66 +264,37 @@
       "validityPeriod": null
     },
     {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST245",
+      "name": "Applique Shop",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST279",
       "name": "Competitive Institute",
-      "uom": "NUMBEROFDAYS",
-      "uomDescription": "Number of Days",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST280",
-      "name": "Computer Education",
-      "uom": "NUMBEROFDAYS",
-      "uomDescription": "Number of Days",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST30",
-      "name": "Dhaba",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [

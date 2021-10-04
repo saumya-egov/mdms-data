@@ -3,8 +3,37 @@
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST11",
-      "name": "Cloth (Retail)",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST19",
+      "name": "Bricks or Tiles Manufacturing",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
+      "name": "Photo Studio/Shop & Articles",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -61,35 +90,6 @@
       "validityPeriod": null
     },
     {
-      "code": "FLAMABLES.TST7",
-      "name": "Fire Works (Crackers)",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST21",
       "name": "Sanitary Fittings / Goods",
       "uom": null,
@@ -119,37 +119,8 @@
       "validityPeriod": null
     },
     {
-      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST10",
-      "name": "Meat shop",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST114",
-      "name": "Milk and Milk Products",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
+      "name": "Gold & Silver Shops",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -206,8 +177,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
-      "name": "Groceries Stores",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST11",
+      "name": "Cloth (Retail)",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -235,66 +206,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
-      "name": "Mobile Phones & Its Accessories including Sim Cards",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST17",
-      "name": "Poultry farms",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
-      "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST220",
+      "name": "Street Vendor",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -351,8 +264,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST125",
-      "name": "Motor Servicing, for 4,6,8,10 & above wheelers",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
+      "name": "Groceries Stores",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -380,8 +293,8 @@
       "validityPeriod": null
     },
     {
-      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST19",
-      "name": "Sale of Dressed Chicken",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST114",
+      "name": "Milk and Milk Products",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -409,8 +322,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST126",
-      "name": "New Cycle & Accessories Fittings",
+      "code": "FLAMABLES.TST7",
+      "name": "Fire Works (Crackers)",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -496,530 +409,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
-      "name": "All Electrical Goods Servicing & Repairs",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST5",
-      "name": "Cooldrinks / Ice Cream - Sales",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST19",
-      "name": "Fast Food centres",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST50",
-      "name": "Photo Colour Lab (Studio)",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST63",
-      "name": "Sale of furniture, steel & wood (Retail)",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST15",
-      "name": "Electric Welding",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST6",
-      "name": "Hotels",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST157",
-      "name": "Cycle Shop",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST16",
-      "name": "Gas Welding",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "MEDICALESTABLISHMENTS.TST4",
-      "name": "Pathological Labs",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST20",
-      "name": "Sweet Stall",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST22",
-      "name": "Fruit Juice/Lassi Center",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST19",
-      "name": "Bricks or Tiles Manufacturing",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST23",
-      "name": "Manufacturing Of Fruit juices",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST193",
-      "name": "Photo Studio/Shop & Articles",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "EATINGESTABLISHMENTS.TST15",
-      "name": "Tiffin Centres",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST109",
-      "name": "Gold & Silver Shops",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST9",
-      "name": "Cloth( Readymade Showroom)",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST96",
-      "name": "Computer stationary",
+      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST10",
+      "name": "Meat shop",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1049,6 +440,35 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST243",
       "name": "Agriculture items",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
+      "name": "Mobile Phones & Its Accessories including Sim Cards",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1134,97 +554,39 @@
       "validityPeriod": null
     },
     {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST123",
+      "name": "Motor & Motor Cycle Repairing & Servicing (Mechanic Workshops)",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST254",
       "name": "Beauty Parlour Non A/C",
       "uom": "SQFT",
       "uomDescription": "SQFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST279",
-      "name": "Competitive Institute",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST280",
-      "name": "Computer Education",
-      "uom": "SQFT",
-      "uomDescription": "SQFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST286",
-      "name": "Departmental Store/General Store",
-      "uom": null,
-      "uomDescription": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1279,8 +641,124 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST288",
-      "name": "Digital Flex Banner",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST125",
+      "name": "Motor Servicing, for 4,6,8,10 & above wheelers",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST126",
+      "name": "New Cycle & Accessories Fittings",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST19",
+      "name": "Fast Food centres",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST17",
+      "name": "Poultry farms",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST279",
+      "name": "Competitive Institute",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1337,8 +815,37 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST301",
-      "name": "Fly Ash Bricks",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST280",
+      "name": "Computer Education",
+      "uom": "SQFT",
+      "uomDescription": "SQFT",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "LIVESTOCKANDRELATEDPRODUCTS.TST19",
+      "name": "Sale of Dressed Chicken",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1366,8 +873,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST302",
-      "name": "FMCG Goods (Distributor)",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST286",
+      "name": "Departmental Store/General Store",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1395,10 +902,387 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST303",
-      "name": "FMCG Goods (Retails)",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST288",
+      "name": "Digital Flex Banner",
       "uom": null,
       "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST20",
+      "name": "Sweet Stall",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST15",
+      "name": "Electric Welding",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST5",
+      "name": "Cooldrinks / Ice Cream - Sales",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST157",
+      "name": "Cycle Shop",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST6",
+      "name": "Hotels",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST16",
+      "name": "Gas Welding",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST22",
+      "name": "Fruit Juice/Lassi Center",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "MEDICALESTABLISHMENTS.TST16",
+      "name": "Homeopathy Medicine store",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST15",
+      "name": "Tiffin Centres",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "MEDICALESTABLISHMENTS.TST4",
+      "name": "Pathological Labs",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "EATINGESTABLISHMENTS.TST23",
+      "name": "Manufacturing Of Fruit juices",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST43",
+      "name": "All Electrical Goods Servicing & Repairs",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST342",
+      "name": "Marble Shop",
+      "uom": "SQFT",
+      "uomDescription": "SQFT",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1482,37 +1366,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST319",
-      "name": "Home Appliances",
-      "uom": "SQFT",
-      "uomDescription": "SQFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "MEDICALESTABLISHMENTS.TST16",
-      "name": "Homeopathy Medicine store",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST393",
+      "name": "Scrap Dealer",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1540,8 +1395,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST329",
-      "name": "Iron Rod (retailer)",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST302",
+      "name": "FMCG Goods (Distributor)",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1627,64 +1482,6 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST338",
-      "name": "Lubricants",
-      "uom": null,
-      "uomDescription": null,
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST342",
-      "name": "Marble Shop",
-      "uom": "SQFT",
-      "uomDescription": "SQFT",
-      "applicationDocument": [
-        {
-          "applicationType": "NEW",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO"
-          ]
-        },
-        {
-          "applicationType": "RENEWAL",
-          "documentList": [
-            "OWNERIDPROOF",
-            "OWNERSHIPPROOF",
-            "OWNERPHOTO",
-            "OLDLICENCENO"
-          ]
-        }
-      ],
-      "verificationDocument": [],
-      "active": true,
-      "type": "TL",
-      "validityPeriod": null
-    },
-    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST348",
       "name": "News press",
       "uom": null,
@@ -1714,8 +1511,153 @@
       "validityPeriod": null
     },
     {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST387",
+      "name": "Sale of Plywood",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST319",
+      "name": "Home Appliances",
+      "uom": "SQFT",
+      "uomDescription": "SQFT",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST329",
+      "name": "Iron Rod (retailer)",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST303",
+      "name": "FMCG Goods (Retails)",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST349",
       "name": "Non-Banking / Private Finance Company",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST301",
+      "name": "Fly Ash Bricks",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1801,8 +1743,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST387",
-      "name": "Sale of Plywood",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST338",
+      "name": "Lubricants",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1830,8 +1772,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST393",
-      "name": "Scrap Dealer",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST63",
+      "name": "Sale of furniture, steel & wood (Retail)",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [
@@ -1859,8 +1801,66 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST220",
-      "name": "Street Vendor",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST96",
+      "name": "Computer stationary",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST50",
+      "name": "Photo Colour Lab (Studio)",
+      "uom": null,
+      "uomDescription": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST9",
+      "name": "Cloth( Readymade Showroom)",
       "uom": null,
       "uomDescription": null,
       "applicationDocument": [

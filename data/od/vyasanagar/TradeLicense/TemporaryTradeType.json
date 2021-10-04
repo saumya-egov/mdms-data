@@ -3,8 +3,8 @@
   "moduleName": "TradeLicense",
   "TemporaryTradeType": [
     {
-      "code": "EATINGESTABLISHMENTS.TST1",
-      "name": "Bakery Manufacturing",
+      "code": "EATINGESTABLISHMENTS.TST3",
+      "name": "Bakery Shop (Retail)",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
@@ -32,8 +32,8 @@
       "validityPeriod": null
     },
     {
-      "code": "EATINGESTABLISHMENTS.TST3",
-      "name": "Bakery Shop (Retail)",
+      "code": "EATINGESTABLISHMENTS.TST1",
+      "name": "Bakery Manufacturing",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [

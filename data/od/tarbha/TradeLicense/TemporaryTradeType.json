@@ -3,8 +3,8 @@
   "moduleName": "TradeLicense",
   "TemporaryTradeType": [
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST258",
-      "name": "Bolbam",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST265",
+      "name": "Cane Products",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
@@ -32,8 +32,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST265",
-      "name": "Cane Products",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST258",
+      "name": "Bolbam",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [

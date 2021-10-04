@@ -32,8 +32,8 @@
       "validityPeriod": null
     },
     {
-      "code": "FLAMABLES.TST23",
-      "name": "Fire Works (Crackers) Wholeseller",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST318",
+      "name": "Holi or Rangoli shop",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
@@ -61,8 +61,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST318",
-      "name": "Holi or Rangoli shop",
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST220",
+      "name": "Street Vendor",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
@@ -119,8 +119,8 @@
       "validityPeriod": null
     },
     {
-      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST220",
-      "name": "Street Vendor",
+      "code": "FLAMABLES.TST23",
+      "name": "Fire Works (Crackers) Wholeseller",
       "uom": "NUMBEROFDAYS",
       "uomDescription": "Number of Days",
       "applicationDocument": [
