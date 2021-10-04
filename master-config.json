@@ -769,7 +769,14 @@
       "uniqueKeys": [
         "$.fromFY"
       ]
-    }
+    },
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }	
   },
   "MarriageRegistration": {
 	  "RegistrationFee": {
