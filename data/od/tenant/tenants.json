@@ -28,7 +28,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CTC",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE  GENERAL MANAGER",
+        "wsBillHeaderLine2": "WATCO DIVISION : CUTTACK"
       },
       "address": "Cuttack Municipal Corporation",
       "contactNumber": "1800 121 6833",
@@ -61,7 +63,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JTN",
-        "ddrName": "DDR B"
+        "ddrName": "DDR B",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE DEPUTY HEAD COMMERCIAL",
+        "wsBillHeaderLine2": "COMMERCIAL WING, SATYA NAGAR, BBSR-751007"
       },
       "address": "Jatni Municipality",
       "contactNumber": "1800 121 6833",
@@ -94,7 +98,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ANG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Angul"
       },
       "address": "Angul Municipality",
       "contactNumber": "1800 121 6833",
@@ -127,7 +133,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CDR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Choudwar"
       },
       "address": "Choudwar Municipality",
       "contactNumber": "1800 121 6833",
@@ -193,7 +201,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BRM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Birmitrapur"
       },
       "address": "Birmitrapur Municipality",
       "contactNumber": "1800 121 6833",
@@ -229,7 +239,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BAM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Berhampur"
       },
       "address": "Berhampur Municipal Corporation",
       "contactNumber": "1800 121 6833",
@@ -262,7 +274,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CHH",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Chatrapur"
       },
       "address": "Chatrapur NAC",
       "contactNumber": "1800 121 6833",
@@ -328,7 +342,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GPP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Gopalpur"
       },
       "address": "Gopalpur NAC",
       "contactNumber": "1800 121 6833",
@@ -394,7 +410,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KHU",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE MANAGER",
+        "wsBillHeaderLine2": "WATCO SUBDIVISION, KHORDHA"
       },
       "address": "Khordha Municipality",
       "contactNumber": "1800 121 6833",
@@ -427,7 +445,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KON",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE  MANAGER",
+        "wsBillHeaderLine2": "WATCO SUB-DIVISION : NIMAPARA (KONARK)"
       },
       "address": "Konark NAC",
       "contactNumber": "1800 121 6833",
@@ -460,7 +480,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PDP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Paradeep"
       },
       "address": "Paradeep Municipality",
       "contactNumber": "1800 121 6833",
@@ -526,7 +548,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PRI",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE GENERAL MANAGER",
+        "wsBillHeaderLine2": "WATCO DIVISION : PURI"
       },
       "address": "Puri Municipality",
       "contactNumber": "1800 121 6833",
@@ -592,7 +616,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RJG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rajgangpur"
       },
       "address": "Rajgangpur Municipality",
       "contactNumber": "1800 121 6833",
@@ -625,7 +651,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RRK",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rourkela"
       },
       "address": "Rourkela Municipal Corporation",
       "contactNumber": "1800 121 6833",
@@ -691,7 +719,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SMB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sambalpur"
       },
       "address": "Sambalpur Municipal Corporation",
       "contactNumber": "1800 121 6833",
@@ -757,7 +787,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SNG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sundargarh"
       },
       "address": "Sundargarh Municipality",
       "contactNumber": "1800 121 6833",
@@ -790,7 +822,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TLC",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Talcher"
       },
       "address": "Talcher Municipality",
       "contactNumber": "1800 121 6833",
@@ -889,7 +923,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "VSN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Vyasanagar"
       },
       "address": "Vyasanagar Municipality",
       "contactNumber": "1800 121 6833",
@@ -921,7 +957,9 @@
         "latitude": 0,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "BLS"
+        "code": "BLS",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balasore"
       },
       "address": "Balasore Municipality",
       "contactNumber": "1800 121 6833",
@@ -953,7 +991,9 @@
         "latitude": 0,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "DKN"
+        "code": "DKN",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Dhenkanal"
       },
       "address": "Dhenkanal Municipality",
       "contactNumber": "1800 121 6833",
@@ -985,7 +1025,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "AND",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Anandpur"
       },
       "address": "Anandapur Municipality",
       "contactNumber": "1800 121 6833",
@@ -1017,7 +1059,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ASK",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Aska"
       },
       "address": "Aska",
       "contactNumber": "1800 121 6833",
@@ -1049,7 +1093,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ATH",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Athagarh"
       },
       "address": "Athagarh NAC",
       "contactNumber": "1800 121 6833",
@@ -1081,7 +1127,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ATM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Athmallik"
       },
       "address": "Athamallik NAC",
       "contactNumber": "1800 121 6833",
@@ -1113,7 +1161,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ATB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Attabira"
       },
       "address": "Attabira NAC",
       "contactNumber": "1800 121 6833",
@@ -1145,7 +1195,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balangir"
       },
       "address": "Balangir Municipality",
       "contactNumber": "1800 121 6833",
@@ -1177,7 +1229,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balimela"
       },
       "address": "Balimela NAC",
       "contactNumber": "1800 121 6833",
@@ -1209,7 +1263,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLD",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balliguda"
       },
       "address": "Balliguda NAC",
       "contactNumber": "1800 121 6833",
@@ -1241,7 +1297,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balugaon"
       },
       "address": "Balugaon NAC",
       "contactNumber": "1800 121 6833",
@@ -1273,7 +1331,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BAN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Banki"
       },
       "address": "Banki NAC",
       "contactNumber": "1800 121 6833",
@@ -1305,7 +1365,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BNP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Banpur"
       },
       "address": "Banpur NAC",
       "contactNumber": "1800 121 6833",
@@ -1337,7 +1399,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BRG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bargarh"
       },
       "address": "Baragarh Municipality",
       "contactNumber": "1800 121 6833",
@@ -1369,7 +1433,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BBL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Barbil"
       },
       "address": "Barbil Municipality",
       "contactNumber": "1800 121 6833",
@@ -1401,7 +1467,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BRP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Baripada"
       },
       "address": "Baripada Municipality",
       "contactNumber": "1800 121 6833",
@@ -1433,7 +1501,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BPL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Barpali"
       },
       "address": "Barpali NAC",
       "contactNumber": "1800 121 6833",
@@ -1465,7 +1535,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BSP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Basudevpur"
       },
       "address": "Basudevpur Municipality",
       "contactNumber": "1800 121 6833",
@@ -1497,7 +1569,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLT",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bellaguntha"
       },
       "address": "Belaguntha NAC",
       "contactNumber": "1800 121 6833",
@@ -1529,7 +1603,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Belpahar"
       },
       "address": "Belpahar Municipality",
       "contactNumber": "1800 121 6833",
@@ -1561,7 +1637,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BDK",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhadrak"
       },
       "address": "Bhadrak Municipality",
       "contactNumber": "1800 121 6833",
@@ -1593,7 +1671,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BJN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhanjanagar"
       },
       "address": "Bhanjanagar NAC",
       "contactNumber": "1800 121 6833",
@@ -1625,7 +1705,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BWP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhawanipatna"
       },
       "address": "Bhawanipatna Municipality",
       "contactNumber": "1800 121 6833",
@@ -1657,7 +1739,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BBN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhuban"
       },
       "address": "Bhuban NAC",
       "contactNumber": "1800 121 6833",
@@ -1689,7 +1773,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BMC",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE DEPUTY HEAD COMMERCIAL",
+        "wsBillHeaderLine2": "COMMERCIAL WING, SATYA NAGAR, BBSR-751007"
       },
       "address": "Bhubaneswar",
       "contactNumber": "1800 121 6833",
@@ -1753,7 +1839,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BJP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bijepur"
       },
       "address": "Bijepur NAC",
       "contactNumber": "1800 121 6833",
@@ -1785,7 +1873,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BNK",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Binka"
       },
       "address": "Binka NAC",
       "contactNumber": "1800 121 6833",
@@ -1817,7 +1907,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BDG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Boudhgarh"
       },
       "address": "Boudhgarh NAC",
       "contactNumber": "1800 121 6833",
@@ -1849,7 +1941,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BJR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Brajrajnagar"
       },
       "address": "Brajrajnagar Municipality",
       "contactNumber": "1800 121 6833",
@@ -1881,7 +1975,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BGD",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Buguda"
       },
       "address": "Buguda NAC",
       "contactNumber": "1800 121 6833",
@@ -1913,7 +2009,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CMP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Champua"
       },
       "address": "Champua NAC",
       "contactNumber": "1800 121 6833",
@@ -1945,7 +2043,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CNB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Chandbali"
       },
       "address": "Chandbali NAC",
       "contactNumber": "1800 121 6833",
@@ -1977,7 +2077,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CKT",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Chikiti"
       },
       "address": "Chikiti NAC",
       "contactNumber": "1800 121 6833",
@@ -2009,7 +2111,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DSP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Daspalla"
       },
       "address": "Daspalla NAC",
       "contactNumber": "1800 121 6833",
@@ -2041,7 +2145,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DBG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Deogarh"
       },
       "address": "Deogarh Municipality",
       "contactNumber": "1800 121 6833",
@@ -2073,7 +2179,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DMN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Dhamnagar"
       },
       "address": "Dhamnagar NAC",
       "contactNumber": "1800 121 6833",
@@ -2105,7 +2213,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DMG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Dharamgarh"
       },
       "address": "Dharamgarh NAC",
       "contactNumber": "1800 121 6833",
@@ -2137,7 +2247,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DGP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Digapahandi"
       },
       "address": "Digapahandi NAC",
       "contactNumber": "1800 121 6833",
@@ -2169,7 +2281,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GUG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : G. Udayagiri"
       },
       "address": "G. Udayagiri NAC",
       "contactNumber": "1800 121 6833",
@@ -2201,7 +2315,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GJM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Ganjam"
       },
       "address": "Ganjam NAC",
       "contactNumber": "1800 121 6833",
@@ -2233,7 +2349,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GDR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Gudari"
       },
       "address": "Gudari NAC",
       "contactNumber": "1800 121 6833",
@@ -2265,7 +2383,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GNP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Gunupur"
       },
       "address": "Gunupur Municipality",
       "contactNumber": "1800 121 6833",
@@ -2297,7 +2417,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "HND",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Hindol"
       },
       "address": "Hindol NAC",
       "contactNumber": "1800 121 6833",
@@ -2329,7 +2451,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "HNL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Hinjilicut"
       },
       "address": "Hinjilicut Municipality",
       "contactNumber": "1800 121 6833",
@@ -2361,7 +2485,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JGT",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jagatsinghpur"
       },
       "address": "Jagatsinghpur Municipality",
       "contactNumber": "1800 121 6833",
@@ -2393,7 +2519,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JJP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jajpur"
       },
       "address": "Jajpur Municipality",
       "contactNumber": "1800 121 6833",
@@ -2425,7 +2553,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JLS",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jaleswar"
       },
       "address": "Jaleswar Municipality",
       "contactNumber": "1800 121 6833",
@@ -2457,7 +2587,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JPR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jeypore"
       },
       "address": "Jeypore Municipality",
       "contactNumber": "1800 121 6833",
@@ -2489,7 +2621,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JRS",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jharsuguda"
       },
       "address": "Jharsuguda Municipality",
       "contactNumber": "1800 121 6833",
@@ -2521,7 +2655,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JOD",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Joda"
       },
       "address": "Joda Municipality",
       "contactNumber": "1800 121 6833",
@@ -2553,7 +2689,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JNG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Junagarh"
       },
       "address": "Junagarh NAC",
       "contactNumber": "1800 121 6833",
@@ -2585,7 +2723,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KMN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kamakhyanagar"
       },
       "address": "Kamakhyanagar NAC",
       "contactNumber": "1800 121 6833",
@@ -2617,7 +2757,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KNB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kantabanji"
       },
       "address": "Kantabanji NAC",
       "contactNumber": "1800 121 6833",
@@ -2649,7 +2791,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KRN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Karanjia"
       },
       "address": "Karanjia NAC",
       "contactNumber": "1800 121 6833",
@@ -2681,7 +2825,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KSN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kashinagar"
       },
       "address": "Kashinagar NAC",
       "contactNumber": "1800 121 6833",
@@ -2713,7 +2859,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KBS",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kabisuryanagar"
       },
       "address": "Kavisuryanagar NAC",
       "contactNumber": "1800 121 6833",
@@ -2745,7 +2893,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KND",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kendrapara"
       },
       "address": "Kendrapara Municipality",
       "contactNumber": "1800 121 6833",
@@ -2777,7 +2927,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KNJ",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Keonjhargarh"
       },
       "address": "Keonjhorgarh Municipality",
       "contactNumber": "1800 121 6833",
@@ -2809,7 +2961,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KSG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kesinga"
       },
       "address": "Kesinga NAC",
       "contactNumber": "1800 121 6833",
@@ -2841,7 +2995,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KHL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khallikote"
       },
       "address": "Khallikote NAC",
       "contactNumber": "1800 121 6833",
@@ -2873,7 +3029,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KHN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khandapada"
       },
       "address": "Khandapada NAC",
       "contactNumber": "1800 121 6833",
@@ -2905,7 +3063,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KHR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khariar"
       },
       "address": "Khariar NAC",
       "contactNumber": "1800 121 6833",
@@ -2937,7 +3097,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KRR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khariar Road"
       },
       "address": "Khariar Road NAC",
       "contactNumber": "1800 121 6833",
@@ -2969,7 +3131,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KDL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kodala"
       },
       "address": "Kodala NAC",
       "contactNumber": "1800 121 6833",
@@ -3001,7 +3165,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KOR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Koraput"
       },
       "address": "Koraput Municipality",
       "contactNumber": "1800 121 6833",
@@ -3033,7 +3199,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KOT",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kotpad"
       },
       "address": "Kotpad NAC",
       "contactNumber": "1800 121 6833",
@@ -3065,7 +3233,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KCN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kuchinda"
       },
       "address": "Kuchinda NAC",
       "contactNumber": "1800 121 6833",
@@ -3097,7 +3267,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "MLN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Malkangiri"
       },
       "address": "Malkangiri Municipality",
       "contactNumber": "1800 121 6833",
@@ -3129,7 +3301,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NGR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nayagarh"
       },
       "address": "Nayagarh Municipality",
       "contactNumber": "1800 121 6833",
@@ -3161,7 +3335,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NLG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nilgiri"
       },
       "address": "Nilgiri NAC",
       "contactNumber": "1800 121 6833",
@@ -3193,7 +3369,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NIM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE  MANAGER",
+        "wsBillHeaderLine2": "WATCO SUB-DIVISION : NIMAPARA"
       },
       "address": "Nimapara NAC",
       "contactNumber": "1800 121 6833",
@@ -3225,7 +3403,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NBR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nabarangpur"
       },
       "address": "Nabarangpur Municipality",
       "contactNumber": "1800 121 6833",
@@ -3257,7 +3437,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NPD",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nuapada"
       },
       "address": "Nuapada NAC",
       "contactNumber": "1800 121 6833",
@@ -3289,7 +3471,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ODG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Odagaon"
       },
       "address": "Odagaon NAC",
       "contactNumber": "1800 121 6833",
@@ -3321,7 +3505,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PDM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Padampur"
       },
       "address": "Padampur NAC",
       "contactNumber": "1800 121 6833",
@@ -3353,7 +3539,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PRL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Paralakhemundi"
       },
       "address": "Paralakhemundi Municipality",
       "contactNumber": "1800 121 6833",
@@ -3385,7 +3573,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PTN",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Patnagarh"
       },
       "address": "Patnagarh NAC",
       "contactNumber": "1800 121 6833",
@@ -3417,7 +3607,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PTM",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Pattamundai"
       },
       "address": "Pattamundai Municipality",
       "contactNumber": "1800 121 6833",
@@ -3449,7 +3641,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PLB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Phulbani"
       },
       "address": "Phulbani Municipality",
       "contactNumber": "1800 121 6833",
@@ -3481,7 +3675,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PPL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "WATCO,OFFICE OF THE  MANAGER",
+        "wsBillHeaderLine2": "WATCO SUB-DIVISION : NIMAPARA (PIPILI)"
       },
       "address": "Pipli NAC",
       "contactNumber": "1800 121 6833",
@@ -3513,7 +3709,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PLS",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Polasara"
       },
       "address": "Polasara NAC",
       "contactNumber": "1800 121 6833",
@@ -3545,7 +3743,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PRS",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Purushottampur"
       },
       "address": "Purushottampur NAC",
       "contactNumber": "1800 121 6833",
@@ -3577,7 +3777,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RRG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rairangpur"
       },
       "address": "Rairangpur Municipality",
       "contactNumber": "1800 121 6833",
@@ -3609,7 +3811,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RMB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rambha"
       },
       "address": "Rambha NAC",
       "contactNumber": "1800 121 6833",
@@ -3641,7 +3845,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RNP",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Ranpur"
       },
       "address": "Ranpur NAC",
       "contactNumber": "1800 121 6833",
@@ -3673,7 +3879,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RYG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rayagada"
       },
       "address": "Rayagada Municipality",
       "contactNumber": "1800 121 6833",
@@ -3705,7 +3913,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RDK",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Redhakhol"
       },
       "address": "Redhakhol NAC",
       "contactNumber": "1800 121 6833",
@@ -3737,7 +3947,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SBR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sonepur"
       },
       "address": "Sonepur Municipality",
       "contactNumber": "1800 121 6833",
@@ -3769,7 +3981,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SOR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Soro"
       },
       "address": "Soro Municipality",
       "contactNumber": "1800 121 6833",
@@ -3801,7 +4015,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SRD",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Surada"
       },
       "address": "Surada NAC",
       "contactNumber": "1800 121 6833",
@@ -3833,7 +4049,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SNB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sunabeda"
       },
       "address": "Sunabeda Municipality",
       "contactNumber": "1800 121 6833",
@@ -3865,7 +4083,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TRB",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Tarbha"
       },
       "address": "Tarbha NAC",
       "contactNumber": "1800 121 6833",
@@ -3897,7 +4117,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TTG",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Titilagarh"
       },
       "address": "Titilagarh Municipality",
       "contactNumber": "1800 121 6833",
@@ -3929,7 +4151,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TSR",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Tusura"
       },
       "address": "Tusura NAC",
       "contactNumber": "1800 121 6833",
@@ -3961,7 +4185,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "UDL",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Udala"
       },
       "address": "Udala NAC",
       "contactNumber": "1800 121 6833",
@@ -3993,7 +4219,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "UMC",
-        "ddrName": "DDR A"
+        "ddrName": "DDR A",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Umerkote"
       },
       "address": "Umerkote Municipality",
       "contactNumber": "1800 121 6833",
