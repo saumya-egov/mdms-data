@@ -672,8 +672,8 @@
     {
       "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST113",
       "name": "Fish Aquariums",
-      "uom": "SQFT",
-      "uomDescription": "SQFT",
+      "uom": null,
+      "uomDescription": null,
       "applicationDocument": [
         {
           "applicationType": "NEW",
