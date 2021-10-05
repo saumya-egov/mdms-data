@@ -19965,7 +19965,7 @@
       "actioncode": "",
       "tenantId": "od"
     },
-	{
+    {
       "rolecode": "MR_DOC_VERIFIER",
       "actionid": 3042,
       "actioncode": "",
@@ -19989,6 +19989,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3043,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "MR_CEMP",
       "actionid": 3043,
@@ -20164,25 +20170,25 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_CEMP",
+      "rolecode": "MR_CEMP",
       "actionid": 3053,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_DOC_VERIFIER",
+      "rolecode": "MR_DOC_VERIFIER",
       "actionid": 3053,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_FIELD_INSPECTOR",
+      "rolecode": "MR_FIELD_INSPECTOR",
       "actionid": 3053,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_APPROVER",
+      "rolecode": "MR_APPROVER",
       "actionid": 3053,
       "actioncode": "",
       "tenantId": "od"
@@ -20528,6 +20534,60 @@
       "actionid": 3074,
       "actioncode": "",
       "tenantId": "od"
-    }
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3075,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "od"
+    }, 	  
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 3079,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "od"
+    } 
   ]
 }

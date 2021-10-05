@@ -756,6 +756,21 @@
       "code": "NMA_NOC_APPROVER",
       "name": "NMA Noc Department Approver",
       "description": "NMA Noc application approver"
-    }     
+    },
+    {
+      "code": "MR_APPROVER",
+      "name": "Marriage Registration Approver",
+      "description": "Marriage Registration Approver"
+    } ,
+    {
+      "code": "MR_CEMP",
+      "name": "Marriage Registration Counter Employee",
+      "description": "Marriage Registration Counter Employee"
+    } ,
+    {
+      "code": "MR_DOC_VERIFIER",
+      "name": "Marriage Registration Document Verifier",
+      "description": "Marriage Registration Document Verifier"
+    }      
   ]
 }
