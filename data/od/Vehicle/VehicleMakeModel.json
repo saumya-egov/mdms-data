@@ -13,7 +13,7 @@
             "active": true,
             "make": "MAHINDRA",
             "capacity": "1000",
-            "amount": "750"
+            "amount": "600"
         },
         {
             "code": "MAHINDRA.TRACTOR",
@@ -21,7 +21,7 @@
             "active": true,
             "make": "MAHINDRA",
             "capacity": "5000",
-            "amount": "1500"
+            "amount": "1600"
         },
         {
             "code": "TATA",
@@ -79,7 +79,7 @@
             "active": true,
             "make": "TRACTOR",
             "capacity": "5000",
-            "amount": "1500"
+            "amount": "1600"
         },
         {
             "code": "TRACTOR.DI-740_III_CM_SERIES",
