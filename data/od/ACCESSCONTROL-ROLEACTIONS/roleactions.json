@@ -20662,12 +20662,6 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 3083,
-      "actioncode": "",
-      "tenantId": "od"
-    }, 
-        {
       "rolecode": "FSM_EMP_FSTPO",
       "actionid": 3084,
       "actioncode": "",
