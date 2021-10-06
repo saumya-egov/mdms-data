@@ -20649,12 +20649,7 @@
       "actioncode": "",
       "tenantId": "od"
     },
-    {
-      "rolecode": "PT_CEMP",
-      "actionid": 3083,
-      "actioncode": "",
-      "tenantId": "od"
-    },
+    
     {
       "rolecode": "CITIZEN",
       "actionid": 3083,
