@@ -10653,6 +10653,63 @@
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
-      }	   
+      },
+      {
+         "id": 3080,
+         "name": "Search FSM Application",
+         "url": "/fsm/v1/_plainsearch",
+         "displayName": "Search  FSM Appliacations",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "FSM",
+         "code": "null",
+         "path": ""
+       },
+         {
+         "id": 3081,
+         "name": "Create FSTP FSTPOperator Mapping",
+         "url": "/fsm/plantmap/v1/_create",
+         "displayName": "Create FSTP FSTPOperator Map",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "FSM",
+         "code": "null",
+         "path": ""
+       },
+        {
+         "id": 3082,
+         "name": "Update FSTP FSTPOperator Mapping",
+         "url": "/fsm/plantmap/v1/_update",
+         "displayName": "Update FSTP FSTPOperator Map",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "FSM",
+         "code": "null",
+         "path": ""
+       },
+       
+       {
+         "id": 3083,
+         "name": "Search FSTP FSTPOperator Mapping",
+         "url": "/fsm/plantmap/v1/_search",
+         "displayName": "Search FSTP FSTPOperator Map",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "FSM",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 3084,
+         "name": "Inbox Search ofr uI",
+         "url": "/inbox/v1/_search",
+         "displayName": "Inbox Search",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "inbox",
+         "code": "null",
+         "path": ""
+       }
+         
    ]
 }
