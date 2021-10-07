@@ -20588,6 +20588,116 @@
       "actionid": 2027,
       "actioncode": "",
       "tenantId": "od"
-    } 
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_VIEW_EMP",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+  {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 3081,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+     {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3083,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_VIEW_EMP",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+     {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "od"
+    }
+
   ]
 }
