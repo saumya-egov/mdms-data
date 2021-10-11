@@ -771,6 +771,11 @@
       "code": "MR_DOC_VERIFIER",
       "name": "Marriage Registration Document Verifier",
       "description": "Marriage Registration Document Verifier"
+    },
+    {
+         "code":"SYSTEM_PAYMENT",
+         "name":"System Paymentr",
+         "description":"System Payment"
     }      
   ]
 }
