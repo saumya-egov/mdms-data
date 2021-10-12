@@ -10710,7 +10710,7 @@
          "code": "null",
          "path": ""
        },
-	   {
+       {
          "id": 3085,
          "name": "Water Monthly Demands Report",
          "url": "url",
@@ -10729,8 +10729,8 @@
          "navigationURL": "report/rainmaker-ws/WaterMonthlyDemandsReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      },
-	  {
+       },
+       {
          "id": 3086,
          "name": "Water Monthly Demands Report",
          "url": "/report/rainmaker-ws/WaterMonthlyDemandsReport/metadata/_get",
@@ -10740,8 +10740,8 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Water Monthly Demands Report"
-      },
-      {
+       },
+       {
          "id": 3087,
          "name": "Water Monthly Demands Report",
          "url": "/report/rainmaker-ws/WaterMonthlyDemandsReport/_get",
@@ -10751,8 +10751,8 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Water Monthly Demands Report"
-      },
-	  {
+       },
+       {
          "id": 3088,
          "name": "Sewerage Monthly Demands Report",
          "url": "url",
@@ -10771,8 +10771,8 @@
          "navigationURL": "report/rainmaker-sw/SewerageMonthlyDemandsReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      },
-	  {
+       },
+       {
          "id": 3089,
          "name": "Sewerage Monthly Demands Report",
          "url": "/report/rainmaker-sw/SewerageMonthlyDemandsReport/metadata/_get",
@@ -10782,8 +10782,8 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Sewerage Monthly Demands Report"
-      },
-      {
+       },
+       {
          "id": 3090,
          "name": "Sewerage Monthly Demands Report",
          "url": "/report/rainmaker-sw/SewerageMonthlyDemandsReport/_get",
@@ -10793,7 +10793,7 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Sewerage Monthly Demands Report"
-      }
+       }
          
    ]
 }
