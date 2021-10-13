@@ -733,6 +733,16 @@
       "isRequired": false
     },
     {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Labour Fee",
+      "code": "WS_LABOUR_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "SW.ONE_TIME_FEE",
       "name": "Sewerage Application Form Fee",
