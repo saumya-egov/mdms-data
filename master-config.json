@@ -1061,6 +1061,11 @@
       "isStateLevel": true,
       "uniqueKeys": []
     },
+	"LabourFee": {
+      "masterName": "LabourFee",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
       "isStateLevel": true,
