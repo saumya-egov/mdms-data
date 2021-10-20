@@ -113,8 +113,35 @@
 	{
       "category": "FEE",
       "service": "MR",
-      "name": "Marriage Registration Treasury Charge",
-      "code": "MR_TREASURY_CHARGE",
+      "name": "Marriage Registration User Fee",
+      "code": "MR_USER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 5
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Redcross Fee",
+      "code": "MR_REDCROSS_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 4
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Development Fee",
+      "code": "MR_DEVELOPMENT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 3
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Registration Fee",
+      "code": "MR_REGISTRATION_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": 2
@@ -122,8 +149,8 @@
 	{
       "category": "FEE",
       "service": "MR",
-      "name": "Marriage Registration Establishment Cost",
-      "code": "MR_ESTABLISHMENT_COST",
+      "name": "Marriage Registration Challan Fees",
+      "code": "MR_CHALLAN_FEE",
       "isDebit": false,
       "isActualDemand": true,
       "order": 1

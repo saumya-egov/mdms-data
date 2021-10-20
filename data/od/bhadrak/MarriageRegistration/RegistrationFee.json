@@ -1,0 +1,25 @@
+{
+  "tenantId": "od.bhadrak",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 7,
+        "after30daysOfMarriage": 32
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 0,
+        "within1yearOfMarriage": 0
+      },
+      "developmentFee": {
+        "cost": 0
+      },
+      "redcrossFee": {
+        "cost": 500
+      },
+      "userFee": {
+        "cost": 0
+      }
+    }
+  ]
+}

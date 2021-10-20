@@ -1,0 +1,25 @@
+{
+  "tenantId": "od.tarbha",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 32,
+        "after30daysOfMarriage": 0
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 0,
+        "within1yearOfMarriage": 200
+      },
+      "developmentFee": {
+        "cost": 0
+      },
+      "redcrossFee": {
+        "cost": 300
+      },
+      "userFee": {
+        "cost": 0
+      }
+    }
+  ]
+}
