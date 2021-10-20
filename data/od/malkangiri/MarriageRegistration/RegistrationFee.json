@@ -1,0 +1,25 @@
+{
+  "tenantId": "od.malkangiri",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 7,
+        "after30daysOfMarriage": 25
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 0,
+        "within1yearOfMarriage": 500
+      },
+      "developmentFee": {
+        "cost": 0
+      },
+      "redcrossFee": {
+        "cost": 0
+      },
+      "userFee": {
+        "cost": 0
+      }
+    }
+  ]
+}

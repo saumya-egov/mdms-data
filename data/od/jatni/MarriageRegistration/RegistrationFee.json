@@ -1,0 +1,25 @@
+{
+  "tenantId": "od.jatni",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 50,
+        "after30daysOfMarriage": 50
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 0,
+        "within1yearOfMarriage": 1000
+      },
+      "developmentFee": {
+        "cost": 0
+      },
+      "redcrossFee": {
+        "cost": 0
+      },
+      "userFee": {
+        "cost": 0
+      }
+    }
+  ]
+}

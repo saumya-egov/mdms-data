@@ -1,0 +1,25 @@
+{
+  "tenantId": "od.pattamundai",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 32,
+        "after30daysOfMarriage": 0
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 0,
+        "within1yearOfMarriage": 500
+      },
+      "developmentFee": {
+        "cost": 0
+      },
+      "redcrossFee": {
+        "cost": 0
+      },
+      "userFee": {
+        "cost": 0
+      }
+    }
+  ]
+}

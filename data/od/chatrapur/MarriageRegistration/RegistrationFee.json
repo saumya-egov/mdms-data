@@ -1,0 +1,25 @@
+{
+  "tenantId": "od.chatrapur",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 7,
+        "after30daysOfMarriage": 32
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 0,
+        "within1yearOfMarriage": 0
+      },
+      "developmentFee": {
+        "cost": 1000
+      },
+      "redcrossFee": {
+        "cost": 1000
+      },
+      "userFee": {
+        "cost": 0
+      }
+    }
+  ]
+}
