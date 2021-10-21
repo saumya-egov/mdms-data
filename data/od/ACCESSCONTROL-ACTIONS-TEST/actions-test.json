@@ -10793,7 +10793,46 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Sewerage Monthly Demands Report"
-       }
+       },
+      {
+         "id": 3091,
+         "name": "LegacyMRDataReport",
+         "url": "url",
+         "displayName": "Marriage Registration Legacy Data Report",
+         "orderNumber": 1,
+         "parentModule": "rainmaker-mr",
+         "enabled": true,
+         "serviceCode": "MR",
+         "code": "null",
+         "path": "MarriageRegistration.Marriage Registration Reports.LegacyMRDataReport",
+         "navigationURL": "report/rainmaker-mr/LegacyMRDataReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3092,
+         "name": "LegacyMRDataReport",
+         "url": "/report/rainmaker-mr/LegacyMRDataReport/metadata/_get",
+         "displayName": "rainmaker-mr-LegacyMRDataReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3093,
+         "name": "LegacyMRDataReport",
+         "url": "/report/rainmaker-mr/LegacyMRDataReport/_get",
+         "displayName": "rainmaker-mr-LegacyMRDataReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      }
          
    ]
 }
