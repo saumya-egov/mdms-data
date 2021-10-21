@@ -20787,6 +20787,24 @@
       "actionid": 3090,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3091,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3092,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3093,
+      "actioncode": "",
+      "tenantId": "od"
     }
 
   ]
