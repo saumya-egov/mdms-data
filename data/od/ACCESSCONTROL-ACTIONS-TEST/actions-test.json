@@ -10832,6 +10832,48 @@
          "serviceCode": "report",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3094,
+         "name": "Collector Wise Collection Report",
+         "url": "/report/rainmaker-pt/collectorWiseCollectionReport/metadata/_get",
+         "displayName": "Collector Wise Collection Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Collector Wise Collection Report"
+      },
+      {
+         "id": 3095,
+         "name": "Collector Wise Collection Report",
+         "url": "/report/rainmaker-pt/collectorWiseCollectionReport/_get",
+         "displayName": "Collector Wise Collection Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Collector Wise Collection Report"
+      },
+      {
+         "id": 3096,
+         "name": "Collector Wise Collection Report",
+         "url": "url",
+         "displayName": "Collector Wise Collection Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Property Tax.PT Reports.Collector Wise Collection Report",
+         "navigationURL": "report/rainmaker-pt/collectorWiseCollectionReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
       }
          
    ]
