@@ -10022,7 +10022,7 @@
 	  {
          "id": 3031,
          "name": "Property Wise Demand Details Report",
-         "url": "/report/rainmaker-pt/propertyWiseDemandDetails/metadata/_get",
+         "url": "/report/rainmaker-pt/PropertyWiseDemandDetails/metadata/_get",
          "displayName": "Property Wise Demand Details Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10033,7 +10033,7 @@
 	    {
          "id": 3032,
          "name": "Property Report",
-         "url": "/report/rainmaker-pt/propertyWiseDemandDetails/_get",
+         "url": "/report/rainmaker-pt/PropertyWiseDemandDetails/_get",
          "displayName": "Property Wise Demand Details Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10057,7 +10057,7 @@
          "lastModifiedDate": null,
          "lastModifiedBy": null,
          "path": "Property Tax.PT Reports.Property Wise Demand Details Report",
-         "navigationURL": "report/rainmaker-pt/propertyWiseDemandDetails",
+         "navigationURL": "report/rainmaker-pt/PropertyWiseDemandDetails",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
@@ -10230,7 +10230,7 @@
       {
          "id": 3047,
          "name": "Property Wise Collection Report",
-         "url": "/report/rainmaker-pt/propertyWiseCollectionReport/metadata/_get",
+         "url": "/report/rainmaker-pt/PropertyWiseCollectionReport/metadata/_get",
          "displayName": "Property Wise Collection Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10241,7 +10241,7 @@
 	    {
          "id": 3048,
          "name": "Property Wise Collection Report",
-         "url": "/report/rainmaker-pt/propertyWiseCollectionReport/_get",
+         "url": "/report/rainmaker-pt/PropertyWiseCollectionReport/_get",
          "displayName": "Property Wise Collection Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10265,7 +10265,7 @@
          "lastModifiedDate": null,
          "lastModifiedBy": null,
          "path": "Property Tax.PT Reports.Property Wise Collection Report",
-         "navigationURL": "report/rainmaker-pt/propertyWiseCollectionReport",
+         "navigationURL": "report/rainmaker-pt/PropertyWiseCollectionReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
@@ -10285,14 +10285,14 @@
          "lastModifiedDate": null,
          "lastModifiedBy": null,
          "path": "Water & Sewerage.W&S Reports.Connection Wise Collection Report",
-         "navigationURL": "report/rainmaker-ws/connectionWiseCollectionReport",
+         "navigationURL": "report/rainmaker-ws/ConnectionWiseCollectionReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
 	  {
          "id": 3051,
          "name": "Connection Wise Collection Report",
-         "url": "/report/rainmaker-ws/connectionWiseCollectionReport/metadata/_get",
+         "url": "/report/rainmaker-ws/ConnectionWiseCollectionReport/metadata/_get",
          "displayName": "Connection Wise Collection Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10303,7 +10303,7 @@
       {
          "id": 3052,
          "name": "Connection Wise Collection Report",
-         "url": "/report/rainmaker-ws/connectionWiseCollectionReport/_get",
+         "url": "/report/rainmaker-ws/ConnectionWiseCollectionReport/_get",
          "displayName": "Connection Wise Collection Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10836,7 +10836,7 @@
       {
          "id": 3094,
          "name": "Collector Wise Collection Report",
-         "url": "/report/rainmaker-pt/collectorWiseCollectionReport/metadata/_get",
+         "url": "/report/rainmaker-pt/CollectorWiseCollectionReport/metadata/_get",
          "displayName": "Collector Wise Collection Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10847,7 +10847,7 @@
       {
          "id": 3095,
          "name": "Collector Wise Collection Report",
-         "url": "/report/rainmaker-pt/collectorWiseCollectionReport/_get",
+         "url": "/report/rainmaker-pt/CollectorWiseCollectionReport/_get",
          "displayName": "Collector Wise Collection Report",
          "orderNumber": 0,
          "enabled": true,
@@ -10871,7 +10871,7 @@
          "lastModifiedDate": null,
          "lastModifiedBy": null,
          "path": "Property Tax.PT Reports.Collector Wise Collection Report",
-         "navigationURL": "report/rainmaker-pt/collectorWiseCollectionReport",
+         "navigationURL": "report/rainmaker-pt/CollectorWiseCollectionReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       }
