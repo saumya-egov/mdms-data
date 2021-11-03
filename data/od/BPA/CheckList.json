@@ -222,22 +222,7 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -248,19 +233,19 @@
           "required": true
         },
         {
-          "code": "FI.SINS",
+          "code": "FI.CINS",
           "required": true
         },
         {
-          "code": "FI.SISS",
+          "code": "FI.CISS",
           "required": true
         },
         {
-          "code": "FI.SIES",
+          "code": "FI.CIES",
           "required": true
         },
         {
-          "code": "FI.SIWS",
+          "code": "FI.CIWS",
           "required": true
         }
       ]
@@ -272,22 +257,7 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -298,19 +268,19 @@
           "required": true
         },
         {
-          "code": "FI.SINS",
+          "code": "FI.CINS",
           "required": true
         },
         {
-          "code": "FI.SISS",
+          "code": "FI.CISS",
           "required": true
         },
         {
-          "code": "FI.SIES",
+          "code": "FI.CIES",
           "required": true
         },
         {
-          "code": "FI.SIWS",
+          "code": "FI.CIWS",
           "required": true
         }
       ]
@@ -322,22 +292,7 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [
         {
-          "question": "RIVER_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "TREE_EXISTS_ON_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
           "question": "PLAN_AS_PER_THE_SITE",
-          "fieldType": "YES/NO/NA",
-          "active": true
-        },
-        {
-          "question": "ROADWIDTH_AS_PER_THE_PLAN",
           "fieldType": "YES/NO/NA",
           "active": true
         }
@@ -348,19 +303,19 @@
           "required": true
         },
         {
-          "code": "FI.SINS",
+          "code": "FI.CINS",
           "required": true
         },
         {
-          "code": "FI.SISS",
+          "code": "FI.CISS",
           "required": true
         },
         {
-          "code": "FI.SIES",
+          "code": "FI.CIES",
           "required": true
         },
         {
-          "code": "FI.SIWS",
+          "code": "FI.CIWS",
           "required": true
         }
       ]

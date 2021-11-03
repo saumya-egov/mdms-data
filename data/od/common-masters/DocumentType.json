@@ -159,6 +159,22 @@
       "active": true
     },
     {
+      "code": "FI.CINS.CINS",
+      "active": true
+    },
+    {
+      "code": "FI.CISS.CISS",
+      "active": true
+    },
+    {
+      "code": "FI.CIES.CIES",
+      "active": true
+    },
+    {
+      "code": "FI.CIWS.CIWS",
+      "active": true
+    },
+    {
       "code": "NOC.AIRPORT.CERTIFICATE",
       "active": true
     },

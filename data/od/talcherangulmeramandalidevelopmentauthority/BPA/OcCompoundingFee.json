@@ -9,7 +9,7 @@
                     "fee": [
                         {
                             "applicable":"Individual/Residential",
-                            "rate": 150
+                            "rate": 250
                         },
                         {
                             "applicable":"Govt",
@@ -17,7 +17,7 @@
                         },
                         {
                             "applicable":"Other",
-                            "rate": 300
+                            "rate": 400
                         }
                     ]
                 }
@@ -34,7 +34,7 @@
                     "fee": [
                         {
                             "applicable":"Individual/Residential",
-                            "rate": 1000
+                            "rate": 500
                         },
                         {
                             "applicable":"Govt",
@@ -42,7 +42,7 @@
                         },
                         {
                             "applicable":"Other",
-                            "rate": 2000
+                            "rate": 1000
                         }
                     ]
                 },
@@ -54,15 +54,15 @@
                     "fee": [
                         {
                             "applicable":"Individual/Residential",
-                            "rate": 2000
+                            "rate": 500
                         },
                         {
                             "applicable":"Govt",
-                            "rate": 200
+                            "rate": 100
                         },
                         {
                             "applicable":"Other",
-                            "rate": 5000
+                            "rate": 1000
                         }
                     ]
                 }
