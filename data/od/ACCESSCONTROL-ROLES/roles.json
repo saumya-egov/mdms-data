@@ -791,6 +791,11 @@
       "code":"WS_REPORT_VIEWER",
       "name":"Water Report Viewer",
       "description":"Water Report Viewer"
+    },
+    {
+      "code":"TL_REPORT_VIEWER",
+      "name":"TL Report Viewer",
+      "description":"TL Report Viewer"
     }
   ]
 }
