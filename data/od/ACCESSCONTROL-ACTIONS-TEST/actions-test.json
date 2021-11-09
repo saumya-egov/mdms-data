@@ -4892,7 +4892,7 @@
          "displayName": "Trade License Registry Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-tl",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeLicenseRegistryReport",
@@ -4967,7 +4967,7 @@
          "displayName": "State Level Trade License Registry Report",
          "orderNumber": 4,
          "parentModule": "rainmaker-tl",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.StateLevelTradeLicenseRegistryReport",
@@ -10874,6 +10874,30 @@
          "navigationURL": "report/rainmaker-pt/CollectorWiseCollectionReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
+      },
+	  {
+         "id": 3097,
+         "name": "Update TradeLicense Digitally Signed Certificate Details",
+         "url": "/tl-services/v1/_updatedscdetails",
+         "parentModule": "",
+         "displayName": "Update TradeLicense Digitally Signed Certificate Details",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3098,
+         "name": "Search TradeLicense Pending Digital Sign Certificate Details",
+         "url": "/tl-services/v1/_searchdscdetails",
+         "parentModule": "",
+         "displayName": "Search TradeLicense Pending Digital Sign Certificate Details",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "tl-services",
+         "code": "null",
+         "path": ""
       }
          
    ]
