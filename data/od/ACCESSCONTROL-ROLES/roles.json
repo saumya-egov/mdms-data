@@ -776,6 +776,21 @@
          "code":"SYSTEM_PAYMENT",
          "name":"System Payment",
          "description":"System Payment"
-    }      
+    },
+    {
+      "code":"PT_REPORT_VIEWER",
+      "name":"Property Report Viewer",
+      "description":"Property Report Viewer"
+    },
+    {
+      "code":"SW_REPORT_VIEWER",
+      "name":"Sewerage Report Viewer",
+      "description":"Sewerage Report Viewer"
+    },
+    {
+      "code":"WS_REPORT_VIEWER",
+      "name":"Water Report Viewer",
+      "description":"Water Report Viewer"
+    }
   ]
 }

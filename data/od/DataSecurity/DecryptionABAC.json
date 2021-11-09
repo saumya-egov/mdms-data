@@ -1365,6 +1365,28 @@
           ]
         }
       ]
+    },
+    {	
+      "key" : "propertyDetailReport",
+      "roleAttributeAccessList" : [
+        {
+          "roleCode" : "PT_REPORT_VIEWER",
+          "attributeAccessList" : [
+            {
+              "attribute" : {
+                "jsonPath" : "*/name"
+              },
+              "accessType" : "PLAIN"
+            },
+            {
+              "attribute" : {
+                "jsonPath" : "*/mobilenumber"
+              },
+              "accessType" : "PLAIN"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -10875,7 +10875,7 @@
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
-	  {
+      {
          "id": 3097,
          "name": "Update TradeLicense Digitally Signed Certificate Details",
          "url": "/tl-services/v1/_updatedscdetails",
@@ -10887,7 +10887,7 @@
          "code": "null",
          "path": ""
       },
-	  {
+      {
          "id": 3098,
          "name": "Search TradeLicense Pending Digital Sign Certificate Details",
          "url": "/tl-services/v1/_searchdscdetails",
@@ -10898,7 +10898,48 @@
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3099,
+         "name": "ULB Wise Property Details Report",
+         "url": "/report/rainmaker-pt/ULBWisePropertyDetailsReport/metadata/_get",
+         "displayName": "ULB Wise Property Details Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "ULB Wise Property Details Report"
+      },
+      {
+         "id": 3100,
+         "name": "ULB Wise Property Details Report",
+         "url": "/report/rainmaker-pt/ULBWisePropertyDetailsReport/_get",
+         "displayName": "ULB Wise Property Details Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "ULB Wise Property Details Report"
+      },
+      {
+         "id": 3101,
+         "name": "ULB Wise Property Details Report",
+         "url": "url",
+         "displayName": "ULB Wise Property Details Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Property Tax.PT Reports.ULB Wise Property Details Report",
+         "navigationURL": "report/rainmaker-pt/ULBWisePropertyDetailsReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
       }
-         
    ]
 }
