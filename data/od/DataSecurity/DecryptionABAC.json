@@ -1387,6 +1387,22 @@
           ]
         }
       ]
+    },
+	{	
+      "key" : "TradeLicenseApplicationReport",
+      "roleAttributeAccessList" : [
+        {
+          "roleCode" : "TL_REPORT_VIEWER",
+          "attributeAccessList" : [
+            {
+              "attribute" : {
+                "jsonPath" : "*/name"
+              },
+              "accessType" : "PLAIN"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

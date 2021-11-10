@@ -10940,6 +10940,45 @@
          "navigationURL": "report/rainmaker-pt/ULBWisePropertyDetailsReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
+      },
+	  {
+         "id": 3102,
+         "name": "TradeLicenseApplicationReport",
+         "url": "url",
+         "displayName": "Trade License Application Report",
+         "orderNumber": 6,
+         "parentModule": "rainmaker-tl",
+         "enabled": true,
+         "serviceCode": "TL",
+         "code": "null",
+         "path": "TradeLicense.Trade License Reports.TradeLicenseApplicationReport",
+         "navigationURL": "report/rainmaker-tl/TradeLicenseApplicationReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+	  {
+         "id": 3103,
+         "name": "TradeLicenseApplicationReport",
+         "url": "/report/rainmaker-tl/TradeLicenseApplicationReport/metadata/_get",
+         "displayName": "rainmaker-tl-TradeLicenseApplicationReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3104,
+         "name": "TradeLicenseApplicationReport",
+         "url": "/report/rainmaker-tl/TradeLicenseApplicationReport/_get",
+         "displayName": "rainmaker-tl-TradeLicenseApplicationReport",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
       }
    ]
 }
