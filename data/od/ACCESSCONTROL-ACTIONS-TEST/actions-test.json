@@ -7027,7 +7027,7 @@
          "displayName": "Water & Sewerage",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "wns",
          "code": "",
          "path": "",
