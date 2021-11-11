@@ -10804,7 +10804,7 @@
          "enabled": true,
          "serviceCode": "MR",
          "code": "null",
-         "path": "MarriageRegistration.Marriage Registration Reports.LegacyMRDataReport",
+         "path": "Marriage Registration.Marriage Registration Reports.LegacyMRDataReport",
          "navigationURL": "report/rainmaker-mr/LegacyMRDataReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
