@@ -10979,6 +10979,30 @@
          "serviceCode": "report",
          "code": "null",
          "path": ""
+      },
+	  {
+         "id": 3105,
+         "name": "Update MarriageRegistration Digitally Signed Certificate Details",
+         "url": "/mr-services/v1/_updatedscdetails",
+         "parentModule": "",
+         "displayName": "Update MarriageRegistration Digitally Signed Certificate Details",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3106,
+         "name": "Search MarriageRegistration Pending Digital Sign Certificate Details",
+         "url": "/mr-services/v1/_searchdscdetails",
+         "parentModule": "",
+         "displayName": "Search MarriageRegistration Pending Digital Sign Certificate Details",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
