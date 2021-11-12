@@ -20591,6 +20591,42 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PT_CEMP",
+      "actionid": 3099,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3100,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3101,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3099,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3100,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3101,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "TL_REPORT_VIEWER",
       "actionid": 3102,
       "actioncode": "",
