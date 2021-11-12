@@ -1339,6 +1339,80 @@
       ]
     },
     {
+      "key": "WaterMonthlyDemandsReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "WS_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "WS_APPROVER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "WS_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "SewerageMonthlyDemandsReport",
       "roleAttributeAccessList": [
         {
@@ -1363,77 +1437,122 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "SW_APPROVER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "SW_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
-    {	
-      "key" : "propertyDetailReport",
-      "roleAttributeAccessList" : [
+    {
+      "key": "propertyDetailReport",
+      "roleAttributeAccessList": [
         {
-          "roleCode" : "PT_REPORT_VIEWER",
-          "attributeAccessList" : [
+          "roleCode": "PT_REPORT_VIEWER",
+          "attributeAccessList": [
             {
-              "attribute" : {
-                "jsonPath" : "*/name"
+              "attribute": {
+                "jsonPath": "*/name"
               },
-              "accessType" : "PLAIN"
+              "accessType": "PLAIN"
             },
             {
-              "attribute" : {
-                "jsonPath" : "*/mobilenumber"
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
               },
-              "accessType" : "PLAIN"
+              "accessType": "PLAIN"
             }
           ]
-        },        
-	{
-          "roleCode" : "PT_APPROVER",
-          "attributeAccessList" : [
+        },
+        {
+          "roleCode": "PT_APPROVER",
+          "attributeAccessList": [
             {
-              "attribute" : {
-                "jsonPath" : "*/name"
+              "attribute": {
+                "jsonPath": "*/name"
               },
-              "accessType" : "PLAIN"
+              "accessType": "PLAIN"
             },
             {
-              "attribute" : {
-                "jsonPath" : "*/mobilenumber"
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
               },
-              "accessType" : "PLAIN"
+              "accessType": "PLAIN"
             }
           ]
-        },        
-	{
-          "roleCode" : "PT_CEMP",
-          "attributeAccessList" : [
+        },
+        {
+          "roleCode": "PT_CEMP",
+          "attributeAccessList": [
             {
-              "attribute" : {
-                "jsonPath" : "*/name"
+              "attribute": {
+                "jsonPath": "*/name"
               },
-              "accessType" : "PLAIN"
+              "accessType": "PLAIN"
             },
             {
-              "attribute" : {
-                "jsonPath" : "*/mobilenumber"
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
               },
-              "accessType" : "PLAIN"
+              "accessType": "PLAIN"
             }
           ]
         }
-
       ]
     },
-	{	
-      "key" : "TradeLicenseApplicationReport",
-      "roleAttributeAccessList" : [
+    {
+      "key": "TradeLicenseApplicationReport",
+      "roleAttributeAccessList": [
         {
-          "roleCode" : "TL_REPORT_VIEWER",
-          "attributeAccessList" : [
+          "roleCode": "TL_REPORT_VIEWER",
+          "attributeAccessList": [
             {
-              "attribute" : {
-                "jsonPath" : "*/name"
+              "attribute": {
+                "jsonPath": "*/name"
               },
-              "accessType" : "PLAIN"
+              "accessType": "PLAIN"
             }
           ]
         }
