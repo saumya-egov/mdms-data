@@ -1385,7 +1385,42 @@
               "accessType" : "PLAIN"
             }
           ]
+        },        
+	{
+          "roleCode" : "PT_APPROVER",
+          "attributeAccessList" : [
+            {
+              "attribute" : {
+                "jsonPath" : "*/name"
+              },
+              "accessType" : "PLAIN"
+            },
+            {
+              "attribute" : {
+                "jsonPath" : "*/mobilenumber"
+              },
+              "accessType" : "PLAIN"
+            }
+          ]
+        },        
+	{
+          "roleCode" : "PT_CEMP",
+          "attributeAccessList" : [
+            {
+              "attribute" : {
+                "jsonPath" : "*/name"
+              },
+              "accessType" : "PLAIN"
+            },
+            {
+              "attribute" : {
+                "jsonPath" : "*/mobilenumber"
+              },
+              "accessType" : "PLAIN"
+            }
+          ]
         }
+
       ]
     },
 	{	
