@@ -530,6 +530,16 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water Special Rebate",
+      "code": "WS_SPECIAL_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
       "category": "TAX",
       "service": "WS",
       "name": "Water Rebate",
@@ -584,6 +594,16 @@
       "service": "SW",
       "name": "Sewerage Charges",
       "code": "SW_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "SW",
+      "name": "Sewerage Special Rebate",
+      "code": "SW_SPECIAL_REBATE",
       "isDebit": true,
       "isActualDemand": false,
       "order": "0",
@@ -760,7 +780,7 @@
       "isRequired": false
     },
     {
-      "category": "TAX",
+      "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water Labour Fee",
       "code": "WS_LABOUR_FEE",
