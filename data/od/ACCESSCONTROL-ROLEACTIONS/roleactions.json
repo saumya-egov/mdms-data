@@ -20710,12 +20710,6 @@
       "actioncode": "",
       "tenantId": "od"
     },
-   {
-      "rolecode": "FSM_REPORT_VIEWER",
-      "actionid": 3115,
-      "actioncode": "",
-      "tenantId": "od"
-    },
 	   {
       "rolecode": "FSM_DASHBOARD_VIEWER",
       "actionid": 3116,
