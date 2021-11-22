@@ -20698,15 +20698,9 @@
       "actioncode": "",
       "tenantId": "od"
     },
-	   {
+	  {
       "rolecode": "FSM_REPORT_VIEWER",
       "actionid": 3114,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-   {
-      "rolecode": "FSM_REPORT_VIEWER",
-      "actionid": 3115,
       "actioncode": "",
       "tenantId": "od"
     },
