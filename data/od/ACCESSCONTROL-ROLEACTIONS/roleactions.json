@@ -20751,6 +20751,42 @@
       "actionid": 3118,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 3119,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "TL_APPROVER",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3120,
+      "actioncode": "",
+      "tenantId": "od"
     }
 
    
