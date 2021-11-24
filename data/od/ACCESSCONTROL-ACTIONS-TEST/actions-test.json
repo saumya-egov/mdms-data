@@ -11155,6 +11155,32 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
+      },
+	  {
+         "id": 3119,
+         "name": "billing slab modification",
+         "url": "/tl-calculator/billingslab/_modify",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "TradeLicense",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
+      },
+	  {
+         "id": 3120,
+         "name": "billing slab search in billingslab table and audit table",
+         "url": "/tl-calculator/billingslab/_searchAllBillingSlabs",
+         "parentModule": "",
+         "displayName": "",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "TradeLicense",
+         "code": "null",
+         "path": "",
+         "navigationURL": ""
       }
    ]
 }
