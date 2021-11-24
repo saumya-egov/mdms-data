@@ -223,7 +223,8 @@
       "imageId": null,
       "domainUrl": "https://sujog.odisha.gov.in",
       "pincode": [
-        760001
+        760001,
+        760002
       ],
       "type": "CITY",
       "twitterUrl": null,
@@ -245,7 +246,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BAM",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Berhampur",
         "districtTenantCode": "od.berhampur"
@@ -973,6 +974,11 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+      "pincode":[
+        756001,
+        756002,
+        756003
+      ],
       "city": {
         "name": "Balasore",
         "localName": null,
@@ -985,6 +991,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLS",
+        "ddrName":"Balasore",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balasore",
         "districtTenantCode": "od.balasore"
@@ -1008,6 +1015,10 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+       "pincode": [
+        759001,
+         759013
+      ],
       "city": {
         "name": "Dhenkanal",
         "localName": null,
@@ -1020,6 +1031,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DKN",
+        "ddrName":"Dhenkanal",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Dhenkanal",
         "districtTenantCode": "od.dhenkanal"
