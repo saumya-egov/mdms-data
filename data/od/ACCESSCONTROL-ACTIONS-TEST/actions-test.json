@@ -11181,30 +11181,6 @@
          "code": "null",
          "path": "",
          "navigationURL": ""
-      },
-	  {
-         "id": 3121,
-         "name": "Update BPA Digitally Signed Certificate Details",
-         "url": "/bpa-services/v1/bpa/_updatedscdetails",
-         "parentModule": "",
-         "displayName": "Update BPA Digitally Signed Certificate Details",
-         "orderNumber": 0,
-         "enabled": false,
-         "serviceCode": "bpa-services",
-         "code": "null",
-         "path": ""
-      },
-	  {
-         "id": 3122,
-         "name": "Search BPA Pending Digital Sign Certificate Details",
-         "url": "/bpa-services/v1/bpa/_searchdscdetails",
-         "parentModule": "",
-         "displayName": "Search BPA Pending Digital Sign Certificate Details",
-         "orderNumber": 0,
-         "enabled": false,
-         "serviceCode": "bpa-services",
-         "code": "null",
-         "path": ""
       }
    ]
 }
