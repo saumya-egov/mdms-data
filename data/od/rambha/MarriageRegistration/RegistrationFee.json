@@ -8,7 +8,7 @@
         "after30daysOfMarriage": 32
       },
       "registrationFee": {
-        "after1yearOfMarriage": 0,
+        "after1yearOfMarriage": 500,
         "within1yearOfMarriage": 500
       },
       "developmentFee": {
@@ -18,7 +18,7 @@
         "cost": 0
       },
       "userFee": {
-        "cost": 1000
+        "cost": 0
       }
     }
   ]
