@@ -19827,9 +19827,33 @@
       "actioncode": "",
       "tenantId": "od"
     },
-	{
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3020,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3021,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "MR_APPROVER",
       "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3020,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3021,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -19860,6 +19884,18 @@
 	{
       "rolecode": "CITIZEN",
       "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3020,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3021,
       "actioncode": "",
       "tenantId": "od"
     },
