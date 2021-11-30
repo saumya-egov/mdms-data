@@ -11226,9 +11226,9 @@
        },
        {
          "id": 3126,
-         "name": "WS Connections Eligible For Demand Generation Report",
+         "name": "WS Connections Eligible For Demand Generation",
          "url": "url",
-         "displayName": "WS Connections Eligible For Demand Generation Report",
+         "displayName": "WS Connections Eligible For Demand Generation",
          "orderNumber": 7,
          "queryParams": "",
          "parentModule": "",
@@ -11239,32 +11239,32 @@
          "createdBy": null,
          "lastModifiedDate": null,
          "lastModifiedBy": null,
-         "path": "Water & Sewerage.W&S Reports.WS Connections Eligible For Demand Generation Report",
-         "navigationURL": "report/rainmaker-ws/WSConnectionsEligibleForDemandGenerationReport",
+         "path": "Water & Sewerage.W&S Reports.WS Connections Eligible For Demand Generation",
+         "navigationURL": "report/rainmaker-ws/WSConnectionsEligibleForDemandGeneration",
          "leftIcon": "action:assignment",
          "rightIcon": ""
        },
        {
          "id": 3127,
-         "name": "WS Connections Eligible For Demand Generation Report",
-         "url": "/report/rainmaker-ws/WSConnectionsEligibleForDemandGenerationReport/metadata/_get",
-         "displayName": "WS Connections Eligible For Demand Generation Report",
+         "name": "WS Connections Eligible For Demand Generation",
+         "url": "/report/rainmaker-ws/WSConnectionsEligibleForDemandGeneration/metadata/_get",
+         "displayName": "WS Connections Eligible For Demand Generation",
          "orderNumber": 0,
          "enabled": true,
          "serviceCode": "WNSREPORTS",
          "code": "null",
-         "path": "WS Connections Eligible For Demand Generation Report"
+         "path": "WS Connections Eligible For Demand Generation"
        },
        {
          "id": 3128,
-         "name": "WS Connections Eligible For Demand Generation Report",
-         "url": "/report/rainmaker-ws/WSConnectionsEligibleForDemandGenerationReport/_get",
-         "displayName": "WS Connections Eligible For Demand Generation Report",
+         "name": "WS Connections Eligible For Demand Generation",
+         "url": "/report/rainmaker-ws/WSConnectionsEligibleForDemandGeneration/_get",
+         "displayName": "WS Connections Eligible For Demand Generation",
          "orderNumber": 0,
          "enabled": true,
          "serviceCode": "WNSREPORTS",
          "code": "null",
-         "path": "WS Connections Eligible For Demand Generation Report"
+         "path": "WS Connections Eligible For Demand Generation"
        }
    ]
 }
