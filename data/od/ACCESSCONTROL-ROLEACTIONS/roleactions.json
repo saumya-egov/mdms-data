@@ -20350,6 +20350,55 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "MR_APPROVER",
       "actionid": 1766,
       "actioncode": "",
