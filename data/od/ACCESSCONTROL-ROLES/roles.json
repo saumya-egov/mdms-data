@@ -796,6 +796,11 @@
       "code":"TL_REPORT_VIEWER",
       "name":"TL Report Viewer",
       "description":"TL Report Viewer"
+    },
+    {
+      "code":"INTERNAL_REPORT_VIEWER",
+      "name":"Internal Report Viewer",
+      "description":"Internal Report Viewer"
     }
   ]
 }
