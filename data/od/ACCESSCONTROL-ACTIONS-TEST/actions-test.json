@@ -11181,6 +11181,17 @@
          "code": "null",
          "path": "",
          "navigationURL": ""
+      },
+      {
+         "id": 3121,
+         "name": "Calculate Fee For Water Application through scheduler",
+         "url": "/ws-calculator/waterCalculator/_billscheduler",
+         "displayName": "Fee Calculation For Water Application through configurable scheduler",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
       }
    ]
 }
