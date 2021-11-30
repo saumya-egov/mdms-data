@@ -8,14 +8,14 @@
         "after30daysOfMarriage": 32
       },
       "registrationFee": {
-        "after1yearOfMarriage": 0,
+        "after1yearOfMarriage": 1000,
         "within1yearOfMarriage": 1000
       },
       "developmentFee": {
         "cost": 0
       },
       "redcrossFee": {
-        "cost": 200
+        "cost": 0
       },
       "userFee": {
         "cost": 0

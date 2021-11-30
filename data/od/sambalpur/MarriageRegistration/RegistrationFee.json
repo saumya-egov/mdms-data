@@ -4,7 +4,7 @@
   "FeeDetails": [
     {
       "challanFee": {
-        "within30daysOfMarriage": 32,
+        "within30daysOfMarriage": 7,
         "after30daysOfMarriage": 32
       },
       "registrationFee": {
@@ -15,7 +15,7 @@
         "cost": 0
       },
       "redcrossFee": {
-        "cost": 500
+        "cost": 0
       },
       "userFee": {
         "cost": 0
