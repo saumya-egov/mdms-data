@@ -5,10 +5,10 @@
     {
       "challanFee": {
         "within30daysOfMarriage": 7,
-        "after30daysOfMarriage": 31
+        "after30daysOfMarriage": 32
       },
       "registrationFee": {
-        "after1yearOfMarriage": 0,
+        "after1yearOfMarriage": 1500,
         "within1yearOfMarriage": 1500
       },
       "developmentFee": {

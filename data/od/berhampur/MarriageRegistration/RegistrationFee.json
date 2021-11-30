@@ -12,10 +12,10 @@
         "within1yearOfMarriage": 0
       },
       "developmentFee": {
-        "cost": 1500
+        "cost": 0
       },
       "redcrossFee": {
-        "cost": 500
+        "cost": 0
       },
       "userFee": {
         "cost": 0
