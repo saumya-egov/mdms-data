@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.kamakhyanagar",
+  "tenantId": "od.jharsuguda",
   "moduleName": "MarriageRegistration",
   "FeeDetails": [
     {
@@ -8,8 +8,8 @@
         "after30daysOfMarriage": 32
       },
       "registrationFee": {
-        "after1yearOfMarriage": 0,
-        "within1yearOfMarriage": 0
+        "after1yearOfMarriage": 1000,
+        "within1yearOfMarriage": 1000
       },
       "developmentFee": {
         "cost": 0

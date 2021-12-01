@@ -19827,7 +19827,7 @@
       "actioncode": "",
       "tenantId": "od"
     },
-	{
+    {
       "rolecode": "MR_APPROVER",
       "actionid": 3041,
       "actioncode": "",
@@ -20350,6 +20350,55 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_DOC_VERIFIER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	  
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "MR_APPROVER",
       "actionid": 1766,
       "actioncode": "",
@@ -20787,9 +20836,48 @@
       "actionid": 3120,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 3121,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "INTERNAL_REPORT_VIEWER",
+      "actionid": 3122,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "INTERNAL_REPORT_VIEWER",
+      "actionid": 3123,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "INTERNAL_REPORT_VIEWER",
+      "actionid": 3124,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "INTERNAL_REPORT_VIEWER",
+      "actionid": 3125,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "INTERNAL_REPORT_VIEWER",
+      "actionid": 3126,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "INTERNAL_REPORT_VIEWER",
+      "actionid": 3127,
+      "actioncode": "",
+      "tenantId": "od"
     }
-
-   
-
   ]
 }
