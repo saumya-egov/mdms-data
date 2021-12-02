@@ -11276,6 +11276,17 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "WS Scheduler Based Demands Generation Report"
+      },
+      {
+         "id": 3128,
+         "name": "Create Property registry",
+         "url": "/property-services/property/_migratepropertyuser",
+         "displayName": "Migrate Property",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }

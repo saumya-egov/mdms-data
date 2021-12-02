@@ -3,7 +3,7 @@
   "moduleName": "ws-services-calculation",
   "Rebate": [
     {
-      "rate": 0,
+      "rate": 2,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2021-22",
