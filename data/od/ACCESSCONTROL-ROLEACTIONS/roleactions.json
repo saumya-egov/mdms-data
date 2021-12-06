@@ -20884,6 +20884,12 @@
       "actionid": 3128,
       "actioncode": "",
       "tenantId": "od"
+    },
+   {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 1890,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
