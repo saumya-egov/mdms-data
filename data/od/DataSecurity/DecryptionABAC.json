@@ -1591,6 +1591,28 @@
           ]
         }
       ]
+    },
+    {
+      "key": "WaterEmployeeWiseCollection",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "WS_CEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/username"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
