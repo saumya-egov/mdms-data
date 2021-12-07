@@ -18674,42 +18674,8 @@
     "actioncode": "",
     "tenantId": "od"
   },
-  {
-    "rolecode": "FSM_DSO",
-    "actionid": 1737,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_EMP_FSTPO",
-    "actionid": 1737,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_DSO",
-    "actionid": 1748,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_EMP_FSTPO",
-    "actionid": 1748,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_DSO",
-    "actionid": 1749,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_EMP_FSTPO",
-    "actionid": 1749,
-    "actioncode": "",
-    "tenantId": "od"
-  },
+  
+  
   {
     "rolecode": "FSM_CREATOR_EMP",
     "actionid": 699,
