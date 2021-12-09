@@ -18063,6 +18063,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+   {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 1890,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2059,
