@@ -1609,6 +1609,24 @@
                 "jsonPath": "*/username"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/empuserid"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/empname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/holdername"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
