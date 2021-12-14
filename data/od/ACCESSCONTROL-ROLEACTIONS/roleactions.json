@@ -20880,6 +20880,18 @@
       "actionid": 3132,
       "actioncode": "",
       "tenantId": "od"
-    }
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1888,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1893,
+      "actioncode": "",
+      "tenantId": "od"
+    }	  
   ]
 }
