@@ -18063,6 +18063,12 @@
       "actioncode": "",
       "tenantId": "od"
     },
+   {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 1890,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
     {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2059,
@@ -18674,42 +18680,8 @@
     "actioncode": "",
     "tenantId": "od"
   },
-  {
-    "rolecode": "FSM_DSO",
-    "actionid": 1737,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_EMP_FSTPO",
-    "actionid": 1737,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_DSO",
-    "actionid": 1748,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_EMP_FSTPO",
-    "actionid": 1748,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_DSO",
-    "actionid": 1749,
-    "actioncode": "",
-    "tenantId": "od"
-  },
-  {
-    "rolecode": "FSM_EMP_FSTPO",
-    "actionid": 1749,
-    "actioncode": "",
-    "tenantId": "od"
-  },
+  
+  
   {
     "rolecode": "FSM_CREATOR_EMP",
     "actionid": 699,
@@ -21100,6 +21072,30 @@
       "actionid": 3131,
       "actioncode": "",
       "tenantId": "od"
-    }
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3132,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1888,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1893,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1886,
+      "actioncode": "",
+      "tenantId": "od"
+    }	  
   ]
 }

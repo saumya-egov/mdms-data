@@ -5,9 +5,9 @@
     {
       "name": "Odisha",
       "code": "od",
-      "bannerUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
-      "logoUrl": "https://sujog-dev.odisha.gov.in/filestore/v1/files/id?fileStoreId=58775936-8786-4259-a4db-bb801e396e66&tenantId=od",
-      "logoUrlWhite": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odWhiteLogo.png",
+      "bannerUrl": "https://sujog.odisha.gov.in/filestore/v1/files/id?fileStoreId=20b83042-974a-4e6d-a0a4-d563d66e805a&tenantId=od",
+      "logoUrl": "http://sujog.odisha.gov.in/filestore/v1/files/id?tenantId=od&fileStoreId=40ca81db-44db-4044-a767-7ffbe9e1d90a",
+      "logoUrlWhite": "http://sujog.odisha.gov.in/filestore/v1/files/id?tenantId=od&fileStoreId=dc714170-bc51-47a4-a1cf-6f92e39fcf11",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/login",

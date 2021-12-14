@@ -7090,7 +7090,7 @@
          "displayName": "SURE Dashboard",
          "orderNumber": 2,
          "parentModule": "dss-dashboard",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": "Dashboard.Home",
@@ -7120,7 +7120,7 @@
          "displayName": "Tradelicense",
          "orderNumber": 5,
          "parentModule": "dss-dashboard",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": "Dashboard.TradeLicense",
@@ -7185,7 +7185,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -11329,6 +11329,22 @@
          "navigationURL": "report/rainmaker-ws/EmployeeWiseWSCollectionReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      }
+      },
+      {
+         "id": 3132,
+         "name": "rainmaker-citizen-fsm",
+         "url": "card",
+         "displayName": "Faecal Sludge Management",
+         "orderNumber": 4,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "fsm",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen",
+         "leftIcon": "custom:localShipping",
+         "rightIcon": "",
+         "queryParams": ""
+       }
    ]
 }
