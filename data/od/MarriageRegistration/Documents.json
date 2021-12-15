@@ -5,7 +5,7 @@
         {
             "code": "IDPROOF",
             "documentType": "IDPROOF",
-            "required": false,
+            "required": true,
             "active": true,
             "hasDropdown": true,
             "dropdownData": [
@@ -35,7 +35,7 @@
         {
             "code": "RESIDENTIALPROOF",
             "documentType": "RESIDENTIALPROOF",
-            "required": false,
+            "required": true,
             "active": true,
             "hasDropdown": true,
             "dropdownData": [
@@ -49,7 +49,7 @@
         {
             "code": "INVITATIONCARD",
             "documentType": "INVITATIONCARD",
-            "required": false,
+            "required": true,
             "active": true,
             "hasDropdown": true,
             "dropdownData": [
@@ -77,7 +77,7 @@
         {
             "code": "JOINTPHOTO",
             "documentType": "JOINTPHOTO",
-            "required": false,
+            "required": true,
             "active": true,
             "hasDropdown": true,
             "dropdownData": [
@@ -91,7 +91,7 @@
         {
             "code": "JOINTAFFIDAVIT",
             "documentType": "JOINTAFFIDAVIT",
-            "required": false,
+            "required": true,
             "active": true,
             "hasDropdown": true,
             "dropdownData": [
