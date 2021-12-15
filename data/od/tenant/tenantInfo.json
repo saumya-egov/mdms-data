@@ -428,16 +428,6 @@
       ]
     },
     {
-      "code": "od.testing",
-      "districtCode": "TESTING",
-      "literacyRate": "57.41",
-      "languagesSpoken": [
-        "HN",
-        "OD",
-        "EN"
-      ]
-    },
-    {
       "code": "od.anandapur",
       "districtCode": "ANANDAPUR",
       "population": "156716",
