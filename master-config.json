@@ -982,6 +982,13 @@
       "masterName": "waterSourceWithSubSource",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "connectionFacility": {
+      "masterName": "connectionFacility",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "ws-services-calculation": {
