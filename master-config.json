@@ -1068,13 +1068,18 @@
       "isStateLevel": true,
       "uniqueKeys": []
     },
-	"LabourFee": {
+	  "LabourFee": {
       "masterName": "LabourFee",
       "isStateLevel": true,
       "uniqueKeys": []
     },
     "CalculationAttribute": {
       "masterName": "CalculationAttribute",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "MeterReading": {
+      "masterName": "MeterReading",
       "isStateLevel": true,
       "uniqueKeys": []
     }

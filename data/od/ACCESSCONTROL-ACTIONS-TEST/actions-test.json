@@ -11369,6 +11369,28 @@
          "serviceCode": "bpa-services",
          "code": "null",
          "path": ""
-       }
+       },
+       {
+         "id": 3135,
+         "name": "Update Meter Reading",
+         "url": "/ws-calculator/meterConnection/_update",
+         "displayName": "Enter Meter Reading",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3136,
+         "name": "Enter bulk Meter Reading",
+         "url": "/ws-calculator/meterConnection/bulk/_create",
+         "displayName": "Enter Meter Reading",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
