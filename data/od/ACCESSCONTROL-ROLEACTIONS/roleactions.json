@@ -21151,21 +21151,33 @@
       "actioncode": "",
       "tenantId": "od"
     },
-	{
+	  {
       "rolecode": "WS_REPORT_VIEWER",
       "actionid": 3135,
       "actioncode": "",
       "tenantId": "od"
     },
-	{
+	  {
       "rolecode": "WS_REPORT_VIEWER",
       "actionid": 3136,
       "actioncode": "",
       "tenantId": "od"
     },
-	{
+	  {
       "rolecode": "WS_REPORT_VIEWER",
       "actionid": 3137,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3138,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3139,
       "actioncode": "",
       "tenantId": "od"
     }

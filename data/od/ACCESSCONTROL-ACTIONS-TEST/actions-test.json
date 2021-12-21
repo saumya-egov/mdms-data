@@ -11411,6 +11411,28 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "Water Charge Report"
-       }
+       },
+       {
+         "id": 3138,
+         "name": "Update Meter Reading",
+         "url": "/ws-calculator/meterConnection/_update",
+         "displayName": "Enter Meter Reading",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3139,
+         "name": "Enter bulk Meter Reading",
+         "url": "/ws-calculator/meterConnection/bulk/_create",
+         "displayName": "Enter Meter Reading",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
