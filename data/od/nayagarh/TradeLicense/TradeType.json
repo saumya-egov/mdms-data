@@ -4612,6 +4612,36 @@
       "active": true,
       "type": "TL",
       "validityPeriod": null
-    }
+    },{
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST338",
+      "name":"Lubricants",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   }
   ]
 }
