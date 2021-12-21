@@ -11372,6 +11372,48 @@
        },
        {
          "id": 3135,
+         "name": "Employee Date Wise WS Collection",
+         "url": "url",
+         "displayName": "Employee Date Wise WS Collection Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.Employee Date Wise WS Collection",
+         "navigationURL": "report/rainmaker-ws/EmployeeDateWiseWSCollection",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+       },
+       {
+         "id": 3136,
+         "name": "Water Charge Report",
+         "url": "/report/rainmaker-ws/EmployeeDateWiseWSCollection/metadata/_get",
+         "displayName": "Water Charge Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Water Charge Report"
+       },
+       {
+         "id": 3137,
+         "name": "Water Charge Report",
+         "url": "/report/rainmaker-ws/EmployeeDateWiseWSCollection/_get",
+         "displayName": "Water Charge Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "Water Charge Report"
+       },
+       {
+         "id": 3138,
          "name": "Update Meter Reading",
          "url": "/ws-calculator/meterConnection/_update",
          "displayName": "Enter Meter Reading",
@@ -11382,7 +11424,7 @@
          "path": ""
       },
       {
-         "id": 3136,
+         "id": 3139,
          "name": "Enter bulk Meter Reading",
          "url": "/ws-calculator/meterConnection/bulk/_create",
          "displayName": "Enter Meter Reading",
