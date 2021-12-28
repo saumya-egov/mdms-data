@@ -21200,19 +21200,25 @@
       "tenantId": "od"
     },
 	{
-      "rolecode": "EMPLOYEE",
-      "actionid": 3140,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-	{
       "rolecode": "CITIZEN",
       "actionid": 3140,
       "actioncode": "",
       "tenantId": "od"
     },
 	{
-      "rolecode": "SUPERUSER",
+      "rolecode": "WS_CEMP",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CLERK",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
       "actionid": 3140,
       "actioncode": "",
       "tenantId": "od"
