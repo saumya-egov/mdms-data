@@ -21198,6 +21198,24 @@
       "actionid": 3139,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
