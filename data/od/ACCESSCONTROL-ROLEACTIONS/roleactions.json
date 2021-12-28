@@ -21198,6 +21198,30 @@
       "actionid": 3139,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "CITIZEN",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CLERK",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 3140,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
