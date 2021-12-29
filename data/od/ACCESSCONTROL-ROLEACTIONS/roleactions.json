@@ -21240,6 +21240,42 @@
       "actionid": 3143,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 3141,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 3142,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 3143,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 3141,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 3142,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 3143,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
