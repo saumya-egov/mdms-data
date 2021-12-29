@@ -11433,6 +11433,17 @@
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3140,
+         "name": "Collection Saerch Reciept",
+         "url": "/collection-services/payments/WS.ONE_TIME_FEE/_search",
+         "displayName": "Search Payment",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "COLLECTION",
+         "code": "null",
+         "path": ""
       }
    ]
 }
