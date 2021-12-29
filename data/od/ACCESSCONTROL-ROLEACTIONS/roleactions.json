@@ -21222,6 +21222,24 @@
       "actionid": 3140,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3141,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3142,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3143,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

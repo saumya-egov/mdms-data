@@ -11444,6 +11444,48 @@
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3141,
+         "name": "W&S Consumer Master Report",
+         "url": "url",
+         "displayName": "W&S Consumer Master Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.W&S Consumer Master Report",
+         "navigationURL": "report/rainmaker-ws/W&SConsumerMasterReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3142,
+         "name": "W&S Consumer Master Report",
+         "url": "/report/rainmaker-ws/W&SConsumerMasterReport/metadata/_get",
+         "displayName": "W&S Consumer Master Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "W&S Consumer Master Report"
+      },
+      {
+         "id": 3143,
+         "name": "W&S Consumer Master Report",
+         "url": "/report/rainmaker-ws/W&SConsumerMasterReport/_get",
+         "displayName": "W&S Consumer Master Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "W&S Consumer Master Report"
       }
    ]
 }
