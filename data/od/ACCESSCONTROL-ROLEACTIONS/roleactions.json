@@ -21276,6 +21276,60 @@
       "actionid": 3143,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3144,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3145,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3146,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 3144,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 3145,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_CEMP",
+      "actionid": 3146,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 3144,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 3145,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "WS_APPROVER",
+      "actionid": 3146,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
