@@ -1627,6 +1627,12 @@
                 "jsonPath": "*/holdername"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
             }
           ]
         },
@@ -1660,6 +1666,53 @@
             {
               "attribute": {
                 "jsonPath": "*/holdername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/address"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "WS_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/username"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/empuserid"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/empname"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/holdername"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/address"
               },
               "accessType": "PLAIN"
             }
