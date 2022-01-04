@@ -11391,6 +11391,17 @@
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3137,
+         "name": "Migrate sewerage Connection",
+         "url": "/ws-services/wc/_swmigrate",
+         "displayName": "Migrate sewerage COnnection",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
