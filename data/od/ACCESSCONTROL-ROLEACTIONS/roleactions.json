@@ -21330,6 +21330,12 @@
       "actionid": 3146,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3147,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

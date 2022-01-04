@@ -11528,6 +11528,17 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "W&S Consumer Payment History Report"
+      },
+      {
+         "id": 3147,
+         "name": "Migrate sewerage Connection",
+         "url": "/ws-services/wc/_swmigrate",
+         "displayName": "Migrate sewerage COnnection",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
