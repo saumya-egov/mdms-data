@@ -11539,6 +11539,17 @@
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3148,
+         "name": "Clear Token",
+         "url": "/user/v1/_logout",
+         "displayName": "Clear Token",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "ADMIN",
+         "code": "null",
+         "path": "Administration.Clear Token"
       }
    ]
 }
