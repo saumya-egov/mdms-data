@@ -1306,6 +1306,12 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 3148,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 702,
       "actioncode": "",
       "tenantId": "od"
@@ -4661,6 +4667,18 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3148,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3148,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -8093,6 +8111,18 @@
     {
       "rolecode": "DGRO",
       "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 3148,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 3148,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -12605,6 +12635,12 @@
     {
       "rolecode": "CSR",
       "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 3148,
       "actioncode": "",
       "tenantId": "od"
     },
