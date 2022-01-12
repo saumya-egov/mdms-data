@@ -28,7 +28,7 @@
         },
         {
             "code": "NMA_NOC",
-            "isActive": false,
+            "isActive": true,
             "offlineWF": "NMA_NOC_OFFLINE",
             "onlineWF": "NMA_NOC_SRV",
             "thirdPartyWF": "NMA_NOC_THIRD_PARTY",
