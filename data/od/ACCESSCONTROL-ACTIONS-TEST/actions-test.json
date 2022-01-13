@@ -11624,7 +11624,17 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
-    }	
-	   
+    },
+    {
+      "id": 3155,
+      "name": "Calculate Fee For Water Application through api",
+      "url": "/ws-calculator/waterCalculator/generate/_bill",
+      "displayName": "Fee Calculation For Water Application through api",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+      }
    ]
 }
