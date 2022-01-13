@@ -1720,11 +1720,27 @@
         }
       ]
     },
-        {
+    {
       "key": "TLDailyCollectionReport",
       "roleAttributeAccessList": [
         {
           "roleCode": "TL_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "MRDailyCollectionReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "MR_REPORT_VIEWER",
           "attributeAccessList": [
             {
               "attribute": {
