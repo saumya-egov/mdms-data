@@ -801,6 +801,11 @@
       "code":"INTERNAL_REPORT_VIEWER",
       "name":"Internal Report Viewer",
       "description":"Internal Report Viewer"
+    },
+    {
+      "code":"MR_REPORT_VIEWER",
+      "name":"MR Report Viewer",
+      "description":"MR Report Viewer"
     }
   ]
 }
