@@ -1306,6 +1306,12 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 3148,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 702,
       "actioncode": "",
       "tenantId": "od"
@@ -4661,6 +4667,18 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3148,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3148,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -8093,6 +8111,18 @@
     {
       "rolecode": "DGRO",
       "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "GRO",
+      "actionid": 3148,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "DGRO",
+      "actionid": 3148,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -12605,6 +12635,12 @@
     {
       "rolecode": "CSR",
       "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 3148,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -20845,6 +20881,24 @@
       "actioncode": "",
       "tenantId": "od"
     },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3102,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3103,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3104,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
 	{
       "rolecode": "MR_APPROVER",
       "actionid": 3105,
@@ -21334,6 +21388,48 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 3147,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3149,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3150,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3151,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3152,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3153,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_APPROVER",
+      "actionid": 3154,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3145,
       "actioncode": "",
       "tenantId": "od"
     }

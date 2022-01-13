@@ -4892,7 +4892,7 @@
          "displayName": "Trade License Registry Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-tl",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeLicenseRegistryReport",
@@ -4967,7 +4967,7 @@
          "displayName": "State Level Trade License Registry Report",
          "orderNumber": 4,
          "parentModule": "rainmaker-tl",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.StateLevelTradeLicenseRegistryReport",
@@ -7260,7 +7260,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7296,7 +7296,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7380,7 +7380,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7416,7 +7416,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -11539,6 +11539,102 @@
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3148,
+         "name": "Clear Token",
+         "url": "/user/v1/_logout",
+         "displayName": "Clear Token",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "ADMIN",
+         "code": "null",
+         "path": "Administration.Clear Token"
+      },
+      {
+      "id": 3149,
+      "name": "TLDailyCollectionReport",
+      "url": "url",
+      "displayName": "TL Daily Collection Report",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "TradeLicense.Trade License Reports.TLDailyCollectionReport",
+      "navigationURL": "report/rainmaker-tl/TLDailyCollectionReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+   {
+      "id": 3150,
+      "name": "TLDailyCollectionReport",
+      "url": "/report/rainmaker-tl/TLDailyCollectionReport/metadata/_get",
+      "displayName": "TL Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 3151,
+      "name": "TLDailyCollectionReport",
+      "url": "/report/rainmaker-tl/TLDailyCollectionReport/_get",
+      "displayName": "TL Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 3152,
+      "name": "MRDailyCollectionReport",
+      "url": "url",
+      "displayName": "MR Daily Collection Report",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "Marriage Registration.Marriage Registration Reports.MRDailyCollectionReport",
+      "navigationURL": "report/rainmaker-mr/MRDailyCollectionReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+   {
+      "id": 3153,
+      "name": "MRDailyCollectionReport",
+      "url": "/report/rainmaker-mr/MRDailyCollectionReport/metadata/_get",
+      "displayName": "MR Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 3154,
+      "name": "MRDailyCollectionReport",
+      "url": "/report/rainmaker-mr/MRDailyCollectionReport/_get",
+      "displayName": "MR Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3155,
+      "name": "Calculate Fee For Water Application through api",
+      "url": "/ws-calculator/waterCalculator/generate/_bill",
+      "displayName": "Fee Calculation For Water Application through api",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
       }
    ]
 }
