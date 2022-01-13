@@ -4892,7 +4892,7 @@
          "displayName": "Trade License Registry Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-tl",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeLicenseRegistryReport",
@@ -4967,7 +4967,7 @@
          "displayName": "State Level Trade License Registry Report",
          "orderNumber": 4,
          "parentModule": "rainmaker-tl",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.StateLevelTradeLicenseRegistryReport",
@@ -7260,7 +7260,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7296,7 +7296,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7380,7 +7380,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7416,7 +7416,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
