@@ -11581,12 +11581,50 @@
       "id": 3151,
       "name": "TLDailyCollectionReport",
       "url": "/report/rainmaker-tl/TLDailyCollectionReport/_get",
-      "displayName": "FSM Report",
+      "displayName": "TL Report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 3152,
+      "name": "MRDailyCollectionReport",
+      "url": "url",
+      "displayName": "MR Daily Collection Report",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": "Marriage Registration.Marriage Registration Reports.MRDailyCollectionReport",
+      "navigationURL": "report/rainmaker-mr/MRDailyCollectionReport",
+      "leftIcon": "action:description",
+      "rightIcon": ""
+    },
+   {
+      "id": 3153,
+      "name": "MRDailyCollectionReport",
+      "url": "/report/rainmaker-mr/MRDailyCollectionReport/metadata/_get",
+      "displayName": "MR Metadata Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 3154,
+      "name": "MRDailyCollectionReport",
+      "url": "/report/rainmaker-mr/MRDailyCollectionReport/_get",
+      "displayName": "MR Report",
       "orderNumber": 0,
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
       "path": ""
     }	
+	   
    ]
 }
