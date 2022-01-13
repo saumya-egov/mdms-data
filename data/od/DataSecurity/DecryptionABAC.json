@@ -1589,6 +1589,17 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "TL_APPROVER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
@@ -1733,6 +1744,17 @@
               "accessType": "PLAIN"
             }
           ]
+        },
+        {
+          "roleCode": "TL_APPROVER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
         }
       ]
     },
@@ -1741,6 +1763,17 @@
       "roleAttributeAccessList": [
         {
           "roleCode": "MR_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "MR_APPROVER",
           "attributeAccessList": [
             {
               "attribute": {
