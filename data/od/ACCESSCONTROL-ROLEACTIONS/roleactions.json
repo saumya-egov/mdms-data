@@ -21390,6 +21390,24 @@
       "actionid": 3151,
       "actioncode": "",
       "tenantId": "od"
-    }
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3152,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3153,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "MR_CEMP",
+      "actionid": 3154,
+      "actioncode": "",
+      "tenantId": "od"
+    }	  
   ]
 }
