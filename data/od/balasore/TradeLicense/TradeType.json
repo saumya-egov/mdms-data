@@ -5319,8 +5319,8 @@
    {
       "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST428",
       "name":"Tyre showroom",
-      "uom":"Year",
-      "uomDescription":"Year",
+      "uom":null,
+      "uomDescription":null,
       "applicationDocument":[
          {
             "applicationType":"NEW",
