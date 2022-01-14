@@ -10284,6 +10284,66 @@
       "active" : true,
       "type" : "TL",
       "validityPeriod" : null
-    }
+    },
+    {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST349",
+      "name":"Non-Banking / Private Finance Company",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+    "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST303",
+    "name":"FMCG Goods (Retails)",
+    "uom":null,
+    "uomDescription":null,
+    "applicationDocument":[
+       {
+          "applicationType":"NEW",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO"
+          ]
+       },
+       {
+          "applicationType":"RENEWAL",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO",
+             "OLDLICENCENO"
+          ]
+       }
+    ],
+    "verificationDocument":[         
+    ],
+    "active":true,
+    "type":"TL",
+    "validityPeriod":null
+ }
   ]
 }

@@ -10595,6 +10595,66 @@
       "active":true,
       "type":"TL",
       "validityPeriod":null
-   }
+   },
+   {
+    "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST313",
+    "name":"Gold Loan Finance",
+    "uom":null,
+    "uomDescription":null,
+    "applicationDocument":[
+       {
+          "applicationType":"NEW",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO"
+          ]
+       },
+       {
+          "applicationType":"RENEWAL",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO",
+             "OLDLICENCENO"
+          ]
+       }
+    ],
+    "verificationDocument":[         
+    ],
+    "active":true,
+    "type":"TL",
+    "validityPeriod":null
+ },
+ {
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST329",
+  "name":"Iron Rod (retailer)",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+}
   ]
 }
