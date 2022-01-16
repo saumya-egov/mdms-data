@@ -10655,6 +10655,1446 @@
   "active":true,
   "type":"TL",
   "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST250",
+  "name":"Automobile Garage",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST311",
+  "name":"Glass Shop",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST283",
+  "name":"Copper Smith",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST309",
+  "name":"Glass / Glass Articles",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST376",
+  "name":"Road way Transport",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"FLAMABLES.TST20",
+  "name":"Anodising or Metalizing",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST323",
+  "name":"Insecticide or disinfectants or deodorants",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"EATINGESTABLISHMENTS.TST33",
+  "name":"Foreign Liquor Off Shop",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST322",
+  "name":"Ink for Printing writing or Stamping",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST397",
+  "name":"Share Trading",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST243",
+  "name":"Agriculture items",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST281",
+  "name":"Consultancy Management",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST280",
+  "name":"Computer Education",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST448",
+  "name":"Wholesaler All sorts of Tobacco products",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST372",
+  "name":"Refining of precious metals or recovering them from embroideries, photographic papers, films, or any commodities",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST393",
+  "name":"Scrap Dealer",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST319",
+  "name":"Home Appliances",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST328",
+  "name":"Invertor and Battery sale",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST314",
+  "name":"Grease",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST381",
+  "name":"Sale Forest Products",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST291",
+  "name":"Dyes, Colours, pigments or powder etc",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST327",
+  "name":"Internet Service Provider",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST289",
+  "name":"Distributor (Per Item)",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST368",
+  "name":"Processing and Selling of Tin items",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST379",
+  "name":"Sale Audio / Video Cassettes only",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST324",
+  "name":"Insulation Material",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST288",
+  "name":"Digital Flex Banner",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST442",
+  "name":"Vulcanising of Rubber Goods",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST427",
+  "name":"Tyre Repair Shop",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST284",
+  "name":"Cotton Thread goods",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST300",
+  "name":"Flower Plant stall",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"EATINGESTABLISHMENTS.TST34",
+  "name":"Manufacturing / Selling of Chocolate, Mixture & Biscuits",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST338",
+  "name":"Lubricants",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"FLAMABLES.TST22",
+  "name":"Firewood Depot",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST293",
+  "name":"Electrical Items",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST422",
+  "name":"Tower ( Wireless )",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"EATINGESTABLISHMENTS.TST38",
+  "name":"Street Food",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST367",
+  "name":"Processing and Refining of Mineral oils",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST402",
+  "name":"Stone Grinding/ Cutting/Dressing/Polishing",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST365",
+  "name":"Printing or Embossing Cloth",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST361",
+  "name":"Polishing / Sale of Glass",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST334",
+  "name":"Leather cloth, rexine cloth, plastic cloth, water proof cloth",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST359",
+  "name":"Plastic product",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST356",
+  "name":"Ornament Washing",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST355",
+  "name":"Optical Glass Grinding/Repairing",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST352",
+  "name":"Oil Other than Petroleum",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST342",
+  "name":"Marble Shop",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST341",
+  "name":"Marble Items / Artefact",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
 }
   ]
 }
