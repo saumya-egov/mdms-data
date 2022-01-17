@@ -11638,9 +11638,9 @@
       },
       {
          "id": 3156,
-         "name": "WS Scheduler Generated Demands Count Report",
+         "name": "W&S Bill Summary Report",
          "url": "url",
-         "displayName": "WS Scheduler Generated Demands Count Report",
+         "displayName": "W&S Bill Summary Report",
          "orderNumber": 7,
          "queryParams": "",
          "parentModule": "",
@@ -11651,32 +11651,32 @@
          "createdBy": null,
          "lastModifiedDate": null,
          "lastModifiedBy": null,
-         "path": "Water & Sewerage.W&S Reports.WS Scheduler Generated Demands Count Report",
-         "navigationURL": "report/rainmaker-ws/WSSchedulerGeneratedDemandsCountReport",
+         "path": "Water & Sewerage.W&S Reports.W&S Bill Summary Report",
+         "navigationURL": "report/rainmaker-ws/W&SBillSummaryReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
       {
          "id": 3157,
-         "name": "WS Scheduler Generated Demands Count Report",
-         "url": "/report/rainmaker-ws/WSSchedulerGeneratedDemandsCountReport/metadata/_get",
-         "displayName": "WS Scheduler Generated Demands Count Report",
+         "name": "W&S Bill Summary Report",
+         "url": "/report/rainmaker-ws/W&SBillSummaryReport/metadata/_get",
+         "displayName": "W&S Bill Summary Report",
          "orderNumber": 0,
          "enabled": true,
          "serviceCode": "WNSREPORTS",
          "code": "null",
-         "path": "WS Scheduler Generated Demands Count Report"
+         "path": "W&S Bill Summary Report"
       },
       {
          "id": 3158,
-         "name": "WS Scheduler Generated Demands Count Report",
-         "url": "/report/rainmaker-ws/WSSchedulerGeneratedDemandsCountReport/_get",
-         "displayName": "WS Scheduler Generated Demands Count Report",
+         "name": "W&S Bill Summary Report",
+         "url": "/report/rainmaker-ws/W&SBillSummaryReport/_get",
+         "displayName": "W&S Bill Summary Report",
          "orderNumber": 0,
          "enabled": true,
          "serviceCode": "WNSREPORTS",
          "code": "null",
-         "path": "WS Scheduler Generated Demands Count Report"
+         "path": "W&S Bill Summary Report"
       }
    ]
 }
