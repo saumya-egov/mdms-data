@@ -11635,6 +11635,48 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+      },
+      {
+         "id": 3156,
+         "name": "WS Scheduler Generated Demands Count Report",
+         "url": "url",
+         "displayName": "WS Scheduler Generated Demands Count Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.WS Scheduler Generated Demands Count Report",
+         "navigationURL": "report/rainmaker-ws/WSSchedulerGeneratedDemandsCountReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3157,
+         "name": "WS Scheduler Generated Demands Count Report",
+         "url": "/report/rainmaker-ws/WSSchedulerGeneratedDemandsCountReport/metadata/_get",
+         "displayName": "WS Scheduler Generated Demands Count Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "WS Scheduler Generated Demands Count Report"
+      },
+      {
+         "id": 3158,
+         "name": "WS Scheduler Generated Demands Count Report",
+         "url": "/report/rainmaker-ws/WSSchedulerGeneratedDemandsCountReport/_get",
+         "displayName": "WS Scheduler Generated Demands Count Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "WS Scheduler Generated Demands Count Report"
       }
    ]
 }
