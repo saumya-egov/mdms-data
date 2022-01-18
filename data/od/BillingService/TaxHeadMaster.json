@@ -680,6 +680,16 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Sewerage Adhoc Charges",
+      "code": "SW_ADHOC_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "17",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water Application Form Fee",
