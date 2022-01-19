@@ -11677,6 +11677,48 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "W&S Bill Summary Report"
+      },
+      {
+         "id": 3159,
+         "name": "Get Legacy Property Details",
+         "url": "/report/rainmaker-pt/GetLegacyPropertyDetails/metadata/_get",
+         "displayName": "Get Legacy Property Details",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Get Legacy Property Details"
+      },
+      {
+         "id": 3160,
+         "name": "Get Legacy Property Details",
+         "url": "/report/rainmaker-pt/GetLegacyPropertyDetails/_get",
+         "displayName": "Get Legacy Property Details",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Get Legacy Property Details"
+      },
+      {
+         "id": 3161,
+         "name": "Get Legacy Property Details",
+         "url": "url",
+         "displayName": "Get Legacy Property Details",
+         "orderNumber": 2,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Property Tax.PT Reports.Get Legacy Property Details",
+         "navigationURL": "report/rainmaker-pt/GetLegacyPropertyDetails",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
       }
    ]
 }

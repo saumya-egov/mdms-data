@@ -47,15 +47,19 @@
         },
         {
           "code": "OWNER.ADDRESSPROOF.VOTERID",
-          "active": false
+          "active": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.DRIVING",
-          "active": false
+          "active": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.PASSPORT",
-          "active": false
+          "active": true
+        },
+        {
+          "code": "OWNER.ADDRESSPROOF.OTHERDOC",
+          "active": true
         }
       ],
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
@@ -89,7 +93,7 @@
       "dropdownData": [
         {
           "code": "OWNER.IDENTITYPROOF.AADHAAR",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.IDENTITYPROOF.VOTERID",
@@ -105,7 +109,11 @@
         },
         {
           "code": "OWNER.IDENTITYPROOF.PASSPORT",
-          "active": false
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.OTHERDOC",
+          "active": true
         }
       ],
       "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"

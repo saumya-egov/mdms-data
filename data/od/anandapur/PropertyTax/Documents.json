@@ -56,6 +56,10 @@
         {
           "code": "OWNER.ADDRESSPROOF.PASSPORT",
           "active": false
+        },
+        {
+          "code": "OWNER.ADDRESSPROOF.OTHERDOC",
+          "active": true
         }
       ],
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
@@ -106,6 +110,10 @@
         {
           "code": "OWNER.IDENTITYPROOF.PASSPORT",
           "active": false
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.OTHERDOC",
+          "active": true
         }
       ],
       "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
