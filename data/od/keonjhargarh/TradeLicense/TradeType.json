@@ -3485,6 +3485,39 @@
       "active":true,
       "type":"TL",
       "validityPeriod":null
-   }
+   },
+   {
+    "code" : "EATINGESTABLISHMENTS.TST222",
+    "name" : "Namkeen/snacks shop Wholesale",
+    "uom" : null,
+    "uomDescription" : null,
+    "applicationDocument" : [ {
+      "applicationType" : "NEW",
+      "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+    }, {
+      "applicationType" : "RENEWAL",
+      "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+    } ],
+    "verificationDocument" : [ ],
+    "active" : true,
+    "type" : "TL",
+    "validityPeriod" : null
+  }, {
+    "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST0254",
+    "name" : "Digital Marketing",
+    "uom" : null,
+    "uomDescription" : null,
+    "applicationDocument" : [ {
+      "applicationType" : "NEW",
+      "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+    }, {
+      "applicationType" : "RENEWAL",
+      "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+    } ],
+    "verificationDocument" : [ ],
+    "active" : true,
+    "type" : "TL",
+    "validityPeriod" : null
+  }
   ]
 }
