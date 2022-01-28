@@ -6998,6 +6998,215 @@
   "active":true,
   "type":"TL",
   "validityPeriod":null
+},
+{
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST499",
+  "name" : "Fruits - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST492",
+  "name" : "Betel Shop",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST494",
+  "name" : "Ladies Corner",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST495",
+  "name" : "Jewellery Shop",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST496",
+  "name" : "Raising Contractor",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST32",
+  "name" : "Animal/Cattle feed shop - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST33",
+  "name" : "Fish Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST491",
+  "name" : "Betel Nuts, Zarda, Supdari Cigarette Shop",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST490",
+  "name" : "Private Office Space",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST498",
+  "name" : "Sale of confectionary Articles - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST493",
+  "name" : "USE OF DG SET",
+  "uom" : "KVA",
+  "uomDescription" : "KVA",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST473",
+  "name" : "Potato, Onion Vendor - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST497",
+  "name" : "Groceries Stores - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
 }
   ]
 }
