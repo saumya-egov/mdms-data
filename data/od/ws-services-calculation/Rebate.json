@@ -3,11 +3,11 @@
   "moduleName": "ws-services-calculation",
   "Rebate": [
     {
-      "rate": 2,
+      "rate": 0,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2021-22",
-      "endingDay": "15",
+      "endingDay": "28",
       "specialReabteEnabled": true,
       "specialReabteRate": 2
     },
