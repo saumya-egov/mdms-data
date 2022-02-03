@@ -116,6 +116,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL10"
+          },
+		  {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Rayagada",
+            "localname": "Rayagada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
           }
         ]
       }
@@ -224,6 +234,26 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL9"
+          },
+		  {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+		  {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Rayagada",
+            "localname": "Rayagada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
           }
         ]
       }
