@@ -21506,6 +21506,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 3159,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3159,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 3160,
       "actioncode": "",
@@ -21524,6 +21536,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 3160,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3160,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 3161,
       "actioncode": "",
@@ -21537,6 +21561,18 @@
     },
     {
       "rolecode": "PT_APPROVER",
+      "actionid": 3161,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3161,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_REPORT_VIEWER",
       "actionid": 3161,
       "actioncode": "",
       "tenantId": "od"
