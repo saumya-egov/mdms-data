@@ -37,6 +37,14 @@
             "active": true,
             "capacity": "8000 Ltrs",
             "amount": "800"
+        },
+        {
+            "code": "TRUCK.TATA_EICHER",
+            "name": "TATA Eicher",
+            "active": true,
+            "make": "TRUCK",
+            "capacity": "3000",
+            "amount": "200"
         }
     ]
 }
