@@ -6381,6 +6381,832 @@
       "active": true,
       "type": "TL",
       "validityPeriod": null
-    }
+    },
+    {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST433",
+      "name":"Use of Electrical Motors 100 HP to 150 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST3",
+      "name":"Video Games",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST306",
+      "name":"Gas Agency",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST434",
+      "name":"Use of Electrical Motors 10 HP to 20 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST437",
+      "name":"Use of Electrical Motors 20 HP to 30 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST431",
+      "name":"Use of Electrical Motors 01 HP to 05 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST432",
+      "name":"Use of Electrical Motors 05 HP to 10 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST436",
+      "name":"Use of Electrical Motors 200 HP & Above",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST435",
+      "name":"Use of Electrical Motors 150 HP to 200 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST430",
+      "name":"Use of Electrical Motors 00 HP to 01 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST249",
+      "name":"ATM",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"LIVESTOCKANDRELATEDPRODUCTS.TST28",
+      "name":"Animal/Cattle feed shop",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST282",
+      "name":"Contract labour supplier/Manpower Service Provider",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST439",
+      "name":"Use of Electrical Motors 40 HP to 50 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"FLAMABLES.TST17",
+      "name":"Kerosene and Other Lubricants",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST440",
+      "name":"Use of Electrical Motors 50 HP to 100 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST438",
+      "name":"Use of Electrical Motors 30 HP to 40 HP",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[
+         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+    "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST250",
+    "name":"Automobile Garage",
+    "uom":null,
+    "uomDescription":null,
+    "applicationDocument":[
+       {
+          "applicationType":"NEW",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO"
+          ]
+       },
+       {
+          "applicationType":"RENEWAL",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO",
+             "OLDLICENCENO"
+          ]
+       }
+    ],
+    "verificationDocument":[         
+    ],
+    "active":true,
+    "type":"TL",
+    "validityPeriod":null
+ },
+ {
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST326",
+  "name":"Internet Cafe",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST307",
+  "name":"Generator And Lights",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST499",
+  "name" : "Fruits - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST492",
+  "name" : "Betel Shop",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST494",
+  "name" : "Ladies Corner",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST495",
+  "name" : "Jewellery Shop",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST496",
+  "name" : "Raising Contractor",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST32",
+  "name" : "Animal/Cattle feed shop - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST33",
+  "name" : "Fish Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST491",
+  "name" : "Betel Nuts, Zarda, Supdari Cigarette Shop",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST490",
+  "name" : "Private Office Space",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST498",
+  "name" : "Sale of confectionary Articles - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST493",
+  "name" : "USE OF DG SET",
+  "uom" : "KVA",
+  "uomDescription" : "KVA",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST473",
+  "name" : "Potato, Onion Vendor - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST497",
+  "name" : "Groceries Stores - Wholesale",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}
   ]
 }

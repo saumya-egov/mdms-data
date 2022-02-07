@@ -10267,6 +10267,353 @@
       "active": true,
       "type": "TL",
       "validityPeriod": null
-    }
+    },
+    {
+      "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST343",
+      "name" : "Matching Center",
+      "uom" : null,
+      "uomDescription" : null,
+      "applicationDocument" : [ {
+        "applicationType" : "NEW",
+        "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+      }, {
+        "applicationType" : "RENEWAL",
+        "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+      } ],
+      "verificationDocument" : [ ],
+      "active" : true,
+      "type" : "TL",
+      "validityPeriod" : null
+    },
+    {
+      "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST349",
+      "name":"Non-Banking / Private Finance Company",
+      "uom":null,
+      "uomDescription":null,
+      "applicationDocument":[
+         {
+            "applicationType":"NEW",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO"
+            ]
+         },
+         {
+            "applicationType":"RENEWAL",
+            "documentList":[
+               "OWNERIDPROOF",
+               "OWNERSHIPPROOF",
+               "OWNERPHOTO",
+               "OLDLICENCENO"
+            ]
+         }
+      ],
+      "verificationDocument":[         
+      ],
+      "active":true,
+      "type":"TL",
+      "validityPeriod":null
+   },
+   {
+    "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST303",
+    "name":"FMCG Goods (Retails)",
+    "uom":null,
+    "uomDescription":null,
+    "applicationDocument":[
+       {
+          "applicationType":"NEW",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO"
+          ]
+       },
+       {
+          "applicationType":"RENEWAL",
+          "documentList":[
+             "OWNERIDPROOF",
+             "OWNERSHIPPROOF",
+             "OWNERPHOTO",
+             "OLDLICENCENO"
+          ]
+       }
+    ],
+    "verificationDocument":[         
+    ],
+    "active":true,
+    "type":"TL",
+    "validityPeriod":null
+ },
+ {
+  "code":"EATINGESTABLISHMENTS.TST33",
+  "name":"Foreign Liquor Off Shop",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"EATINGESTABLISHMENTS.TST38",
+  "name":"Street Food",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST286",
+  "name":"Departmental Store/General Store",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST367",
+  "name":"Processing and Refining of Mineral oils",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST250",
+  "name":"Automobile Garage",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST306",
+  "name":"Gas Agency",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST329",
+  "name":"Iron Rod (retailer)",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"NONEATINGNONMEDICALESTABLISHMENTS.TST331",
+  "name":"Jatra/Circus/Drama/Theatre Company",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+},
+{
+  "code":"SMALLSCALEINDUSTRIESSMALLMEDIUMFACTORIES.TST35",
+  "name":"Shoe factory",
+  "uom":null,
+  "uomDescription":null,
+  "applicationDocument":[
+     {
+        "applicationType":"NEW",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO"
+        ]
+     },
+     {
+        "applicationType":"RENEWAL",
+        "documentList":[
+           "OWNERIDPROOF",
+           "OWNERSHIPPROOF",
+           "OWNERPHOTO",
+           "OLDLICENCENO"
+        ]
+     }
+  ],
+  "verificationDocument":[         
+  ],
+  "active":true,
+  "type":"TL",
+  "validityPeriod":null
+}
   ]
 }
