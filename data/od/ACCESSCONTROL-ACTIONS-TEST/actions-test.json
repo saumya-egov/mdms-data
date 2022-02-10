@@ -11719,6 +11719,48 @@
          "navigationURL": "report/rainmaker-pt/GetLegacyPropertyDetails",
          "leftIcon": "action:assignment",
          "rightIcon": ""
+      },
+      {
+         "id": 3162,
+         "name": "W&S New Consumer Monthly Report",
+         "url": "url",
+         "displayName": "W&S New Consumer Monthly Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.W&S New Consumer Monthly Report",
+         "navigationURL": "report/rainmaker-ws/W&SNewConsumerMonthlyReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3163,
+         "name": "W&S New Consumer Monthly Report",
+         "url": "/report/rainmaker-ws/W&SNewConsumerMonthlyReport/metadata/_get",
+         "displayName": "W&S New Consumer Monthly Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "W&S New Consumer Monthly Report"
+      },
+      {
+         "id": 3164,
+         "name": "W&S New Consumer Monthly Report",
+         "url": "/report/rainmaker-ws/W&SNewConsumerMonthlyReport/_get",
+         "displayName": "W&S New Consumer Monthly Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "W&S New Consumer Monthly Report"
       }
    ]
 }
