@@ -12013,6 +12013,48 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Reports.Accounting Records.Cash Book Report",
          "navigationURL": "services/EGF/cashBookReport/newForm"
+      },
+      {
+         "id": 3183,
+         "name": "W&S Consumer History Report",
+         "url": "url",
+         "displayName": "W&S Consumer History Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.W&S Consumer History Report",
+         "navigationURL": "report/rainmaker-ws/W&SConsumerHistoryReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3184,
+         "name": "W&S Consumer History Report",
+         "url": "/report/rainmaker-ws/W&SConsumerHistoryReport/metadata/_get",
+         "displayName": "W&S Consumer History Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "W&S Consumer History Report"
+      },
+      {
+         "id": 3185,
+         "name": "W&S Consumer History Report",
+         "url": "/report/rainmaker-ws/W&SConsumerHistoryReport/_get",
+         "displayName": "W&S Consumer History Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "W&S Consumer History Report"
       }
    ]
 }

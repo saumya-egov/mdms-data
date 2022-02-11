@@ -21738,6 +21738,60 @@
       "actionid": 3182,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3185,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
