@@ -12055,6 +12055,17 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "W&S Consumer History Report"
+      },
+      {
+         "id": 3186,
+         "name": "Update WS Demand Details",
+         "url": "/ws-calculator/demand/_update",
+         "displayName": "Update WS Demand",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
       }
    ]
 }
