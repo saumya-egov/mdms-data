@@ -836,6 +836,11 @@
       "code": "BUDGET_REPORT",
       "name": "BUDGET_REPORT",
       "description": "Budget Report"
+    },
+    {
+      "code": "WS_DEMAND_CORRECTOR",
+      "name": "WS_DEMAND_CORRECTOR",
+      "description": "Water Sewage Demand Corrector"
     }
   ]
 }
