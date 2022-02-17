@@ -806,6 +806,41 @@
       "code":"MR_REPORT_VIEWER",
       "name":"MR Report Viewer",
       "description":"MR Report Viewer"
+    },
+    {
+      "code": "ASSET_MASTER",
+      "name": "ASSET_MASTER",
+      "description": "Asset Master"
+    },
+    {
+      "code": "ASSET_TRANSACTION",
+      "name": "ASSET_TRANSACTION",
+      "description": "Asset Transaction"
+    },
+    {
+      "code": "ASSET_REPORT",
+      "name": "ASSET_REPORT",
+      "description": "Asset Report"
+    },
+    {
+      "code": "EGF_REFUND",
+      "name": "FINANCE_REFUND",
+      "description": "Refund functionality for Finance Module"
+    },
+    {
+      "code": "BUDGET_TRANSACTION",
+      "name": "BUDGET_TRANSACTION",
+      "description": "Budget Transaction"
+    },
+    {
+      "code": "BUDGET_REPORT",
+      "name": "BUDGET_REPORT",
+      "description": "Budget Report"
+    },
+    {
+      "code": "WS_DEMAND_CORRECTOR",
+      "name": "WS_DEMAND_CORRECTOR",
+      "description": "Water Sewage Demand Corrector"
     }
   ]
 }

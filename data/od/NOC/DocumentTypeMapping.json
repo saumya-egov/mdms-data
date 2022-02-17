@@ -9,6 +9,30 @@
                 {
                     "documentType": "NOC.FIRE",
                     "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.PlainApplication",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantSignature",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantPhoto",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.OwnershipDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.IdentityProofDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.BuildingPlan",
+                    "required": true
                 }
             ]
         },
@@ -18,6 +42,30 @@
             "docTypes": [
                 {
                     "documentType": "NOC.FIRE",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.PlainApplication",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantSignature",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantPhoto",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.OwnershipDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.IdentityProofDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.BuildingPlan",
                     "required": true
                 }
             ]
@@ -29,6 +77,30 @@
                 {
                     "documentType": "NOC.FIRE",
                     "required": false
+                },
+                {
+                    "documentType": "NOC.FIRE.PlainApplication",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantSignature",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantPhoto",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.OwnershipDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.IdentityProofDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.BuildingPlan",
+                    "required": true
                 }
             ]
         },

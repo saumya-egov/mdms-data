@@ -11343,7 +11343,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1755,
       "actioncode": "",
       "tenantId": "od"
@@ -11355,7 +11355,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1756,
       "actioncode": "",
       "tenantId": "od"
@@ -11367,7 +11367,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1757,
       "actioncode": "",
       "tenantId": "od"
@@ -11379,7 +11379,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1758,
       "actioncode": "",
       "tenantId": "od"
@@ -11391,7 +11391,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1759,
       "actioncode": "",
       "tenantId": "od"
@@ -11403,7 +11403,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1760,
       "actioncode": "",
       "tenantId": "od"
@@ -11415,7 +11415,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1761,
       "actioncode": "",
       "tenantId": "od"
@@ -11427,7 +11427,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1762,
       "actioncode": "",
       "tenantId": "od"
@@ -11451,7 +11451,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1764,
       "actioncode": "",
       "tenantId": "od"
@@ -11463,7 +11463,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_ADMINISTRATOR",
+      "rolecode": "BUDGET_TRANSACTION",
       "actionid": 1765,
       "actioncode": "",
       "tenantId": "od"
@@ -11505,7 +11505,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_REPORT_VIEW",
+      "rolecode": "BUDGET_REPORT",
       "actionid": 1767,
       "actioncode": "",
       "tenantId": "od"
@@ -11517,7 +11517,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_REPORT_VIEW",
+      "rolecode": "BUDGET_REPORT",
       "actionid": 1768,
       "actioncode": "",
       "tenantId": "od"
@@ -11529,7 +11529,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_REPORT_VIEW",
+      "rolecode": "BUDGET_REPORT",
       "actionid": 1769,
       "actioncode": "",
       "tenantId": "od"
@@ -11541,7 +11541,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_REPORT_VIEW",
+      "rolecode": "BUDGET_REPORT",
       "actionid": 1770,
       "actioncode": "",
       "tenantId": "od"
@@ -11553,7 +11553,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EGF_REPORT_VIEW",
+      "rolecode": "BUDGET_REPORT",
       "actionid": 1771,
       "actioncode": "",
       "tenantId": "od"
@@ -21506,6 +21506,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 3159,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3159,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 3160,
       "actioncode": "",
@@ -21524,6 +21536,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 3160,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3160,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "PT_DOC_VERIFIER",
       "actionid": 3161,
       "actioncode": "",
@@ -21538,6 +21562,240 @@
     {
       "rolecode": "PT_APPROVER",
       "actionid": 3161,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3161,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_REPORT_VIEWER",
+      "actionid": 3161,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3162,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3163,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3164,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3162,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3163,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3164,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3162,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3163,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3164,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_MASTER",
+      "actionid": 3165,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_MASTER",
+      "actionid": 3166,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_MASTER",
+      "actionid": 3167,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_MASTER",
+      "actionid": 3168,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_MASTER",
+      "actionid": 3169,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_MASTER",
+      "actionid": 3170,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_TRANSACTION",
+      "actionid": 3171,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_TRANSACTION",
+      "actionid": 3172,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_TRANSACTION",
+      "actionid": 3173,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_TRANSACTION",
+      "actionid": 3174,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_TRANSACTION",
+      "actionid": 3175,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_TRANSACTION",
+      "actionid": 3176,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_REPORT",
+      "actionid": 3177,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_REPORT",
+      "actionid": 3178,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ASSET_REPORT",
+      "actionid": 3179,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_REFUND",
+      "actionid": 3180,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 3181,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 3182,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_REPORT_VIEWER",
+      "actionid": 3185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3183,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3184,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3185,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_DEMAND_CORRECTOR",
+      "actionid": 3186,
       "actioncode": "",
       "tenantId": "od"
     }
