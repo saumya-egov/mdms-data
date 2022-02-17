@@ -45,10 +45,11 @@
         },
         {
             "code": "FIRE_NOC",
-            "isActive": false,
+            "isActive": true,
             "offlineWF":"FIRE_NOC_OFFLINE",
             "onlineWF":"FIRE_NOC_SRV",
-            "mode":"offline",
+            "thirdPartyWF": "FIRE_NOC_THIRD_PARTY",
+            "mode":"thirdParty",
             "NocUserRole":"FIRE_NOC_APPROVER"
         },
         {
