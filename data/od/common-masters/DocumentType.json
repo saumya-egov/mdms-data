@@ -131,6 +131,48 @@
       "active": true
     },
     {
+      "code": "NOC.FIRE.PlainApplication",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.ApplicantSignature",
+      "active": true,
+      "allowedFormat": [
+        ".jpg"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.ApplicantPhoto",
+      "active": true,
+      "allowedFormat": [
+        ".jpg"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.OwnershipDoc",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.IdentityProofDoc",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.BuildingPlan",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
       "code": "NOC.AGRICULTURE.LANDUSE",
       "active": true
     },
