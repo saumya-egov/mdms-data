@@ -12058,12 +12058,45 @@
       },
       {
          "id": 3186,
-         "name": "Update WS Demand Details",
-         "url": "/ws-calculator/demand/_update",
-         "displayName": "Update WS Demand",
+         "name": "Modify WS Demand Details",
+         "url": "/ws-calculator/demand/_modify",
+         "displayName": "Modify WS Demand",
          "orderNumber": 0,
          "enabled": false,
          "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3187,
+         "name": "NOC Thirdparty search data",
+         "url": "/noc-services/v1/noc/thirdPartyData/getFiredistricts",
+         "displayName": "Search thirdparty data",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "NOC",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3188,
+         "name": "NOC Thirdparty search data",
+         "url": "/noc-services/v1/noc/thirdPartyData/getFireStations",
+         "displayName": "Search thirdparty data",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "NOC",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3189,
+         "name": "NOC Thirdparty search data",
+         "url": "/noc-services/v1/noc/thirdPartyData/getBuildingtypes",
+         "displayName": "Search thirdparty data",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "NOC",
          "code": "null",
          "path": ""
       }
