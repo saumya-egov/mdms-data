@@ -21798,6 +21798,78 @@
       "actionid": 3186,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3187,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3187,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3187,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3187,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3188,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3188,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3188,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3188,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3189,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3189,
+      "actioncode": "",
+      "tenantId": "od"
+    },	  
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3189,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3189,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
