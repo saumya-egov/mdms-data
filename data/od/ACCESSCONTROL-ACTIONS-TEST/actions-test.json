@@ -12058,9 +12058,9 @@
       },
       {
          "id": 3186,
-         "name": "Update WS Demand Details",
-         "url": "/ws-calculator/demand/_update",
-         "displayName": "Update WS Demand",
+         "name": "Modify WS Demand Details",
+         "url": "/ws-calculator/demand/_modify",
+         "displayName": "Modify WS Demand",
          "orderNumber": 0,
          "enabled": false,
          "serviceCode": "ws-calculator",
