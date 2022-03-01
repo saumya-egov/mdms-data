@@ -127,6 +127,20 @@
                 }
             ],
             "description": "OWNER.OWNERSHIP_PROOF_DESCRIPTION"
+        },
+        {
+            "code": "OWNER.INDEMNITY_BOND",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.INDEMNITY_BOND.INDEMNITY_BOND",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.INDEMNITY_BOND_PROOF_DESCRIPTION"
         }
     ]
 }
