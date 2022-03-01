@@ -141,14 +141,14 @@
       "code": "NOC.FIRE.ApplicantSignature",
       "active": true,
       "allowedFormat": [
-        ".jpg"
+        ".pdf"
       ]
     },
     {
       "code": "NOC.FIRE.ApplicantPhoto",
       "active": true,
       "allowedFormat": [
-        ".jpg"
+        ".pdf"
       ]
     },
     {
