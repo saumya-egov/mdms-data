@@ -690,6 +690,16 @@
       "isRequired": false
     },
     {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water arrear adjustment ",
+      "code": "WS_ARREAR_ADJUSTMENT",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "18",
+      "isRequired": false
+    },
+    {
       "category": "FEE",
       "service": "WS.ONE_TIME_FEE",
       "name": "Water Application Form Fee",
