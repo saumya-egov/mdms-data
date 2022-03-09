@@ -1082,6 +1082,11 @@
       "masterName": "MeterReading",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "Installment": {
+      "masterName": "Installment",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "sw-services-calculation": {
