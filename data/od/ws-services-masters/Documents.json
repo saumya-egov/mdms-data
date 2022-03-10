@@ -145,7 +145,7 @@
         {
             "code": "OWNER.IDENTITYPROOF",
             "documentType": "OWNER",
-            "required": true,
+            "required": false,
             "active": true,
             "hasDropdown": true,
             "dropdownData": [
