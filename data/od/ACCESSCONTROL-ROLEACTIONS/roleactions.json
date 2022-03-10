@@ -21906,6 +21906,24 @@
       "actionid": 3190,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "ULB_TRANSACTION",
+      "actionid": 3191,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3192,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 3192,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
