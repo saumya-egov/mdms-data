@@ -21870,6 +21870,60 @@
       "actionid": 3189,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_FINANCE",
+      "actionid": 3190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SYS_INTEGRATOR_WATER_SEW",
+      "actionid": 3190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 3190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 3190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 3190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 3190,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ULB_TRANSACTION",
+      "actionid": 3191,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3192,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 3192,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

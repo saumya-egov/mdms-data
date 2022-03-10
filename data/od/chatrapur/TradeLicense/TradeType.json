@@ -2843,6 +2843,64 @@
       "active": true,
       "type": "TL",
       "validityPeriod": null
-    }
+    },
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
+      "name": "Groceries Stores",
+      "uom": "SQFT",
+      "uomDescription": "SQFT",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST497",
+      "name" : "Groceries Stores - Wholesale",
+      "uom" : null,
+      "uomDescription" : null,
+      "applicationDocument" : [
+    	{
+          "applicationType" : "NEW",
+          "documentList" : [
+	        "OWNERIDPROOF", 
+		    "OWNERSHIPPROOF",
+		    "OWNERPHOTO"
+	      ]
+        },
+		{
+          "applicationType" : "RENEWAL",
+          "documentList" : [
+    		"OWNERIDPROOF",
+			"OWNERSHIPPROOF",
+			"OWNERPHOTO",
+			"OLDLICENCENO"
+		  ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    }	
   ]
 }

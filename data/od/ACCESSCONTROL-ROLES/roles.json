@@ -841,6 +841,11 @@
       "code": "WS_DEMAND_CORRECTOR",
       "name": "WS_DEMAND_CORRECTOR",
       "description": "Water Sewage Demand Corrector"
+    },
+    {
+      "code": "ULB_TRANSACTION",
+      "name": "ULB_TRANSACTION",
+      "description": "Transactional Report For All ulbs"
     }
   ]
 }
