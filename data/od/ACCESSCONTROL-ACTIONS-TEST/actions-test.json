@@ -12138,6 +12138,29 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Revenue/Collections.Receipt Report",
       "navigationURL": "services/collection/receipts/daybookReportNew.action"
+    },
+    {
+      "id": 3193,
+      "name": "WS Receipt Update",
+      "url": "/collection-services/payments/WS/_workflow",
+      "displayName": "WS Receipt Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3194,
+      "name": "CancelBillV2",
+      "url": "/billing-service/bill/v2/_cancelbill",
+      "displayName": "cancel Bill v2",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "BILLING_SERVICE",
+      "code": "null",
+      "path": "Billing Service.CancelBill"
     }
    ]
 }
