@@ -8,7 +8,7 @@
             "docTypes": [
                 {
                     "documentType": "NOC.FIRE",
-                    "required": true
+                    "required": false
                 },
                 {
                     "documentType": "NOC.FIRE.PlainApplication",
