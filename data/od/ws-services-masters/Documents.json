@@ -141,6 +141,40 @@
                 }
             ],
             "description": "OWNER.INDEMNITY_BOND_PROOF_DESCRIPTION"
-        }
+        },
+        {
+            "code": "OWNER.IDENTITYPROOF",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.IDENTITYPROOF.AADHAAR",
+                    "active": false
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.PASSPORT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.OTHERDOC",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
+          }
     ]
 }
