@@ -7666,6 +7666,17 @@
          "path": ""
       },
       {
+         "id": 1935,
+         "name": "Enter Meter Reading",
+         "url": "/ws-calculator/meterConnection/_create",
+         "displayName": "Enter Meter Reading",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+      {
          "id": 1936,
          "name": "Search Meter Reading",
          "url": "/ws-calculator/meterConnection/_search",
