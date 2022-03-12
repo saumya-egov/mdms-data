@@ -7105,7 +7105,7 @@
          "displayName": "Property Tax",
          "orderNumber": 4,
          "parentModule": "dss-dashboard",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": "Dashboard.PropertyTax",
