@@ -12245,6 +12245,17 @@
       "serviceCode": "WNSREPORTS",
       "code": "null",
       "path": "W&S Legacy Payment History Report"
+    },
+    {
+      "id": 3201,
+      "name": "Modify PT Demand Details",
+      "url": "/pt-calculator-v2/demand/_modify",
+      "displayName": "Modify PT Demand",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "PropertytaxCalculatorV2",
+      "code": "null",
+      "path": ""
     }
    ]
 }
