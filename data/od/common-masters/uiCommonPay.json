@@ -159,7 +159,7 @@
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
       "pdfModule":"WS",
-      "cancelReceipt": true,
+      "cancelReceipt": false,
       "cancelBill": false,
       "arrears": true,      
       "buttons": [
@@ -176,7 +176,7 @@
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
       "pdfModule":"WS",
-      "cancelReceipt": true,
+      "cancelReceipt": false,
       "cancelBill": false,
       "arrears": true,      
       "buttons": [
