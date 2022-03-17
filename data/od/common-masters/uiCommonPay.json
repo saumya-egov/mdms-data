@@ -130,7 +130,7 @@
       "billKey": "ws-bill",
       "pdfModule":"WS",
       "cancelReceipt": true,
-      "cancelBill": false,
+      "cancelBill": true,
       "arrears": true,      
       "buttons": [
         {
