@@ -16892,6 +16892,18 @@
       "actionid": 2031,
       "actioncode": "",
       "tenantId": "od"
+    },    
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2030,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 2031,
+      "actioncode": "",
+      "tenantId": "od"
     },
     {
       "rolecode": "BPA_ARCHITECT",
