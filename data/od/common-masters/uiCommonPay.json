@@ -7,6 +7,10 @@
       "headerBandLabel": "PT_COMMON_TABLE_COL_PT_ID",
       "receiptKey": "property-receipt",
       "billKey": "property-bill",
+      "pdfModule":"PT",
+      "cancelReceipt": true,
+      "cancelBill": false,
+      "arrears": true,
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -124,6 +128,10 @@
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
+      "pdfModule":"WS",
+      "cancelReceipt": true,
+      "cancelBill": true,
+      "arrears": true,      
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -150,6 +158,10 @@
       "headerBandLabel": "PAYMENT_COMMON_APPLICATION_CODE",
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
+      "pdfModule":"WS",
+      "cancelReceipt": false,
+      "cancelBill": false,
+      "arrears": true,      
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
@@ -163,6 +175,10 @@
       "headerBandLabel": "PAYMENT_COMMON_APPLICATION_CODE",
       "receiptKey": "ws-onetime-receipt",
       "billKey": "ws-bill",
+      "pdfModule":"WS",
+      "cancelReceipt": false,
+      "cancelBill": false,
+      "arrears": true,      
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",

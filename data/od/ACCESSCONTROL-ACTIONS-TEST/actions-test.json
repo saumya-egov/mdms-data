@@ -8720,7 +8720,7 @@
          "displayName": "BillAmendment",
          "orderNumber": 23,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "navigationURL": "bill-amend/search",
@@ -9018,7 +9018,7 @@
          "url": "/billing-service/amendment/_create",
          "displayName": "Create Amendment",
          "orderNumber": 4,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.CreateAmendment"
@@ -9029,7 +9029,7 @@
          "url": "/billing-service/amendment/_search",
          "displayName": "Search Amendment",
          "orderNumber": 5,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.SearchAmendment"
@@ -9041,7 +9041,7 @@
          "displayName": "BillAmendment",
          "orderNumber": 22,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "",
@@ -9056,7 +9056,7 @@
          "url": "/billing-service/amendment/_update",
          "displayName": "Update Amendment",
          "orderNumber": 6,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.Amendment"
@@ -9067,7 +9067,7 @@
          "url": "/egov-searcher/locality/BS/_get",
          "displayName": "Bill amendment locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
