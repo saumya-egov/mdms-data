@@ -7,6 +7,14 @@
       "minAmount": null,
       "applicableAfterDays": 0,
       "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "16"
+    },
+    {
+      "rate": 0,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
       "fromFY": "2021-22",
       "startingDay": "16"
     },
