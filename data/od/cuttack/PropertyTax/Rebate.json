@@ -15,8 +15,16 @@
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2022-23",
-      "startingDay": "01/03/2022",
+      "startingDay": "01/04/2022",
       "endingDay": "30/04/2022"
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "01/03/2022",
+      "endingDay": "30/03/2022"
     }
   ]
 }
