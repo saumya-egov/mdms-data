@@ -12256,6 +12256,17 @@
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3202,
+      "name": "Create Assessment registry",
+      "url": "/property-services/assessment/_create",
+      "displayName": "Create Assessment Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
     }
    ]
 }
