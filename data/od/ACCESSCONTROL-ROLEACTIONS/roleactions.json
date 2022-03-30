@@ -22064,25 +22064,25 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "SYSTEM",
       "actionid": 3202,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "SYSTEM",
       "actionid": 3012,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "SYSTEM",
       "actionid": 3203,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "SYSTEM",
       "actionid": 3013,
       "actioncode": "",
       "tenantId": "od"
