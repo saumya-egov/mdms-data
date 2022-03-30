@@ -12267,6 +12267,17 @@
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
-    }
+   },
+    {
+      "id": 3203,
+      "name": "Migrate User",
+      "url": "/user/users/_createmigrateuser",
+      "displayName": "Migrate Existing User",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.CreateUsernovalidate"
+   }
    ]
 }
