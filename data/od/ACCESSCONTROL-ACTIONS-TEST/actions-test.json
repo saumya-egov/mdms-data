@@ -12260,9 +12260,9 @@
     {
       "id": 3202,
       "name": "Create Assessment registry",
-      "url": "/property-services/assessment/_create",
-      "displayName": "Create Assessment Registry",
-      "orderNumber": 1,
+      "url": "/property-services/assessment/_jobscheduler",
+      "displayName": "Sceduler for creating new assessment for new financial year",
+      "orderNumber": 0,
       "enabled": false,
       "serviceCode": "property-services",
       "code": "null",
