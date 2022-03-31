@@ -684,9 +684,11 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
-        "$.fromFY"
+        "$.fromFY",
+        "$.startingDay",
+        "$.endingDay"
       ]
     },
     "Penalty": {
