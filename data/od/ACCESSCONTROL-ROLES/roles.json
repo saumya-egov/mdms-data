@@ -851,6 +851,11 @@
       "code": "PT_DEMAND_CORRECTOR",
       "name": "PT_DEMAND_CORRECTOR",
       "description": "Property Tax Demand Corrector"
+    },
+    {
+      "code": "WS_BILL_GENERATOR",
+      "name": "WS_BILL_GENERATOR",
+      "description": "Water service monthly bill generator"
     }
   ]
 }
