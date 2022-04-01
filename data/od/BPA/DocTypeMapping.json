@@ -771,6 +771,12 @@
           "required": false,
           "allow": true,
           "order": 241
+        },
+        {
+          "code": "APPL.OTHERDOCUMENT",
+          "required": false,
+          "allow": true,
+          "order": 242
         }
       ],
       "DocTypes1": [
@@ -1051,6 +1057,12 @@
           "required": false,
           "allow": true,
           "order": 251
+        },
+        {
+          "code": "APPL.OTHERDOCUMENT",
+          "required": false,
+          "allow": true,
+          "order": 252
         }
       ],
       "DocTypes1": [
@@ -1331,6 +1343,12 @@
           "required": false,
           "allow": true,
           "order": 261
+        },
+        {
+          "code": "APPL.OTHERDOCUMENT",
+          "required": false,
+          "allow": true,
+          "order": 262
         }
       ]
     },
