@@ -1,0 +1,12 @@
+{
+    "tenantId": "od",
+    "moduleName": "ws-services-calculation",
+    "AnnualAdvance": [
+        {
+            "annualRebate": 5,
+            "startingDay": 1648751400000,
+            "endingDay": 1654021799000,
+            "fromFY": "2022-23"
+        }
+    ]
+}

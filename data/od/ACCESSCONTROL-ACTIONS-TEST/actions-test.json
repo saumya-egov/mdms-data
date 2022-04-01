@@ -12278,6 +12278,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.CreateUsernovalidate"
+   },
+   {
+      "id": 3204,
+      "name": "Calculate Fee For Water Application",
+      "url": "/ws-calculator/waterCalculator/annualAdvance/_estimate",
+      "displayName": "Annual Advance Calculation For Water Application",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
    }
+
    ]
 }

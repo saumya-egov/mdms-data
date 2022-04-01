@@ -22098,6 +22098,18 @@
       "actionid": 3155,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3204,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3204,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
