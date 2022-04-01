@@ -12279,17 +12279,27 @@
       "code": "null",
       "path": "Administration.CreateUsernovalidate"
    },
-   {
-      "id": 3204,
-      "name": "Calculate Fee For Water Application",
-      "url": "/ws-calculator/waterCalculator/annualAdvance/_estimate",
-      "displayName": "Annual Advance Calculation For Water Application",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "ws-calculator",
-      "code": "null",
-      "path": ""
-   }
-
+      {
+         "id": 3204,
+         "name": "Calculate Fee For Water Application",
+         "url": "/ws-calculator/waterCalculator/annualAdvance/_estimate",
+         "displayName": "Annual Advance Calculation For Water Application",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3205,
+         "name": "Apply water annual advance",
+         "url": "/ws-calculator/waterCalculator/annualAdvance/_apply",
+         "displayName": "Apply water annual advance",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      }
    ]
 }

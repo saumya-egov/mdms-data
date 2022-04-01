@@ -22100,7 +22100,7 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "WS_CEMP",
       "actionid": 3204,
       "actioncode": "",
       "tenantId": "od"
@@ -22108,6 +22108,18 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 3204,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3205,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3205,
       "actioncode": "",
       "tenantId": "od"
     }
