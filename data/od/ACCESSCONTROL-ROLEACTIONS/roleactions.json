@@ -22086,6 +22086,18 @@
       "actionid": 3013,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_BILL_GENERATOR",
+      "actionid": 3000,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_BILL_GENERATOR",
+      "actionid": 3155,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

@@ -3,6 +3,14 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
     {
+      "fromDate": 1585679400000,
+      "toDate": 1901212199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC2020",
+      "financialYear": "2020-30"
+    },
+    {
       "fromDate": 1648771200000,
       "toDate": 1680307199000,
       "periodCycle": "ANNUAL",
@@ -35,14 +43,6 @@
       "financialYear": "2021-22"
     },
     {	
-      "fromDate": 1617235200000,
-      "toDate": 1648771199000,	
-      "periodCycle": "ANNUAL",	
-      "service": "WS",	
-      "code": "WSAN2021",	
-      "financialYear": "2021-22"	
-    },	
-    {	
       "fromDate": 1617235200000,	
       "toDate": 1648771199000,	
       "periodCycle": "ANNUAL",	
@@ -50,14 +50,6 @@
       "code": "SWAN2021",	
       "financialYear": "2021-22"	
     },
-    {	
-      "fromDate": 1648771200000,	
-      "toDate": 1680307199000,	
-      "periodCycle": "ANNUAL",	
-      "service": "WS",	
-      "code": "WSAN2022",	
-      "financialYear": "2022-23"	
-    },	
     {	
       "fromDate": 1648771200000,	
       "toDate": 1680307199000,	
@@ -377,14 +369,6 @@
       "service": "BPAREG",
       "code": "BPAREG10YRS2018",
       "financialYear": "2018-28"
-    },
-    {
-      "fromDate": 1585699200000,
-      "toDate": 1617235199000,
-      "periodCycle": "TWOYEARS",
-      "service": "WS",
-      "code": "WC2018",
-      "financialYear": "2020-21"
     },
     {
       "fromDate": 1270080000000,
