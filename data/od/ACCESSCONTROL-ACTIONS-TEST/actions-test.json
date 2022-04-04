@@ -12278,6 +12278,17 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.CreateUsernovalidate"
+   },
+   {
+      "id": 3204,
+      "name": "Calculate Fee For BPA Application",
+      "url": "/bpa-calculator/_estimate",
+      "displayName": "Fee Calculation For BPA Application",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "bpa-calculator",
+      "code": "null",
+      "path": ""
    }
    ]
 }
