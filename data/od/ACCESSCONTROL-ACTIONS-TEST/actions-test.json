@@ -12263,7 +12263,7 @@
       "url": "/property-services/assessment/_jobscheduler",
       "displayName": "Sceduler for creating new assessment for new financial year",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
