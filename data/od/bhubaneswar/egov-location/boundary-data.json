@@ -1354,6 +1354,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL65"
+          },
+          {
+            "id": "67",
+            "boundaryNum": 1,
+            "name": "Kalarahanga",
+            "localname": "Kalarahanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL67"
           }
         ]
       }
