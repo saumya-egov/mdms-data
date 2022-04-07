@@ -431,6 +431,13 @@
       "uniqueKeys": [
         "$.question"
       ]
+    },
+    "RetentionFees": {
+      "masterName": "RetentionFees",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "inventory": {
