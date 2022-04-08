@@ -12289,6 +12289,17 @@
       "serviceCode": "bpa-calculator",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3205,
+      "name": "Calculate Fee For BPA Application",
+      "url": "/bpa-services/v1/bpa/_estimate",
+      "displayName": "Fee Calculation For BPA Application",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
    }
    ]
 }
