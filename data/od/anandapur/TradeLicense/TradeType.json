@@ -1712,6 +1712,263 @@
       "active": true,
       "type": "TL",
       "validityPeriod": null
-    }
+    },
+	{
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST254",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST254",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST143",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST143",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST227",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST120",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST191",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST191",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST212",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST212",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST214",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST214",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "EATINGESTABLISHMENTS.TST38",
+  "name" : "EATINGESTABLISHMENTS.TST38",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST494",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST494",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST6",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST6",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST11",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST11",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST18",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST18",
+  "uom" : "SQFT",
+  "uomDescription" : "SQFT",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "NONEATINGNONMEDICALESTABLISHMENTS.TST54",
+  "name" : "NONEATINGNONMEDICALESTABLISHMENTS.TST54",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST8",
+  "name" : "LIVESTOCKANDRELATEDPRODUCTS.TST8",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST33",
+  "name" : "LIVESTOCKANDRELATEDPRODUCTS.TST33",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}, {
+  "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST21",
+  "name" : "LIVESTOCKANDRELATEDPRODUCTS.TST21",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}
   ]
 }
