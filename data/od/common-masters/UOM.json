@@ -65,6 +65,10 @@
     {
       "code": "KVA",
       "active": true
+    },
+    {
+      "code": "NOOFMACHINES",
+      "active": true
     }
   ]
 }
