@@ -12263,7 +12263,7 @@
       "url": "/property-services/assessment/_jobscheduler",
       "displayName": "Sceduler for creating new assessment for new financial year",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
@@ -12279,8 +12279,30 @@
       "code": "null",
       "path": "Administration.CreateUsernovalidate"
    },
-      {
-         "id": 3204,
+   {
+      "id": 3204,
+      "name": "Calculate Fee For BPA Application",
+      "url": "/bpa-calculator/_estimate",
+      "displayName": "Fee Calculation For BPA Application",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "bpa-calculator",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3205,
+      "name": "Calculate Fee For BPA Application",
+      "url": "/bpa-services/v1/bpa/_estimate",
+      "displayName": "Fee Calculation For BPA Application",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+   },
+     {
+         "id": 3206,
          "name": "Calculate Fee For Water Application",
          "url": "/ws-calculator/waterCalculator/annualAdvance/_estimate",
          "displayName": "Annual Advance Calculation For Water Application",
@@ -12291,7 +12313,7 @@
          "path": ""
       },
       {
-         "id": 3205,
+         "id": 3207,
          "name": "Apply water annual advance",
          "url": "/ws-calculator/waterCalculator/annualAdvance/_apply",
          "displayName": "Apply water annual advance",

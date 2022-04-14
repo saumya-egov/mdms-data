@@ -777,6 +777,12 @@
           "required": false,
           "allow": true,
           "order": 242
+        },
+        {
+          "code": "APPL.TEMPSTRUCTUREPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 243
         }
       ],
       "DocTypes1": [
@@ -1063,6 +1069,12 @@
           "required": false,
           "allow": true,
           "order": 252
+        },
+        {
+          "code": "APPL.TEMPSTRUCTUREPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 253
         }
       ],
       "DocTypes1": [
@@ -1349,6 +1361,12 @@
           "required": false,
           "allow": true,
           "order": 262
+        },
+        {
+          "code": "APPL.TEMPSTRUCTUREPHOTO",
+          "required": false,
+          "allow": true,
+          "order": 263
         }
       ]
     },

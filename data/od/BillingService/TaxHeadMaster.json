@@ -381,6 +381,16 @@
     },
     {
       "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction Fee Adjustment Amount",
+      "code": "BPA_SANC_ADJUSTMENT_AMOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
       "service": "BPA.NC_OC_APP_FEE",
       "name": "BPA OC Application Fee",
       "code": "BPA_OC_APPL_FEES",
