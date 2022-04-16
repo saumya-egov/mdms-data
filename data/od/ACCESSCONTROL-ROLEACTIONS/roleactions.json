@@ -22398,24 +22398,6 @@
       "actionid": 2042,
       "actioncode": "",
       "tenantId": "od"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 3206,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 3206,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 3206,
-      "actioncode": "",
-      "tenantId": "od"
     }
   ]
 }

@@ -12300,17 +12300,6 @@
       "serviceCode": "bpa-services",
       "code": "null",
       "path": ""
-   },
-   {
-     "id": 3206,
-     "name": "Expire And Create New Bill",
-     "url": "/billing-service/bill/v2/_expireandcreatenewbill",
-     "displayName": "Expire And Create New Bill v2",
-     "orderNumber": 0,
-     "enabled": false,
-     "serviceCode": "BILLING_SERVICE",
-     "code": "null",
-     "path": "Billing Service.GenerateBill"
    }
    ]
 }
