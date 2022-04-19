@@ -4707,7 +4707,7 @@
             "label": "Locality",
             "code": "VIL469"
           },
-		  {
+          {
             "id": "471",
             "boundaryNum": 1,
             "name": "Other",
@@ -4716,6 +4716,26 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL470"
+          },
+          {
+            "id": "472",
+            "boundaryNum": 1,
+            "name": "Andharua",
+            "localname": "Andharua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL471"
+          },
+          {
+            "id": "473",
+            "boundaryNum": 1,
+            "name": "Mukunda Prasad",
+            "localname": "Mukunda Prasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL472"
           }
         ]
       }
@@ -9424,6 +9444,36 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL469"
+          },
+          {
+            "id": "471",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL470"
+          },
+          {
+            "id": "472",
+            "boundaryNum": 1,
+            "name": "Andharua",
+            "localname": "Andharua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL471"
+          },
+          {
+            "id": "473",
+            "boundaryNum": 1,
+            "name": "Mukunda Prasad",
+            "localname": "Mukunda Prasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL472"
           }
         ]
       }

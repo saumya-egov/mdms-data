@@ -12,6 +12,11 @@
           "type": "NMA_NOC",
           "required": true,
           "documentType": "NOC.NMA"
+        },
+        {
+          "type": "FIRE_NOC",
+          "required": true,
+          "documentType": "NOC.FIRE"
         }
       ]
     },
@@ -25,6 +30,11 @@
           "type": "NMA_NOC",
           "required": true,
           "documentType": "NOC.NMA"
+        },
+        {
+          "type": "FIRE_NOC",
+          "required": true,
+          "documentType": "NOC.FIRE"
         }
       ]
     },

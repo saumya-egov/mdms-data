@@ -381,6 +381,16 @@
     },
     {
       "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction Fee Adjustment Amount",
+      "code": "BPA_SANC_ADJUSTMENT_AMOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
       "service": "BPA.NC_OC_APP_FEE",
       "name": "BPA OC Application Fee",
       "code": "BPA_OC_APPL_FEES",
@@ -687,6 +697,16 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": "17",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water arrear adjustment ",
+      "code": "WS_ARREAR_ADJUSTMENT",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "18",
       "isRequired": false
     },
     {
@@ -1315,6 +1335,26 @@
       "isDebit": true,
       "isActualDemand": false,
       "order": 0
+    },
+    {
+      "category": "FEE",
+      "service": "WS",
+      "name": "Water Labour Fee",
+      "code": "WS_LABOUR_FEE_INSTALLMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS",
+      "name": "Water Application Scrutiny Fee",
+      "code": "WS_SCRUTINY_FEE_INSTALLMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
     }
   ]
 }

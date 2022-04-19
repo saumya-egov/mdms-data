@@ -69,7 +69,15 @@
 	{
       "code": "APPL.LANDPOSSAFFI.LANDPOSSAFFI",
       "active": true
-    },	
+    },
+    {
+      "code": "APPL.OTHERDOCUMENT",
+      "active": true
+    },
+    {
+      "code": "APPL.TEMPSTRUCTUREPHOTO",
+      "active": true
+    },
     {
       "code": "BPD.BPL.BPL",
       "active": true
@@ -129,6 +137,48 @@
     {
       "code": "NOC.FIRE.CERTIFICATE",
       "active": true
+    },
+    {
+      "code": "NOC.FIRE.PlainApplication",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.ApplicantSignature",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.ApplicantPhoto",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.OwnershipDoc",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.IdentityProofDoc",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.BuildingPlan",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
     },
     {
       "code": "NOC.AGRICULTURE.LANDUSE",

@@ -9,26 +9,6 @@
         {
           "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
           "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FOURTH_LINE",
-          "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIFTH_LINE",
-          "order": "5."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SIXTH_LINE",
-          "order": "6."
         }
       ],
       "billFooterContent": [

@@ -4659,6 +4659,23 @@
     "active" : true,
     "type" : "TL",
     "validityPeriod" : null
-  }
+  },
+   {
+  "code" : "MEDICALESTABLISHMENTS.TST12",
+  "name" : "MEDICALESTABLISHMENTS.TST12",
+  "uom" : null,
+  "uomDescription" : null,
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}
   ]
 }

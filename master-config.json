@@ -431,6 +431,13 @@
       "uniqueKeys": [
         "$.question"
       ]
+    },
+    "RetentionFees": {
+      "masterName": "RetentionFees",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "inventory": {
@@ -684,9 +691,11 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
-        "$.fromFY"
+        "$.fromFY",
+        "$.startingDay",
+        "$.endingDay"
       ]
     },
     "Penalty": {
@@ -1080,6 +1089,11 @@
     },
     "MeterReading": {
       "masterName": "MeterReading",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "Installment": {
+      "masterName": "Installment",
       "isStateLevel": true,
       "uniqueKeys": []
     }
