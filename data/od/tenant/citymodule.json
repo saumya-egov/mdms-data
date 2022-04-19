@@ -3235,6 +3235,23 @@
       ]
     },
     {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        }
+      ]
+    },
+    {
       "module": "WNS",
       "code": "WNS",
       "tenants": [
