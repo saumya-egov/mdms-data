@@ -22398,6 +22398,24 @@
       "actionid": 2042,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
