@@ -12322,6 +12322,48 @@
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3208,
+         "name": "Consumer Wise Demand History",
+         "url": "url",
+         "displayName": "Consumer Wise Demand History",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.ConsumerWiseDemandHistory Report",
+         "navigationURL": "report/rainmaker-ws/ConsumerWiseDemandHistory",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3209,
+         "name": "Consumer Wise Demand History",
+         "url": "/report/rainmaker-ws/ConsumerWiseDemandHistory/metadata/_get",
+         "displayName": "Consumer Wise Demand History",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "ConsumerWiseDemandHistory"
+      },
+      {
+         "id": 3210,
+         "name": "Consumer Wise Demand History",
+         "url": "/report/rainmaker-ws/ConsumerWiseDemandHistory/_get",
+         "displayName": "Consumer Wise Demand History",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "ConsumerWiseDemandHistory"
       }
    ]
 }
