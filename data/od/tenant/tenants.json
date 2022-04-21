@@ -959,7 +959,45 @@
       "contactNumber": "1800 121 6833",
       "helpLineNumber": "1800 121 6833"
     },
-  
+  {
+      "code": "od.testing",
+      "name": "testing",
+      "description": "testing",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "imageId": null,
+      "domainUrl": "https://sujog.odisha.gov.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "helpdesk.sujog@odisha.gov.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "pincode":[
+        143001,143002,143003,143004,143005
+      ],
+      "city": {
+        "name": "testing",
+        "localName": null,
+        "districtCode": "testing",
+        "districtName": "testing",
+        "regionName": "testing",
+        "ulbGrade": "Municipality",
+        "longitude": 0,
+        "latitude": 0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "TST",
+        "ddrName":"testing",
+        "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
+        "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Testing",
+        "districtTenantCode": "od.testing"
+      },
+      "address": "Testing Municipality",
+      "contactNumber": "1800 121 6833",
+      "helpLineNumber": "1800 121 6833"
+    },
     {
       "code": "od.balasore",
       "name": "Balasore",
