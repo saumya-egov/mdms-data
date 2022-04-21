@@ -3252,6 +3252,23 @@
       ]
     },
     {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+       {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        }
+      ]
+    },
+    {
       "module": "WNS",
       "code": "WNS",
       "tenants": [
