@@ -12364,6 +12364,17 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "ConsumerWiseDemandHistory"
+      },
+      {
+         "id": 3211,
+         "name": "BPA-MergeScrutinyReportToPermit",
+         "url": "/bpa-services/v1/bpa/_mergeScrutinyReportToPermit",
+         "displayName": "Apply",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
       }
    ]
 }

@@ -22440,6 +22440,24 @@
       "actionid": 3210,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3211,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ARCHITECT",
+      "actionid": 3211,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3211,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
