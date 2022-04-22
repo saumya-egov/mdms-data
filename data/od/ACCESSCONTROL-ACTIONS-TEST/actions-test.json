@@ -12375,6 +12375,90 @@
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+         "id": 3212,
+         "name": "Architect & Technical Person Details Report",
+         "url": "url",
+         "displayName": "Architect & Technical Person Details Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Building Plan Approval.BPA Reports.Architect & Technical Person Details Report",
+         "navigationURL": "report/rainmaker-bpa/Architect&TechnicalPersonDetailsReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3213,
+         "name": "Architect & Technical Person Details Report",
+         "url": "/report/rainmaker-bpa/Architect&TechnicalPersonDetailsReport/metadata/_get",
+         "displayName": "Architect & Technical Person Details Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "BPAREPORTS",
+         "code": "null",
+         "path": "Architect & Technical Person Details Report"
+      },
+      {
+         "id": 3214,
+         "name": "Architect & Technical Person Details Report",
+         "url": "/report/rainmaker-bpa/Architect&TechnicalPersonDetailsReport/_get",
+         "displayName": "Architect & Technical Person Details Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "BPAREPORTS",
+         "code": "null",
+         "path": "Architect & Technical Person Details Report"
+     },
+     {
+         "id": 3215,
+         "name": "BPA High Level Summary Report",
+         "url": "url",
+         "displayName": "BPA High Level Summary Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Building Plan Approval.BPA Reports.BPA High Level Summary Report",
+         "navigationURL": "report/rainmaker-bpa/BPAHighLevelSummaryReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+     },
+     {
+         "id": 3216,
+         "name": "BPA High Level Summary Report",
+         "url": "/report/rainmaker-bpa/BPAHighLevelSummaryReport/metadata/_get",
+         "displayName": "BPA High Level Summary Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "BPAREPORTS",
+         "code": "null",
+         "path": "BPA High Level Summary Report"
+      },
+      {
+         "id": 3217,
+         "name": "BPA High Level Summary Report",
+         "url": "/report/rainmaker-bpa/BPAHighLevelSummaryReport/_get",
+         "displayName": "BPA High Level Summary Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "BPAREPORTS",
+         "code": "null",
+         "path": "BPA High Level Summary Report"
+     }
    ]
 }

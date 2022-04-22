@@ -22458,6 +22458,60 @@
       "actionid": 3211,
       "actioncode": "",
       "tenantId": "od"
+    },
+	{
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3054,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3055,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+	{
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3056,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3212,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3213,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3214,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3215,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3216,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3217,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
