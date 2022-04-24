@@ -856,6 +856,11 @@
       "code": "WS_BILL_GENERATOR",
       "name": "WS_BILL_GENERATOR",
       "description": "Water service monthly bill generator"
+    },
+    {
+      "code":"BPA_REPORT_VIEWER",
+      "name":"BPA Report Viewer",
+      "description":"BPA Report Viewer"
     }
   ]
 }
