@@ -22512,6 +22512,42 @@
       "actionid": 3217,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3218,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3219,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3220,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3221,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3222,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3223,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
