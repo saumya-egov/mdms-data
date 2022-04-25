@@ -1791,6 +1791,34 @@
           ]
         }
       ]
+    },
+	{
+      "key": "Architect&TechnicalPersonDetailsReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "BPA_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/emailid"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
