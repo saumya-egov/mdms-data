@@ -12543,6 +12543,48 @@
          "serviceCode": "BPAREPORTS",
          "code": "null",
          "path": "BPA Application Details Report"
+     },
+     {
+         "id": 3224,
+         "name": "Month Wise Pending Bill Generation Report",
+         "url": "url",
+         "displayName": "Month Wise Pending Bill Generation Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Water & Sewerage.W&S Reports.Month Wise Pending Bill Generation Report",
+         "navigationURL": "report/rainmaker-ws/MonthWisePendingBillGeneration",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+     },
+     {
+         "id": 3225,
+         "name": "Month Wise Pending Bill Generation Report",
+         "url": "/report/rainmaker-ws/MonthWisePendingBillGeneration/metadata/_get",
+         "displayName": "Month Wise Pending Bill Generation Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "MonthWisePendingBillGeneration"
+     },
+     {
+         "id": 3226,
+         "name": "Month Wise Pending Bill Generation Report",
+         "url": "/report/rainmaker-ws/MonthWisePendingBillGeneration/_get",
+         "displayName": "Month Wise Pending Bill Generation Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "MonthWisePendingBillGeneration"
      }
    ]
 }
