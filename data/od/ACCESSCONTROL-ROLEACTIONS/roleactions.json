@@ -22340,6 +22340,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 3205,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ARCHITECT",
+      "actionid": 3205,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "BPA1_APPROVER",
       "actionid": 2042,
       "actioncode": "",
