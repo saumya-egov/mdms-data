@@ -22400,8 +22400,21 @@
       "tenantId": "od"
     },
     {
+
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    { 
       "rolecode": "WS_CEMP",
       "actionid": 3206,
+      "actioncode": "",
+      "tenantId": "od"
+    },    
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 2071,
       "actioncode": "",
       "tenantId": "od"
     },
@@ -22410,13 +22423,19 @@
       "actionid": 3206,
       "actioncode": "",
       "tenantId": "od"
+    },    
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 2071,
+      "actioncode": "",
+      "tenantId": "od"
     },
     {
       "rolecode": "WS_CEMP",
       "actionid": 3207,
       "actioncode": "",
       "tenantId": "od"
-    },
+    },    
     {
       "rolecode": "CITIZEN",
       "actionid": 3207,

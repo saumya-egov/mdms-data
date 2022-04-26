@@ -1193,6 +1193,13 @@
         "$.code"
       ]
       },
+      "PaymentType": {
+        "masterName": "PaymentType",
+        "isStateLevel": true,
+        "uniqueKeys": [
+          "$.code"
+        ]
+      },
     "CheckList": {
       "masterName": "CheckList",
       "isStateLevel": true,
@@ -1255,6 +1262,20 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "ApplicationType": {
+      "masterName": "ApplicationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "PeriodicService": {
+      "masterName": "PeriodicService",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "Vehicle":{
@@ -1271,6 +1292,30 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "VehicleOwner": {
+      "masterName": "VehicleOwner",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+  },
+    "Vendor": {
+    "AgencyType": {
+      "masterName": "AgencyType",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "PaymentPreference": {
+      "masterName": "PaymentPreference",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   }
+  }
+
 }
