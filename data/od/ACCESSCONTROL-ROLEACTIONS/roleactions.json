@@ -19224,6 +19224,24 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "TL_CEMP",
+      "actionid": 2096,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2097,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2098,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "EGF_REPORT_VIEW",
       "actionid": 2099,
       "actioncode": "",
