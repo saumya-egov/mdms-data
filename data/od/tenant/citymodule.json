@@ -3234,57 +3234,6 @@
         }
       ]
     },
-     {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order":6,
-      "tenants": [
-         {
-          "code": "od.dhenkanal"
-        },
-        {
-          "code": "od.balasore"
-        },
-        {
-          "code": "od.berhampur"
-        }
-      ]
-    },
-    {
-      "module": "Payment",
-      "code": "Payment",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "od.dhenkanal"
-        },
-        {
-          "code": "od.balasore"
-        },
-        {
-          "code": "od.berhampur"
-        }
-      ]
-    },
-    {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order":6,
-      "tenants": [
-       {
-          "code": "od.dhenkanal"
-        },
-        {
-          "code": "od.balasore"
-        },
-        {
-          "code": "od.berhampur"
-        }
-      ]
-    },
     {
       "module": "WNS",
       "code": "WNS",
@@ -3633,6 +3582,57 @@
         },
         {
           "code": "od.testing"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+         {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+       {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
         }
       ]
     }
