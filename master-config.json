@@ -1096,6 +1096,11 @@
       "masterName": "Installment",
       "isStateLevel": true,
       "uniqueKeys": []
+    },
+    "AnnualAdvance": {
+      "masterName": "AnnualAdvance",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "sw-services-calculation": {
