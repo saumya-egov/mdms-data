@@ -22597,6 +22597,24 @@
       "actionid": 3226,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "COMMON_REPORT_VIEWER",     
+      "actionid": 3227,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "COMMON_REPORT_VIEWER",
+      "actionid": 3228,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "COMMON_REPORT_VIEWER",
+      "actionid": 3229,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
