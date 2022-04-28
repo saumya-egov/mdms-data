@@ -12585,6 +12585,48 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "MonthWisePendingBillGeneration"
+     },
+     {
+         "id": 3227,
+         "name": "Transaction Status Report",
+         "url": "url",
+         "displayName": "Transaction Status Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Common Reports.Transaction Status Report",
+         "navigationURL": "report/rainmaker-common/TransactionStatusReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+     },
+     {
+         "id": 3228,
+         "name": "Transaction Status Report",
+         "url": "/report/rainmaker-common/TransactionStatusReport/metadata/_get",
+         "displayName": "Transaction Status Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "TransactionStatusReport"
+     },
+     {
+         "id": 3229,
+         "name": "Transaction Status Report",
+         "url": "/report/rainmaker-common/TransactionStatusReport/_get",
+         "displayName": "Transaction Status Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "WNSREPORTS",
+         "code": "null",
+         "path": "TransactionStatusReport"
      }
    ]
 }
