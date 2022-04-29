@@ -7,36 +7,14 @@
       "serviceType": "NEW_CONSTRUCTION",
       "riskType": "ALL",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
-      "nocTypes": [
-        {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        },
-        {
-          "type": "FIRE_NOC",
-          "required": true,
-          "documentType": "NOC.FIRE"
-        }
-      ]
+      "nocTypes": []
     },
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "serviceType": "NEW_CONSTRUCTION",
       "riskType": "LOW",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
-      "nocTypes": [
-        {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        },
-        {
-          "type": "FIRE_NOC",
-          "required": true,
-          "documentType": "NOC.FIRE"
-        }
-      ]
+      "nocTypes": []
     },
     {
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
