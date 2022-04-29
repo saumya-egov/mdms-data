@@ -3620,6 +3620,23 @@
       ]
     },
     {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        }
+      ]
+    },
+    {
       "module": "DSS",
       "code": "DSS",
       "active": true,
