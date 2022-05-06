@@ -783,6 +783,12 @@
           "required": false,
           "allow": true,
           "order": 243
+        },
+        {
+          "code": "APPL.ROADWIDENINGCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 244
         }
       ],
       "DocTypes1": [
@@ -1075,6 +1081,12 @@
           "required": false,
           "allow": true,
           "order": 253
+        },
+        {
+          "code": "APPL.ROADWIDENINGCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 254
         }
       ],
       "DocTypes1": [
@@ -1367,6 +1379,12 @@
           "required": false,
           "allow": true,
           "order": 263
+        },
+        {
+          "code": "APPL.ROADWIDENINGCERTIFICATE",
+          "required": false,
+          "allow": true,
+          "order": 264
         }
       ]
     },
