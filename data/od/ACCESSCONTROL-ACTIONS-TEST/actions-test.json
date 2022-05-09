@@ -12627,6 +12627,48 @@
          "serviceCode": "WNSREPORTS",
          "code": "null",
          "path": "TransactionStatusReport"
+     },
+     {
+         "id": 3230,
+         "name": "Payment Detail Report",
+         "url": "url",
+         "displayName": "Payment Detail Report",
+         "orderNumber": 7,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Building Plan Approval.BPA Reports.Payment Detail Report",
+         "navigationURL": "report/rainmaker-bpa/PaymentDetailReport",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+     },
+     {
+         "id": 3231,
+         "name": "Payment Detail Report",
+         "url": "/report/rainmaker-bpa/PaymentDetailReport/metadata/_get",
+         "displayName": "Payment Detail Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "BPAREPORTS",
+         "code": "null",
+         "path": "Payment Detail Report"
+      },
+      {
+         "id": 3232,
+         "name": "Payment Detail Report",
+         "url": "/report/rainmaker-bpa/PaymentDetailReport/_get",
+         "displayName": "Payment Detail Report",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "BPAREPORTS",
+         "code": "null",
+         "path": "Payment Detail Report"
      }
    ]
 }
