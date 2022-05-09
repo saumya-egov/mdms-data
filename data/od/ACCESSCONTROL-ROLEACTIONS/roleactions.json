@@ -22633,6 +22633,24 @@
       "actionid": 3229,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3230,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3231,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_REPORT_VIEWER",
+      "actionid": 3232,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
