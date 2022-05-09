@@ -22651,6 +22651,66 @@
       "actionid": 3232,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_CREATOR_EMP",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_EDITOR_EMP",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_VIEW_EMP",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_REPORT_VIEWER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_DASHBOARD_VIEWER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_ADMIN",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_DRIVER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_EMP_FSTPO",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "FSM_COLLECTOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
